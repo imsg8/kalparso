@@ -1,0 +1,7 @@
+The KalParso data (data/v1, data/v2, data/v3, data/test_synth_300.jsonl and data/human) is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Copyright 2026 Shivang Gulati and Archana Praveen Kumar.
+
+Third-party corpora used in training and evaluation (PHINC, NTX, the Kaggle Hinglish sets) are NOT included; see
+scripts/fetch_external.md for where to get them under their own licences.

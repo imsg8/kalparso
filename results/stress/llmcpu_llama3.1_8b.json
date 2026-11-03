@@ -1,0 +1,42 @@
+{
+ "system": "ollama",
+ "arg": "llama3.1:8b",
+ "threads": 1,
+ "mode": "few2",
+ "host_cpus": 8,
+ "started": "2026-10-31T05:50:05",
+ "idle_cores": 0.197,
+ "idle_watts": 2.3,
+ "cool": {
+  "limit_c": 85.0,
+  "pauses": 3,
+  "paused_s": 75.01056838035583,
+  "max_c": 88.0
+ },
+ "load_s": 42.32,
+ "model_file_mb": null,
+ "single": {
+  "n": 20,
+  "median_ms": 8544.827547500063,
+  "p95_ms": 9547.028768000018,
+  "p99_ms": 9547.028768000018,
+  "mean_ms": 8532.130993500004,
+  "max_ms": 9547.028768000018,
+  "cpu_s_per_entry": 69.34549999999999,
+  "joules_per_entry": 365.9953398999998,
+  "watts": 29.793026004475877,
+  "joules_above_idle_per_entry": 337.7407650997249
+ },
+ "peak_rss_mb": 5110.8,
+ "conc": {},
+ "spike": {
+  "n": 2,
+  "wall_ms": 8458.98003100001,
+  "cpu_s": 67.07500000000005,
+  "joules_above_idle": 317.5166636971487,
+  "peak_cores": 9.315487018539251,
+  "above_1core_ms": 4430.0,
+  "above_half_machine_ms": 4430.0,
+  "note": "10 ms sampling; spikes shorter than one sample show as 0-10 ms"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "system": "ollama",
+ "arg": "gpt-oss:20b",
+ "threads": 1,
+ "mode": "few2",
+ "host_cpus": 8,
+ "started": "2026-10-31T15:03:09",
+ "idle_cores": 0.135,
+ "idle_watts": 2.16,
+ "cool": {
+  "limit_c": 75.0,
+  "pauses": 8,
+  "paused_s": 1095.1377601623535,
+  "max_c": 79.0
+ },
+ "load_s": 51.82,
+ "model_file_mb": null,
+ "single": {
+  "n": 10,
+  "median_ms": 18008.26623250032,
+  "p95_ms": 41338.76039899769,
+  "p99_ms": 41338.76039899769,
+  "mean_ms": 21523.545988701517,
+  "max_ms": 41338.76039899769,
+  "cpu_s_per_entry": 223.17899999999995,
+  "joules_per_entry": null,
+  "watts": null,
+  "joules_above_idle_per_entry": null
+ },
+ "peak_rss_mb": 13480.5,
+ "conc": {},
+ "spike": {
+  "n": 2,
+  "wall_ms": 16000.76820549657,
+  "cpu_s": 125.83499999999981,
+  "joules_above_idle": 624.0925001280025,
+  "peak_cores": 9.701293228121717,
+  "above_1core_ms": 8315.0,
+  "above_half_machine_ms": 8285.0,
+  "note": "10 ms sampling; spikes shorter than one sample show as 0-10 ms"
+ }
+}

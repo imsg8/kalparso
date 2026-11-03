@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use KalParso, please cite it as below."
+title: "KalParso: Millisecond Temporal Grounding of Informal Hindi-English Planner Entries on a Commodity CPU"
+authors:
+  - family-names: Gulati
+    given-names: Shivang
+    affiliation: "Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal 576104, India"
+  - family-names: Kumar
+    given-names: Archana Praveen
+    affiliation: "Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal 576104, India"
+license: Apache-2.0
+version: "1.0.0"
+type: software

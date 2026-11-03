@@ -1,0 +1,5 @@
+# Runtime, scoring and figures (Python 3.11)
+numpy==2.4.6
+onnxruntime==1.31.1
+tokenizers==0.23.3
+matplotlib==3.11.2

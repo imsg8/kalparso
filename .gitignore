@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+data/external/
+data/v3/phinc_dir.jsonl
+results/**/weights/
+*.pt
+*.pkl
+*.onnx
+*.gguf
+RELEASE_REVIEW.md

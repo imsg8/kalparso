@@ -1,0 +1,42 @@
+{
+ "system": "ollama",
+ "arg": "qwen3.5:4b",
+ "threads": 1,
+ "mode": "few2",
+ "host_cpus": 8,
+ "started": "2026-10-31T05:36:46",
+ "idle_cores": 0.149,
+ "idle_watts": 6.35,
+ "cool": {
+  "limit_c": 85.0,
+  "pauses": 0,
+  "paused_s": 0.0,
+  "max_c": 82.0
+ },
+ "load_s": 23.95,
+ "model_file_mb": null,
+ "single": {
+  "n": 30,
+  "median_ms": 18926.174248999814,
+  "p95_ms": 20049.43123400062,
+  "p99_ms": 20339.096916000017,
+  "mean_ms": 18357.980819799952,
+  "max_ms": 20339.096916000017,
+  "cpu_s_per_entry": 144.60066666666665,
+  "joules_per_entry": 643.9711928333335,
+  "watts": 35.07539292658917,
+  "joules_above_idle_per_entry": 527.3875501910353
+ },
+ "peak_rss_mb": 3734.1,
+ "conc": {},
+ "spike": {
+  "n": 2,
+  "wall_ms": 17954.46403349979,
+  "cpu_s": 141.79500000000007,
+  "joules_above_idle": 555.322161373455,
+  "peak_cores": 9.814026731039869,
+  "above_1core_ms": 8705.0,
+  "above_half_machine_ms": 8695.0,
+  "note": "10 ms sampling; spikes shorter than one sample show as 0-10 ms"
+ }
+}

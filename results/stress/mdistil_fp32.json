@@ -1,0 +1,93 @@
+{
+ "system": "onnx",
+ "arg": "results/routeA_mdistil_onnx:model.onnx",
+ "threads": 1,
+ "mode": "few2",
+ "host_cpus": 8,
+ "started": "2026-10-31T00:04:03",
+ "idle_cores": 1.482,
+ "idle_watts": 4.31,
+ "load_s": 2.47,
+ "model_file_mb": 514.1244554519653,
+ "single": {
+  "n": 300,
+  "median_ms": 17.798744500396424,
+  "p95_ms": 23.516989999734506,
+  "p99_ms": 26.928559000225505,
+  "mean_ms": 18.192271056662623,
+  "max_ms": 31.60078499968222,
+  "cpu_s_per_entry": 0.01813333333333333,
+  "joules_per_entry": 0.7874058233333441,
+  "watts": 43.25496507916823,
+  "joules_above_idle_per_entry": 0.708947336721338
+ },
+ "peak_rss_mb": 1005.8,
+ "conc": {
+  "1": {
+   "n": 400,
+   "throughput_per_s": 55.81977865613666,
+   "median_ms": 17.936255000222445,
+   "p95_ms": 23.68229999956384,
+   "p99_ms": 27.015850000680075,
+   "cores_used": 0.9963830490120396,
+   "joules_per_entry": 0.7714688200000092,
+   "joules_above_idle_per_entry": 0.6942560451778328
+  },
+  "2": {
+   "n": 400,
+   "throughput_per_s": 95.39570673010768,
+   "median_ms": 20.93037299982825,
+   "p95_ms": 27.066377999290125,
+   "p99_ms": 30.584451000322588,
+   "cores_used": 1.9961551633275025,
+   "joules_per_entry": 0.43910410249998677,
+   "joules_above_idle_per_entry": 0.393923872196816
+  },
+  "4": {
+   "n": 400,
+   "throughput_per_s": 149.77627842401515,
+   "median_ms": 26.24848049981665,
+   "p95_ms": 34.40254199995252,
+   "p99_ms": 39.132660000177566,
+   "cores_used": 3.9728157851970045,
+   "joules_per_entry": 0.29868392749998746,
+   "joules_above_idle_per_entry": 0.26990767504298335
+  },
+  "8": {
+   "n": 400,
+   "throughput_per_s": 223.3039224260026,
+   "median_ms": 33.97594650004976,
+   "p95_ms": 46.03114200017444,
+   "p99_ms": 50.697968999884324,
+   "cores_used": 7.71515051981839,
+   "joules_per_entry": 0.23558197750000545,
+   "joules_above_idle_per_entry": 0.21628092826998924
+  }
+ },
+ "sustain": {
+  "seconds": 120.0,
+  "n": 6975,
+  "throughput_per_s": 58.12284381880012,
+  "median_ms": 17.83480799986137,
+  "p99_ms": 27.01275499930489,
+  "windows_30s_median_ms": [
+   17.9,
+   17.77,
+   17.7,
+   17.91
+  ],
+  "cores_used": 0.999629583441328,
+  "watts": 35.934875075137136,
+  "first_vs_last_window": 1.001
+ },
+ "spike": {
+  "n": 30,
+  "wall_ms": 47.89310599971941,
+  "cpu_s": 0.04999999999998295,
+  "joules_above_idle": 0.12351906074102774,
+  "peak_cores": 0.991488679421973,
+  "above_1core_ms": 0.0,
+  "above_half_machine_ms": 0.0,
+  "note": "10 ms sampling; spikes shorter than one sample show as 0-10 ms"
+ }
+}

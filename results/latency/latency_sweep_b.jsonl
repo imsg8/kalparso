@@ -1,0 +1,2 @@
+{"mode": "ollama", "model": "htp-qwen06-abs:f16", "n": 300, "cold_ms": 3149.8, "median_ms": 1052.21, "p95_ms": 1198.7, "mean_ms": 956.25}
+{"mode": "ollama", "model": "htp-qwen06-ir:f16", "n": 300, "cold_ms": 2379.1, "median_ms": 649.04, "p95_ms": 1171.97, "mean_ms": 695.77}
