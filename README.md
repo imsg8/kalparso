@@ -108,4 +108,4 @@ Data: [imsg8/kalparso](https://huggingface.co/datasets/imsg8/kalparso) (configs 
 
 ## Citation
 
-See `CITATION.cff`.
+Archived on Zenodo: [10.5281/zenodo.23910744](https://doi.org/10.5281/zenodo.23910744). See `CITATION.cff`.
