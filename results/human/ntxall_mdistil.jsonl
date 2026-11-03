@@ -1,469 +1,469 @@
-{"id": "ntx-0000", "type": "reminder", "date": "2016-12-03", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "03 जनवरी"]], "ms": 8.152417023666203}
-{"id": "ntx-0001", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "02 जनवरी"]], "ms": 7.8735839342698455}
-{"id": "ntx-0002", "type": "reminder", "date": "2016-12-01", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "01 जनवरी"]], "ms": 6.30016706418246}
-{"id": "ntx-0003", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "1990 के दशक"]], "ms": 7.458625012077391}
-{"id": "ntx-0004", "type": "reminder", "date": "2016-12-04", "time": "22:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "22"], ["DATE", "/04"]], "ms": 6.193166016601026}
-{"id": "ntx-0005", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["WD", "उनतीस"], ["DATE", "मई"]], "ms": 6.339207990095019}
-{"id": "ntx-0006", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "दो अगस्त"]], "ms": 6.7659999476745725}
-{"id": "ntx-0007", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["PART", "पस"], ["PART", "जा"], ["PART", "ंगा"]], "ms": 5.302333040162921}
-{"id": "ntx-0008", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["PART", "म"], ["DAY", "ैं"], ["DAY", "कल"], ["PART", "ंगा"]], "ms": 6.006374955177307}
-{"id": "ntx-0009", "type": "reminder", "date": "2016-11-11", "time": null, "direction": "future", "spans": [["WD", "मैं"], ["WD", "शुक्रवार"], ["WD", "ंगा"]], "ms": 5.995167070068419}
-{"id": "ntx-0010", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "अगले म"], ["TIME", "ही"], ["WD", "ने"], ["TIME", "4-23"], ["PART", "रहुंगा"]], "ms": 7.459833053871989}
-{"id": "ntx-0011", "type": "reminder", "date": "2016-11-07", "time": "12:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "3 और"], ["TIME", "12"], ["PART", "सित"], ["TIME", "ं"], ["PART", "रहुंगा"]], "ms": 7.96820898540318}
-{"id": "ntx-0012", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "सितंबर"], ["PART", "रहुंगा"]], "ms": 7.52108299639076}
-{"id": "ntx-0013", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "मैं"], ["TIME", "अ"], ["WD", "गले"], ["TIME", "3"], ["DUR", "दिन"]], "ms": 7.21412489656359}
-{"id": "ntx-0014", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "जुलाई के आख"], ["DAY", "िर"], ["TIME", "ी"], ["PART", "हफ्ते"], ["PART", "रहुंगा"]], "ms": 7.448915974237025}
-{"id": "ntx-0015", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "2015-3"], ["PART", "रहुंगा"]], "ms": 6.191457970999181}
-{"id": "ntx-0016", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "ग"], ["DAY", "र"], ["WD", "जाउ"], ["PART", "ंगा"]], "ms": 6.6789580741897225}
-{"id": "ntx-0017", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "कल"], ["PART", "रहुंगा"]], "ms": 5.669333040714264}
-{"id": "ntx-0018", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "अगस्त"], ["PART", "रहुंगा"]], "ms": 6.184374913573265}
-{"id": "ntx-0019", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "अगस्त"], ["PART", "रहुंगा"]], "ms": 5.894916015677154}
-{"id": "ntx-0020", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "अब"], ["PART", "ंगा"]], "ms": 5.268665961921215}
-{"id": "ntx-0021", "type": "reminder", "date": "2016-11-14", "time": "08:00", "direction": "future", "spans": [["PART", "मैं"], ["DATE", "14 अक्टूबर"], ["PART", "सुबह"], ["TIME", "8:00:31 बजे"]], "ms": 11.496042017824948}
-{"id": "ntx-0022", "type": "reminder", "date": "2016-11-08", "time": "08:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8:00 बजे"]], "ms": 9.38825006596744}
-{"id": "ntx-0023", "type": "reminder", "date": "2016-11-07", "time": "22:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["PART", "रात"], ["TIME", "10 बजे"], ["PART", "पस"], ["PART", "ंगा"]], "ms": 8.632875047624111}
-{"id": "ntx-0024", "type": "reminder", "date": "2016-11-07", "time": "08:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["PART", "सुबह"], ["TIME", "8 बजे"], ["PART", "पस"]], "ms": 9.019582998007536}
-{"id": "ntx-0025", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "मै"], ["DAY", "कल"]], "ms": 6.219250033609569}
-{"id": "ntx-0026", "type": "reminder", "date": "2016-11-13", "time": null, "direction": "future", "spans": [["WD", "मैं"], ["WD", "रविवार के अंत"]], "ms": 9.55029099714011}
-{"id": "ntx-0027", "type": "reminder", "date": "2016-11-13", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "इस रविवार के"], ["TIME", "अंत"]], "ms": 9.035958093591034}
-{"id": "ntx-0028", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["TIME", "पाँच से सात"], ["PART", "रहुंगा"]], "ms": 9.508458082564175}
-{"id": "ntx-0029", "type": "reminder", "date": "2016-11-22", "time": "17:00", "direction": "future", "spans": [["PART", "मैं"], ["DATE", "22 अप्रैल"], ["PART", "शाम"], ["TIME", "5 से 6 बजे तक"]], "ms": 10.252665961161256}
-{"id": "ntx-0030", "type": "reminder", "date": "2016-11-08", "time": "16:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "कल"], ["TIME", "3:00"], ["TIME", "4:00 बजे"]], "ms": 10.840499890036881}
-{"id": "ntx-0031", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["PART", "शाम"], ["PART", "ंगा"]], "ms": 7.592541980557144}
-{"id": "ntx-0032", "type": "reminder", "date": "2016-11-08", "time": "21:00", "direction": "future", "spans": [["DAY", "कल"], ["PART", "रात"], ["PART", "ंगा"]], "ms": 7.214917102828622}
-{"id": "ntx-0033", "type": "reminder", "date": "2016-11-14", "time": "13:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "अगले सोमवार"], ["PART", "दोपहर"]], "ms": 10.900457971729338}
-{"id": "ntx-0034", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["WD", "अगले घंटे"], ["PART", "वापस"], ["PART", "जा"], ["WD", "ऊंगा"]], "ms": 10.726707987487316}
-{"id": "ntx-0035", "type": "reminder", "date": "2016-11-08", "time": "09:00", "direction": "future", "spans": [["WD", "मैं"], ["WD", "मंगलवार"], ["PART", "सुबह"], ["PART", "वापस"], ["PART", "ौ"]], "ms": 10.23124996572733}
-{"id": "ntx-0036", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "3 घंटे"], ["PART", "रहुंगा"]], "ms": 10.927499970421195}
-{"id": "ntx-0037", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "3.5"], ["PART", "रहुंगा"]], "ms": 11.519958963617682}
-{"id": "ntx-0038", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "3 मिनट"], ["PART", "रहुंगा"]], "ms": 7.624375051818788}
-{"id": "ntx-0039", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "मैं"], ["TIME", "123.45"], ["WD", "ंगा"]], "ms": 7.046791957691312}
-{"id": "ntx-0040", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DUR", "पूरे दिन"], ["PART", "रहुंगा"]], "ms": 5.594208952970803}
-{"id": "ntx-0041", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["WD", "च"], ["PART", "ौ"], ["TIME", "बीस"], ["TIME", "घंटे"], ["PART", "रहुंगा"]], "ms": 8.278209017589688}
-{"id": "ntx-0042", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "पू"], ["TIME", "रे महीने"], ["PART", "रहुंगा"]], "ms": 7.122792070731521}
-{"id": "ntx-0043", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DUR", "एक घ"], ["TIME", "ंटे"], ["PART", "रहुंगा"]], "ms": 7.601624936796725}
-{"id": "ntx-0044", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "कुछ"], ["DUR", "घ"], ["TIME", "ंटों"], ["PART", "रहुंगा"]], "ms": 7.134958985261619}
-{"id": "ntx-0045", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "कुछ मिनटों"], ["PART", "रहुंगा"]], "ms": 6.381375016644597}
-{"id": "ntx-0046", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "दिनों"], ["PART", "रहुंगा"]], "ms": 5.099458037875593}
-{"id": "ntx-0047", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "हफ्त"], ["PART", "रहुंगा"]], "ms": 6.511499988846481}
-{"id": "ntx-0048", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "जाउंगा"]], "ms": 5.891042063012719}
-{"id": "ntx-0049", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["PART", "रोज"], ["PART", "जा"], ["WD", "ऊंगा"]], "ms": 6.260875030420721}
-{"id": "ntx-0050", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["PART", "जा"], ["WD", "उंगा"]], "ms": 6.34166703093797}
-{"id": "ntx-0051", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DUR", "दो दिन"], ["PART", "जाउंगा"]], "ms": 6.965708103962243}
-{"id": "ntx-0052", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "हर"], ["DUR", "तीन"], ["TIME", "ह"], ["PART", "फ्ते"], ["PART", "जाउंगा"]], "ms": 11.507833027280867}
-{"id": "ntx-0053", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "दोपहर"], ["TIME", "3 बजे"], ["PART", "न"], ["DAY", "िकल"], ["TIME", "ूंगा"]], "ms": 9.36054193880409}
-{"id": "ntx-0054", "type": "reminder", "date": "2016-11-14", "time": null, "direction": "future", "spans": [["PART", "मैं"], ["WD", "हर सोमवार"], ["PART", "रहुंगा"]], "ms": 8.103084051981568}
-{"id": "ntx-0055", "type": "reminder", "date": "2016-11-14", "time": "16:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "हर सोमवार"], ["PART", "शाम"], ["TIME", "4 बजे"], ["PART", "न"], ["DAY", "िकल"], ["TIME", "ूंगा"]], "ms": 9.118833928368986}
-{"id": "ntx-0056", "type": "reminder", "date": "2016-11-07", "time": "19:56", "direction": "future", "spans": [["PART", "मैं"], ["PART", "शाम"], ["TIME", "7:56:30 बजे"], ["PART", "आ"], ["TIME", "ऊंगा"]], "ms": 8.545750053599477}
-{"id": "ntx-0057", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "स"], ["WD", "ाढ़े"], ["TIME", "सात बजे"]], "ms": 7.030499982647598}
-{"id": "ntx-0058", "type": "reminder", "date": "2016-11-07", "time": "20:00", "direction": "future", "spans": [["PART", "शाम"], ["TIME", "आठ बजकर"], ["TIME", "20 मिनट"]], "ms": 8.113457937724888}
-{"id": "ntx-0059", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "7 बजे"]], "ms": 8.702500024810433}
-{"id": "ntx-0060", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "दोपहर"], ["TIME", "में"], ["TIME", "7 बजे"]], "ms": 10.320333065465093}
-{"id": "ntx-0061", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "लगभग लंच के"], ["DUR", "समय"], ["PART", "आ"], ["TIME", "ंगा"]], "ms": 8.540374925360084}
-{"id": "ntx-0062", "type": "reminder", "date": "2016-11-07", "time": "11:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "11"], ["DUR", "के"], ["DAY", "आसपास"]], "ms": 8.153916918672621}
-{"id": "ntx-0063", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "1140 बजे"]], "ms": 8.523625088855624}
-{"id": "ntx-0064", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["PART", "दोपहर"], ["TIME", "बारह बजे"]], "ms": 6.328458082862198}
-{"id": "ntx-0065", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["PART", "मैं"], ["PART", "शाम"], ["TIME", "5"], ["TIME", "6 बजे"], ["PART", "रह"], ["DAY", "ू"], ["TIME", "ंगा"]], "ms": 9.768958087079227}
-{"id": "ntx-0066", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "5 से"], ["TIME", "7 बजे"], ["PART", "रहुंगा"]], "ms": 7.596125011332333}
-{"id": "ntx-0067", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "दोपहर"], ["TIME", "5 से 6"], ["PART", "हुंगा"]], "ms": 7.742749992758036}
-{"id": "ntx-0068", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "4:00"], ["TIME", "7 बजे तक"]], "ms": 9.067083010450006}
-{"id": "ntx-0069", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "3 बजे"], ["PART", "शाम"], ["TIME", "5 बजे तक"]], "ms": 8.593333070166409}
-{"id": "ntx-0070", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "शाम"], ["TIME", "4"], ["DUR", "और 5"], ["PART", "रहुंगा"]], "ms": 6.838625064119697}
-{"id": "ntx-0071", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "चलो"], ["PART", "सुबह"]], "ms": 7.5107080629095435}
-{"id": "ntx-0072", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "चलि"], ["PART", "शाम"]], "ms": 6.446458981372416}
-{"id": "ntx-0073", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "अब"], ["PART", "ंगा"]], "ms": 6.580249988473952}
-{"id": "ntx-0074", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "5 मिनट में"]], "ms": 7.8916659113019705}
-{"id": "ntx-0075", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "5"], ["TIME", "मिनटों"]], "ms": 5.188500043004751}
-{"id": "ntx-0076", "type": "reminder", "date": "2016-11-14", "time": "13:00", "direction": "future", "spans": [["WD", "अगले ह"], ["PART", "फ"], ["WD", "्ते सोमवार"], ["PART", "सुबह"], ["TIME", "9 बजे"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["TIME", "रे"]], "ms": 14.724584063515067}
-{"id": "ntx-0077", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "अगले ह"], ["PART", "फ"], ["WD", "्ते"], ["PART", "सोम"], ["PART", "म"], ["TIME", "ंग"], ["DAY", "ल"]], "ms": 11.39329094439745}
-{"id": "ntx-0078", "type": "reminder", "date": "2016-11-07", "time": "10:00", "direction": "future", "spans": [["PART", "सुबह"], ["TIME", "9 बजे"], ["TIME", "10 बजे मेरे"], ["TIME", "बै"], ["WD", "ठ"]], "ms": 10.910165961831808}
-{"id": "ntx-0079", "type": "reminder", "date": "2016-11-14", "time": "17:00", "direction": "future", "spans": [["WD", "अगले सोमवार"], ["PART", "अ"], ["WD", "पर"], ["PART", "ाह"], ["WD", "न"], ["TIME", "1-3 बजे"], ["PART", "शाम"], ["TIME", "5-6 बजे"], ["TIME", "री बै"], ["WD", "ठ"], ["PART", "श"]], "ms": 13.960166950710118}
-{"id": "ntx-0080", "type": "reminder", "date": "2016-11-14", "time": "09:00", "direction": "future", "spans": [["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "8-9 बजे"], ["PART", "सुबह"], ["TIME", "9-10 बजे"]], "ms": 16.23020798433572}
-{"id": "ntx-0081", "type": "reminder", "date": "2016-11-10", "time": null, "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "तुम"], ["WD", "अगले स"], ["PART", "प्ताह"], ["WD", "मंगलवार"], ["WD", "गुरुवार"], ["PART", "्काय"]], "ms": 12.39858299959451}
-{"id": "ntx-0082", "type": "reminder", "date": "2016-11-10", "time": "13:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "तुम"], ["WD", "अगले"], ["PART", "सप्ताह"], ["WD", "मंगलवार"], ["PART", "सुबह"], ["TIME", "9 बजे"], ["WD", "गुरुवार"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["PART", "्काय"]], "ms": 16.41524990554899}
-{"id": "ntx-0083", "type": "note", "date": "2016-10-11", "time": null, "direction": "past", "spans": [["DATE", "10/1"], ["DATE", "11/2/2017"]], "ms": 5.608000094071031}
-{"id": "ntx-0086", "type": "reminder", "date": "2016-11-09", "time": null, "direction": "future", "spans": [["PART", "ंच"], ["DAY", "मेरे"], ["WD", "कैलेंडर"], ["WD", "मंगलवार"], ["DATE", "9 मई"]], "ms": 11.836208053864539}
-{"id": "ntx-0087", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मई"]], "ms": 4.135124967433512}
-{"id": "ntx-0088", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["TIME", "हाल"], ["WD", "के"], ["TIME", "x"], ["DATE", "7 मार्च"], ["WD", "मंगलवार"], ["TIME", "1 घंटे"], ["DAY", "को"], ["WD", "र्टाना"], ["WD", "विशाल"], ["PART", "ृप"]], "ms": 21.74541598651558}
-{"id": "ntx-0089", "type": "note", "date": "2016-11-10", "time": null, "direction": "future", "spans": [["DATE", "10 अप्रैल"], ["PART", "सप्ताह"]], "ms": 18.853125046007335}
-{"id": "ntx-0095", "type": "note", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "आज"], ["PART", "ुझा"], ["TIME", "म"], ["PART", "ुझ"]], "ms": 12.16100004967302}
-{"id": "ntx-0099", "type": "reminder", "date": "2016-11-07", "time": "10:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "9 महीने के भीतर"], ["PART", "सारा"], ["PART", "सामान"], ["PART", "संभा"], ["DAY", "ल"], ["WD", "अगले"], ["TIME", "10 महीनों के भीतर"]], "ms": 16.312916995957494}
-{"id": "ntx-0100", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "टॉम"], ["DAY", "मे"], ["WD", "री"], ["TIME", "2"], ["PART", "सप्ताह"], ["PART", "मुझ"], ["TIME", "2"], ["PART", "स"], ["TIME", "प्त"], ["PART", "ाह"]], "ms": 17.10970897693187}
-{"id": "ntx-0101", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["WD", "अगले पाँ"], ["TIME", "च"], ["DUR", "दिन"], ["TIME", "ों"], ["WD", "अगले चाली"], ["TIME", "स"], ["DUR", "दिन"], ["TIME", "ों"]], "ms": 9.559832978993654}
-{"id": "ntx-0102", "type": "reminder", "date": "2016-12-01", "time": "17:00", "direction": "future", "spans": [["WD", "म"], ["PART", "ैं"], ["DATE", "जुलाई 1"], ["TIME", "17 वीं"], ["DUR", "बार"]], "ms": 7.359042065218091}
-{"id": "ntx-0103", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "ृ"], ["WD", "अगल"], ["TIME", "े महीने"], ["TIME", "2 घंटे बुक"]], "ms": 8.956040954217315}
-{"id": "ntx-0104", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "ृ"], ["WD", "पिछले स"], ["PART", "प्ताह"], ["TIME", "2 घंटे"]], "ms": 10.350083000957966}
-{"id": "ntx-0105", "type": "reminder", "date": "2016-11-14", "time": "12:00", "direction": "future", "spans": [["WD", "कोर्टाना"], ["WD", "सोमवार"], ["TIME", "12-4 का"]], "ms": 10.608499986119568}
-{"id": "ntx-0106", "type": "reminder", "date": "2016-11-14", "time": "11:00", "direction": "future", "spans": [["WD", "कोर्टाना"], ["WD", "सोमवार"], ["TIME", "11-4 का"]], "ms": 10.456874966621399}
-{"id": "ntx-0107", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DUR", "दूसरे दिन"], ["WD", "ंगा"]], "ms": 5.88741700630635}
-{"id": "ntx-0108", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "हर"], ["PART", "हफ्ते"], ["PART", "हफ्त"], ["DUR", "एक और"]], "ms": 6.491207983344793}
-{"id": "ntx-0109", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DAY", "न"], ["PART", "ोट"], ["DAY", "्स"], ["WD", "प्रत्येक"], ["PART", "सप्ताह"], ["DAY", "संल"], ["WD", "ग्न"], ["DAY", "एल"], ["PART", "सत्र"], ["PART", "नोट"], ["DAY", "्स"], ["PART", "सप्ताह"]], "ms": 20.664500072598457}
-{"id": "ntx-0110", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "वहां"], ["DAY", "उस"], ["PART", "ी"], ["PART", "हफ्त"]], "ms": 7.5425420654937625}
-{"id": "ntx-0111", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["DUR", "उसी"], ["TIME", "महीने"]], "ms": 7.82987498678267}
-{"id": "ntx-0112", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["DUR", "उस वीकेंड"]], "ms": 9.249167051166296}
-{"id": "ntx-0113", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["DAY", "उस"], ["DUR", "ी"]], "ms": 7.964375079609454}
-{"id": "ntx-0114", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DUR", "उस दिन"], ["PART", "ब"], ["DAY", "हूँ"]], "ms": 9.13474999833852}
-{"id": "ntx-0115", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["TIME", "महीने"], ["DAY", "हूं"]], "ms": 9.890208020806313}
-{"id": "ntx-0116", "type": "reminder", "date": "2016-11-09", "time": "09:00", "direction": "future", "spans": [["WD", "मैं"], ["WD", "बुधवार"], ["PART", "सुबह"], ["PART", "जल"], ["TIME", "्दी बीजिंग"]], "ms": 16.224791994318366}
-{"id": "ntx-0117", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज"], ["PART", "दोपहर"], ["TIME", "बीज"], ["PART", "िंग"]], "ms": 11.946832993999124}
-{"id": "ntx-0118", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज बाद में"], ["TIME", "बी"], ["DAY", "जिंग"]], "ms": 7.194167003035545}
-{"id": "ntx-0119", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "अरे"], ["DAY", "क्ल"], ["PART", "ा"], ["WD", "उड"], ["WD", "पार्टनर"]], "ms": 14.270625077188015}
-{"id": "ntx-0120", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "अरे"], ["DAY", "हम"], ["DUR", "ें"], ["TIME", "महीने"]], "ms": 9.312542038969696}
-{"id": "ntx-0121", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "अरे"], ["DAY", "हम"], ["WD", "ें"], ["PART", "सप्ताह"]], "ms": 8.932459051720798}
-{"id": "ntx-0122", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "अरे"], ["DUR", "ें"]], "ms": 7.574291084893048}
-{"id": "ntx-0126", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "अप्रैल 2017"], ["PART", "ब"], ["TIME", "ोन"], ["DAY", "स"]], "ms": 7.871999987401068}
-{"id": "ntx-0127", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["DATE", "ैं"], ["DATE", "2017 अप्रैल"]], "ms": 7.120708003640175}
-{"id": "ntx-0128", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["PART", "अप"], ["WD", "्रेल"]], "ms": 9.664874989539385}
-{"id": "ntx-0129", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": [["PART", "पूर्व"], ["PART", "सप्ताह"]], "ms": 15.371291898190975}
-{"id": "ntx-0130", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "इस म"], ["WD", "हीने"], ["TIME", "मिल"]], "ms": 9.490625001490116}
-{"id": "ntx-0131", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "म"], ["TIME", "िल"]], "ms": 13.08608299586922}
-{"id": "ntx-0132", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "इस"], ["PART", "सप्ताह"], ["DUR", "अंत"]], "ms": 12.303457944653928}
-{"id": "ntx-0133", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "इस म"], ["WD", "हीने"], ["TIME", "के"], ["DUR", "अंत"]], "ms": 12.633709004148841}
-{"id": "ntx-0134", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "वर्ष के अंत"], ["TIME", "में"]], "ms": 11.959750088863075}
-{"id": "ntx-0135", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "ृ"], ["PART", "प"], ["DUR", "हमें वर्ष के अंत"], ["TIME", "में"]], "ms": 13.161083916202188}
-{"id": "ntx-0136", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "आज"], ["DUR", "के दो दिन"]], "ms": 10.246749967336655}
-{"id": "ntx-0137", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "क्या"], ["PART", "आप"], ["DAY", "कल"], ["DAY", "से"], ["DUR", "तीन"], ["PART", "सप्ताह"]], "ms": 7.032584049738944}
-{"id": "ntx-0138", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "कल"], ["DUR", "से दो दिन"]], "ms": 8.382166968658566}
-{"id": "ntx-0139", "type": "note", "date": "2016-10-31", "time": null, "direction": "past", "spans": [["DATE", "31 दिसंबर,"]], "ms": 12.422999949194491}
-{"id": "ntx-0140", "type": "reminder", "date": "2016-11-07", "time": "17:49", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "5/3/18"], ["TIME", "17:49:19"]], "ms": 9.773917030543089}
-{"id": "ntx-0141", "type": "reminder", "date": "2016-12-01", "time": "11:30", "direction": "future", "spans": [["DATE", "1/1/2015"], ["TIME", "10 से"], ["TIME", "11:30 बजे"]], "ms": 10.951541014946997}
-{"id": "ntx-0142", "type": "reminder", "date": "2016-12-01", "time": "11:30", "direction": "future", "spans": [["TIME", "10"], ["TIME", "11:30"], ["DATE", "1/1/2015"]], "ms": 9.4487079186365}
-{"id": "ntx-0143", "type": "note", "date": "2016-12-01", "time": "15:00", "direction": "future", "spans": [["DATE", "1/1/2015"], ["TIME", "10:30"], ["TIME", "3 बजे तक"]], "ms": 7.508290931582451}
-{"id": "ntx-0144", "type": "note", "date": "2016-12-01", "time": null, "direction": "future", "spans": [["DUR", "3 और"], ["DATE", "1/1/2015"]], "ms": 9.060292039066553}
-{"id": "ntx-0145", "type": "note", "date": "2016-12-01", "time": "17:55", "direction": "future", "spans": [["DATE", "1/1/2015"], ["TIME", "3:30"], ["TIME", "5:55"]], "ms": 8.671749965287745}
-{"id": "ntx-0146", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े"], ["TIME", "ओ"]], "ms": 10.297250002622604}
-{"id": "ntx-0147", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े"], ["DUR", "बाद"], ["TIME", "ब"], ["WD", "दिखाओ"], ["DAY", "बल"], ["WD", "्क"]], "ms": 15.857000020332634}
-{"id": "ntx-0148", "type": "note", "date": "2016-11-04", "time": "15:00", "direction": "past", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["WD", "इस"], ["WD", "शुक्रवार"], ["DATE", "जून"], ["TIME", "-15"]], "ms": 16.752416966482997}
-{"id": "ntx-0149", "type": "note", "date": "2016-10-15", "time": null, "direction": "past", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["WD", "इस"], ["WD", "शुक्रवार"], ["DATE", "जून"], ["TIME", "-"], ["DATE", "15"]], "ms": 14.513832982629538}
-{"id": "ntx-0151", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझे"], ["DUR", "4 दिन से अधिक"], ["TIME", "1"], ["PART", "सप्ताह"]], "ms": 12.126374989748001}
-{"id": "ntx-0152", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझे"], ["TIME", "1 घंटे और"], ["TIME", "30 मिनट से अधिक"]], "ms": 11.504124966450036}
-{"id": "ntx-0153", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "आज से"], ["TIME", "2 हफ्ते"]], "ms": 8.658458013087511}
-{"id": "ntx-0154", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "कल"], ["DUR", "से"], ["DUR", "2 दिन"]], "ms": 11.59050001297146}
-{"id": "ntx-0155", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["DAY", "कल"], ["DUR", "3 दिन से कम"]], "ms": 9.535583900287747}
-{"id": "ntx-0156", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "आज से"], ["TIME", "2"], ["PART", "सप्ताह"]], "ms": 7.208290975540876}
-{"id": "ntx-0157", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "चलो"], ["DAY", "अब से"], ["TIME", "3 मिनट"]], "ms": 9.029040927998722}
-{"id": "ntx-0158", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "आज से"], ["TIME", "3 मिनट"]], "ms": 7.516832905821502}
-{"id": "ntx-0159", "type": "reminder", "date": "2016-11-09", "time": "14:00", "direction": "future", "spans": [["DAY", "क्या"], ["PART", "मैं"], ["DATE", "09 मई"], ["TIME", "2 रातों"]], "ms": 8.515749941579998}
-{"id": "ntx-0160", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "15 वीं शताब्दी में"]], "ms": 6.364083965308964}
-{"id": "ntx-0161", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझे"], ["DUR", "21 वीं सदी"]], "ms": 8.464707992970943}
-{"id": "ntx-0162", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "श"], ["DAY", "ायद"], ["DAY", "2018"]], "ms": 7.198125007562339}
-{"id": "ntx-0163", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "श"], ["DAY", "ायद"], ["DAY", "फ"], ["DATE", "रवरी"]], "ms": 8.224874967709184}
-{"id": "ntx-0164", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "श"], ["DAY", "ायद"], ["PART", "फ"], ["WD", "़रवरी"]], "ms": 8.473749971017241}
-{"id": "ntx-0165", "type": "reminder", "date": "2016-12-01", "time": "14:00", "direction": "future", "spans": [["DATE", "1/1/2015"], ["TIME", "2:00"], ["DUR", "के"]], "ms": 9.87383397296071}
-{"id": "ntx-0166", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "आज"], ["PART", "शाम"], ["TIME", "4 बजे"]], "ms": 6.413041963241994}
-{"id": "ntx-0167", "type": "reminder", "date": "2016-11-16", "time": "10:00", "direction": "future", "spans": [["WD", "अगले बुधवार"], ["PART", "सुबह"], ["TIME", "10 बजे के बाद"]], "ms": 13.138874899595976}
-{"id": "ntx-0168", "type": "note", "date": "2016-11-01", "time": "14:00", "direction": "future", "spans": [["WD", "पिछले मंगलवार"], ["PART", "दोपहर"], ["TIME", "2 बजे तक"]], "ms": 19.44304199423641}
-{"id": "ntx-0169", "type": "reminder", "date": "2016-12-01", "time": "18:00", "direction": "future", "spans": [["DAY", "चलो"], ["DATE", "1 फरवरी"], ["TIME", "6:00"]], "ms": 10.739417048171163}
-{"id": "ntx-0170", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["WD", "अगले स"], ["PART", "प्ताह"], ["TIME", "2:00"]], "ms": 8.349250070750713}
-{"id": "ntx-0171", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2007"], ["WD", "िखाएं"]], "ms": 7.1037920424714684}
-{"id": "ntx-0172", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2007"], ["WD", "दिखाएं"]], "ms": 8.110916009172797}
-{"id": "ntx-0173", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "आज"], ["PART", "सुबह"], ["TIME", "9 बजे"]], "ms": 10.810457984916866}
-{"id": "ntx-0174", "type": "reminder", "date": "2016-11-07", "time": "21:00", "direction": "future", "spans": [["PART", "ृ"], ["DAY", "आज"], ["PART", "शाम"], ["TIME", "9 बजे"]], "ms": 10.320333996787667}
-{"id": "ntx-0175", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "वर्ष"], ["WD", "दिखाएं"]], "ms": 7.389584090560675}
-{"id": "ntx-0176", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "दिखाएं"]], "ms": 9.331916109658778}
-{"id": "ntx-0177", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "सप्ताह"]], "ms": 8.818540954962373}
-{"id": "ntx-0178", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "अगले के"], ["DUR", "बाद"], ["PART", "सप्ताह"]], "ms": 8.918249979615211}
-{"id": "ntx-0179", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "सप्ताह"], ["TIME", "31"]], "ms": 7.981167058460414}
-{"id": "ntx-0180", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["PART", "सप्ताह"], ["TIME", "1 में"], ["WD", "दिखाएं"]], "ms": 8.632334065623581}
-{"id": "ntx-0181", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["PART", "सप्ताह"], ["TIME", "1 में"], ["WD", "दिखाएं"]], "ms": 7.294084061868489}
-{"id": "ntx-0183", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "2 मिनट"]], "ms": 7.803875021636486}
-{"id": "ntx-0184", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "दो महीने"]], "ms": 6.977958953939378}
-{"id": "ntx-0185", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "दो"], ["PART", "सप्ताह"]], "ms": 7.431790931150317}
-{"id": "ntx-0186", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DUR", "दो साल में"], ["PART", "ंगा"]], "ms": 6.960541009902954}
-{"id": "ntx-0187", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["DAY", "आज से"], ["DUR", "दो दिन में"]], "ms": 8.462583995424211}
-{"id": "ntx-0188", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 6.97191699873656}
-{"id": "ntx-0189", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 6.643708096817136}
-{"id": "ntx-0190", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 7.328875013627112}
-{"id": "ntx-0191", "type": "note", "date": null, "time": null, "direction": "future", "spans": [], "ms": 6.816499982960522}
-{"id": "ntx-0192", "type": "note", "date": null, "time": null, "direction": "future", "spans": [], "ms": 5.51749998703599}
-{"id": "ntx-0193", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 8.110542083159089}
-{"id": "ntx-0194", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 6.976582924835384}
-{"id": "ntx-0195", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 6.894666934385896}
-{"id": "ntx-0196", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 8.308708085678518}
-{"id": "ntx-0197", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 8.815583074465394}
-{"id": "ntx-0198", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"]], "ms": 6.4120839815586805}
-{"id": "ntx-0199", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2014"], ["DATE", "मई"]], "ms": 5.900749936699867}
-{"id": "ntx-0200", "type": "note", "date": "2016-11-02", "time": null, "direction": "past", "spans": [["DAY", "2014"], ["DATE", "2 मई"]], "ms": 7.762374938465655}
-{"id": "ntx-0201", "type": "reminder", "date": "2016-11-11", "time": "19:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "ृ"], ["TIME", "7.6"], ["WD", "शुक्रवार"], ["WD", "कुछ"]], "ms": 12.829334009438753}
-{"id": "ntx-0202", "type": "reminder", "date": "2016-11-11", "time": "19:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "ृप"], ["TIME", "7/6"], ["WD", "शुक्रवार"]], "ms": 13.399249990470707}
-{"id": "ntx-0203", "type": "reminder", "date": "2016-11-11", "time": "19:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "ृप"], ["TIME", "7-6"], ["WD", "शुक्रवार"]], "ms": 13.167375000193715}
-{"id": "ntx-0204", "type": "note", "date": "2016-11-04", "time": "19:00", "direction": "past", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["WD", "ृ"], ["PART", "प"], ["WD", "शुक्रवार"], ["TIME", "2018-"], ["TIME", "7-6"]], "ms": 14.013124979101121}
-{"id": "ntx-0205", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "2 घ"], ["TIME", "ंटे"], ["DUR", "से"], ["DUR", "4 दिनों"], ["DUR", "30"], ["TIME", "मिनट"]], "ms": 13.858875026926398}
-{"id": "ntx-0206", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "म"], ["PART", "ुझ"], ["WD", "े"], ["TIME", "ब"], ["WD", "दिखाएं"]], "ms": 8.751458022743464}
-{"id": "ntx-0207", "type": "reminder", "date": "2016-11-07", "time": "13:30", "direction": "future", "spans": [["WD", "चौबीसवीं"], ["DATE", "जनवरी"], ["TIME", "1:30"], ["PART", "अपराह"], ["WD", "्न"], ["PART", "ं"]], "ms": 11.299208039417863}
-{"id": "ntx-0208", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "न"], ["WD", "वंबर"]], "ms": 8.977708057500422}
-{"id": "ntx-0209", "type": "note", "date": "2016-11-05", "time": "17:00", "direction": "past", "spans": [["WD", "शनिवार"], ["TIME", "5 बजे"], ["PART", "सरप"], ["WD", "्रा"]], "ms": 11.2434170441702}
-{"id": "ntx-0210", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "पिछली र"], ["PART", "ात"]], "ms": 8.674041018821299}
-{"id": "ntx-0211", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "आजादी"], ["DAY", "से"], ["DUR", "एक साल"]], "ms": 7.84874998498708}
-{"id": "ntx-0212", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["PART", "स"], ["WD", "्वतंत्र"]], "ms": 8.113375050015748}
-{"id": "ntx-0213", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["PART", "स्वत"], ["WD", "ंत्र"], ["WD", "दिवस"]], "ms": 9.768499992787838}
-{"id": "ntx-0214", "type": "reminder", "date": "2016-11-09", "time": "10:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["TIME", "10-4"], ["WD", "मंगलवार"], ["WD", "बुधवार"]], "ms": 14.564791112206876}
-{"id": "ntx-0215", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "अगले स"], ["PART", "प्ताह"], ["DAY", "अनुस"]], "ms": 10.806791950017214}
-{"id": "ntx-0216", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "चलो"], ["WD", "अगले कुछ"], ["PART", "हफ़्ते"]], "ms": 14.015708002261817}
-{"id": "ntx-0217", "type": "reminder", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["WD", "अगले सप्त"], ["PART", "ाह"], ["WD", "सोमवार"]], "ms": 6.850583013147116}
-{"id": "ntx-0218", "type": "reminder", "date": "2016-11-22", "time": "11:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "मई/"], ["DATE", "22"], ["WD", "मंग"], ["DAY", "ल"], ["TIME", "11: 30 AM"]], "ms": 10.398667072877288}
-{"id": "ntx-0219", "type": "reminder", "date": "2016-11-08", "time": "09:00", "direction": "future", "spans": [["DAY", "आज"], ["PART", "दोपहर"], ["DAY", "से कल"], ["PART", "सुबह"]], "ms": 11.575000011362135}
-{"id": "ntx-0220", "type": "reminder", "date": "2016-11-09", "time": "18:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "आप"], ["WD", "अगले स"], ["PART", "प्ताह"], ["WD", "बुधवार"], ["PART", "शाम"]], "ms": 15.789416967891157}
-{"id": "ntx-0221", "type": "reminder", "date": "2016-11-14", "time": "18:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "आप"], ["WD", "अगले"], ["TIME", "महीने"], ["TIME", "पहली"], ["WD", "सोमवार"], ["PART", "शाम"]], "ms": 15.23412496317178}
-{"id": "ntx-0222", "type": "reminder", "date": "2016-11-14", "time": "15:00", "direction": "future", "spans": [["WD", "कोर्टाना"], ["PART", "आप"], ["WD", "अगले"], ["TIME", "महीने"], ["WD", "सोमवार"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["TIME", "3:00 बजे"]], "ms": 20.288540981709957}
-{"id": "ntx-0223", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "आप"], ["PART", "ृ"], ["TIME", "18 वें"], ["PART", "सप्ताह"]], "ms": 12.332833954133093}
-{"id": "ntx-0224", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "आप"], ["PART", "ृ"], ["TIME", "18"], ["DUR", "त"], ["TIME", "ारीख"]], "ms": 12.107374961487949}
-{"id": "ntx-0225", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "आप"], ["PART", "ृ"], ["TIME", "4"], ["DUR", "त"], ["TIME", "ारीख"]], "ms": 19.39704199321568}
-{"id": "ntx-0231", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "आप"], ["TIME", "ही"], ["WD", "ने"], ["DUR", "21"], ["TIME", "तारीख"], ["TIME", "आ"], ["DAY", "स"], ["TIME", "पास"]], "ms": 29.75966699887067}
-{"id": "ntx-0232", "type": "reminder", "date": "2016-11-08", "time": "10:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "आप"], ["DAY", "कल"], ["PART", "सुबह"], ["TIME", "10 बजे"], ["DAY", "आसपास"]], "ms": 29.694208060391247}
-{"id": "ntx-0233", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["PART", "हफ्त"], ["TIME", "मिल"], ["DAY", "जल"], ["TIME", "्द"], ["PART", "जल"], ["TIME", "्द"], ["PART", "सुबह"], ["TIME", "7 बजे तक"]], "ms": 26.48862497881055}
-{"id": "ntx-0234", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "7:00 बजे तक"]], "ms": 21.396499942056835}
-{"id": "ntx-0235", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["PART", "मैं"], ["TIME", "से"], ["DAY", "कल"], ["PART", "ंगा"]], "ms": 15.026957960799336}
-{"id": "ntx-0236", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["DAY", "्या"], ["PART", "आप"], ["TIME", "अ"], ["WD", "गले"], ["TIME", "4"]], "ms": 19.722791970707476}
-{"id": "ntx-0237", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["DAY", "्या"], ["PART", "आप"], ["TIME", "अ"], ["WD", "गले"], ["TIME", "4"]], "ms": 14.432332944124937}
-{"id": "ntx-0238", "type": "reminder", "date": "2016-11-07", "time": "16:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["DAY", "्या"], ["PART", "आप"], ["WD", "पिछले"], ["TIME", "4"]], "ms": 15.45358297880739}
-{"id": "ntx-0239", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["DAY", "क्या"], ["PART", "आप"], ["TIME", "अक्टूबर"], ["TIME", "1"]], "ms": 13.681833050213754}
-{"id": "ntx-0240", "type": "reminder", "date": "2016-11-08", "time": "15:00", "direction": "future", "spans": [["WD", "अगले सोमवार"], ["WD", "मंगलवार"], ["TIME", "1pm GMT"], ["TIME", "15 मिनट"], ["PART", "्क"]], "ms": 15.014583012089133}
-{"id": "ntx-0241", "type": "reminder", "date": "2016-11-19", "time": null, "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "मैं"], ["DATE", "18"], ["DATE", "19 जून"]], "ms": 9.90095897577703}
-{"id": "ntx-0242", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "5 सालों में"]], "ms": 9.053250076249242}
-{"id": "ntx-0243", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "2 आगा"], ["WD", "मी"], ["TIME", "महीनों"]], "ms": 8.31570802256465}
-{"id": "ntx-0244", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "2 अ"], ["WD", "गले"], ["DUR", "दिनों"]], "ms": 8.330374956130981}
-{"id": "ntx-0245", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "5 आने वाले"], ["DAY", "म"], ["TIME", "िनट"], ["DUR", "ों"]], "ms": 7.873333059251308}
-{"id": "ntx-0246", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "5"], ["TIME", "बीते मिनटों"]], "ms": 6.954333046451211}
-{"id": "ntx-0247", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "5"], ["WD", "पिछले वर्षों"]], "ms": 7.745084003545344}
-{"id": "ntx-0248", "type": "note", "date": "2016-11-10", "time": null, "direction": "future", "spans": [["DATE", "10"], ["WD", "पिछले"], ["PART", "हफ"], ["WD", "्त"], ["PART", "ों"]], "ms": 11.615750030614436}
-{"id": "ntx-0249", "type": "reminder", "date": "2016-11-08", "time": "00:00", "direction": "future", "spans": [["DAY", "मेरे"], ["DAY", "कल"], ["TIME", "10am-"], ["TIME", "12am"], ["DAY", "कल"]], "ms": 35.20524990744889}
-{"id": "ntx-0250", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "जल"], ["TIME", "्द"], ["TIME", "से जल्द"], ["TIME", "अगले साल"], ["TIME", "पहली त"], ["PART", "िमाह"], ["TIME", "ी"]], "ms": 53.277165978215635}
-{"id": "ntx-0251", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "2012 से अधिक वर्ष"]], "ms": 9.946999954991043}
-{"id": "ntx-0252", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "उसके बाद"], ["TIME", "ब"], ["DAY", "ू"]], "ms": 12.291582999750972}
-{"id": "ntx-0253", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "साल"]], "ms": 10.153957991860807}
-{"id": "ntx-0254", "type": "reminder", "date": "2016-12-01", "time": null, "direction": "future", "spans": [["DATE", "1/1/2016"], ["DAY", "उसके बाद"]], "ms": 12.210250017233193}
-{"id": "ntx-0255", "type": "reminder", "date": "2016-12-01", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "1/1/2016"], ["DAY", "मे"]], "ms": 16.698374995030463}
-{"id": "ntx-0256", "type": "reminder", "date": "2016-12-01", "time": "18:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "1/1/2016"], ["PART", "शाम"], ["TIME", "6 बजे के बाद"]], "ms": 15.181291033513844}
-{"id": "ntx-0257", "type": "note", "date": "2016-11-07", "time": null, "direction": "past", "spans": [["PART", "्ट"], ["DAY", "वर्ष"], ["DAY", "आज तक"]], "ms": 16.86016598250717}
-{"id": "ntx-0258", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "क"], ["DAY", "2018"], ["DUR", "छोड़"]], "ms": 22.749916999600828}
-{"id": "ntx-0259", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "2015"]], "ms": 18.293166998773813}
-{"id": "ntx-0260", "type": "reminder", "date": "2016-11-07", "time": "07:00", "direction": "future", "spans": [["PART", "सप्ताह"], ["DAY", "किसी"], ["DUR", "भी समय"], ["PART", "सुबह"], ["TIME", "7:00 बजे"]], "ms": 14.74725001025945}
-{"id": "ntx-0261", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2018 से बाद"]], "ms": 7.771290955133736}
-{"id": "ntx-0262", "type": "reminder", "date": "2016-11-14", "time": "14:30", "direction": "future", "spans": [["WD", "कृ"], ["PART", "प"], ["WD", "सोमवार"], ["TIME", "2.30 बजे"], ["TIME", "बै"]], "ms": 26.921542012132704}
-{"id": "ntx-0263", "type": "reminder", "date": "2016-11-07", "time": "14:30", "direction": "future", "spans": [["PART", "दोपहर"], ["TIME", "2.30 बजे"]], "ms": 18.79249990452081}
-{"id": "ntx-0264", "type": "reminder", "date": "2016-11-10", "time": "11:00", "direction": "future", "spans": [["WD", "नमस्ते गुरुवार"], ["TIME", "29/03"], ["PART", "सुबह"], ["TIME", "11.00 बजे"]], "ms": 15.743790892884135}
-{"id": "ntx-0265", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["PART", "शाम"], ["TIME", "9.30"], ["TIME", "4.30 बजे"], ["TIME", "6/4"]], "ms": 16.518249991349876}
-{"id": "ntx-0266", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["PART", "आप"], ["DAY", "मार्च"], ["DAY", "से"], ["DATE", "मई"]], "ms": 10.09375008288771}
-{"id": "ntx-0267", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "अगस्त"], ["DATE", "अक्टूबर"]], "ms": 9.650415973737836}
-{"id": "ntx-0268", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "मई"], ["DAY", "से"], ["PART", "मार्च"]], "ms": 9.332500048913062}
-{"id": "ntx-0269", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "सितंबर से न"], ["WD", "व"], ["DAY", "ंबर"]], "ms": 8.98062507621944}
-{"id": "ntx-0270", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "मई"], ["DAY", "से"], ["DATE", "सितंबर"]], "ms": 7.139291963540018}
-{"id": "ntx-0271", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "नवंबर"], ["PART", "से"], ["PART", "मार्च"]], "ms": 9.305624989792705}
-{"id": "ntx-0273", "type": "reminder", "date": "2016-11-07", "time": "06:45", "direction": "future", "spans": [["TIME", "6.45"]], "ms": 11.11570792272687}
-{"id": "ntx-0274", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["WD", "टाइफून"], ["WD", "जांगसेन"], ["DUR", "दो"], ["TIME", "महीने"], ["WD", "मेट्रो"], ["DAY", "मार"], ["DAY", "अरब"], ["WD", "मूलभूत"]], "ms": 41.09833296388388}
-{"id": "ntx-0275", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "दो दिन में"], ["PART", "हफ्त"]], "ms": 18.720249994657934}
-{"id": "ntx-0276", "type": "reminder", "date": "2016-12-01", "time": "11:00", "direction": "future", "spans": [["TIME", "10"], ["DATE", "/1"], ["TIME", "11/7"]], "ms": 14.013249892741442}
-{"id": "ntx-0277", "type": "reminder", "date": "2016-11-25", "time": "13:00", "direction": "future", "spans": [["DATE", "10/25"], ["TIME", "01/"], ["DATE", "25"]], "ms": 14.175874995999038}
-{"id": "ntx-0278", "type": "reminder", "date": "2016-12-01", "time": "10:00", "direction": "future", "spans": [["DAY", "मेरी"], ["PART", "छुट्टी"], ["TIME", "10-"], ["DATE", "1"], ["TIME", "-2018"], ["TIME", "10-7-2018"]], "ms": 17.565750051289797}
-{"id": "ntx-0279", "type": "reminder", "date": "2016-11-07", "time": "10:00", "direction": "future", "spans": [["DAY", "मे"], ["PART", "छुट्टी"], ["DATE", "10/1/"], ["TIME", "2018"], ["TIME", "10/"], ["DATE", "7"], ["TIME", "/2018"]], "ms": 17.722708056680858}
-{"id": "ntx-0280", "type": "reminder", "date": "2016-11-07", "time": "10:00", "direction": "future", "spans": [["DAY", "मे"], ["PART", "छुट्टी"], ["DATE", "10/1/"], ["TIME", "2018"], ["TIME", "10/"], ["DATE", "7"], ["TIME", "/2018"]], "ms": 21.21566701680422}
-{"id": "ntx-0281", "type": "reminder", "date": "2016-11-07", "time": "11:00", "direction": "future", "spans": [["DAY", "मेरे"], ["PART", "पास"], ["TIME", "10/1"], ["TIME", "11 / 7"], ["PART", "ुट"]], "ms": 15.522292000241578}
-{"id": "ntx-0282", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "जनवरी-फरवरी"]], "ms": 10.47033304348588}
-{"id": "ntx-0283", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "न"], ["WD", "वं"], ["DAY", "फर."]], "ms": 11.459958972409368}
-{"id": "ntx-0284", "type": "note", "date": "2016-11-06", "time": "17:00", "direction": "past", "spans": [["DAY", "न"], ["WD", "वं"], ["DAY", "फर."], ["TIME", "5"]], "ms": 12.046791962347925}
-{"id": "ntx-0285", "type": "note", "date": "2016-10-19", "time": null, "direction": "past", "spans": [["DATE", "18 नवंबर"], ["DATE", "19 दिसंबर,"]], "ms": 8.930417010560632}
-{"id": "ntx-0286", "type": "note", "date": "2016-10-19", "time": null, "direction": "past", "spans": [["DATE", "18 नवंबर 2014"], ["DATE", "19 दिसंबर"]], "ms": 8.975291042588651}
-{"id": "ntx-0287", "type": "note", "date": "2016-10-18", "time": null, "direction": "past", "spans": [["DATE", "18-19 नवंबर"]], "ms": 8.393833064474165}
-{"id": "ntx-0288", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "मई"], ["DATE", "अक्टूबर"], ["PART", "रहुंगा"]], "ms": 8.317666011862457}
-{"id": "ntx-0289", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "मई"], ["DAY", "से"], ["DATE", "अक्टूबर"], ["PART", "रहुंगा"]], "ms": 7.180290995165706}
-{"id": "ntx-0290", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "5/1"], ["TIME", "5/7"], ["PART", "न"], ["DAY", "िकल"], ["WD", "ूंगा"]], "ms": 8.735500043258071}
-{"id": "ntx-0291", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "future", "spans": [["PART", "मैं"], ["TIME", "5/1"], ["TIME", "5/7/2020"], ["PART", "न"], ["DAY", "िकल"], ["WD", "ू"], ["TIME", "ंगा"]], "ms": 8.567583048716187}
-{"id": "ntx-0292", "type": "reminder", "date": "2016-11-07", "time": "17:00", "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "5/"], ["DATE", "1"], ["TIME", "/2019"], ["TIME", "5/"], ["DATE", "7"], ["TIME", "/2020"], ["PART", "न"], ["DAY", "िकल"], ["WD", "ूंगा"]], "ms": 8.539209025911987}
-{"id": "ntx-0293", "type": "reminder", "date": "2016-12-05", "time": null, "direction": "future", "spans": [["WD", "दिन"], ["DATE", "05-अगस्त -"]], "ms": 5.89658401440829}
-{"id": "ntx-0294", "type": "reminder", "date": "2016-11-14", "time": "12:00", "direction": "future", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "10 बजे"], ["PART", "दोपहर"], ["TIME", "12 बजे तक"]], "ms": 12.850165949203074}
-{"id": "ntx-0295", "type": "reminder", "date": "2016-11-08", "time": "15:00", "direction": "future", "spans": [["DAY", "कल"], ["PART", "दोपहर"], ["TIME", "3 से 8 बजे तक"]], "ms": 9.94283298496157}
-{"id": "ntx-0296", "type": "reminder", "date": "2016-11-08", "time": "15:00", "direction": "future", "spans": [["DAY", "कल"], ["PART", "दोपहर"], ["TIME", "3 से 8 बजे तक"]], "ms": 10.14749996829778}
-{"id": "ntx-0297", "type": "reminder", "date": "2016-11-08", "time": "15:00", "direction": "future", "spans": [["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8 बजे"], ["PART", "दोपहर"], ["TIME", "3 बजे तक"]], "ms": 11.217917082831264}
-{"id": "ntx-0298", "type": "reminder", "date": "2016-11-14", "time": "15:00", "direction": "future", "spans": [["WD", "सोमवार"], ["TIME", "3-8"]], "ms": 7.466000039130449}
-{"id": "ntx-0299", "type": "reminder", "date": "2016-11-08", "time": "08:00", "direction": "future", "spans": [["DAY", "आप"], ["DAY", "कल"], ["TIME", "3"], ["TIME", "8"]], "ms": 7.723792106844485}
-{"id": "ntx-0300", "type": "reminder", "date": "2016-11-14", "time": "08:00", "direction": "future", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "3 से"], ["PART", "सुबह"], ["TIME", "8 बजे"]], "ms": 12.103083077818155}
-{"id": "ntx-0301", "type": "reminder", "date": "2016-11-14", "time": "12:00", "direction": "future", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "अगले सोमवार"], ["PART", "सुबह"], ["TIME", "3 बजे"], ["PART", "दोपहर"], ["TIME", "12 बजे"]], "ms": 13.286874978803098}
-{"id": "ntx-0302", "type": "reminder", "date": "2016-11-14", "time": "18:00", "direction": "future", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "6-8"]], "ms": 8.465750026516616}
-{"id": "ntx-0303", "type": "reminder", "date": "2016-11-14", "time": "18:00", "direction": "future", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "6-8"]], "ms": 10.276625049300492}
-{"id": "ntx-0304", "type": "reminder", "date": "2016-11-14", "time": "06:00", "direction": "future", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["PART", "सुबह"], ["TIME", "6-8"]], "ms": 11.52637496124953}
-{"id": "ntx-0305", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिसंबर"]], "ms": 8.229042054153979}
-{"id": "ntx-0306", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिसंबर /"]], "ms": 7.183042005635798}
-{"id": "ntx-0307", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिसंबर,"]], "ms": 6.841166992671788}
-{"id": "ntx-0308", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिसंबर"], ["DATE", "/2018"], ["TIME", "मई/2019"]], "ms": 9.711124934256077}
-{"id": "ntx-0309", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "एक दिन"]], "ms": 6.44274998921901}
-{"id": "ntx-0310", "type": "reminder", "date": "2016-11-09", "time": null, "direction": "future", "spans": [["DAY", "परसों"]], "ms": 7.073374930769205}
-{"id": "ntx-0312", "type": "reminder", "date": "2016-11-15", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े तारीख"], ["WD", "अगले सोमवार"], ["WD", "अगले मंगलवार"]], "ms": 13.667916995473206}
-{"id": "ntx-0313", "type": "reminder", "date": "2016-10-31", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े तारीख"], ["WD", "अगले सोमवार"], ["WD", "पिछले सोमवार"]], "ms": 13.451708946377039}
-{"id": "ntx-0314", "type": "reminder", "date": "2016-11-02", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े तारीख"], ["WD", "अगले सोमवार"], ["WD", "मंगलवार"], ["WD", "पिछले बुधवार"]], "ms": 14.889625017531216}
-{"id": "ntx-0315", "type": "reminder", "date": "2016-11-16", "time": null, "direction": "future", "spans": [["WD", "अगले सप्ताह बुधवार"]], "ms": 9.112250059843063}
-{"id": "ntx-0316", "type": "note", "date": "2016-11-07", "time": null, "direction": "past", "spans": [["WD", "पिछले सप्त"], ["PART", "ाह"], ["WD", "सोमवार"]], "ms": 9.21383302193135}
-{"id": "ntx-0317", "type": "reminder", "date": "2016-11-14", "time": null, "direction": "future", "spans": [["PART", "हफ"], ["WD", "्ते सोमवार"]], "ms": 8.183041005395353}
-{"id": "ntx-0318", "type": "reminder", "date": "2016-11-07", "time": "11:00", "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["TIME", "11/20"], ["TIME", "11/22"], ["TIME", "11/25"], ["TIME", "30 मिनट"]], "ms": 13.480916037224233}
-{"id": "ntx-0319", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["TIME", "दिन"], ["DAY", "के अंत"], ["TIME", "में"], ["PART", "सोन"], ["PART", "्वास्थ"]], "ms": 16.544749960303307}
-{"id": "ntx-0320", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "बॉब"], ["DAY", "एलिस"], ["DAY", "आमतौर"], ["WD", "एन्क्रिप्ट"], ["PART", "ेड"], ["TIME", "दिन"], ["DAY", "अंत"], ["DAY", "्स"]], "ms": 15.692709013819695}
-{"id": "ntx-0321", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "साल"], ["PART", "अंत"]], "ms": 7.660333067178726}
-{"id": "ntx-0322", "type": "reminder", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["DATE", "11"], ["TIME", "/"], ["DATE", "20"], ["DATE", "12 नवंबर"]], "ms": 10.21779200527817}
-{"id": "ntx-0323", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "साल के अंत"]], "ms": 6.947916001081467}
-{"id": "ntx-0324", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["TIME", "ैंने"], ["PART", "सुना"], ["DUR", "आ"], ["DAY", "प"], ["TIME", "महीने के अंत में"], ["WD", "दिन"]], "ms": 12.284957920201123}
-{"id": "ntx-0325", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["WD", "िस्क"], ["PART", "सप्ताह"]], "ms": 14.62741696741432}
-{"id": "ntx-0326", "type": "reminder", "date": "2016-11-11", "time": "09:00", "direction": "future", "spans": [["PART", "आप"], ["TIME", "9-6 पीटी"], ["WD", "बुधवार"], ["WD", "गुरुवार"], ["WD", "शुक्रवार"], ["DAY", "कॉन"], ["PART", "्फ"], ["WD", "रे"]], "ms": 16.150458017364144}
-{"id": "ntx-0327", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["PART", "फ"]], "ms": 7.466792012564838}
-{"id": "ntx-0328", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "जनवरी 2015"]], "ms": 7.68637505825609}
-{"id": "ntx-0329", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "आखिरी"], ["PART", "हफ"]], "ms": 8.046917035244405}
-{"id": "ntx-0330", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिसंबर"], ["WD", "अंतिम"], ["PART", "सप्ताह"]], "ms": 7.914167013950646}
-{"id": "ntx-0331", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["PART", "सप्ताह"]], "ms": 6.923584034666419}
-{"id": "ntx-0332", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "अंतिम"], ["PART", "सप्ताह"]], "ms": 7.1151670999825}
-{"id": "ntx-0333", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "तीसरा"], ["PART", "सप्ताह"]], "ms": 7.452791905961931}
-{"id": "ntx-0334", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "जनवरी"], ["WD", "तीसरा"], ["PART", "सप्ताह"]], "ms": 8.110541035421193}
-{"id": "ntx-0335", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "पिछले स"], ["PART", "प्ताह"]], "ms": 8.782542077824473}
-{"id": "ntx-0336", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "इस"], ["PART", "सप्ताह"], ["DUR", "अंत"], ["WD", "दूंगा"]], "ms": 10.595416999422014}
-{"id": "ntx-0337", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["PART", "दोपहर"], ["TIME", "3 बजे"], ["PART", "अ"], ["DAY", "प"], ["PART", "ॉ"], ["WD", "इंट"]], "ms": 11.003457941114902}
-{"id": "ntx-0338", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ुझ"], ["DUR", "एक घ"], ["TIME", "ंटे"], ["DUR", "आ"], ["TIME", "धे घंटे"]], "ms": 16.860667034052312}
-{"id": "ntx-0339", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "डेढ़"], ["TIME", "घंटा"]], "ms": 12.517041992396116}
-{"id": "ntx-0340", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "डेढ़"], ["TIME", "घंटे"]], "ms": 11.578249977901578}
-{"id": "ntx-0341", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "ंट"], ["DAY", "र"], ["WD", "नेट"], ["WD", "इंट"], ["DAY", "र"], ["WD", "्न"], ["DUR", "एक और एक चौथाई"], ["DAY", "र"]], "ms": 13.852000003680587}
-{"id": "ntx-0342", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "ंट"], ["DAY", "र"], ["WD", "नेट"], ["WD", "इंट"], ["DAY", "र"], ["WD", "्न"], ["DUR", "साल"], ["DUR", "एक च"], ["WD", "ौ"], ["DUR", "थाई"], ["DAY", "र"]], "ms": 12.9672089824453}
-{"id": "ntx-0347", "type": "note", "date": "2016-11-01", "time": null, "direction": "past", "spans": [["WD", "मंगलवार"]], "ms": 7.219874998554587}
-{"id": "ntx-0348", "type": "reminder", "date": "2016-11-21", "time": null, "direction": "future", "spans": [["DATE", "21 स"], ["WD", "ोमवार"], ["WD", "इंत"], ["PART", "जाम"]], "ms": 10.219332994893193}
-{"id": "ntx-0349", "type": "reminder", "date": "2016-11-21", "time": null, "direction": "future", "spans": [["DATE", "21 स"], ["WD", "ोमवार"], ["WD", "इंत"], ["PART", "जाम"]], "ms": 12.432666961103678}
-{"id": "ntx-0350", "type": "reminder", "date": "2016-11-13", "time": null, "direction": "future", "spans": [["DAY", "्या"], ["WD", "रविवार 31"], ["WD", "ंत"], ["PART", "जाम"]], "ms": 14.398999977856874}
-{"id": "ntx-0351", "type": "reminder", "date": "2016-12-31", "time": null, "direction": "future", "spans": [["DATE", "31"], ["WD", "शुक्रवार"], ["WD", "ंतजा"], ["PART", "म"]], "ms": 12.715624994598329}
-{"id": "ntx-0352", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "क्या"], ["TIME", "मई"], ["DUR", "मध्य"], ["TIME", "के"], ["PART", "ंतजाम"]], "ms": 13.629958964884281}
-{"id": "ntx-0353", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "सितंबर"]], "ms": 8.42133304104209}
-{"id": "ntx-0354", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DATE", "जुलाई"], ["PART", "आ"], ["WD", "ख"], ["DAY", "िर"]], "ms": 8.900500019080937}
-{"id": "ntx-0356", "type": "reminder", "date": "2016-11-11", "time": null, "direction": "future", "spans": [["WD", "इस"], ["WD", "आगामी"], ["WD", "शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]], "ms": 14.719250029884279}
-{"id": "ntx-0357", "type": "reminder", "date": "2016-11-18", "time": null, "direction": "future", "spans": [["WD", "अगले शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]], "ms": 14.385833055712283}
-{"id": "ntx-0358", "type": "reminder", "date": "2016-11-11", "time": null, "direction": "future", "spans": [["WD", "अगला शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]], "ms": 11.454958003014326}
-{"id": "ntx-0359", "type": "reminder", "date": "2016-11-10", "time": null, "direction": "future", "spans": [["WD", "गुरुवार"], ["WD", "इंतजा"], ["PART", "म"]], "ms": 13.610458001494408}
-{"id": "ntx-0360", "type": "reminder", "date": "2016-11-09", "time": null, "direction": "future", "spans": [["WD", "पिछला बुधवार"]], "ms": 11.662833974696696}
-{"id": "ntx-0361", "type": "reminder", "date": "2016-11-02", "time": null, "direction": "future", "spans": [["PART", "आप"], ["WD", "पिछले बुधवार"]], "ms": 11.080082971602678}
-{"id": "ntx-0362", "type": "reminder", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["DATE", "आप 12"], ["TIME", "0730"], ["TIME", "0930"]], "ms": 8.15195799805224}
-{"id": "ntx-0363", "type": "reminder", "date": "2016-11-30", "time": "19:00", "direction": "future", "spans": [["PART", "आप"], ["TIME", "07"], ["DATE", "30"], ["TIME", "0930"]], "ms": 6.5130830043926835}
-{"id": "ntx-0364", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "आप"], ["TIME", "0930-"], ["TIME", "0730"]], "ms": 12.1230409713462}
-{"id": "ntx-0366", "type": "reminder", "date": "2016-11-21", "time": "15:00", "direction": "future", "spans": [["WD", "सोमवार"], ["DATE", "21"], ["TIME", "9:30"], ["PART", "शाम"], ["TIME", "3:00 बजे"], ["TIME", "एस"]], "ms": 19.151874934323132}
-{"id": "ntx-0367", "type": "reminder", "date": "2016-11-15", "time": "13:15", "direction": "future", "spans": [["PART", "आप"], ["WD", "मंगलवार"], ["DATE", "15 जनवरी"], ["PART", "दोपहर"], ["TIME", "1:00 -"], ["TIME", "1:15 बजे"]], "ms": 9.75195795763284}
-{"id": "ntx-0368", "type": "note", "date": "2016-10-18", "time": "15:00", "direction": "past", "spans": [["WD", "नी"], ["DATE", "18 जनवरी,"], ["DAY", "@"], ["DAY", "कोर"], ["WD", "्ट"], ["PART", "ाना"], ["DAY", "आज"], ["PART", "दोपहर"], ["TIME", "3 बजे"], ["PART", "स्का"], ["PART", "शेड"], ["WD", "्यू"], ["DAY", "ल"]], "ms": 23.44241610262543}
-{"id": "ntx-0369", "type": "reminder", "date": "2016-11-10", "time": "21:00", "direction": "future", "spans": [["WD", "हर मंगलवार और"], ["WD", "गुरुवार"], ["TIME", "19:00 -"], ["TIME", "21:00"]], "ms": 10.962291969917715}
-{"id": "ntx-0370", "type": "reminder", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["DATE", "12-2015"]], "ms": 5.910624982789159}
-{"id": "ntx-0373", "type": "note", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["TIME", "2015"], ["TIME", "-"], ["DATE", "12"]], "ms": 6.665874971076846}
-{"id": "ntx-0379", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "9: 00 बजे"]], "ms": 7.001584046520293}
-{"id": "ntx-0380", "type": "reminder", "date": "2016-11-08", "time": "08:45", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8:45 बजे"]], "ms": 8.120667072944343}
-{"id": "ntx-0381", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DUR", "2011 से दो साल"]], "ms": 5.75224997010082}
-{"id": "ntx-0382", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DATE", "2011"], ["TIME", "से"], ["WD", "दो"], ["PART", "सप्ताह"]], "ms": 6.651083007454872}
-{"id": "ntx-0383", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "रह"], ["WD", "ू"]], "ms": 6.7900000140070915}
-{"id": "ntx-0384", "type": "reminder", "date": "2016-11-09", "time": "16:00", "direction": "future", "spans": [["WD", "मैं बुधवार"], ["TIME", "4 बजे तक"]], "ms": 7.46741599868983}
-{"id": "ntx-0385", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ु"], ["PART", "दोपहर"], ["TIME", "3 बजे"]], "ms": 8.453415939584374}
-{"id": "ntx-0386", "type": "reminder", "date": "2016-11-14", "time": "15:00", "direction": "future", "spans": [["PART", "दोपहर"], ["TIME", "3 बजे"], ["DAY", "बाद में"], ["WD", "सोमवार"]], "ms": 9.648708044551313}
-{"id": "ntx-0387", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सुबह"], ["TIME", "9 बजे"]], "ms": 7.347290986217558}
-{"id": "ntx-0388", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["DAY", "मार्च"], ["WD", "अठारह"], ["PART", "सा"], ["TIME", "ढ़े नौ बजे"]], "ms": 8.052458055317402}
-{"id": "ntx-0389", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "फरवरी"], ["TIME", "बाईस"]], "ms": 6.43058295827359}
-{"id": "ntx-0390", "type": "reminder", "date": "2016-11-07", "time": "15:30", "direction": "future", "spans": [["DAY", "म"], ["WD", "फरवरी"], ["PART", "ब"], ["TIME", "ाईस"], ["TIME", "3:30 बजे"]], "ms": 7.699499954469502}
-{"id": "ntx-0391", "type": "note", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "ृ"], ["PART", "आप"], ["WD", "ेम"], ["WD", "प्ल"], ["DATE", "7 जनवरी"]], "ms": 15.548291965387762}
-{"id": "ntx-0392", "type": "note", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "ृ"], ["PART", "आप"], ["WD", "ेम्प्ल"], ["DATE", "7 जनवरी"]], "ms": 14.48462507687509}
-{"id": "ntx-0393", "type": "reminder", "date": "2016-11-07", "time": "15:30", "direction": "future", "spans": [["WD", "फ"], ["DATE", "रवरी"], ["PART", "ब"], ["TIME", "ाईस"], ["TIME", "3:30 बजे"]], "ms": 7.868416025303304}
-{"id": "ntx-0394", "type": "reminder", "date": "2016-11-22", "time": "15:30", "direction": "future", "spans": [["DAY", "म"], ["DATE", "फरवरी 22 वें"], ["TIME", "3:30 बजे"]], "ms": 7.502250024117529}
-{"id": "ntx-0395", "type": "note", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "ृ"], ["PART", "आप"], ["WD", "ेम"], ["WD", "प्ल"], ["DATE", "7 जनवरी"]], "ms": 16.058792010881007}
-{"id": "ntx-0396", "type": "note", "date": "2016-11-07", "time": null, "direction": "future", "spans": [["DAY", "क्या"], ["PART", "प"], ["WD", "ेम्प्ल"], ["DATE", "7 जनवरी"]], "ms": 13.469166937284172}
-{"id": "ntx-0397", "type": "reminder", "date": "2016-11-11", "time": null, "direction": "future", "spans": [["DAY", "म"], ["WD", "शुक्रवार"], ["WD", "मार्च"], ["WD", "पंद्रह"], ["TIME", "नौ बजे"]], "ms": 8.225583005696535}
-{"id": "ntx-0398", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "म"], ["DATE", "जनवरी"], ["TIME", "दो हजार बत्तीस"]], "ms": 6.616916973143816}
-{"id": "ntx-0399", "type": "reminder", "date": "2016-11-26", "time": "15:50", "direction": "future", "spans": [["WD", "बुध"], ["DATE", "अक्टूबर 26"], ["TIME", "15:50:06"]], "ms": 8.688542060554028}
-{"id": "ntx-0400", "type": "reminder", "date": "2016-11-15", "time": null, "direction": "future", "spans": [["DAY", "अभी"], ["TIME", "से और"], ["DATE", "15 नवंबर"], ["WD", "करूंगा"]], "ms": 8.277333923615515}
-{"id": "ntx-0401", "type": "reminder", "date": "2016-11-22", "time": null, "direction": "future", "spans": [["DATE", "22 जनवरी"], ["DAY", "अब"]], "ms": 6.478625000454485}
-{"id": "ntx-0402", "type": "reminder", "date": "2016-11-21", "time": null, "direction": "future", "spans": [["DAY", "चल"], ["DAY", "अब और"], ["DATE", "21 मई"]], "ms": 8.823915966786444}
-{"id": "ntx-0403", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"], ["DATE", "अप्रैल"], ["DAY", "से"], ["DATE", "जून"], ["DAY", "म्"]], "ms": 9.785458096303046}
-{"id": "ntx-0404", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2016"], ["DAY", "अप्रैल"], ["DAY", "2017"], ["DAY", "जून"]], "ms": 9.454541956074536}
-{"id": "ntx-0405", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "जनवरी"], ["DAY", "से"], ["DATE", "अप्रैल"]], "ms": 7.044416037388146}
-{"id": "ntx-0406", "type": "reminder", "date": "2016-11-11", "time": "19:00", "direction": "future", "spans": [["DAY", "को"], ["WD", "र्टाना"], ["PART", "ृ"], ["WD", "इस"], ["WD", "शुक्रवार"], ["TIME", "7.6"]], "ms": 12.22641603089869}
-{"id": "ntx-0407", "type": "reminder", "date": "2016-11-12", "time": "17:00", "direction": "future", "spans": [["TIME", "5."], ["DATE", "12"]], "ms": 7.154915947467089}
-{"id": "ntx-0408", "type": "reminder", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["DATE", "5"], ["TIME", "/"], ["DATE", "12"], ["WD", "शुक्रवार"]], "ms": 7.310083950869739}
-{"id": "ntx-0409", "type": "reminder", "date": "2016-11-18", "time": "17:00", "direction": "future", "spans": [["WD", "अगले शुक्रवार"], ["TIME", "5/12"]], "ms": 7.528417045250535}
-{"id": "ntx-0410", "type": "reminder", "date": "2016-11-12", "time": "17:00", "direction": "future", "spans": [["TIME", "5/"], ["DATE", "12"]], "ms": 6.612833007238805}
-{"id": "ntx-0411", "type": "reminder", "date": "2016-11-12", "time": "17:00", "direction": "future", "spans": [["WD", "अगले"], ["TIME", "5/"], ["DATE", "12"]], "ms": 6.6212499514222145}
-{"id": "ntx-0412", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "अगले 6"], ["DATE", "अप्रैल"]], "ms": 6.359125021845102}
-{"id": "ntx-0413", "type": "reminder", "date": "2016-11-20", "time": "17:00", "direction": "future", "spans": [["WD", "इस"], ["WD", "शुक्रवार"], ["TIME", "5/12"], ["WD", "अगले रविवार"], ["TIME", "5/20"]], "ms": 9.034082992002368}
-{"id": "ntx-0414", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["DAY", "बल"], ["WD", "्क"], ["DAY", "ि"], ["TIME", "जनवरी / 3"]], "ms": 10.01833297777921}
-{"id": "ntx-0417", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "90 के दशक"]], "ms": 8.112417068332434}
-{"id": "ntx-0418", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"]], "ms": 7.298707962036133}
-{"id": "ntx-0419", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "कोर"], ["WD", "्टाना"], ["PART", "सप्ताह"], ["DAY", "बाद"], ["TIME", "30 मिनट"]], "ms": 8.325167000293732}
-{"id": "ntx-0420", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "30"], ["TIME", "मिनट"], ["PART", "टह"], ["WD", "ले"]], "ms": 6.751125096343458}
-{"id": "ntx-0421", "type": "reminder", "date": "2016-11-28", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "26 जून"], ["DATE", "28 जून"]], "ms": 8.578666020184755}
-{"id": "ntx-0422", "type": "reminder", "date": "2016-11-28", "time": null, "direction": "future", "spans": [["DAY", "म"], ["DATE", "ैं"], ["DATE", "26 जून"], ["DATE", "28 जून"]], "ms": 9.954750072211027}
-{"id": "ntx-0423", "type": "reminder", "date": "2016-11-28", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "28 जून"]], "ms": 6.464540958404541}
-{"id": "ntx-0424", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["WD", "ब्लैक फ्राइडे"], ["WD", "ंगा"]], "ms": 7.907166960649192}
-{"id": "ntx-0425", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "ंगा"]], "ms": 6.186416023410857}
-{"id": "ntx-0426", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["DAY", "ई"], ["WD", "स्टर"], ["WD", "ंगा"]], "ms": 9.700499940663576}
-{"id": "ntx-0427", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["PART", "सत्ता"], ["WD", "ईस"], ["PART", "स"], ["WD", "ोमवार"], ["PART", "शाम"], ["TIME", "छह बजे"]], "ms": 9.826709050685167}
-{"id": "ntx-0428", "type": "reminder", "date": "2016-11-14", "time": "18:00", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["WD", "च"], ["PART", "ौ"], ["TIME", "बीस"], ["WD", "सोमवार"], ["PART", "शाम"], ["TIME", "छह बजे"]], "ms": 9.135833010077477}
-{"id": "ntx-0429", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"]], "ms": 7.442292058840394}
-{"id": "ntx-0430", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"], ["DAY", "q1"]], "ms": 6.2010419787839055}
-{"id": "ntx-0431", "type": "note", "date": "2016-11-06", "time": "14:00", "direction": "past", "spans": [["DAY", "2019"], ["TIME", "h2"], ["WD", "चुनौति"]], "ms": 9.396916022524238}
-{"id": "ntx-0432", "type": "note", "date": "2016-11-06", "time": "14:00", "direction": "past", "spans": [["DAY", "2019"], ["TIME", "h2"], ["WD", "चुनौति"]], "ms": 6.2795840203762054}
-{"id": "ntx-0433", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"], ["PART", "q"], ["DAY", "1"], ["DAY", "2018"]], "ms": 8.152499911375344}
-{"id": "ntx-0434", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"], ["DAY", "q1"], ["DAY", "2018"], ["DAY", "1"]], "ms": 7.104375050403178}
-{"id": "ntx-0435", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "2017"], ["DAY", "1"], ["DAY", "2018"]], "ms": 7.900084019638598}
-{"id": "ntx-0436", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "पहला जनवरी"], ["DAY", "मे"]], "ms": 5.288999993354082}
-{"id": "ntx-0437", "type": "reminder", "date": "2016-11-12", "time": null, "direction": "future", "spans": [["DATE", "12 पहला जनवरी"], ["DAY", "मे"], ["DUR", "खा"], ["DAY", "स"]], "ms": 5.678082932718098}
-{"id": "ntx-0438", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "अ"], ["DAY", "नु"], ["PART", "बंध"], ["PART", "प्त"]], "ms": 8.069833042100072}
-{"id": "ntx-0439", "type": "reminder", "date": "2016-11-28", "time": "13:00", "direction": "future", "spans": [["TIME", "13:00"], ["DATE", "फरवरी 28"], ["WD", "ब्रंच"]], "ms": 7.74820800870657}
-{"id": "ntx-0440", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ुझ"]], "ms": 7.73495901376009}
-{"id": "ntx-0441", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "पिछले वित्त"], ["DAY", "वर्ष"]], "ms": 6.97866699192673}
-{"id": "ntx-0442", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "कैलेंडर"], ["DAY", "वर्ष"], ["PART", "ु"]], "ms": 6.924417102709413}
-{"id": "ntx-0443", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "्ती"], ["WD", "िखाएं"]], "ms": 6.560332956723869}
-{"id": "ntx-0444", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "दिखाएं"]], "ms": 5.5977500742301345}
-{"id": "ntx-0445", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "कैलेंडर"]], "ms": 5.97954192198813}
-{"id": "ntx-0446", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "cy"], ["WD", "दिखाएं"]], "ms": 6.918958039022982}
-{"id": "ntx-0447", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "दिखाओ"]], "ms": 6.030832999385893}
-{"id": "ntx-0448", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "वर्ष"], ["WD", "दिखाएं"]], "ms": 5.56812493596226}
-{"id": "ntx-0449", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["TIME", "18"], ["WD", "दिखाएं"]], "ms": 7.989333011209965}
-{"id": "ntx-0450", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "cy"], ["WD", "दिखाएं"]], "ms": 4.812709055840969}
-{"id": "ntx-0451", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ैं"], ["DAY", "सं"], ["PART", "त"], ["WD", "पैट्रिक"], ["WD", "ंगा"]], "ms": 6.667291978374124}
-{"id": "ntx-0452", "type": "reminder", "date": "2016-11-08", "time": "18:00", "direction": "future", "spans": [["PART", "मैं"], ["DAY", "कल"], ["PART", "शाम"], ["TIME", "पाँच-तीस"]], "ms": 7.640833035111427}
-{"id": "ntx-0453", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "चलो"], ["TIME", "तीन बजकर"], ["DAY", "तीस"], ["TIME", "मिनट"], ["TIME", "चार बजकर"], ["DAY", "ती"], ["TIME", "स मिनट"], ["WD", "्केट"]], "ms": 11.005041073076427}
-{"id": "ntx-0454", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "चलो"], ["DUR", "दो ती"], ["DAY", "स"], ["DUR", "से"], ["TIME", "दो प"], ["WD", "ैंताल"], ["TIME", "ीस"]], "ms": 8.62766697537154}
-{"id": "ntx-0455", "type": "note", "date": null, "time": null, "direction": "future", "spans": [], "ms": 4.053249955177307}
-{"id": "ntx-0456", "type": "note", "date": null, "time": null, "direction": "future", "spans": [], "ms": 7.461249944753945}
-{"id": "ntx-0457", "type": "note", "date": null, "time": null, "direction": "future", "spans": [], "ms": 5.251333932392299}
-{"id": "ntx-0458", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "तिमाही"]], "ms": 4.74162504542619}
-{"id": "ntx-0459", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "त"], ["PART", "िमाही"]], "ms": 4.752290900796652}
-{"id": "ntx-0460", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "अंतिम"], ["WD", "तिम"], ["PART", "ाही"]], "ms": 4.711749963462353}
-{"id": "ntx-0461", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "अंतिम"], ["WD", "तिम"], ["PART", "ाही"]], "ms": 4.72137494944036}
-{"id": "ntx-0462", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "आ"], ["WD", "इए"], ["TIME", "अ"], ["WD", "गल"], ["TIME", "ी"], ["PART", "तिमाही"]], "ms": 7.630792097188532}
-{"id": "ntx-0463", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "आ"], ["WD", "इए"], ["TIME", "अ"], ["WD", "गल"], ["TIME", "ी"], ["PART", "तिमाही"]], "ms": 7.626500097103417}
-{"id": "ntx-0464", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "आ"], ["WD", "इए"], ["TIME", "आ"], ["WD", "ने वाली"], ["PART", "तिमाही"]], "ms": 7.808209047652781}
-{"id": "ntx-0465", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "आ"], ["WD", "इए"], ["TIME", "अ"], ["WD", "गला त"], ["PART", "िमाही"]], "ms": 7.569832960143685}
-{"id": "ntx-0466", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "पिछली त"], ["PART", "िमाह"]], "ms": 6.49991596583277}
-{"id": "ntx-0467", "type": "reminder", "date": "2016-11-27", "time": "00:30", "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "27 दिसंबर"], ["PART", "सुबह"], ["TIME", "11:30"], ["TIME", "12:30"]], "ms": 8.639417006634176}
-{"id": "ntx-0468", "type": "reminder", "date": "2016-11-27", "time": "12:30", "direction": "future", "spans": [["DATE", "27 वें दिसम्बर"], ["TIME", "12:30"]], "ms": 6.9010419538244605}
-{"id": "ntx-0469", "type": "note", "date": "2016-10-27", "time": "12:00", "direction": "past", "spans": [["TIME", "12"], ["WD", "दिसंबर"], ["DATE", "27"]], "ms": 6.692916038446128}
-{"id": "ntx-0470", "type": "note", "date": "2016-10-27", "time": "12:00", "direction": "past", "spans": [["TIME", "12"], ["WD", "दिसंबर"], ["DATE", "27"]], "ms": 6.788583006709814}
-{"id": "ntx-0471", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["TIME", "हैं"], ["TIME", "30"], ["DATE", "दिसंबर"]], "ms": 6.5666669979691505}
-{"id": "ntx-0472", "type": "reminder", "date": "2016-11-07", "time": "15:00", "direction": "future", "spans": [["WD", "अपराह्न"], ["TIME", "3 बजे: मैं"], ["PART", "सप्ताह"]], "ms": 8.482208009809256}
-{"id": "ntx-0473", "type": "reminder", "date": "2016-11-07", "time": "08:00", "direction": "future", "spans": [["PART", "सप्ताह"], ["PART", "सुबह"], ["TIME", "8 बजे"]], "ms": 7.803375017829239}
-{"id": "ntx-0474", "type": "reminder", "date": "2016-11-07", "time": "20:00", "direction": "future", "spans": [["PART", "हफ्ते"], ["PART", "शाम"], ["TIME", "8 बजे"]], "ms": 7.962999981828034}
-{"id": "ntx-0475", "type": "reminder", "date": "2016-11-07", "time": "20:00", "direction": "future", "spans": [["PART", "सप्ताह"], ["TIME", "10"], ["PART", "शाम"], ["TIME", "8 बजे"]], "ms": 6.99545897077769}
-{"id": "ntx-0476", "type": "reminder", "date": "2016-11-07", "time": "10:20", "direction": "future", "spans": [["PART", "सप्ताह"], ["TIME", "10"], ["TIME", "10:20"]], "ms": 7.139874971471727}
-{"id": "ntx-0477", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "देर"], ["PART", "दोपहर"]], "ms": 4.95095900259912}
-{"id": "ntx-0478", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["PART", "दोपहर"]], "ms": 5.274959024973214}
-{"id": "ntx-0479", "type": "note", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["PART", "सुबह"], ["PART", "सुबह"]], "ms": 6.034083082340658}
-{"id": "ntx-0480", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["PART", "सुबह"]], "ms": 5.2132910350337625}
-{"id": "ntx-0481", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "चलो"], ["TIME", "अ"], ["WD", "गले"], ["PART", "हफ्ते"], ["PART", "दोपहर"]], "ms": 9.735416970215738}
-{"id": "ntx-0482", "type": "reminder", "date": "2016-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "चलो"], ["WD", "अगले"], ["PART", "हफ्ते"], ["PART", "सुबह"]], "ms": 10.978874983265996}
-{"id": "ntx-0483", "type": "reminder", "date": "2016-11-07", "time": "18:00", "direction": "future", "spans": [["DAY", "चलो"], ["WD", "अगले"], ["PART", "हफ्ते"], ["PART", "शाम"]], "ms": 11.767458054237068}
-{"id": "ntx-0484", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DAY", "मैं"], ["WD", "क्षेत्र"], ["DAY", "हूँ"]], "ms": 9.892708039842546}
-{"id": "ntx-0485", "type": "reminder", "date": "2016-11-07", "time": "13:00", "direction": "future", "spans": [["DAY", "मिल"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["WD", "मा"], ["TIME", "उन"], ["WD", "्ट"], ["PART", "ेन"], ["PART", "समय"], ["WD", "क्ष"], ["PART", "ेत"], ["WD", "्र"]], "ms": 8.315042010508478}
-{"id": "ntx-0486", "type": "reminder", "date": "2016-12-04", "time": "21:00", "direction": "future", "spans": [["WD", "मैंने"], ["DATE", "4 मार्च"], ["PART", "रात"]], "ms": 7.763916044496}
-{"id": "ntx-0487", "type": "reminder", "date": "2016-11-08", "time": "19:00", "direction": "future", "spans": [["WD", "मैंने"], ["WD", "4"], ["WD", "मंगलवार"], ["PART", "शाम"], ["TIME", "7 बजे"]], "ms": 9.220874984748662}
-{"id": "ntx-0488", "type": "reminder", "date": "2016-11-08", "time": null, "direction": "future", "spans": [["WD", "मंगलवार"], ["WD", "ग्यारहवें"]], "ms": 9.544334025122225}
-{"id": "ntx-0489", "type": "reminder", "date": "2016-11-09", "time": null, "direction": "future", "spans": [["WD", "बुधवार"], ["WD", "इकत्तीसवे"], ["TIME", "ं"]], "ms": 9.981750044971704}
-{"id": "ntx-0490", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DATE", "2/29"]], "ms": 4.468334023840725}
-{"id": "ntx-0491", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DATE", "2/29"]], "ms": 5.031958920881152}
-{"id": "ntx-0492", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DATE", "2/29"]], "ms": 4.463125020265579}
-{"id": "ntx-0493", "type": "reminder", "date": "2016-11-07", "time": "14:00", "direction": "future", "spans": [["TIME", "2/30"]], "ms": 4.740417003631592}
-{"id": "ntx-0494", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DATE", "2/29/2019"]], "ms": 5.776040954515338}
-{"id": "ntx-0495", "type": "reminder", "date": "2016-12-02", "time": null, "direction": "future", "spans": [["DATE", "2/29/"]], "ms": 5.383208976127207}
-{"id": "ntx-0496", "type": "reminder", "date": "2016-12-02", "time": "15:00", "direction": "future", "spans": [["DATE", "2/28"], ["TIME", "3/1"]], "ms": 6.37391593772918}
-{"id": "ntx-0497", "type": "reminder", "date": "2016-12-02", "time": "15:00", "direction": "future", "spans": [["DATE", "2/29"], ["TIME", "3/1"]], "ms": 5.2392499055713415}
-{"id": "ntx-0498", "type": "reminder", "date": "2016-12-03", "time": null, "direction": "future", "spans": [["DATE", "2/29"], ["DATE", "3/1/2019"]], "ms": 6.5648750169202685}
-{"id": "ntx-0499", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["DAY", "मैं"], ["PART", "सित"], ["WD", "-"], ["DATE", "23"], ["TIME", "-"]], "ms": 7.935042027384043}
-{"id": "ntx-0500", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["WD", "म"], ["PART", "ैं"], ["DATE", "सितंबर-"], ["TIME", "2020-"], ["DATE", "23"]], "ms": 7.485041045583785}
-{"id": "ntx-0501", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "2020"], ["TIME", "/"], ["DATE", "23"], ["TIME", "/"], ["DATE", "सित"]], "ms": 7.999332970939577}
-{"id": "ntx-0502", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["TIME", "/"], ["DATE", "स"], ["PART", "ित"], ["TIME", "/"], ["DATE", "23"]], "ms": 6.5032499842345715}
-{"id": "ntx-0503", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["DAY", "म"], ["PART", "ैं"], ["DATE", "23/सित/"]], "ms": 7.219583028927445}
-{"id": "ntx-0504", "type": "reminder", "date": "2016-11-23", "time": null, "direction": "future", "spans": [["PART", "मैं"], ["DATE", "23-"], ["DATE", "सितंबर"], ["WD", "ंगा"]], "ms": 7.180458051152527}
-{"id": "ntx-0505", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": [["DAY", "म"], ["PART", "ुझ"], ["WD", "े"], ["TIME", "ब"], ["TIME", "ओ"]], "ms": 9.065916994586587}
+{"id": "ntx-0000", "type": "reminder", "date": "2016-12-03", "time": null, "spans": [["DATE", "मैं"], ["DATE", "03 जनवरी 2019"], ["WD", "ंगा"]]}
+{"id": "ntx-0001", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "मैं"], ["DATE", "02 जनवरी"], ["WD", "ंगा"]]}
+{"id": "ntx-0002", "type": "reminder", "date": "2016-12-01", "time": null, "spans": [["DATE", "मैं"], ["DATE", "01 जनवरी 2019"], ["WD", "ंगा"]]}
+{"id": "ntx-0003", "type": "note", "date": null, "time": null, "spans": [["DATE", "1990"]]}
+{"id": "ntx-0004", "type": "reminder", "date": "2016-11-22", "time": null, "spans": [["DATE", "म"], ["DATE", "22/04"]]}
+{"id": "ntx-0005", "type": "reminder", "date": null, "time": null, "spans": [["WD", "उनतीस"], ["DATE", "मई"], ["WD", "ंगा"]]}
+{"id": "ntx-0006", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "दो अगस्त"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0007", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0008", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["DAY", "कल"]]}
+{"id": "ntx-0009", "type": "reminder", "date": "2016-11-11", "time": null, "spans": [["WD", "मैं"], ["WD", "शुक्रवार"], ["WD", "ंगा"]]}
+{"id": "ntx-0010", "type": "reminder", "date": "2016-11-07", "time": "23:00", "spans": [["WD", "अगले महीने"], ["TIME", "4"], ["TIME", "23"], ["PART", "रह"], ["DAY", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0011", "type": "reminder", "date": "2016-11-07", "time": "12:00", "spans": [["TIME", "3"], ["TIME", "12"], ["WD", "सितं"]]}
+{"id": "ntx-0012", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "सितंबर"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0013", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["DUR", "अ"], ["WD", "गले"], ["TIME", "3"], ["DUR", "दिन"]]}
+{"id": "ntx-0014", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "आख"], ["DAY", "िर"], ["DAY", "फ"]]}
+{"id": "ntx-0015", "type": "reminder", "date": "2016-12-03", "time": null, "spans": [["DATE", "मैं"], ["DATE", "-3"], ["PART", "रह"], ["DAY", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0016", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "गर्मी"], ["WD", "जाउंगा"]]}
+{"id": "ntx-0017", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["DAY", "कल"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0018", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "म"], ["DATE", "अगस्त"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0019", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "अगस्त"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0020", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अब"], ["WD", "ऊंगा"]]}
+{"id": "ntx-0021", "type": "reminder", "date": "2016-11-14", "time": "08:00", "spans": [["DATE", "म"], ["DATE", "14 अक्टूबर"], ["PART", "सुबह"], ["TIME", "8:00:31 बजे"]]}
+{"id": "ntx-0022", "type": "reminder", "date": "2016-11-08", "time": "08:00", "spans": [["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8:00 बजे"]]}
+{"id": "ntx-0023", "type": "reminder", "date": "2016-11-07", "time": "22:00", "spans": [["DAY", "आज"], ["PART", "रात"], ["TIME", "10 बजे"]]}
+{"id": "ntx-0024", "type": "reminder", "date": "2016-11-07", "time": "08:00", "spans": [["DAY", "आज"], ["PART", "सुबह"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0025", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["DAY", "मै"], ["DAY", "कल"], ["DAY", "अंत"]]}
+{"id": "ntx-0026", "type": "reminder", "date": "2016-11-13", "time": null, "spans": [["WD", "मैं"], ["WD", "रविवार"], ["DATE", "अंत"]]}
+{"id": "ntx-0027", "type": "reminder", "date": "2016-11-13", "time": null, "spans": [["WD", "रविवार"], ["TIME", "अंत"]]}
+{"id": "ntx-0028", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज"], ["TIME", "पाँच से सात"], ["PART", "रह"], ["TIME", "ुंगा"]]}
+{"id": "ntx-0029", "type": "reminder", "date": "2016-11-22", "time": "18:00", "spans": [["DATE", "म"], ["DATE", "22 अप्रैल"], ["PART", "शाम"], ["TIME", "5"], ["TIME", "6 बजे"]]}
+{"id": "ntx-0030", "type": "reminder", "date": "2016-11-08", "time": "16:00", "spans": [["WD", "म"], ["DAY", "कल"], ["TIME", "3:00"], ["TIME", "4:00 बजे"]]}
+{"id": "ntx-0031", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["DAY", "आज"], ["PART", "शाम"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0032", "type": "reminder", "date": "2016-11-08", "time": "21:00", "spans": [["DAY", "कल"], ["PART", "रात"]]}
+{"id": "ntx-0033", "type": "reminder", "date": "2016-11-14", "time": "13:00", "spans": [["WD", "अगले सोमवार"], ["PART", "दोपहर"]]}
+{"id": "ntx-0034", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "अ"], ["WD", "गले घ"], ["TIME", "ंटे"]]}
+{"id": "ntx-0035", "type": "reminder", "date": "2016-11-08", "time": "09:00", "spans": [["WD", "म"], ["WD", "मंगलवार"], ["PART", "सुबह"]]}
+{"id": "ntx-0036", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "3 घंटे"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0037", "type": "reminder", "date": "2016-11-07", "time": "17:00", "spans": [["TIME", "3"], ["TIME", "5"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0038", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "3 मिनट"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0039", "type": "reminder", "date": null, "time": null, "spans": [["TIME", "123"], ["TIME", "45"], ["DAY", "सेकंड"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0040", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["DUR", "पूरे दिन"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0041", "type": "reminder", "date": null, "time": null, "spans": [["WD", "चौबी"], ["DAY", "स"], ["DUR", "घंट"], ["TIME", "े"], ["PART", "रह"], ["TIME", "ंगा"]]}
+{"id": "ntx-0042", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["TIME", "पूरे"], ["TIME", "हीने"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0043", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "एक घंटे"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0044", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "घंटों"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0045", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["DUR", "िन"], ["DAY", "ट"], ["DUR", "ों"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0046", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दिनों"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0047", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "ह"], ["DAY", "फ्त"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0048", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "जाउंगा"]]}
+{"id": "ntx-0049", "type": "reminder", "date": null, "time": null, "spans": [["PART", "रोज"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0050", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "हर साल"], ["WD", "जाउंगा"]]}
+{"id": "ntx-0051", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दो दिन"], ["DAY", "जा"], ["WD", "उंगा"]]}
+{"id": "ntx-0052", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "तीन ह"], ["DAY", "फ्त"], ["DUR", "े"], ["WD", "ंगा"]]}
+{"id": "ntx-0053", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["DUR", "हर दिन"], ["PART", "दोपहर"], ["TIME", "3 बजे"]]}
+{"id": "ntx-0054", "type": "reminder", "date": "2016-11-14", "time": null, "spans": [["WD", "म"], ["WD", "सोमवार"], ["PART", "रहु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0055", "type": "reminder", "date": "2016-11-14", "time": "16:00", "spans": [["WD", "म"], ["WD", "सोमवार"], ["PART", "शाम"], ["TIME", "4 बजे"]]}
+{"id": "ntx-0056", "type": "reminder", "date": "2016-11-07", "time": "19:56", "spans": [["WD", "म"], ["PART", "शाम"], ["TIME", "7:56:30 बजे"]]}
+{"id": "ntx-0057", "type": "reminder", "date": null, "time": null, "spans": [["WD", "साढ़े"], ["TIME", "सात बजे"]]}
+{"id": "ntx-0058", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["PART", "शाम"], ["WD", "आठ"], ["TIME", "ब"], ["WD", "ज"], ["DUR", "20 मिन"], ["TIME", "ट"]]}
+{"id": "ntx-0059", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "सुबह"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0060", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "दोपहर"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0061", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "लगभग लंच के समय"]]}
+{"id": "ntx-0062", "type": "reminder", "date": "2016-11-07", "time": "11:00", "spans": [["TIME", "11"], ["DAY", "आसपास"]]}
+{"id": "ntx-0063", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["PART", "सुबह"], ["TIME", "1140 बजे"]]}
+{"id": "ntx-0064", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["PART", "दोपहर"], ["TIME", "बारह बजे"]]}
+{"id": "ntx-0065", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["WD", "म"], ["PART", "शाम"], ["TIME", "5"], ["TIME", "6 बजे"]]}
+{"id": "ntx-0066", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "सुबह"], ["TIME", "5"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0067", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["PART", "दोपहर"], ["TIME", "5"], ["TIME", "6"]]}
+{"id": "ntx-0068", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["WD", "म"], ["TIME", "4:00"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0069", "type": "reminder", "date": "2016-11-07", "time": "17:00", "spans": [["PART", "सुबह"], ["TIME", "3 बजे"], ["PART", "शाम"], ["TIME", "5 बजे"]]}
+{"id": "ntx-0070", "type": "reminder", "date": "2016-11-07", "time": "16:00", "spans": [["PART", "शाम"], ["TIME", "4"]]}
+{"id": "ntx-0071", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["DAY", "चलो"], ["PART", "सुबह"]]}
+{"id": "ntx-0072", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["DAY", "चलिए"], ["PART", "शाम"]]}
+{"id": "ntx-0073", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अब"], ["WD", "ऊंगा"]]}
+{"id": "ntx-0074", "type": "reminder", "date": "2016-11-07", "time": "17:00", "spans": [["TIME", "5"], ["DUR", "मिनट"]]}
+{"id": "ntx-0075", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "5 मिन"], ["DAY", "टों"]]}
+{"id": "ntx-0076", "type": "reminder", "date": "2016-11-14", "time": "13:00", "spans": [["WD", "अगले हफ्ते"], ["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "9 बजे"], ["PART", "दोपहर"], ["TIME", "1 बजे"]]}
+{"id": "ntx-0077", "type": "reminder", "date": null, "time": null, "spans": [["WD", "अगले हफ्ते"], ["PART", "सोम"], ["WD", "मंग"], ["DAY", "ल"], ["WD", "ैठ"]]}
+{"id": "ntx-0078", "type": "reminder", "date": "2016-11-07", "time": "10:00", "spans": [["PART", "सुबह"], ["TIME", "9 बजे"], ["TIME", "10 बजे"]]}
+{"id": "ntx-0079", "type": "reminder", "date": "2016-11-14", "time": "17:00", "spans": [["WD", "अगले सोमवार"], ["WD", "अपराहन"], ["TIME", "1-3 बजे"], ["PART", "शाम"], ["TIME", "5-6 बजे"], ["WD", "ै"]]}
+{"id": "ntx-0080", "type": "reminder", "date": "2016-11-14", "time": "10:00", "spans": [["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "8-9 बजे"], ["PART", "सुबह"], ["TIME", "9-"], ["TIME", "10 बजे"]]}
+{"id": "ntx-0081", "type": "reminder", "date": "2016-11-10", "time": null, "spans": [["WD", "कोर्टाना"], ["PART", "तुम"], ["WD", "अगले स"], ["PART", "प्ताह"], ["WD", "मंगलवार"], ["WD", "गुरुवार"], ["WD", "स"], ["PART", "्काय"]]}
+{"id": "ntx-0082", "type": "reminder", "date": "2016-11-10", "time": "13:00", "spans": [["WD", "कोर्टाना"], ["PART", "तुम"], ["WD", "अगले स"], ["PART", "प्ताह"], ["WD", "मंगलवार"], ["PART", "सुबह"], ["TIME", "9 बजे"], ["WD", "गुरुवार"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["PART", "्काय"]]}
+{"id": "ntx-0083", "type": "reminder", "date": "2016-11-11", "time": null, "spans": [["DATE", "10/1"], ["DATE", "11/2/2017"]]}
+{"id": "ntx-0086", "type": "reminder", "date": "2016-11-09", "time": null, "spans": [["PART", "ल"], ["WD", "ंच"], ["DAY", "मे"], ["WD", "रे"], ["WD", "कैलेंडर"], ["WD", "मंगलवार"], ["DATE", "9 मई"]]}
+{"id": "ntx-0087", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मई में"]]}
+{"id": "ntx-0088", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "हाल"], ["DATE", "7 मार्च"], ["WD", "मंगलवार"], ["DUR", "1 घ"], ["TIME", "ंटे"], ["WD", "कोर्टाना"], ["WD", "हम"], ["WD", "वि"], ["DAY", "शाल"], ["DAY", "क"], ["PART", "ृप"]]}
+{"id": "ntx-0089", "type": "reminder", "date": "2016-11-07", "time": "10:00", "spans": [["TIME", "10"], ["DATE", "अप्रैल"], ["PART", "स"], ["PART", "प्ताह"], ["PART", "ु"]]}
+{"id": "ntx-0095", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["PART", "आ"], ["DAY", "आज"], ["PART", "ुझा"]]}
+{"id": "ntx-0099", "type": "reminder", "date": "2016-11-07", "time": "10:00", "spans": [["TIME", "9"], ["TIME", "हीने"], ["TIME", "भी"], ["DAY", "तर"], ["PART", "सारा"], ["PART", "स"], ["WD", "अगले"], ["TIME", "10"], ["DUR", "म"], ["TIME", "हीनों"], ["TIME", "भी"], ["DAY", "तर"]]}
+{"id": "ntx-0100", "type": "reminder", "date": "2016-11-07", "time": "14:00", "spans": [["PART", "टॉम"], ["WD", "मेरी"], ["TIME", "2"], ["PART", "स"], ["PART", "प्ताह"], ["DAY", "कृ"], ["PART", "प"], ["PART", "ुझ"], ["TIME", "2"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0101", "type": "reminder", "date": null, "time": null, "spans": [["WD", "अगले पाँच"], ["TIME", "दिनों"], ["WD", "अगले चाली"], ["DAY", "स"], ["DUR", "दिनों"]]}
+{"id": "ntx-0102", "type": "reminder", "date": "2016-12-01", "time": "17:00", "spans": [["WD", "म"], ["DATE", "जुलाई 1"], ["WD", "ंगा"], ["TIME", "17"], ["DUR", "व"], ["TIME", "ीं"], ["DUR", "बार"]]}
+{"id": "ntx-0103", "type": "reminder", "date": "2016-11-07", "time": "14:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "अगले महीने"], ["TIME", "2"], ["TIME", "ंटे"]]}
+{"id": "ntx-0104", "type": "reminder", "date": "2016-11-07", "time": "14:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "पिछले स"], ["PART", "प्ताह"], ["TIME", "2 घंटे"], ["DAY", "रे"], ["DAY", "जा"], ["DAY", "च"]]}
+{"id": "ntx-0105", "type": "reminder", "date": "2016-11-14", "time": "16:00", "spans": [["WD", "कोर्टाना"], ["WD", "सोमवार"], ["TIME", "12"], ["TIME", "4"]]}
+{"id": "ntx-0106", "type": "reminder", "date": "2016-11-14", "time": "11:00", "spans": [["WD", "कोर्टाना"], ["WD", "सोमवार"], ["TIME", "11-4"]]}
+{"id": "ntx-0107", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दूसरे दिन के"], ["WD", "ऊंगा"]]}
+{"id": "ntx-0108", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "हर"], ["DAY", "ह"]]}
+{"id": "ntx-0109", "type": "note", "date": null, "time": null, "spans": [["WD", "नोट"], ["DAY", "्स"], ["WD", "प्रत्येक"], ["PART", "स"], ["WD", "प्त"], ["PART", "ाह"], ["WD", "सं"], ["DAY", "ल"], ["WD", "ग्न"], ["DAY", "एल"], ["PART", "न"], ["WD", "ोट"], ["DAY", "्स"], ["PART", "स"], ["WD", "अ"], ["DAY", "नु"], ["TIME", "भा"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0110", "type": "note", "date": null, "time": null, "spans": [["PART", "वह"], ["WD", "ं"], ["PART", "ह"], ["DAY", "फ"]]}
+{"id": "ntx-0111", "type": "note", "date": null, "time": null, "spans": [["DUR", "उसी महीने"]]}
+{"id": "ntx-0112", "type": "note", "date": null, "time": null, "spans": [["DUR", "उस वीके"], ["WD", "ंड"], ["PART", "वह"], ["DAY", "ा"], ["WD", "ं"]]}
+{"id": "ntx-0113", "type": "note", "date": null, "time": null, "spans": [["DUR", "उसी साल"]]}
+{"id": "ntx-0114", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "उस दिन"], ["WD", "ब्ल"]]}
+{"id": "ntx-0115", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "हीने"], ["DAY", "हू"]]}
+{"id": "ntx-0116", "type": "reminder", "date": "2016-11-09", "time": "09:00", "spans": [["WD", "म"], ["WD", "बुधवार"], ["PART", "सुबह"]]}
+{"id": "ntx-0117", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["DAY", "आज"], ["PART", "दोपहर"], ["WD", "बीजिंग"], ["WD", "जाऊंगा"]]}
+{"id": "ntx-0118", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज"], ["DAY", "बाद"], ["WD", "बीजिंग"], ["WD", "ऊंगा"]]}
+{"id": "ntx-0119", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अरे"], ["DUR", "ें साल"], ["DAY", "क्ल"], ["WD", "ाउड"], ["WD", "प"], ["DAY", "ार्ट"], ["WD", "न"], ["DAY", "र"]]}
+{"id": "ntx-0120", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अरे"], ["DUR", "ें महीने"]]}
+{"id": "ntx-0121", "type": "note", "date": null, "time": null, "spans": [["DAY", "अरे"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0122", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अरे"], ["DUR", "हमें दिन"]]}
+{"id": "ntx-0126", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "अप्रैल 2017"], ["PART", "ब"], ["DAY", "ोनस"]]}
+{"id": "ntx-0127", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मैं 2017 अप्रैल"]]}
+{"id": "ntx-0128", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "अप्रेल"]]}
+{"id": "ntx-0129", "type": "note", "date": null, "time": null, "spans": [["DAY", "पूर्व"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0130", "type": "note", "date": null, "time": null, "spans": [["WD", "म"], ["DUR", "ही"], ["WD", "ने"]]}
+{"id": "ntx-0131", "type": "note", "date": null, "time": null, "spans": []}
+{"id": "ntx-0132", "type": "note", "date": null, "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["WD", "स"], ["PART", "प्ताह"], ["DATE", "अंत"]]}
+{"id": "ntx-0133", "type": "note", "date": null, "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["WD", "महीने"], ["DATE", "अंत"]]}
+{"id": "ntx-0134", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["DATE", "अंत"]]}
+{"id": "ntx-0135", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["DUR", "हमें वर्ष"], ["TIME", "अंत"]]}
+{"id": "ntx-0136", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "क्या"], ["PART", "आ"], ["DAY", "आज"], ["DUR", "दो दिन बाद"]]}
+{"id": "ntx-0137", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["DAY", "क्या"], ["PART", "आ"], ["DAY", "कल"], ["DUR", "तीन सप्त"], ["PART", "ाह"]]}
+{"id": "ntx-0138", "type": "note", "date": "2016-11-06", "time": null, "spans": [["DAY", "कल"], ["DUR", "से"], ["DUR", "दो दिन पहले"]]}
+{"id": "ntx-0139", "type": "note", "date": "2016-10-31", "time": null, "spans": [["DATE", "31 दिसंबर,"]]}
+{"id": "ntx-0140", "type": "reminder", "date": "2016-12-03", "time": "17:49", "spans": [["WD", "म"], ["TIME", "5"], ["DATE", "/3/18"], ["TIME", "17:49:19"]]}
+{"id": "ntx-0141", "type": "reminder", "date": "2016-12-01", "time": "11:30", "spans": [["DATE", "1/1/2015"], ["TIME", "10"], ["TIME", "11:30 बजे"]]}
+{"id": "ntx-0142", "type": "reminder", "date": "2016-12-01", "time": "11:30", "spans": [["TIME", "10"], ["TIME", "11:30"], ["DATE", "1/1/2015"]]}
+{"id": "ntx-0143", "type": "reminder", "date": "2016-12-01", "time": "15:00", "spans": [["DATE", "1/1/2015"], ["TIME", "10:30"], ["TIME", "3 बजे"]]}
+{"id": "ntx-0144", "type": "reminder", "date": "2016-12-01", "time": "15:00", "spans": [["TIME", "3"], ["DATE", "1/1/2015"]]}
+{"id": "ntx-0145", "type": "reminder", "date": "2016-12-01", "time": "17:55", "spans": [["DATE", "1/1/2015"], ["TIME", "3:30"], ["TIME", "5:55"]]}
+{"id": "ntx-0146", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझे"]]}
+{"id": "ntx-0147", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझे"], ["DATE", "2010"], ["DAY", "2018"], ["DAY", "बल"], ["WD", "्कि"]]}
+{"id": "ntx-0148", "type": "reminder", "date": "2016-11-15", "time": null, "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "शुक्रवार"], ["DATE", "जून -15"], ["DAY", "सेट"]]}
+{"id": "ntx-0149", "type": "reminder", "date": "2016-11-15", "time": null, "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "शुक्रवार"], ["DATE", "जून"], ["DATE", "15"], ["DAY", "सेट"]]}
+{"id": "ntx-0151", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझ"], ["DUR", "4 दिन से अधिक"], ["DUR", "1"], ["PART", "स"], ["DUR", "प्त"], ["PART", "ाह"], ["DUR", "कम"]]}
+{"id": "ntx-0152", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझे"], ["DUR", "1 घंटे"], ["DUR", "30 मिनट"]]}
+{"id": "ntx-0153", "type": "reminder", "date": "2016-11-07", "time": "14:00", "spans": [["DAY", "आज से"], ["TIME", "2"], ["DAY", "हफ्त"], ["WD", "े"], ["DAY", "्म"]]}
+{"id": "ntx-0154", "type": "note", "date": "2016-11-06", "time": null, "spans": [["DAY", "कल"], ["DUR", "से"], ["DUR", "2 दिन पहले"]]}
+{"id": "ntx-0155", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["DAY", "कल"], ["DAY", "बाद"], ["DUR", "3 दिन से कम समय"]]}
+{"id": "ntx-0156", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज से"], ["DUR", "2 सप्ताह बाद"]]}
+{"id": "ntx-0157", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["DAY", "चल"], ["DAY", "अब से"], ["TIME", "3"], ["DATE", "म"], ["DUR", "िनट"]]}
+{"id": "ntx-0158", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज से"], ["DUR", "3 मिनट"]]}
+{"id": "ntx-0159", "type": "reminder", "date": "2016-11-09", "time": "21:00", "spans": [["DAY", "क्या"], ["DATE", "म"], ["WD", "ैं"], ["DATE", "09 मई"], ["DUR", "2"], ["PART", "रात"], ["DUR", "ों"]]}
+{"id": "ntx-0160", "type": "note", "date": null, "time": null, "spans": [["DUR", "15 वीं शताब्दी"]]}
+{"id": "ntx-0161", "type": "reminder", "date": "2016-11-21", "time": null, "spans": [["WD", "मुझ"], ["DATE", "21 व"], ["DUR", "ीं"], ["TIME", "सदी"]]}
+{"id": "ntx-0162", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "शायद"], ["DAY", "2018"], ["DAY", "बाद"], ["DUR", "छोड़"]]}
+{"id": "ntx-0163", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "शायद"], ["DATE", "फरवरी 2018"], ["DAY", "बाद"], ["DUR", "छोड़"]]}
+{"id": "ntx-0164", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "शायद"], ["DATE", "फ़रवरी"], ["DUR", "छोड़"]]}
+{"id": "ntx-0165", "type": "reminder", "date": "2016-12-01", "time": "14:00", "spans": [["DATE", "1/1/2015"], ["TIME", "2:00"], ["DAY", "बाद"]]}
+{"id": "ntx-0166", "type": "reminder", "date": "2016-11-07", "time": "16:00", "spans": [["DAY", "आज"], ["PART", "शाम"], ["TIME", "4 बजे"]]}
+{"id": "ntx-0167", "type": "reminder", "date": "2016-11-16", "time": "10:00", "spans": [["WD", "अगले बुधवार"], ["PART", "सुबह"], ["TIME", "10 बजे"]]}
+{"id": "ntx-0168", "type": "note", "date": "2016-11-01", "time": "14:00", "spans": [["WD", "पिछले मंगलवार"], ["PART", "दोपहर"], ["TIME", "2 बजे"]]}
+{"id": "ntx-0169", "type": "reminder", "date": "2016-12-01", "time": "18:00", "spans": [["DAY", "चलो"], ["DATE", "1 फरवरी"], ["TIME", "6:00"]]}
+{"id": "ntx-0170", "type": "note", "date": "2016-11-06", "time": "14:00", "spans": [["WD", "अगले स"], ["PART", "प्ताह"], ["TIME", "2:00"]]}
+{"id": "ntx-0171", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2007"], ["DATE", "2009"]]}
+{"id": "ntx-0172", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2007"], ["DATE", "2009"]]}
+{"id": "ntx-0173", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["DAY", "कृ"], ["PART", "प"], ["DAY", "आज"], ["PART", "सुबह"], ["TIME", "9 बजे"]]}
+{"id": "ntx-0174", "type": "reminder", "date": "2016-11-07", "time": "21:00", "spans": [["DAY", "कृ"], ["PART", "प"], ["DAY", "आज"], ["PART", "शाम"], ["TIME", "9 बजे"]]}
+{"id": "ntx-0175", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "वर्ष 2008"]]}
+{"id": "ntx-0176", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "वर्ष"]]}
+{"id": "ntx-0177", "type": "reminder", "date": null, "time": null, "spans": [["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0178", "type": "reminder", "date": null, "time": null, "spans": [["WD", "अगले"], ["DUR", "के बाद"], ["WD", "स"], ["DUR", "प्त"], ["PART", "ाह"]]}
+{"id": "ntx-0179", "type": "reminder", "date": "2016-12-31", "time": null, "spans": [["PART", "सप्ताह"], ["DATE", "31"]]}
+{"id": "ntx-0180", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["WD", "स"], ["PART", "प्ताह"], ["TIME", "1"]]}
+{"id": "ntx-0181", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["WD", "स"], ["PART", "प्ताह"], ["TIME", "1"]]}
+{"id": "ntx-0183", "type": "reminder", "date": "2016-11-07", "time": "14:00", "spans": [["WD", "म"], ["TIME", "2"], ["DUR", "मिन"], ["DAY", "ट"]]}
+{"id": "ntx-0184", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दो मही"], ["TIME", "ने में"], ["WD", "ंगा"]]}
+{"id": "ntx-0185", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दो"], ["WD", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0186", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दो साल में"], ["WD", "ऊंगा"]]}
+{"id": "ntx-0187", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "आज से"], ["DUR", "दो दिन में"], ["WD", "ंगा"]]}
+{"id": "ntx-0188", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2014"], ["DATE", "2018"]]}
+{"id": "ntx-0189", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["WD", "ें"], ["DAY", "ज"], ["DATE", "2014"], ["DATE", "2018"]]}
+{"id": "ntx-0190", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2014"], ["DATE", "2018"]]}
+{"id": "ntx-0191", "type": "note", "date": null, "time": null, "spans": [["DATE", "2018"]]}
+{"id": "ntx-0192", "type": "note", "date": null, "time": null, "spans": [["DATE", "2018"]]}
+{"id": "ntx-0193", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2018"]]}
+{"id": "ntx-0194", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2018"]]}
+{"id": "ntx-0195", "type": "reminder", "date": null, "time": null, "spans": [["PART", "र"], ["DATE", "ें"], ["DAY", "ज"], ["DATE", "2014"], ["DATE", "2018"]]}
+{"id": "ntx-0196", "type": "reminder", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2018"]]}
+{"id": "ntx-0197", "type": "reminder", "date": null, "time": null, "spans": [["PART", "र"], ["WD", "ें"], ["DAY", "ज"], ["DAY", "2018"]]}
+{"id": "ntx-0198", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2018"]]}
+{"id": "ntx-0199", "type": "note", "date": null, "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "मई 2018"]]}
+{"id": "ntx-0200", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["PART", "र"], ["DAY", "ज"], ["DATE", "2 मई"], ["DATE", "2018"]]}
+{"id": "ntx-0201", "type": "reminder", "date": "2016-11-11", "time": "18:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["TIME", "7"], ["TIME", "6"], ["WD", "शुक्रवार"], ["WD", "कोकु"], ["PART", "छ"], ["DAY", "से"]]}
+{"id": "ntx-0202", "type": "reminder", "date": "2016-11-11", "time": "19:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["TIME", "7/6"], ["WD", "शुक्रवार"], ["DAY", "से"]]}
+{"id": "ntx-0203", "type": "reminder", "date": "2016-11-11", "time": "18:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["TIME", "7"], ["TIME", "6"], ["WD", "शुक्रवार"], ["DAY", "से"]]}
+{"id": "ntx-0204", "type": "reminder", "date": "2016-11-11", "time": "19:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "शुक्रवार"], ["DATE", "2018"], ["TIME", "7-6"], ["DAY", "से"]]}
+{"id": "ntx-0205", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "2 घंटे"], ["DUR", "4 दिनों"], ["DUR", "30 मिनट"]]}
+{"id": "ntx-0206", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझे"], ["DATE", "2008"]]}
+{"id": "ntx-0207", "type": "reminder", "date": "2016-11-07", "time": "13:30", "spans": [["WD", "चौबीसवीं"], ["DATE", "जनवरी"], ["TIME", "1:30"], ["WD", "अपराह्न"], ["PART", "वह"]]}
+{"id": "ntx-0208", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "नवंबर"]]}
+{"id": "ntx-0209", "type": "reminder", "date": "2016-11-12", "time": "17:00", "spans": [["WD", "शनिवार"], ["TIME", "5 बजे"], ["DAY", "सर"], ["PART", "प्रा"]]}
+{"id": "ntx-0210", "type": "note", "date": "2016-11-07", "time": "21:00", "spans": [["WD", "पिछली"], ["PART", "रात"]]}
+{"id": "ntx-0211", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "आजादी"], ["DUR", "से एक साल पहले"]]}
+{"id": "ntx-0212", "type": "reminder", "date": null, "time": null, "spans": [["WD", "स्वतंत्र"]]}
+{"id": "ntx-0213", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "स्वतंत्र"]]}
+{"id": "ntx-0214", "type": "reminder", "date": "2016-11-09", "time": "16:00", "spans": [["WD", "कोर्टाना"], ["TIME", "10"], ["TIME", "4"], ["WD", "मंगलवार"], ["WD", "बुधवार"]]}
+{"id": "ntx-0215", "type": "reminder", "date": null, "time": null, "spans": [["WD", "अगले स"], ["PART", "प्ताह"], ["DAY", "अनु"]]}
+{"id": "ntx-0216", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "चलो"], ["WD", "अगले"], ["TIME", "कुछ"], ["PART", "ह"], ["WD", "फ़्ते"]]}
+{"id": "ntx-0217", "type": "note", "date": "2016-11-07", "time": null, "spans": [["WD", "अगले सप्त"], ["PART", "ाह"], ["WD", "सोमवार"]]}
+{"id": "ntx-0218", "type": "reminder", "date": "2016-11-22", "time": "11:00", "spans": [["WD", "म"], ["DATE", "मई/22"], ["WD", "मंगल"], ["TIME", "11: 30"]]}
+{"id": "ntx-0219", "type": "reminder", "date": "2016-11-08", "time": "09:00", "spans": [["WD", "दर"], ["TIME", "जा"], ["DAY", "आज"], ["PART", "दोपहर"], ["DAY", "से"], ["DAY", "कल"], ["PART", "सुबह"]]}
+{"id": "ntx-0220", "type": "reminder", "date": "2016-11-09", "time": "18:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "ृ"], ["WD", "अगले स"], ["PART", "प्ताह"], ["WD", "बुधवार"], ["PART", "शाम"], ["DAY", "सेट"]]}
+{"id": "ntx-0221", "type": "reminder", "date": "2016-11-14", "time": "18:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "ृप"], ["WD", "अगले"], ["DUR", "म"], ["TIME", "ही"], ["WD", "ने"], ["WD", "सोमवार"], ["PART", "शाम"]]}
+{"id": "ntx-0222", "type": "reminder", "date": "2016-11-14", "time": "15:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "ृप"], ["WD", "अगले"], ["DUR", "मही"], ["WD", "ने"], ["WD", "सोमवार"], ["PART", "दोपहर"], ["TIME", "1 बजे"], ["TIME", "3:00 बजे"], ["DAY", "ट"]]}
+{"id": "ntx-0223", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "क"], ["PART", "ृप"], ["TIME", "18"], ["TIME", "ं"], ["PART", "स"], ["PART", "प्ताह"], ["DAY", "ट"]]}
+{"id": "ntx-0224", "type": "reminder", "date": "2016-11-18", "time": null, "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "क"], ["PART", "ृप"], ["DATE", "18"]]}
+{"id": "ntx-0225", "type": "reminder", "date": "2016-11-07", "time": "16:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "क"], ["PART", "ृप"], ["TIME", "4"]]}
+{"id": "ntx-0231", "type": "reminder", "date": "2016-11-21", "time": null, "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "ृप"], ["DATE", "21"], ["DAY", "आसपास"], ["DAY", "सेट"]]}
+{"id": "ntx-0232", "type": "reminder", "date": "2016-11-08", "time": "10:00", "spans": [["WD", "कोर्टाना"], ["PART", "आ"], ["PART", "ृप"], ["DAY", "कल"], ["PART", "सुबह"], ["TIME", "10 बजे"], ["DAY", "आसपास"]]}
+{"id": "ntx-0233", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "ह"], ["DAY", "फ"], ["WD", "्त"], ["PART", "े"], ["TIME", "शुरू"], ["PART", "सुबह"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0234", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "सुबह"], ["TIME", "7:00 बजे"]]}
+{"id": "ntx-0235", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["WD", "म"], ["DAY", "कल"]]}
+{"id": "ntx-0236", "type": "reminder", "date": "2016-11-07", "time": "16:00", "spans": [["WD", "कोर्टाना"], ["DAY", "क"], ["PART", "आप"], ["TIME", "अ"], ["WD", "गले"], ["TIME", "4"]]}
+{"id": "ntx-0237", "type": "reminder", "date": "2016-11-07", "time": "16:00", "spans": [["WD", "कोर्टाना"], ["DAY", "क"], ["PART", "आप"], ["TIME", "अ"], ["WD", "गले"], ["TIME", "4"]]}
+{"id": "ntx-0238", "type": "reminder", "date": null, "time": null, "spans": [["WD", "कोर्टाना"], ["DAY", "क"], ["PART", "आप"], ["WD", "पिछले 4"]]}
+{"id": "ntx-0239", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["WD", "कोर्टाना"], ["DAY", "क"], ["PART", "आ"], ["DATE", "प अक्टूबर"], ["TIME", "1"]]}
+{"id": "ntx-0240", "type": "reminder", "date": "2016-11-08", "time": "13:00", "spans": [["WD", "अगले सोमवार"], ["WD", "मंगलवार"], ["TIME", "1pm"], ["DUR", "15 मिन"], ["TIME", "ट"], ["PART", "्का"]]}
+{"id": "ntx-0241", "type": "reminder", "date": "2016-11-19", "time": null, "spans": [["DAY", "को"], ["WD", "र्टाना"], ["DATE", "18"], ["DATE", "19 जून"]]}
+{"id": "ntx-0242", "type": "note", "date": null, "time": null, "spans": [["DUR", "5 सालों में"]]}
+{"id": "ntx-0243", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "2"], ["DUR", "गा"], ["DAY", "मी"], ["DUR", "महीनों"]]}
+{"id": "ntx-0244", "type": "note", "date": null, "time": null, "spans": [["DUR", "2 अगले दिनों"]]}
+{"id": "ntx-0245", "type": "note", "date": null, "time": null, "spans": [["DUR", "5"], ["WD", "मिन"], ["DAY", "टों"]]}
+{"id": "ntx-0246", "type": "note", "date": null, "time": null, "spans": [["DUR", "5 बीते मिन"], ["DAY", "टों"]]}
+{"id": "ntx-0247", "type": "note", "date": null, "time": null, "spans": [["DUR", "5 प"], ["WD", "िछले"], ["DUR", "वर्षों में"]]}
+{"id": "ntx-0248", "type": "note", "date": "2016-10-10", "time": null, "spans": [["DATE", "10"], ["WD", "पिछले ह"], ["DAY", "फ्तों"]]}
+{"id": "ntx-0249", "type": "reminder", "date": "2016-11-08", "time": "00:00", "spans": [["DAY", "कल"], ["TIME", "10am"], ["TIME", "12am"], ["DAY", "कल"], ["PART", "ब"]]}
+{"id": "ntx-0250", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "अ"], ["WD", "गले"], ["DUR", "साल"], ["DUR", "तिम"], ["PART", "ाह"]]}
+{"id": "ntx-0251", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "2012"], ["DUR", "अधिक वर्ष के"]]}
+{"id": "ntx-0252", "type": "reminder", "date": null, "time": null, "spans": []}
+{"id": "ntx-0253", "type": "note", "date": null, "time": null, "spans": [["DATE", "साल 2016"]]}
+{"id": "ntx-0254", "type": "reminder", "date": "2016-12-01", "time": null, "spans": [["PART", "आ"], ["DATE", "1/1/2016"], ["DAY", "बाद"], ["DUR", "ोड़"]]}
+{"id": "ntx-0255", "type": "reminder", "date": "2016-12-01", "time": null, "spans": [["DATE", "1/1/2016"]]}
+{"id": "ntx-0256", "type": "reminder", "date": "2016-12-01", "time": "18:00", "spans": [["DATE", "1/1/2016"], ["PART", "शाम"], ["TIME", "6 बजे"]]}
+{"id": "ntx-0257", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["PART", "्ट"], ["DATE", "वर्ष"], ["DAY", "आज"]]}
+{"id": "ntx-0258", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "क"], ["DAY", "2018"], ["DUR", "छोड़ दे"]]}
+{"id": "ntx-0259", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2018"]]}
+{"id": "ntx-0260", "type": "reminder", "date": "2016-11-07", "time": "07:00", "spans": [["PART", "सप्ताह"], ["PART", "समय"], ["PART", "सुबह"], ["TIME", "7:00 बजे"]]}
+{"id": "ntx-0261", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2018"], ["DAY", "बाद"]]}
+{"id": "ntx-0262", "type": "reminder", "date": "2016-11-14", "time": "14:30", "spans": [["DAY", "कृ"], ["PART", "प"], ["WD", "या"], ["WD", "सोमवार"], ["TIME", "2.30 बजे"], ["WD", "ै"]]}
+{"id": "ntx-0263", "type": "reminder", "date": "2016-11-07", "time": "14:30", "spans": [["PART", "दोपहर"], ["TIME", "2.30 बजे"]]}
+{"id": "ntx-0264", "type": "reminder", "date": "2016-12-03", "time": "11:00", "spans": [["WD", "नमस्ते"], ["WD", "गुरुवार"], ["DATE", "29"], ["TIME", "/"], ["DATE", "03"], ["PART", "सुबह"], ["TIME", "11.00 बजे"]]}
+{"id": "ntx-0265", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["PART", "शाम"], ["TIME", "9.30"], ["TIME", "4.30 बजे"], ["TIME", "6/4"]]}
+{"id": "ntx-0266", "type": "note", "date": null, "time": null, "spans": [["DATE", "आप मार्च से मई"]]}
+{"id": "ntx-0267", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "अगस्त"], ["DATE", "अक्टूबर"]]}
+{"id": "ntx-0268", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मई से मार्च तक"]]}
+{"id": "ntx-0269", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "सितंबर से नवंबर"]]}
+{"id": "ntx-0270", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मई से सितंबर"]]}
+{"id": "ntx-0271", "type": "reminder", "date": null, "time": null, "spans": [["WD", "न"], ["DATE", "वंबर से मार्च तक"]]}
+{"id": "ntx-0273", "type": "reminder", "date": "2016-11-07", "time": "06:45", "spans": [["TIME", "6.45"]]}
+{"id": "ntx-0274", "type": "note", "date": null, "time": null, "spans": [["WD", "ट"], ["DAY", "ा"], ["WD", "इफून"], ["WD", "जांगसेन"], ["DUR", "दो महीने"], ["WD", "मेट्रो"], ["WD", "ज"], ["DAY", "ोन"], ["DAY", "कम से"], ["WD", "कम"], ["DAY", "मार"], ["DAY", "अरब"], ["WD", "मूलभूत"]]}
+{"id": "ntx-0275", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "दो दिन में"], ["DAY", "हफ्त"], ["PART", "े"]]}
+{"id": "ntx-0276", "type": "reminder", "date": "2016-11-07", "time": "11:00", "spans": [["TIME", "10"], ["DATE", "/1"], ["TIME", "11"], ["DATE", "/7"]]}
+{"id": "ntx-0277", "type": "reminder", "date": "2016-12-01", "time": null, "spans": [["DATE", "10/25"], ["DATE", "01/25"]]}
+{"id": "ntx-0278", "type": "reminder", "date": "2016-11-07", "time": "10:00", "spans": [["PART", "ुट"], ["TIME", "10"], ["DATE", "-1-2018"], ["TIME", "10"], ["DATE", "-7-2018"]]}
+{"id": "ntx-0279", "type": "reminder", "date": "2016-11-10", "time": null, "spans": [["PART", "ुट"], ["DATE", "10/1/2018"], ["DATE", "10/7/2018"]]}
+{"id": "ntx-0280", "type": "reminder", "date": "2016-11-10", "time": null, "spans": [["PART", "ुट"], ["DATE", "10/1/2018"], ["DATE", "10/7/2018"]]}
+{"id": "ntx-0281", "type": "reminder", "date": "2016-11-07", "time": "11:00", "spans": [["DAY", "मे"], ["WD", "रे"], ["DATE", "पास"], ["TIME", "10/1"], ["TIME", "11 / 7"]]}
+{"id": "ntx-0282", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "जनवरी-फरवरी 2017"]]}
+{"id": "ntx-0283", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "नवं"], ["DATE", "फर. 2017"], ["DAY", "कोरिया"]]}
+{"id": "ntx-0284", "type": "reminder", "date": "2016-12-05", "time": null, "spans": [["DAY", "नवं"], ["DATE", "फर. 5"], ["DATE", "2017"]]}
+{"id": "ntx-0285", "type": "reminder", "date": "2016-11-19", "time": null, "spans": [["DATE", "18 नवंबर"], ["DATE", "19 दिसंबर,"]]}
+{"id": "ntx-0286", "type": "reminder", "date": "2016-11-19", "time": null, "spans": [["DATE", "18 नवंबर 2014"], ["DATE", "19 दिसंबर 2015"]]}
+{"id": "ntx-0287", "type": "reminder", "date": "2016-11-18", "time": null, "spans": [["DATE", "18-19"], ["DATE", "नवंबर"]]}
+{"id": "ntx-0288", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मई से अक्टूबर 2020"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0289", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "म"], ["DATE", "मई"], ["DATE", "अक्टूबर 2020"], ["PART", "रह"], ["WD", "ु"], ["TIME", "ंगा"]]}
+{"id": "ntx-0290", "type": "reminder", "date": "2016-11-07", "time": "17:00", "spans": [["TIME", "5/"], ["DATE", "1"], ["TIME", "5/"], ["DATE", "7"]]}
+{"id": "ntx-0291", "type": "reminder", "date": "2016-11-07", "time": "17:00", "spans": [["TIME", "5"], ["DATE", "/1"], ["TIME", "5"], ["DATE", "/7/2020"]]}
+{"id": "ntx-0292", "type": "reminder", "date": "2016-12-05", "time": null, "spans": [["DATE", "5/1/2019"], ["DATE", "5/7/2020"]]}
+{"id": "ntx-0293", "type": "reminder", "date": "2016-12-05", "time": null, "spans": [["PART", "दिन"], ["DAY", "ांक"], ["DATE", "05-अगस्त -2016"]]}
+{"id": "ntx-0294", "type": "reminder", "date": "2016-11-14", "time": "12:00", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "10 बजे"], ["PART", "दोपहर"], ["TIME", "12 बजे"]]}
+{"id": "ntx-0295", "type": "note", "date": "2016-11-06", "time": "08:00", "spans": [["DAY", "कल"], ["PART", "दोपहर"], ["TIME", "3"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0296", "type": "note", "date": "2016-11-06", "time": "08:00", "spans": [["DAY", "कल"], ["PART", "दोपहर"], ["TIME", "3"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0297", "type": "note", "date": "2016-11-06", "time": "15:00", "spans": [["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8 बजे"], ["PART", "दोपहर"], ["TIME", "3 बजे"]]}
+{"id": "ntx-0298", "type": "note", "date": "2016-11-07", "time": "15:00", "spans": [["WD", "सोमवार"], ["TIME", "3-8"]]}
+{"id": "ntx-0299", "type": "note", "date": "2016-11-06", "time": "08:00", "spans": [["PART", "आप"], ["DAY", "कल"], ["TIME", "3"], ["TIME", "8"]]}
+{"id": "ntx-0300", "type": "reminder", "date": "2016-11-14", "time": "08:00", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "3"], ["PART", "सुबह"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0301", "type": "reminder", "date": "2016-11-14", "time": "12:00", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "अगले सोमवार"], ["PART", "सुबह"], ["TIME", "3 बजे"], ["PART", "दोपहर"], ["TIME", "12 बजे"]]}
+{"id": "ntx-0302", "type": "reminder", "date": "2016-11-14", "time": "08:00", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "6"], ["TIME", "8"]]}
+{"id": "ntx-0303", "type": "reminder", "date": "2016-11-14", "time": "08:00", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["TIME", "6"], ["TIME", "8"]]}
+{"id": "ntx-0304", "type": "reminder", "date": "2016-11-14", "time": "08:00", "spans": [["PART", "आप"], ["WD", "अगले सोमवार"], ["PART", "सुबह"], ["TIME", "6"], ["TIME", "8"]]}
+{"id": "ntx-0305", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "दिसंबर 2018"]]}
+{"id": "ntx-0306", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "दिसंबर / 2018"]]}
+{"id": "ntx-0307", "type": "reminder", "date": null, "time": null, "spans": [["WD", "द"], ["DATE", "िसंबर, 2018"]]}
+{"id": "ntx-0308", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "दिसंबर/2018"], ["DATE", "मई/2019"]]}
+{"id": "ntx-0309", "type": "note", "date": null, "time": null, "spans": [["DUR", "एक दिन पहले"]]}
+{"id": "ntx-0310", "type": "reminder", "date": "2016-11-09", "time": null, "spans": [["DAY", "परसों"], ["PART", "आ"]]}
+{"id": "ntx-0312", "type": "reminder", "date": "2016-11-15", "time": null, "spans": [["WD", "मुझे"], ["WD", "ारी"], ["WD", "अगले सोमवार"], ["WD", "अगले मंगलवार"]]}
+{"id": "ntx-0313", "type": "reminder", "date": "2016-10-31", "time": null, "spans": [["WD", "मुझे"], ["WD", "ारी"], ["WD", "अगले सोमवार"], ["WD", "पिछले सोमवार"]]}
+{"id": "ntx-0314", "type": "reminder", "date": "2016-11-02", "time": null, "spans": [["WD", "मुझे"], ["WD", "अगले सोमवार"], ["WD", "मंगलवार"], ["WD", "पिछले बुधवार"]]}
+{"id": "ntx-0315", "type": "reminder", "date": "2016-11-09", "time": null, "spans": [["WD", "अगले सप्ताह"], ["WD", "बुधवार"]]}
+{"id": "ntx-0316", "type": "note", "date": "2016-11-07", "time": null, "spans": [["WD", "पिछले सप्त"], ["PART", "ाह"], ["WD", "सोमवार"]]}
+{"id": "ntx-0317", "type": "note", "date": "2016-11-07", "time": null, "spans": [["DAY", "हफ"], ["WD", "्ते"], ["WD", "सोमवार"]]}
+{"id": "ntx-0318", "type": "note", "date": "2016-10-25", "time": "11:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["TIME", "11/"], ["DATE", "20"], ["TIME", "11/"], ["DATE", "22"], ["TIME", "11/"], ["DATE", "25"], ["DUR", "30 मिनट"]]}
+{"id": "ntx-0319", "type": "reminder", "date": null, "time": null, "spans": [["PART", "आ"], ["PART", "हम"], ["WD", "ेश"], ["PART", "दिन"], ["PART", "अंत"], ["PART", "स"]]}
+{"id": "ntx-0320", "type": "reminder", "date": null, "time": null, "spans": [["PART", "बॉब"], ["DAY", "एलिस"], ["DAY", "आमतौर"], ["DAY", "एन्क्र"], ["PART", "िप"], ["PART", "्टेड"], ["TIME", "दिन"], ["DAY", "अंत"]]}
+{"id": "ntx-0321", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "साल"], ["PART", "अंत"]]}
+{"id": "ntx-0322", "type": "reminder", "date": "2016-11-12", "time": "11:00", "spans": [["DAY", "्या"], ["TIME", "11"], ["DATE", "/20"], ["DATE", "12"], ["DATE", "नव"], ["WD", "ंबर"]]}
+{"id": "ntx-0323", "type": "reminder", "date": null, "time": null, "spans": [["TIME", "साल"], ["DAY", "अंत"]]}
+{"id": "ntx-0324", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "ने"], ["PART", "सुना"], ["PART", "आ"], ["TIME", "म"], ["DUR", "हीने"], ["TIME", "के अंत"]]}
+{"id": "ntx-0325", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अपने"], ["PART", "पुश"], ["WD", "डिस्क"], ["WD", "स"], ["PART", "प्ताह"], ["DAY", "अंत"]]}
+{"id": "ntx-0326", "type": "reminder", "date": "2016-11-11", "time": "18:00", "spans": [["DAY", "क"], ["PART", "आप"], ["TIME", "9"], ["TIME", "6"], ["WD", "बुधवार"], ["WD", "गुरुवार"], ["WD", "शुक्रवार"], ["DAY", "कॉन"], ["WD", "्फरेंस"]]}
+{"id": "ntx-0327", "type": "reminder", "date": null, "time": null, "spans": []}
+{"id": "ntx-0328", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "जनवरी 2015"]]}
+{"id": "ntx-0329", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2016"], ["WD", "आखिरी"]]}
+{"id": "ntx-0330", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "दिसंबर 2016"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0331", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2019"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0332", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2019"], ["WD", "अंतिम"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0333", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2018"], ["WD", "तीसरा स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0334", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "जनवरी"], ["TIME", "ती"], ["WD", "सर"], ["TIME", "ा"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0335", "type": "note", "date": null, "time": null, "spans": [["WD", "पिछले स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0336", "type": "reminder", "date": null, "time": null, "spans": [["PART", "सप्ताह"], ["DATE", "अंत"], ["DAY", "्म"]]}
+{"id": "ntx-0337", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["PART", "दोपहर"], ["TIME", "3 बजे"], ["PART", "अप"], ["DAY", "ॉ"], ["WD", "इंट"]]}
+{"id": "ntx-0338", "type": "reminder", "date": null, "time": null, "spans": [["WD", "ुझ"], ["DUR", "एक घंटे"], ["DUR", "आ"], ["TIME", "धे"], ["DUR", "घंट"], ["TIME", "े"]]}
+{"id": "ntx-0339", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझ"], ["WD", "डेढ़"], ["TIME", "घंटा"]]}
+{"id": "ntx-0340", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझ"], ["WD", "डेढ़"], ["TIME", "घंटे"]]}
+{"id": "ntx-0341", "type": "reminder", "date": null, "time": null, "spans": [["WD", "इंटर"], ["WD", "इंटर्न"], ["DUR", "एक"], ["DUR", "एक चौथाई वर्ष"], ["DAY", "न्तर"]]}
+{"id": "ntx-0342", "type": "reminder", "date": null, "time": null, "spans": [["WD", "इंटरनेट"], ["WD", "इंटर्न"], ["DUR", "एक साल"], ["DUR", "एक चौथाई साल"], ["DAY", "र"]]}
+{"id": "ntx-0347", "type": "note", "date": "2016-11-01", "time": null, "spans": [["WD", "मंगलवार"]]}
+{"id": "ntx-0348", "type": "reminder", "date": "2016-11-21", "time": null, "spans": [["DAY", "क"], ["DATE", "21"], ["WD", "सोमवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0349", "type": "reminder", "date": "2016-11-21", "time": null, "spans": [["DAY", "क"], ["DATE", "21"], ["WD", "सोमवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0350", "type": "reminder", "date": "2016-12-31", "time": null, "spans": [["DAY", "क"], ["WD", "रविवार"], ["DATE", "31"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0351", "type": "reminder", "date": "2016-12-31", "time": null, "spans": [["DAY", "क"], ["DATE", "31"], ["WD", "शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0352", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "क्या"], ["DATE", "मई"], ["WD", "इंतजा"]]}
+{"id": "ntx-0353", "type": "note", "date": null, "time": null, "spans": [["DATE", "सितंबर"]]}
+{"id": "ntx-0354", "type": "note", "date": null, "time": null, "spans": [["DATE", "जुलाई"], ["WD", "आखिर"]]}
+{"id": "ntx-0356", "type": "reminder", "date": "2016-11-11", "time": null, "spans": [["WD", "आगामी"], ["WD", "शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0357", "type": "reminder", "date": "2016-11-18", "time": null, "spans": [["DAY", "क"], ["WD", "अगले शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0358", "type": "reminder", "date": "2016-11-11", "time": null, "spans": [["WD", "अगला शुक्रवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0359", "type": "reminder", "date": "2016-11-10", "time": null, "spans": [["DAY", "क्या"], ["WD", "आने वाले"], ["WD", "गुरुवार"], ["WD", "इंतजा"], ["PART", "म"]]}
+{"id": "ntx-0360", "type": "note", "date": "2016-11-02", "time": null, "spans": [["WD", "पिछला बुधवार"]]}
+{"id": "ntx-0361", "type": "note", "date": "2016-11-02", "time": null, "spans": [["PART", "आ"], ["WD", "पिछले बुधवार"]]}
+{"id": "ntx-0362", "type": "note", "date": "2016-10-12", "time": null, "spans": [["DATE", "आप 12"], ["DATE", "0730"]]}
+{"id": "ntx-0363", "type": "note", "date": null, "time": null, "spans": [["DATE", "आप 0730"]]}
+{"id": "ntx-0364", "type": "note", "date": "2016-10-30", "time": "19:00", "spans": [["PART", "आ"], ["DATE", "प"], ["TIME", "093"], ["DATE", "0"], ["TIME", "07"], ["DATE", "30"]]}
+{"id": "ntx-0366", "type": "reminder", "date": "2016-11-21", "time": "15:00", "spans": [["WD", "सोमवार"], ["DATE", "21"], ["TIME", "9:30"], ["PART", "शाम"], ["TIME", "3:00 बजे"], ["DAY", "स"]]}
+{"id": "ntx-0367", "type": "reminder", "date": "2016-11-15", "time": "13:15", "spans": [["DAY", "क"], ["PART", "आप"], ["WD", "मंगलवार"], ["DATE", "15 जनवरी"], ["PART", "दोपहर"], ["TIME", "1:00"], ["TIME", "1:15 बजे"]]}
+{"id": "ntx-0368", "type": "reminder", "date": "2016-11-18", "time": "15:00", "spans": [["PART", "आ"], ["WD", "नवीनी"], ["DATE", "18 जनवरी, 2019"], ["PART", "आ"], ["DAY", "को"], ["WD", "र्ट"], ["PART", "ाना"], ["DAY", "आज"], ["PART", "दोपहर"], ["TIME", "3 बजे"], ["PART", "स"], ["PART", "्का"], ["PART", "इप"], ["PART", "श"]]}
+{"id": "ntx-0369", "type": "reminder", "date": "2016-11-10", "time": "21:00", "spans": [["DAY", "हर"], ["WD", "मंगलवार"], ["WD", "गुरुवार"], ["TIME", "19:00"], ["TIME", "21:00"], ["DAY", "रा"], ["PART", "ब"]]}
+{"id": "ntx-0370", "type": "reminder", "date": "2016-11-12", "time": null, "spans": [["WD", "वैध"], ["DATE", "12"], ["DATE", "2015"]]}
+{"id": "ntx-0373", "type": "reminder", "date": "2016-11-12", "time": null, "spans": [["WD", "वैध"], ["DATE", "12"]]}
+{"id": "ntx-0379", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["PART", "सुबह"], ["TIME", "9: 00 बजे"]]}
+{"id": "ntx-0380", "type": "reminder", "date": "2016-11-08", "time": "08:45", "spans": [["DAY", "कल"], ["PART", "सुबह"], ["TIME", "8:45 बजे"]]}
+{"id": "ntx-0381", "type": "note", "date": null, "time": null, "spans": [["DUR", "दो साल में"]]}
+{"id": "ntx-0382", "type": "note", "date": null, "time": null, "spans": [["DATE", "2011"], ["DUR", "दो"], ["WD", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0383", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["PART", "र"], ["DAY", "ू"], ["TIME", "ंगा"]]}
+{"id": "ntx-0384", "type": "reminder", "date": "2016-11-09", "time": "16:00", "spans": [["WD", "मैं"], ["WD", "बुधवार"], ["TIME", "4 बजे"]]}
+{"id": "ntx-0385", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["PART", "दोपहर"], ["TIME", "3 बजे"]]}
+{"id": "ntx-0386", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["PART", "दोपहर"], ["TIME", "3 बजे"], ["TIME", "बाद"], ["WD", "सोमवार"]]}
+{"id": "ntx-0387", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["PART", "सुबह"], ["TIME", "9 बजे"]]}
+{"id": "ntx-0388", "type": "reminder", "date": null, "time": null, "spans": [["WD", "अठारह"], ["PART", "स"], ["TIME", "ाढ़े नौ बजे"]]}
+{"id": "ntx-0389", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "फरवरी"], ["PART", "ब"], ["WD", "ाईस"]]}
+{"id": "ntx-0390", "type": "reminder", "date": "2016-11-07", "time": "15:30", "spans": [["DATE", "फरवरी"], ["PART", "ब"], ["WD", "ाईस"], ["TIME", "3:30 बजे"]]}
+{"id": "ntx-0391", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["PART", "आप"], ["WD", "ेम्"], ["PART", "प"], ["PART", "्ल"], ["DATE", "7 जनवरी"]]}
+{"id": "ntx-0392", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["PART", "आप"], ["WD", "ेम्"], ["PART", "प"], ["PART", "्ल"], ["DATE", "7 जनवरी"]]}
+{"id": "ntx-0393", "type": "reminder", "date": "2016-11-07", "time": "15:30", "spans": [["DATE", "फरवरी"], ["PART", "ब"], ["WD", "ाईस"], ["TIME", "3:30 बजे"]]}
+{"id": "ntx-0394", "type": "reminder", "date": "2016-11-22", "time": "15:30", "spans": [["DATE", "फरवरी 22"], ["TIME", "3:30 बजे"]]}
+{"id": "ntx-0395", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "कृ"], ["PART", "प"], ["PART", "आप"], ["WD", "ेम्"], ["PART", "प"], ["PART", "्ल"], ["DATE", "7 जनवरी"]]}
+{"id": "ntx-0396", "type": "reminder", "date": "2016-11-07", "time": null, "spans": [["DAY", "क्या"], ["PART", "आ"], ["WD", "ेम्"], ["PART", "प"], ["WD", "्ल"], ["DATE", "7 जनवरी"]]}
+{"id": "ntx-0397", "type": "reminder", "date": "2016-11-11", "time": null, "spans": [["WD", "म"], ["WD", "शुक्रवार"], ["WD", "मार्च"], ["WD", "प"], ["TIME", "ंद"], ["WD", "्रह"], ["TIME", "नौ बजे"]]}
+{"id": "ntx-0398", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "जनवरी"], ["DUR", "दो ह"], ["DAY", "जार"], ["TIME", "बत्ती"], ["DAY", "स"]]}
+{"id": "ntx-0399", "type": "reminder", "date": "2016-11-26", "time": "15:50", "spans": [["WD", "बुध"], ["DATE", "अक्टूबर 26"], ["TIME", "15:50:06"], ["DAY", "2019"], ["DUR", "दिन"]]}
+{"id": "ntx-0400", "type": "reminder", "date": "2016-11-15", "time": null, "spans": [["DAY", "अभी"], ["TIME", "से"], ["DATE", "15 नव"], ["WD", "ंबर"], ["TIME", "ंगा"]]}
+{"id": "ntx-0401", "type": "reminder", "date": "2016-11-22", "time": null, "spans": [["DATE", "22 जनवरी"], ["DAY", "अब"]]}
+{"id": "ntx-0402", "type": "reminder", "date": "2016-11-21", "time": null, "spans": [["DAY", "चल"], ["DAY", "अब"], ["DATE", "21 मई"], ["DAY", "अभी"]]}
+{"id": "ntx-0403", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2017"], ["DATE", "अप्रैल से जून"]]}
+{"id": "ntx-0404", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2016"], ["DATE", "अप्रैल से 2017"], ["DATE", "जून"]]}
+{"id": "ntx-0405", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "जनवरी से अप्रैल 2015"]]}
+{"id": "ntx-0406", "type": "reminder", "date": "2016-11-11", "time": "19:00", "spans": [["WD", "कोर्टाना"], ["DAY", "कृ"], ["PART", "प"], ["WD", "शुक्रवार"], ["TIME", "7.6"], ["DAY", "सेट"]]}
+{"id": "ntx-0407", "type": "reminder", "date": "2016-11-12", "time": "17:00", "spans": [["TIME", "5"], ["DATE", ".12"]]}
+{"id": "ntx-0408", "type": "reminder", "date": "2016-11-12", "time": "17:00", "spans": [["TIME", "5"], ["DATE", "/12"], ["WD", "शुक्रवार"]]}
+{"id": "ntx-0409", "type": "reminder", "date": "2016-11-12", "time": "17:00", "spans": [["WD", "अगले शुक्रवार"], ["TIME", "5/"], ["DATE", "12"]]}
+{"id": "ntx-0410", "type": "reminder", "date": "2016-11-12", "time": "17:00", "spans": [["TIME", "5"], ["DATE", "/12"]]}
+{"id": "ntx-0411", "type": "reminder", "date": "2016-12-05", "time": null, "spans": [["WD", "अगले"], ["DATE", "5/12"]]}
+{"id": "ntx-0412", "type": "reminder", "date": "2016-12-06", "time": null, "spans": [["WD", "अगले"], ["DATE", "6 अप्रैल"]]}
+{"id": "ntx-0413", "type": "reminder", "date": "2016-11-20", "time": "17:00", "spans": [["WD", "शुक्रवार"], ["TIME", "5/12"], ["WD", "अगले रविवार"], ["TIME", "5/20"]]}
+{"id": "ntx-0414", "type": "reminder", "date": "2016-12-03", "time": null, "spans": [["DAY", "बल"], ["WD", "्कि"], ["DATE", "जनवरी / 3"]]}
+{"id": "ntx-0417", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "90"], ["DUR", "दशक"]]}
+{"id": "ntx-0418", "type": "reminder", "date": null, "time": null, "spans": []}
+{"id": "ntx-0419", "type": "reminder", "date": null, "time": null, "spans": [["WD", "कोर्टाना"], ["PART", "सप्ताह"], ["DUR", "30"], ["DUR", "िन"], ["DAY", "ट"]]}
+{"id": "ntx-0420", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "30 मिनट"], ["PART", "ट"], ["WD", "हलें"]]}
+{"id": "ntx-0421", "type": "reminder", "date": "2016-11-28", "time": null, "spans": [["DATE", "मैं"], ["DATE", "26 जून"], ["DATE", "28 जून"]]}
+{"id": "ntx-0422", "type": "reminder", "date": "2016-11-28", "time": null, "spans": [["DATE", "मैं"], ["DATE", "26 जून"], ["DATE", "28 जून"]]}
+{"id": "ntx-0423", "type": "reminder", "date": "2016-11-28", "time": null, "spans": [["DATE", "म"], ["DATE", "28 जून"]]}
+{"id": "ntx-0424", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["WD", "ब्लैक"], ["WD", "फ्राइडे"]]}
+{"id": "ntx-0425", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "मैं"]]}
+{"id": "ntx-0426", "type": "reminder", "date": null, "time": null, "spans": [["WD", "ईस्टर"], ["DATE", "2018"], ["WD", "ंगा"]]}
+{"id": "ntx-0427", "type": "reminder", "date": "2016-11-14", "time": "18:00", "spans": [["WD", "सत्ताईस"], ["WD", "सोमवार"], ["PART", "शाम"], ["TIME", "छह बजे"]]}
+{"id": "ntx-0428", "type": "reminder", "date": "2016-11-14", "time": "18:00", "spans": [["WD", "चौबीस"], ["WD", "सोमवार"], ["PART", "शाम"], ["TIME", "छह बजे"]]}
+{"id": "ntx-0429", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2017"], ["PART", "q"]]}
+{"id": "ntx-0430", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2017"]]}
+{"id": "ntx-0431", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2019"], ["WD", "चुनौतिया"]]}
+{"id": "ntx-0432", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2019"], ["DATE", "h2"], ["WD", "चुनौति"]]}
+{"id": "ntx-0433", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2017"], ["PART", "q"], ["DATE", "2018"], ["PART", "q"]]}
+{"id": "ntx-0434", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2017"], ["DATE", "2018"]]}
+{"id": "ntx-0435", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2017"], ["DATE", "2018"]]}
+{"id": "ntx-0436", "type": "note", "date": null, "time": null, "spans": [["DATE", "पहला जनवरी 2000"], ["DUR", "विशेष दिन"]]}
+{"id": "ntx-0437", "type": "note", "date": "2016-10-12", "time": null, "spans": [["DATE", "12 पहला जनवरी"], ["DAY", "स"]]}
+{"id": "ntx-0438", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "अनु"], ["PART", "बंध"], ["DAY", "ना"]]}
+{"id": "ntx-0439", "type": "reminder", "date": "2016-11-28", "time": "13:00", "spans": [["TIME", "13:00"], ["DATE", "फरवरी 28,"], ["WD", "ब्र"], ["PART", "ंच"]]}
+{"id": "ntx-0440", "type": "note", "date": null, "time": null, "spans": [["WD", "मुझ"]]}
+{"id": "ntx-0441", "type": "note", "date": null, "time": null, "spans": [["WD", "पिछले वित्त"]]}
+{"id": "ntx-0442", "type": "note", "date": null, "time": null, "spans": [["WD", "कैलेंडर"]]}
+{"id": "ntx-0443", "type": "reminder", "date": null, "time": null, "spans": [["WD", "वि"], ["WD", "्ती"], ["DATE", "2008"]]}
+{"id": "ntx-0444", "type": "reminder", "date": null, "time": null, "spans": []}
+{"id": "ntx-0445", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "क"], ["WD", "ैलेंडर"]]}
+{"id": "ntx-0446", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "cy 2008"]]}
+{"id": "ntx-0447", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "द"], ["WD", "िखाओ"]]}
+{"id": "ntx-0448", "type": "reminder", "date": null, "time": null, "spans": [["WD", "वि"], ["DAY", "्ती"]]}
+{"id": "ntx-0449", "type": "reminder", "date": "2016-11-18", "time": null, "spans": [["DATE", "18"]]}
+{"id": "ntx-0450", "type": "reminder", "date": "2016-11-18", "time": null, "spans": [["DATE", "cy18"]]}
+{"id": "ntx-0451", "type": "reminder", "date": null, "time": null, "spans": [["WD", "पैट्रिक"]]}
+{"id": "ntx-0452", "type": "reminder", "date": "2016-11-08", "time": "18:00", "spans": [["WD", "म"], ["DAY", "कल"], ["PART", "शाम"], ["TIME", "पाँच"], ["DAY", "तीस"]]}
+{"id": "ntx-0453", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "चल"], ["TIME", "तीन बज"], ["DAY", "तीस"], ["TIME", "मिनट"], ["TIME", "चार बज"], ["DAY", "तीस"], ["TIME", "मिनट"], ["PART", "बास"], ["PART", "्केट"]]}
+{"id": "ntx-0454", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "चलो"], ["TIME", "ती"], ["DAY", "स"], ["TIME", "दो"], ["WD", "पैंताल"], ["DAY", "ीस"], ["PART", "ेट"]]}
+{"id": "ntx-0455", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "2019"]]}
+{"id": "ntx-0456", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "> = 2019"]]}
+{"id": "ntx-0457", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "<"], ["DATE", "2019"]]}
+{"id": "ntx-0458", "type": "reminder", "date": null, "time": null, "spans": [["PART", "त"], ["DUR", "िम"], ["PART", "ाही"]]}
+{"id": "ntx-0459", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "वर्तमान"], ["PART", "तिमाह"]]}
+{"id": "ntx-0460", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "अंतिम तिम"], ["PART", "ाही"]]}
+{"id": "ntx-0461", "type": "reminder", "date": null, "time": null, "spans": [["DUR", "अंतिम तिम"], ["PART", "ाही"]]}
+{"id": "ntx-0462", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "आ"], ["WD", "अगली"], ["DUR", "तिम"], ["PART", "ाह"]]}
+{"id": "ntx-0463", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "आ"], ["WD", "अगली"], ["DUR", "तिम"], ["PART", "ाह"]]}
+{"id": "ntx-0464", "type": "reminder", "date": null, "time": null, "spans": [["WD", "आ"], ["WD", "ने वाली"], ["DUR", "तिम"], ["PART", "ाह"]]}
+{"id": "ntx-0465", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "आ"], ["WD", "अगला त"], ["DUR", "िम"], ["PART", "ाह"]]}
+{"id": "ntx-0466", "type": "reminder", "date": null, "time": null, "spans": [["WD", "पिछली त"], ["DUR", "िम"], ["PART", "ाह"]]}
+{"id": "ntx-0467", "type": "reminder", "date": "2016-11-27", "time": "00:30", "spans": [["DATE", "म"], ["DATE", "27 दिस"], ["WD", "ंबर"], ["PART", "सुबह"], ["TIME", "11:30"], ["TIME", "12:30"]]}
+{"id": "ntx-0468", "type": "reminder", "date": "2016-11-27", "time": "12:30", "spans": [["DATE", "27 वे"], ["WD", "ं"], ["DATE", "दिसम्बर"], ["TIME", "12:30"]]}
+{"id": "ntx-0469", "type": "note", "date": "2016-10-27", "time": null, "spans": [["WD", "म"], ["DATE", "दिसंबर 27"]]}
+{"id": "ntx-0470", "type": "note", "date": "2016-10-27", "time": null, "spans": [["WD", "म"], ["DATE", "दिसंबर 27"]]}
+{"id": "ntx-0471", "type": "reminder", "date": null, "time": null, "spans": [["TIME", "30"], ["WD", "दिसंबर"]]}
+{"id": "ntx-0472", "type": "reminder", "date": "2016-11-07", "time": "15:00", "spans": [["WD", "अपराह्न"], ["TIME", "3 बजे"], ["PART", "स"], ["PART", "प्ताह"]]}
+{"id": "ntx-0473", "type": "reminder", "date": "2016-11-07", "time": "08:00", "spans": [["PART", "सप्ताह"], ["PART", "सुबह"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0474", "type": "reminder", "date": "2016-11-07", "time": "20:00", "spans": [["PART", "हफ"], ["WD", "्त"], ["PART", "े"], ["PART", "शाम"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0475", "type": "reminder", "date": "2016-11-07", "time": "20:00", "spans": [["WD", "स"], ["PART", "प्ताह"], ["TIME", "10"], ["PART", "शाम"], ["TIME", "8 बजे"]]}
+{"id": "ntx-0476", "type": "reminder", "date": "2016-11-07", "time": "10:20", "spans": [["WD", "स"], ["PART", "प्ताह"], ["TIME", "10"], ["TIME", "10:20"]]}
+{"id": "ntx-0477", "type": "note", "date": "2016-11-06", "time": "13:00", "spans": [["DAY", "देर"], ["PART", "दोपहर"]]}
+{"id": "ntx-0478", "type": "note", "date": "2016-11-06", "time": "13:00", "spans": [["PART", "दोपहर"], ["DAY", "बाद"]]}
+{"id": "ntx-0479", "type": "note", "date": "2016-11-06", "time": "09:00", "spans": [["PART", "सुबह"], ["PART", "सुबह"]]}
+{"id": "ntx-0480", "type": "note", "date": "2016-11-06", "time": "09:00", "spans": [["PART", "सुबह"]]}
+{"id": "ntx-0481", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["DAY", "चलो"], ["WD", "अगले"], ["WD", "्त"], ["PART", "दोपहर"]]}
+{"id": "ntx-0482", "type": "reminder", "date": "2016-11-07", "time": "09:00", "spans": [["DAY", "चलो"], ["WD", "अगले"], ["PART", "सुबह"]]}
+{"id": "ntx-0483", "type": "reminder", "date": "2016-11-07", "time": "18:00", "spans": [["DAY", "चलो"], ["WD", "अगले"], ["WD", "्ते"], ["PART", "शाम"]]}
+{"id": "ntx-0484", "type": "reminder", "date": null, "time": null, "spans": [["DAY", "ि"], ["PART", "समय"], ["PART", "क्ष"], ["WD", "ेत्र"]]}
+{"id": "ntx-0485", "type": "reminder", "date": "2016-11-07", "time": "13:00", "spans": [["PART", "दोपहर"], ["TIME", "1 बजे"], ["WD", "माउन्ट"], ["PART", "ेन"], ["PART", "समय"], ["PART", "क्षेत"], ["WD", "्र"]]}
+{"id": "ntx-0486", "type": "note", "date": "2016-11-04", "time": "21:00", "spans": [["WD", "ने"], ["DATE", "4 मार्च"], ["PART", "रात"]]}
+{"id": "ntx-0487", "type": "reminder", "date": "2016-11-08", "time": "19:00", "spans": [["WD", "मैंने"], ["WD", "4"], ["WD", "मंगलवार"], ["PART", "शाम"], ["TIME", "7 बजे"]]}
+{"id": "ntx-0488", "type": "reminder", "date": "2016-11-08", "time": null, "spans": [["WD", "मंगलवार"], ["WD", "ग्यारहवें"], ["PART", "दिन"]]}
+{"id": "ntx-0489", "type": "reminder", "date": "2016-11-09", "time": null, "spans": [["WD", "बुधवार"], ["WD", "इकत्तीसवें"], ["PART", "दिन"]]}
+{"id": "ntx-0490", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/29"]]}
+{"id": "ntx-0491", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/29"]]}
+{"id": "ntx-0492", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/29"]]}
+{"id": "ntx-0493", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/30"]]}
+{"id": "ntx-0494", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/29/2019"]]}
+{"id": "ntx-0495", "type": "reminder", "date": "2016-12-02", "time": null, "spans": [["DATE", "2/29/2020"]]}
+{"id": "ntx-0496", "type": "reminder", "date": "2016-12-01", "time": "15:00", "spans": [["DATE", "2/28"], ["TIME", "3"], ["DATE", "/1"]]}
+{"id": "ntx-0497", "type": "reminder", "date": "2016-12-01", "time": "15:00", "spans": [["DATE", "2/29"], ["TIME", "3"], ["DATE", "/1"]]}
+{"id": "ntx-0498", "type": "reminder", "date": "2016-12-03", "time": null, "spans": [["DATE", "2/29"], ["DATE", "3/1/2019"]]}
+{"id": "ntx-0499", "type": "reminder", "date": "2016-11-23", "time": null, "spans": [["PART", "स"], ["DATE", "ित-23-2020"], ["WD", "ंगा"]]}
+{"id": "ntx-0500", "type": "reminder", "date": null, "time": null, "spans": [["WD", "म"], ["DATE", "सितंबर-2020-23"], ["WD", "ंगा"]]}
+{"id": "ntx-0501", "type": "reminder", "date": null, "time": null, "spans": [["DATE", "2020/23/सित"]]}
+{"id": "ntx-0502", "type": "reminder", "date": "2016-11-23", "time": null, "spans": [["DATE", "2020"], ["DATE", "सित/23"]]}
+{"id": "ntx-0503", "type": "reminder", "date": "2016-11-23", "time": null, "spans": [["DATE", "23/सित/2020"]]}
+{"id": "ntx-0504", "type": "reminder", "date": "2016-11-23", "time": null, "spans": [["DATE", "मैं 23"], ["DATE", "2020"], ["DATE", "सितंबर"], ["WD", "ंगा"]]}
+{"id": "ntx-0505", "type": "reminder", "date": null, "time": null, "spans": [["WD", "मुझे"]]}

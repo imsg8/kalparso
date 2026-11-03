@@ -1,0 +1,26 @@
+{
+ "rules_v2": {
+  "all": "8.6% of 140",
+  "date": "3% of 88",
+  "datetime": "8% of 38",
+  "time": "43% of 14"
+ },
+ "muril": {
+  "all": "10.0% of 140",
+  "date": "3% of 88",
+  "datetime": "8% of 38",
+  "time": "57% of 14"
+ },
+ "xlmr": {
+  "all": "10.0% of 140",
+  "date": "3% of 88",
+  "datetime": "8% of 38",
+  "time": "57% of 14"
+ },
+ "mdistil": {
+  "all": "10.0% of 140",
+  "date": "3% of 88",
+  "datetime": "8% of 38",
+  "time": "57% of 14"
+ }
+}

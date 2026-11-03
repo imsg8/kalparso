@@ -48,6 +48,25 @@ python results/report.py              # results/REPORT.md, results/report.json
 python tests/smoke.py                 # grounder and scorer checks
 ```
 
+### Out of domain: NTX Hindi
+
+Formal Devanagari Hindi from NTX (Chen et al., 2023), zero-shot. Put `ntxt-HI-t.jsonl` from Hugging Face `tellarin-ai/ntx_llm_inst_hindi` in `data/external/ntx_hindi/`, download the three models, and run:
+
+```bash
+python bench/eval_ntx.py kalparso-muril/onnx kalparso-xlmr/onnx kalparso-mdistil/onnx
+```
+
+It builds the 469 scored sentences (532 gold spans) and the 140 single date or time expressions, and writes span precision, recall and F1 (`results/human/ntx_span_detection.json`), grounding accuracy (`ntx_grounding.json`) and every prediction (`ntxall_*.jsonl`, `ntx_*_points.jsonl`). A gold span is found when a predicted span overlaps it, and a predicted span that overlaps no gold span is a false positive. With the released models:
+
+| System | Span P | Span R | Span F1 | Grounded (of 140) |
+|---|---|---|---|---|
+| Rules | 78.6 | 31.0 | 44.5 | 8.6% |
+| KalParso-MuRIL | 84.6 | 89.7 | 87.0 | 10.0% |
+| KalParso-XLM-R | 85.5 | 88.5 | 87.0 | 10.0% |
+| KalParso-mDistilBERT | 42.4 | 88.2 | 57.3 | 10.0% |
+
+Grounding stays low because the lexicon has no formal Hindi number words or Devanagari month names, and NTX's resolved values use reference dates that differ from the one its prompts state.
+
 ## Repository
 
 | Path | What |
@@ -60,7 +79,7 @@ python tests/smoke.py                 # grounder and scorer checks
 | `training/` | Encoder fine-tuning (`train_encoder.py`), Qwen3-0.6B LoRA baseline, and the Kaggle run scripts |
 | `baselines/` | Rules, dateparser, Duckling, untrained LLMs through Ollama (`llm_eval.py`) |
 | `llm_eval/kaggle_runs/` | The LLM accuracy runs (Kaggle, 2 x T4) |
-| `bench/` | CPU latency, throughput, energy (RAPL) and thermal-safe LLM timing |
+| `bench/` | CPU latency, throughput, energy (RAPL), thermal-safe LLM timing, and the NTX out-of-domain check (`eval_ntx.py`) |
 | `results/` | Predictions, timing JSON, report scripts |
 | `scripts/` | PHINC weak labels and where to get third-party data |
 
@@ -108,4 +127,4 @@ Data: [imsg8/kalparso](https://huggingface.co/datasets/imsg8/kalparso) (configs 
 
 ## Citation
 
-Archived on Zenodo: [10.5281/zenodo.23910744](https://doi.org/10.5281/zenodo.23910744). See `CITATION.cff`.
+Archived on Zenodo: [10.5281/zenodo.23910743](https://doi.org/10.5281/zenodo.23910743) (all versions). See `CITATION.cff`.
