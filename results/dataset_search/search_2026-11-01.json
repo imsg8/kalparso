@@ -1,0 +1,4101 @@
+{
+ "date": "2026-11-01",
+ "queries": [
+  "hinglish",
+  "code mixed hindi",
+  "hindi english",
+  "code-mixed",
+  "romanized hindi",
+  "transliterated hindi",
+  "hinglish conversation",
+  "hinglish chat",
+  "whatsapp hindi",
+  "reminder",
+  "temporal expression",
+  "intent hindi",
+  "hinglish date time",
+  "hinglish reminder",
+  "hinglish semantic parsing",
+  "code-switched task oriented parsing",
+  "hindi temporal expression",
+  "hindi time normalization",
+  "timex hindi",
+  "code-mixed temporal"
+ ],
+ "hub": {
+  "hinglish": [
+   "DSMJ910/hinglish-instruct-10k",
+   "Sachin-099/hinglish-support-intents-india",
+   "festvox/cmu_hinglish_dog",
+   "diwank/hinglish-dump",
+   "WillHeld/hinglish_top",
+   "ujs/hinglish",
+   "RohanHBTU/Hinglish-to-en",
+   "findnitai/english-to-hinglish",
+   "ujs/hinglish-compressed",
+   "NebulaByte/alpaca-gpt4-hindi-hinglish",
+   "rashikadabas/autotrain-data-hinglish_text_classification",
+   "DanArnin/Hinglish",
+   "DanArnin/Hinglish2",
+   "Y19Chip/english-to-hinglish",
+   "Sathvik-24/HinGlishLaama2",
+   "nk2201/English-to-Hinglish",
+   "Sarthak279/hinglish-data",
+   "rvv-karma/English-Hinglish",
+   "rvv-karma/English-Hinglish-TOP",
+   "nateraw/english-to-hinglish",
+   "celerious/processed-hinglish-TOP",
+   "ryandsilva/erc-hinglish",
+   "ryandsilva/erc-instruct-hinglish",
+   "sakshi3103/hinglish",
+   "rishiraj/hinglish",
+   "smangrul/hinglish_self_instruct_v0",
+   "shuvom/hinglish_open_hathi_dataset",
+   "sakshi3103/Hinglish2",
+   "Sourabh2/Hindi_to_Hinglish",
+   "Solshine/Hindi_English_QandA_Synth_Data_For_Hinglish_Project",
+   "nateraw/axolotl-english-to-hinglish",
+   "justinj92/hinglish_sharegpt_v0.1",
+   "Trotter/Hinglish-Dataset-Collection",
+   "one-thing/chatbot_arena_conversations_hinglish",
+   "aaditya/databricks-dolly-15k-Hinglish-Codemix",
+   "aaditya/orca_dpo_pairs-Hinglish-Codemix",
+   "arihantbarjatya/hinglish_compiled",
+   "janasumit2911/Hinglish",
+   "celerious/processed-hinglish-CMU",
+   "open-llm-leaderboard-old/details_arshadshk__Mistral-Hinglish-7B-Instruct-v0.2",
+   "nirbhaysinghnarang/HinglishCognitiveReframing",
+   "golabji/hinglish",
+   "BhabhaAI/Cross-Hindi-Hinglish-chat",
+   "Sourabh2/Daily_Conversation_Hinglish",
+   "harshraj/hinglish_dataset",
+   "fhai50032/HINGLISH-LIMA",
+   "Mak28/Hinglish_dataset_preprocesses",
+   "fnnerd/Baatcheet_Hinglish_English_Translation_Corpus",
+   "CognitiveLab/Samvaad_Hindi_Hinglish_Llama3_Prompt_formate",
+   "Hinglish-Project/EN-HI_EN",
+   "harshraj/hinglish_dataset_cleaned",
+   "harshraj/dolly15k_hinglish_dataset_cleaned",
+   "harshraj/hinglish_dataset_combined",
+   "harshraj/hinglish70k",
+   "harshraj/hinglish70k_v2",
+   "suyash2739/Hinglish",
+   "suyash2739/News_Hinglish_English",
+   "HuggMachas/POS_hinglish_codemixed_tweets",
+   "arihantbarjatya/hinglish_conversation_uncensored",
+   "Ritik1203/hinglish_to_English_with_bad_word",
+   "AashishKumar/chatml-hinglish-conversation-gpt4",
+   "yash-srivastava19/Hinglish2Split",
+   "Khushiii1703/hinglish-data",
+   "Khushiii1703/hinglish_text",
+   "Khushiii1703/hinglish_dataset",
+   "gvij/english-to-hinglish",
+   "student-abdullah/BigPharma_Generic_Q-A_Format_Augemented_Hinglish_Dataset",
+   "student-abdullah/For_Lllama3.2_Hinglish",
+   "sgzsh269/wikipedia-hindi-hinglish",
+   "Abhishekcr448/Hinglish-Everyday-Conversations-1M",
+   "AshishAI10/Hinglish-Everyday-Conversations-AJ",
+   "nashrah18/hinglish_for_women",
+   "bajpaideeksha/English_hinglish_colloquial-dataset",
+   "rairashmi/en-to-hinglish-dataset",
+   "SeverusSnape5/Hinglish_dataset",
+   "fhai50032/Hinglish-Preference-Humanized-DPO",
+   "fhai50032/Aryabhatt-Hinglish",
+   "ananttrivedi/dataset_hinglish_to_english",
+   "tinycompany/IN22-Hinglish",
+   "ananttrivedi/hinglish_pretraining_dataset",
+   "fhai50032/Hinglish-CoT-Gita",
+   "fhai50032/Hinglish-CoT-Medical",
+   "fhai50032/Hinglish-CoT-General",
+   "Ornaments/cot-hindi-hinglish",
+   "adi-kmt/hindi-hinglish-cot",
+   "BobbleAI/Bobble-Hinglish-Sports-Dataset_BHSD",
+   "ishands/hinglish-dpo-2",
+   "codebyam/Hinglish-Hindi-Transliteration-Dataset",
+   "Subh775/formatted-hindi-hinglish-cot",
+   "prakharb01/Synthetic-Hinglish-Finetuning-Dataset",
+   "ayush-cosmo/hinglish_audio",
+   "AnandAnubhavDas/Hinglish_text",
+   "Bluestrikeai/Conversational-Hinglish",
+   "abhijithmallya/hinglish-1M",
+   "Hostileic/hinglish-goemotions",
+   "HumynLabs/airline-customersupport-Hinglish-audio",
+   "HumynLabs/e-commerce-customersupport-hinglish-audio",
+   "HumynLabs/banking-customersupport-hinglish-audio",
+   "ankitdhiman/hinglish-conversations",
+   "idhandeep/BSD-Hinglish"
+  ],
+  "code mixed hindi": [
+   "ar5entum/hindi-english-code-mixed",
+   "Abhishek4896/hindi-english-code-mixed-tweets-sentiment"
+  ],
+  "hindi english": [
+   "cfilt/iitb-english-hindi",
+   "bigscience-data/roots_indic-hi_iitb_english_hindi_corpus",
+   "rajuptvs/English-to-hindi-podcast-translation",
+   "PeculiarCoder/English-Hindi",
+   "Aarif1430/english-to-hindi",
+   "Sampuran01/english-hindi-translation",
+   "Tngarg/Hindi_english",
+   "acloudfan/hindi-to-english-translate",
+   "fubuki119/iitb-english-hindi-tokenized",
+   "Solshine/Hindi_English_QandA_Synth_Data_For_Hinglish_Project",
+   "damerajee/english-to-hindi-l",
+   "pardeep-singh/youtube-vidoes-transcripts-hindi-english",
+   "anirudhlakhotia/roots_indic-hi_iitb_english_hindi_corpus",
+   "DanteAl97/hindi-english-translation",
+   "MohdShawezKhan/iits-english-hindi",
+   "Ketan3101/English-Hindi-Translation",
+   "miraiminds/function-calling-dataset-Hindi-english",
+   "algohype/hindi-english-iitb",
+   "gvij/iitb-english-hindi",
+   "ar5entum/hindi-english-code-mixed",
+   "predictionguard/english-hindi-marathi-konkani-corpus",
+   "ar5entum/hindi-english-roman-devnagiri-transliteration-corpus",
+   "aykukreja47/english_hindi",
+   "thoshith/hindi-english-raw-text-corpus-uncleaned",
+   "VATSAL1729/iitb-hindi-english-translated",
+   "chungimungi/iitb-english-hindi-split",
+   "Lots-of-LoRAs/task427_hindienglish_corpora_hi-en_language_identification",
+   "Lots-of-LoRAs/task424_hindienglish_corpora_hi_en_translation",
+   "Lots-of-LoRAs/task425_hindienglish_corpora_en_hi_translation",
+   "Lots-of-LoRAs/task426_hindienglish_corpora_hi-en_classification",
+   "Lots-of-LoRAs/task1024_pib_translation_hindi_english",
+   "Lots-of-LoRAs/task1023_pib_translation_english_hindi",
+   "smita1988/english-hindi-translation-dataset1",
+   "diyamanna/colloquial-english-hindi",
+   "bajpaideeksha/bajpaideeksha-English-Input_Hindi-Output_dataset",
+   "bajpaideeksha/english-hindi-colloquial-dataset",
+   "keerthan06/hindi-english-dataset",
+   "Sushma0710/english-hindi-translation-dataset",
+   "Akshara826/english-hindi",
+   "Bhoomi06/english-to-colloquial-hindi-dataset",
+   "SimranAswani/updated-english-to-hindi",
+   "SimranAswani/updated-english-to-hindi-translation-latest",
+   "srilekha27/English-Hindi-Translation",
+   "KumariPrerna2905/English-Hindi_Colloquial_language_dataset",
+   "KumariPrerna2905/english-hindi-colloquial-dataset",
+   "SimranAswani/english-hindi-new",
+   "Varalaxmi191/English_to_Hindi.csv",
+   "Sanju3029/Hindi-english-translation",
+   "Amrutha23345/english_to_hindi_dataset",
+   "Sadiya025/english-hindi-colloquial-dataset",
+   "La1ya/english-hindi",
+   "Krupa22/hindi-english-translation",
+   "Amrutha22/english_hindi_dataset",
+   "vanshikasundrani/english-hindi-colloquial-dataset",
+   "smita1988/english-hindi-translation-dataset",
+   "prarthanashreekanth/my-iitb-english-hindi-dataset",
+   "Sadiya025/english-hindi-dataset",
+   "samreen27/combined_english_hindi",
+   "supergoose/flan_source_task425_hindienglish_corpora_en_hi_translation_262",
+   "supergoose/flan_combined_task427_hindienglish_corpora_hi-en_language_identification",
+   "supergoose/flan_combined_task426_hindienglish_corpora_hi-en_classification",
+   "supergoose/flan_combined_task1024_pib_translation_hindi_english",
+   "supergoose/flan_combined_task1023_pib_translation_english_hindi",
+   "supergoose/flan_combined_task425_hindienglish_corpora_en_hi_translation",
+   "atrisaxena/mini-iitb-english-hindi",
+   "hawkeye31/english_hindi_crosssum",
+   "philomath-1209/english-to-hindi-high-quality-training-data",
+   "ar17to/orpheus_tts_english_indian_male_hindi",
+   "sinchanacs/sinchana_english_to_hindi",
+   "upperwal/roots_indic-hi_iitb_english_hindi_corpus",
+   "QuarkML/English-Hindi-Cleaned-Subset-IIT-Bombay",
+   "vinaybabu/english_hindi_audio_sentence_pairs_v3",
+   "dany0407/iitb-english-hindi",
+   "Saurabh9901/english-hindi-dataset-2",
+   "parkky21/hindi_male_english",
+   "parkky21/hindi_female_english",
+   "kartikagg98/codemix_hindi_english_4M",
+   "CodeWithSomesh/english-hindi-vocab-flashcards",
+   "anshc/lma-mini-project-english-hindi-sanskrit",
+   "raja20221020/english_hindi_awadhi_deidentification",
+   "ainlpml/english-hindi",
+   "bhaveshPrajapat/legal-words-english-hindi",
+   "jojochan47/english-hindi-dataset",
+   "commotion/Bilingual-Hindi-English-ASR-Ad-Hoc",
+   "commotion/Bilingual-Hindi-English-ASR-Lt-30",
+   "Abhishek4896/hindi-english-code-mixed-tweets-sentiment",
+   "HenryEnyi/english-to-hindi-high-quality-training-data",
+   "Resvand/Code-Switching_English-Hindi_Synthetic",
+   "mahendraphd/Indic_Hindi-English_Parallel_Speech",
+   "GarlayR/iitb-english-hindi",
+   "Dark7Devil/sbu_captions-hindi-english-pretrain",
+   "Dark7Devil/llava_v1_5_mix665k_hindi_english",
+   "PharynxAI/hindi-english-merged_data",
+   "NNEngine/English-Hindi_Translation",
+   "Shubhangi7/hindi_english_combined_hf_dataset",
+   "shiprocket-ai/700hrs-hindi-english-hinglish-high-quality-tts-data",
+   "sajalmadan0909/combined_hindi_english_datasets",
+   "BadalY453/iitb-english-hindi",
+   "sergiopat/iitb-english-hindi",
+   "sharmapurushottam9/iitb-english-hindi"
+  ],
+  "code-mixed": [
+   "NLPC-UOM/Sinhala-English-Code-Mixed-Code-Switched-Dataset",
+   "fathan/autotrain-data-code-mixed-language-identification",
+   "msislam/marc-code-mixed-encodings",
+   "msislam/marc-code-mixed-small",
+   "SEACrowd/code_mixed_jv_id",
+   "md-nishat-008/Code-Mixed-Sentiment-Analysis-Dataset",
+   "md-nishat-008/Code-Mixed-Offensive-Language-Detection-Dataset",
+   "Elaine/malaysian_codemixed",
+   "fayez94/code-mixed-bangla-english-asr",
+   "HuggMachas/en-hi-codemixed-corpus",
+   "BanglishRev/bangla-english-and-code-mixed-ecommerce-review-dataset",
+   "HuggMachas/POS_hinglish_codemixed_tweets",
+   "sudipghosh1728/Code_Mixed_video_Complaint",
+   "ar5entum/hindi-english-code-mixed",
+   "UDACA/Code-Mixed-Dataset",
+   "kornwtp/codemixed-ind-classification",
+   "cs23s036/native_script_codemixed",
+   "taha-alnasser/ArzEn-CodeMixed",
+   "adealvii/codemixed-synthetic-sarc-11k",
+   "autoprogrammer/amthinking_code_math_mixed_100k",
+   "nurulfauzh/codemixed",
+   "DaliaBarua/En-Bn-Code-Mixed-Two-Class-Sentiment-Dataset",
+   "Abhishek4896/hindi-english-code-mixed-tweets-sentiment",
+   "ruwini01/Sinhala-English-Code-Mixed-Code-Switched-Dataset",
+   "adkta/nep_eng_code-mixed_asr_dataset",
+   "shreyan2001/bangla-english-and-code-mixed-ecommerce-review-dataset",
+   "SPEAK-PP/v3-v1_v2_code_mixed_syntheic_correct_noisy_pairs",
+   "geodesic-research/debug-mixed-rlhf-code",
+   "DatarrX/Burmese-English-Code-Mixed-Corpus",
+   "Maisha230/bangla-english-and-code-mixed-ecommerce-review-dataset",
+   "duru015/nep_eng_code-mixed_asr_dataset",
+   "kkarhm/nepali-english-codemixed-asr",
+   "ranitbaram/RCID-codemixed-detox",
+   "hksamm/Burmese-English-Code-Mixed-Corpus",
+   "RidheshBhati/Codemixed_New",
+   "nlp-dataset/Sinhala-English-Code-Mixed-Code-Switched-Hotel-Reviews-Dataset",
+   "vnikitin/uk-en-code-mixed-asr-2h",
+   "aiatums/codemixed-id-hate-speech",
+   "Shyyamsh/nepali-english-codemixed-asr",
+   "SPEAK-PP/combined_v3_v1v2_code_mixed_and_itn_sinhala",
+   "nlpctx/telugu-qa-codemixed",
+   "PotatoHD/code-instruct-mixed",
+   "mdforhadcse/bangla-english-and-code-mixed-ecommerce-review-dataset",
+   "MeghanaKap/bangla_code_mixed",
+   "MeghanaKap/marathi_code_mixed",
+   "MeghanaKap/gujarathi_code_mixed",
+   "MeghanaKap/punjabi_code_mixed",
+   "atlas-institute/code-trainer-v7-mixed",
+   "atlas-institute/code-trainer-v8-mixed",
+   "user-anto/Filtered_Dakshina_Natural_CodeMixed",
+   "atlas-institute/code-trainer-v9-mixed",
+   "ShrutiPatel3011/gujarati-english-codemixed-sentiment",
+   "lingamvamshikrishnareddy/ramanv-tts-codemixed-voice",
+   "lingamvamshikrishnareddy/ramanv-tts-global-codemixed",
+   "Shyyamsh/nep_eng_code-mixed_asr_dataset",
+   "suwaimyo/codemixed-ind-classification",
+   "Thanmay/belebele_hin_Latn_codemixed",
+   "puttatidam/codemixed-ind-classification",
+   "yashwardhan20417/codemixed-kashmiri"
+  ],
+  "romanized hindi": [
+   "Shreesh03/llama-7b-romanized-hindi",
+   "sk-community/romanized_hindi",
+   "mugezhang/pair_hindi_urdu_ipa_transcription_romanized",
+   "mugezhang/hindi-xnli-ipa_ipa_romanized",
+   "mugezhang/pair_hindi_urdu_ipa_transcription_romanized_shuffled"
+  ],
+  "transliterated hindi": [
+   "h1t35h/transliterated_hindi_ds"
+  ],
+  "hinglish conversation": [
+   "one-thing/chatbot_arena_conversations_hinglish",
+   "Sourabh2/Daily_Conversation_Hinglish",
+   "arihantbarjatya/hinglish_conversation_uncensored",
+   "AashishKumar/chatml-hinglish-conversation-gpt4",
+   "Abhishekcr448/Hinglish-Everyday-Conversations-1M",
+   "AshishAI10/Hinglish-Everyday-Conversations-AJ",
+   "Bluestrikeai/Conversational-Hinglish",
+   "ankitdhiman/hinglish-conversations",
+   "ankitdhiman/colloquial-hinglish-conversations",
+   "buggiebug/Hinglish-Everyday-Conversations-1M",
+   "VaniAgent/Hinglish-Everyday-Conversations-1M",
+   "AnudeepRao/Hinglish-Everyday-Conversations-1M-Devanagari",
+   "naradatum/hinglish-code-switched-conversations-v1",
+   "a1b8h04i/Hinglish-Everyday-Conversations-1M",
+   "theguywithblacktie/hinglish-conversations"
+  ],
+  "hinglish chat": [
+   "one-thing/chatbot_arena_conversations_hinglish",
+   "BhabhaAI/Cross-Hindi-Hinglish-chat",
+   "AashishKumar/chatml-hinglish-conversation-gpt4"
+  ],
+  "whatsapp hindi": [],
+  "reminder": [
+   "cowslovecats555/Liya_Reminder_Dataset_Corrected",
+   "BrynnSalonga/payment-reminder",
+   "gaotang/code_reminder",
+   "gaotang/code_reminder_2_5k",
+   "Srinivasmec26/Task-Reminders-for-Education-and-Professionals",
+   "Punya219/eldercare-enhanced-with-reminders",
+   "hoangs/viet-robot-reminder-phrases",
+   "hoangs/viet-robot-laundry-reminder-log",
+   "HafizA2/break_reminder",
+   "beforee/light-physical-activity-reminders",
+   "acengnew/medication-reminder-json",
+   "VIOLETGANTENG/violetganteng-work-reminder-dataset",
+   "VIOLETGANTENG/violetganteng-work-reminder-dataset2",
+   "VIOLETGANTENG/violetganteng-work-reminder-dataset22",
+   "CatBarks/wj_ah_k6re_cls_per_input_for_self_reminder",
+   "vosap52/humanoid-reminder-response-tr-v1",
+   "CatBarks/SPML_for_self_reminder",
+   "CatBarks/SPML_for_self_reminder_with_cls",
+   "CatBarks/wj_ah_k6re_cls_per_input_for_self_reminder_with_cls",
+   "prmgvyt/daily-reminders-public",
+   "wnanta/daily-reminder-agent",
+   "CatBarks/pi-c0-c8-technique-dataset-clean_harmful_only_with_benign_tech2_self_reminder_v5",
+   "CatBarks/pi-c0-c8-technique-dataset-clean_harmful_only_with_benign_tech2_self_reminder_v5_split70_30"
+  ],
+  "temporal expression": [
+   "gsaltintas/temporal_expressions",
+   "gsaltintas/eng_latn_temporal_expressions",
+   "r-three/eng_latn_temporal_expressions",
+   "r-three/zho_hans_temporal_expressions",
+   "r-three/pes_arab_temporal_expressions"
+  ],
+  "intent hindi": [],
+  "hinglish date time": [],
+  "hinglish reminder": [],
+  "hinglish semantic parsing": [],
+  "code-switched task oriented parsing": [],
+  "hindi temporal expression": [],
+  "hindi time normalization": [],
+  "timex hindi": [],
+  "code-mixed temporal": []
+ },
+ "code": {
+  "hinglish": [
+   3707,
+   [
+    {
+     "d": null,
+     "n": "byteom/hinglish-AI-translator"
+    },
+    {
+     "d": null,
+     "n": "TrigonaMinima/HinglishNLP"
+    },
+    {
+     "d": null,
+     "n": "HarshTrivedi/HinglishSentiment"
+    },
+    {
+     "d": "Hinglish Text Classification",
+     "n": "NirantK/Hinglish"
+    },
+    {
+     "d": "In this project we work on the sentiment analysis of Hinglish tweets, which are the tweets written entirely in Latin script but containing slang words from English and Hindi. Hinglish is a very famous and an informal language of India.",
+     "n": "vipul-khatana/Hinglish-Sentiment-Analysis"
+    },
+    {
+     "d": "Code and model info on SOTA finetuned Whisper models for better transcription on Hindi language",
+     "n": "OriserveAI/Whisper-Hindi2Hinglish"
+    },
+    {
+     "d": "Consists of the largest (10K) human annotated code-switched semantic parsing dataset & 170K generated utterance using the CST5 augmentation technique. Queries are derived from TOPv2, a multi-domain task oriented semantic parsing dataset. Tests suggest that with CST5, up to 20x less labeled data can achieve the same semantic parsing performance.",
+     "n": "google-research-datasets/Hinglish-TOP-Dataset"
+    },
+    {
+     "d": "Submission for the Programming Task for the Precog Recruitment Process (II)",
+     "n": "anant14014/TwitterHinglishTranslation"
+    },
+    {
+     "d": "A pipeline for transliteration, spell correction, POS tagging and word sense disambiguation of Hinglish code mixed data to Hindi Devanagari script.",
+     "n": "praatibhsurana/Hinglish_Hindi_WSD"
+    },
+    {
+     "d": "A Hindi-English Dataset for Text Normalization",
+     "n": "piyushmakhija5/hinglishNorm"
+    },
+    {
+     "d": "Built an english to hinglish translator by fine-tunning Llama-2 LLM. The translated text sounds natural and also convert all the difficult words and phrases in English to Hinglish. The translated text is easy to understand for even a non-native Hindi speaker.",
+     "n": "stokome/Hinglish-Translation-AI-llama2"
+    },
+    {
+     "d": null,
+     "n": "goru001/nlp-for-hinglish"
+    },
+    {
+     "d": "Clipper (AI viral-moment clips) + Bolcap: Hinglish caption engine. Whisper word-level transcription, natural Hinglish romanization, customizable animated captions (fonts/colors/pop/karaoke), exports burned MP4 or alpha overlay .mov for Premiere/Resolve. Hosted web app + cross-platform local app.",
+     "n": "AdityaPainuli/clippings-vids"
+    },
+    {
+     "d": "Built a Chat application named Safechat which can predict whether the text sent in a group chat is bullying or non-bullying.",
+     "n": "karan19100/CyberBullying-Detection-in-Hinglish-Languages-Using-Machine-Learning-"
+    },
+    {
+     "d": null,
+     "n": "harrrshall/hinglish-tts"
+    },
+    {
+     "d": "Code and Data for our work on Offensive Hinglish Tweet Classification - EMNLP 2018",
+     "n": "ramitsawhney27/OffensiveHinglishTweetClassification"
+    },
+    {
+     "d": "It classifies hinglish and english words using RNN",
+     "n": "ambuje/Hinglish_English_Classification"
+    },
+    {
+     "d": "Sentiment analysis hinglish tweets ",
+     "n": "akshansh0074/Hinglish-sentiment"
+    },
+    {
+     "d": "A rich and diverse dataset created with GPT-4 for training and evaluating conversational models in Hinglish",
+     "n": "skmanish/hinglish-conv-dataset"
+    },
+    {
+     "d": "Sentiment analysis on Hinglish Twitter data using Pretrained XLM-Roberta BERT Model.",
+     "n": "amm98d/twitter-sentiment-analysis"
+    },
+    {
+     "d": "The language Hinglish involves a hybrid mixing of Hindi and English within conversations, individual sentences and even words. An example: “nahi mei nahi aa sakta”. Translation: “no, i cannot come.” It is gaining popularity as a way of speaking that demonstrates you are modern, yet locally grounded.  ",
+     "n": "kopalsharma19/NLP-Hinglish"
+    },
+    {
+     "d": "We are building a transcript generator for videos in the Hinglish language, which is a mix of Hindi and English. This will help us transcribe our college lectures, group discussions and meetings. ",
+     "n": "evanessa234/hinglish-transcriber"
+    },
+    {
+     "d": null,
+     "n": "victor7246/Hinglish_Hate_Detection"
+    },
+    {
+     "d": "Code related to training/fine-tuning Hindi/Hinglish models.",
+     "n": "techthiyanes/open-hinglish-model"
+    },
+    {
+     "d": "AI editing agent for Adobe Premiere Pro: silence removal, repeated-take dedup (LLM), and minimal Hinglish captions. UXP panel + local Node server.",
+     "n": "rafcopy/auto-cut-agent"
+    },
+    {
+     "d": "Hindi-English text to English Translition with NLP",
+     "n": "Sagargajare/HINGLISH-ANUVAAD"
+    },
+    {
+     "d": "Easily type Indic languages on computer and mobile. GoVarnam is a cross-platform transliteration library. Manglish -> Malayalam, Thanglish -> Tamil, Hinglish -> Hindi plus another 10 languages. GoVarnam is a near-Go port of libvarnam",
+     "n": "varnamproject/govarnam"
+    },
+    {
+     "d": "This is a personal project which classify the tweets into Non-Offensive, Hate Speech and Abusive. This project is based on the classical supervised machine learning algorithm. ",
+     "n": "Zishaanuddin/Hate_Speech_Classifier_In_Hinglish"
+    },
+    {
+     "d": "Extract the Date and Time related phrases from the sentence written in English Manner and Hindi Language (Hinglish) and tells the exact date and time correspondingly.",
+     "n": "chaira19/Hindi-DateTime-Parser"
+    },
+    {
+     "d": "Hinglish font is a font which transliterates unicode devanagari text into Roman English like Hindi speaking people use SMS using English alphabets.",
+     "n": "fastrizwaan/Hinglish"
+    },
+    {
+     "d": null,
+     "n": "harshithamadarapu/Hinglish-Auto-suggestions"
+    },
+    {
+     "d": null,
+     "n": "mdatif796/Coding-Ninjas-Introduction-to-Cpp-and-DSA-in-HINGLISH"
+    },
+    {
+     "d": "Voice-to-agent prompt compiler for Hindi, English, and Hinglish.",
+     "n": "ITISH7/PromptDe"
+    },
+    {
+     "d": "The हिंदी Learning Community. Revise, remember, and rule the concepts in hinglish way !!",
+     "n": "atishaytuli07/Hinglish"
+    },
+    {
+     "d": "Convert Hindi or Urdu text into Hinglish for Submagic captions effortlessly!",
+     "n": "waleeddotdev/HinglishMagic"
+    },
+    {
+     "d": "Evaluating the Effectiveness of Code-generation Models on Hinglish Prompts",
+     "n": "mrigankpawagi/HinglishEval"
+    },
+    {
+     "d": "Transform Hinglish into hilarious Doge language with our sleek HTML, stylish CSS, and powerful JS converter. Unleash your inner meme master today!",
+     "n": "rohan472000/Hinglish-to-Doge-lang-Converter"
+    },
+    {
+     "d": "torch-transformer-hinglish2hindi-translator is a character-level translater implemented in PyTorch, specifically designed for translating Hinglish (romanized hindi) to Hindi. The translator employs a Transformer-based architecture, leveraging the power of attention mechanisms for accurate and context-aware translation.",
+     "n": "thefcraft/torch-transformer-hinglish2hindi-translator"
+    },
+    {
+     "d": "Code and Datasets for our accepted long paper at ACL 2024, regarding toxicity detection in code-mixed hinglish video content",
+     "n": "justaguyalways/ToxVidLM_ACL_2024"
+    },
+    {
+     "d": "Yeh documentation un developers ke liye hai jo JavaScript ka use karte hain. Humne isse Hinglish mein banaya hai taaki sabko samajhne mein aasani ho. Yahaan aapko basic se advanced topics tak sab kuch milega. Agar aapko code likhne ya samajhne mein dikkat ho rahi hai, toh yeh docs aapki madad karega. Happy coding!",
+     "n": "dev-aditya-lab/javascript-hinglish"
+    },
+    {
+     "d": "English to Hinglish Converter!",
+     "n": "Soumya-Kushwaha/Hinglish-Converter"
+    },
+    {
+     "d": "Minimal WhatsApp bot with Hinglish NLP. Clone, scan QR, bot is live.",
+     "n": "sarthakgoel31/whatsapp-bot-starter"
+    },
+    {
+     "d": "A web application that converts Hinglish text to English, expanding short notations to their full forms. It supports input via keyboard, virtual keyboard, voice, and file upload, featuring a user-friendly interface with data stored in an SQLite database.",
+     "n": "komalpotdar17/Hinglish2English-NLP"
+    },
+    {
+     "d": "Indic-En WebExtension for transliterating webpages. Malayalam, Hindi, Kannada -> Manglish, Hinglish, Kanglish. Mirror of https://gitlab.com/subins2000/indicen",
+     "n": "subins2000/indicen"
+    },
+    {
+     "d": "Semantic Search and RAG for Hinglish documents using Endee vector database",
+     "n": "AlfaPankaj/Hinglish--search--endee"
+    },
+    {
+     "d": "🚀 Fast translation 💯 Completely free to use 🔓 Open source 🌐 Works directly inside your browser 🇮🇳 Supports both Hindi and Hinglish input",
+     "n": "mrvaibhavbhardwaj/Hindi-Hinglish-to-English-Translator-Extension"
+    },
+    {
+     "d": "Tiny audio turn-detection (whisper-tiny) for Hinglish voice agents — beats smart-turn-v3 on Hindi, ONNX single-file deploy",
+     "n": "CodeWithMoin/smart-turn-hinglish"
+    },
+    {
+     "d": null,
+     "n": "mayuriphad/Hinglish2English-NLP-main"
+    },
+    {
+     "d": "Team coursework: preprocessing, training, and evaluation for multilingual Hinglish token classification.",
+     "n": "Ansester/hinglish-ner-research"
+    },
+    {
+     "d": "An Hinglish language Acoustic Model created for CMUSphinx",
+     "n": "PyroGenesis/Hinglish-model"
+    }
+   ]
+  ],
+  "code mixed hindi": [
+   208,
+   [
+    {
+     "d": "A pipeline for transliteration, spell correction, POS tagging and word sense disambiguation of Hinglish code mixed data to Hindi Devanagari script.",
+     "n": "praatibhsurana/Hinglish_Hindi_WSD"
+    },
+    {
+     "d": "Corpus and a baseline neural network system for Named Entity Recognition in Hindi-English Code-Mixed  social media text.",
+     "n": "SilentFlame/Named-Entity-Recognition"
+    },
+    {
+     "d": null,
+     "n": "deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text"
+    },
+    {
+     "d": "This code provides word level language identification tool for identifying language for individual words in Code-Mixed text. e.g. The text that includes words from two languages such as Hindi written in roman script, mixed with English.",
+     "n": "microsoft/LID-tool"
+    },
+    {
+     "d": "Humor Detection in English-Hindi Code-Mixed Social Media Content",
+     "n": "Ankh2295/humor-detection-corpus"
+    },
+    {
+     "d": null,
+     "n": "punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text"
+    },
+    {
+     "d": "POS tagging models for Hindi English Code Mixed Tweets",
+     "n": "precog-iiith/hindi-english-code-mixed-POS-tagging"
+    },
+    {
+     "d": "Hate speech detection from code-mixed Hindi-English tweets using deep learning models. This project reports an increment to the state-of-the-art in hate speech detection for English-Hindi code-mixed tweets. The models result in an improvement of about 12% in F-score over a past work that used statistical classifiers.",
+     "n": "satyaSK/Hate-Speech-Detection"
+    },
+    {
+     "d": "Sentiment analysis using BERT on Hindi-English code-mixed data",
+     "n": "AbhilashG001/BERTMelon"
+    },
+    {
+     "d": "An unsupervised stemmer for Natural Language Processing Tasks on Hinglish Language ( Hindi + English words )",
+     "n": "ashishgupta1350/Hindi-English-Code-Mixed-Stemmer"
+    },
+    {
+     "d": "Official submission to SemEval 2020 Task 9 SentiMix: Sentiment Analysis for Code-Mixed Social Media Text. System name: NITS-Hinglish. The task is to predict the sentiment of a given code-mixed tweet. The sentiment labels are positive, negative, or neutral, and the code-mixed languages will be English-Hindi. ",
+     "n": "singhnivedita/SemEval2020-Task9"
+    },
+    {
+     "d": "New approaches for humour detection in multi-lingual corpus",
+     "n": "amsuhane/Humour-Detection-in-English-Hindi-Code-Mixed-Text"
+    },
+    {
+     "d": "A controlled study of identity-correlated bias in Hindi–English code-mixed hate speech classifiers, comparing Counterfactual Data Augmentation and Adversarial Debiasing on XLM-RoBERTa.",
+     "n": "DevanshSrajput/Hindi-Toxicity-Bias"
+    },
+    {
+     "d": "Sentiment analysis on Hindi-English code mixed data using SVM",
+     "n": "vrishankshete/Sentiment-Analysis"
+    },
+    {
+     "d": "Cyberbullying detection on Hindi-English code-mixed YouTube comments",
+     "n": "Kshiti13/Cyberbullying-detection"
+    },
+    {
+     "d": null,
+     "n": "kaustubhagarwal/Suicidal-Ideation-in-Code-Mixed-Hindi-English"
+    },
+    {
+     "d": "Contains artifacts for training few architecture of neural networks for classifying code mixed Hindi and English (Hinglish) tweets into 3 classes - Offensive, Hateful and Non offensive. ",
+     "n": "vik235/CodeMixed-Hinglish"
+    },
+    {
+     "d": null,
+     "n": "deepanshu1995/Irony-Detection-Hindi-English-Code-Mixed-"
+    },
+    {
+     "d": null,
+     "n": "shubhamhegde/Emotion-Detection-Hindi-English-Code-mixed-data"
+    },
+    {
+     "d": "Training a classifier on Hindi, English and Hinglish code-mixed social media data",
+     "n": "Infiniper/MuRIL-Hate-Text-Detector"
+    },
+    {
+     "d": "NLP toolkit for analyzing Hindi-English code-mixed text language identification, transliteration, sentiment analysis",
+     "n": "govindup63/codemix-nlp"
+    },
+    {
+     "d": null,
+     "n": "Ayushi113/mfa-hindi-code-mixed"
+    },
+    {
+     "d": "A transformer-based model that can detect and analyses toxic, fake and hateful posts in Hindi-English code mixed on social media.",
+     "n": "gopalk-cs01/Hindi-English-code-mixed"
+    },
+    {
+     "d": "ROBUST MULTILINGUAL CODE MIXED  HATE SPEECH RECOGONITION",
+     "n": "Abhijit26918/hindiMix-noisy"
+    },
+    {
+     "d": "Reddit bot that detects Hindi-English code-mixed hate speech in comments in real-time, replies with 3 warnings and then permanently bans user",
+     "n": "AindriyaBarua/anti-hate-reddit-Hinglish-bot-with-PRAW-and-BERT"
+    },
+    {
+     "d": "Token-level Hindi–English code-mixed language detection using XLM-RoBERTa and Transformers.",
+     "n": "astha-tiwari5/Code---Mixed-Language-Detection-Hindi-English-"
+    },
+    {
+     "d": "The Repository contains data gathering preprocessing and model training  notebooks for for Racial Hoax in Code-Mixed Hindi-English Low Resource Text",
+     "n": "shanudhawale/Racial-Hoax-Code-Mixed-Hindi-English"
+    },
+    {
+     "d": "Token-level Hindi–English code-mixed language detection using XLM-RoBERTa and Transformers.",
+     "n": "astha-tiwari5/Code-Mixed-Language-Detection-Hindi-English-"
+    },
+    {
+     "d": "Automatic speech recognition for code-mixed speech (Hindi-English) using Whisper",
+     "n": "KDhanvi25/whisper-code_mixed-Hinglish"
+    },
+    {
+     "d": "Our aim in this project is to generate sentences which have mixed languages[English-Hindi, English-Telugu]",
+     "n": "vamshi009/CodeMixedNLG"
+    },
+    {
+     "d": "This repository contains the model files for Hindi-English Code-Mixed BERT.",
+     "n": "nikhilbyte/EH-Code-Mixed-BERT"
+    },
+    {
+     "d": "A deep learning model for sarcasm detection in Hindi-English code-mixed tweets.",
+     "n": "keerthanmahesh/Code-Mixed-Sarcasm-Detection"
+    },
+    {
+     "d": null,
+     "n": "aakash-virat18/Hindi-English-Code-mixed-hate-speech-detection"
+    },
+    {
+     "d": null,
+     "n": "iamsoumyamishra/Sentiment-Classification-of-Code-mixed-Hindi-English"
+    },
+    {
+     "d": null,
+     "n": "ManojGLA23/Code-Mixed-Dataset-Hindi-English--GLA_University"
+    },
+    {
+     "d": "Repository containing different task-specific Hindi-English Code-Mixed/Code-Switched Datasets",
+     "n": "Priyansh2/HI-EN_Code-Mixed_Datasets"
+    },
+    {
+     "d": null,
+     "n": "tripti-bhardwaj/Cybercrime_Analysis_from_Hindi-English_Code-Mixed_Complaints"
+    },
+    {
+     "d": null,
+     "n": "rohitrai11/POS-Tagging-in-English-Hindi-Code-Mixed-Data"
+    },
+    {
+     "d": "Built a Hinglish (Hindi-English code-mixed) hate-speech classifier, engineering features from character/word n-grams, a curated hate lexicon, and stylistic cues to train SVM and Random Forest models.",
+     "n": "xashishkushwaha/Hate-Speech-Detection-on-Hindi-English-Code-Mixed"
+    },
+    {
+     "d": "This is a Code Mixed personality chatbot, which is used to chat in Hindi-English mixed language.",
+     "n": "vlalwani31/Code-mixed-personality-chatbot"
+    },
+    {
+     "d": "Code-mixed Marathi-English and Hindi-English Datasets with hope and non-hope sentiment classes",
+     "n": "sayprasad1/Code-mixed-Indo-Aryan-Datasets"
+    },
+    {
+     "d": null,
+     "n": "saisanthosharyan/Sentiment-Analysis-on-code-mixed-english-hindi-text"
+    },
+    {
+     "d": "This is a dataset for the sentiment analysis task. It contains 1k natural code mixed data. The languages are Bangla-English-Hindi.",
+     "n": "LanguageTechnologyLab/SentMix-3L"
+    },
+    {
+     "d": "A simple Flask web app to detect and analyze code-mixed sentences in English, Hindi, Telugu, and Tamil! 🚦",
+     "n": "Nikhitha-pvt/Code-Mixed-Language-Detector"
+    },
+    {
+     "d": "This is code to leverage my Previous two models and classify the sentences whether written in roman, native, pure Marathi or pure Hindi, or mixed Hindi and Marathi correctly.",
+     "n": "Daksharma90/Mixed_Language_Detection_Hindi-Marathi"
+    },
+    {
+     "d": "Given a Parallel Corpora (Sentence Aligned Corpora), the task is to Generate Synthetic Code Mixed Data.",
+     "n": "destinyson7/Code-Mixing-English-Hindi"
+    },
+    {
+     "d": "This is a repository for an engine built to separate Code-Mixed Tweets and demarcate point of language change. Current code mixings supported are Hindi and English. ",
+     "n": "keertank189/CodeMixed-Tweet-Separator"
+    },
+    {
+     "d": "There  is  no  publicly  good  quality  data  and  pre-trained  models  for  Code  Mixed  Hindi–English data, also it is expensive to collect, pre-process and run various machine and deep learning models.  How efficiently can machine and deep learning models predict emotions from Code Mixed Hindi–English tweets? -> This is my MSc. Data Analytics - Thesis ",
+     "n": "SanketSonu/NLP-Identifying-Emotions-for-Code-Mixed-Hindi-English-Tweets"
+    },
+    {
+     "d": null,
+     "n": "Anshikay17/Suicidal-Intent-Detection-in-Hindi-English-Code-Mixed-Text-"
+    },
+    {
+     "d": null,
+     "n": "keshavanand1717/Named_Entity_Recognition_in_Hindi_English_Code_Mixed_Text"
+    }
+   ]
+  ],
+  "hindi english": [
+   8955,
+   [
+    {
+     "d": "Xlit-Crowd: Hindi-English Transliteration Corpus",
+     "n": "anoopkunchukuttan/crowd-indic-transliteration-data"
+    },
+    {
+     "d": "An English to Hindi Dictionary",
+     "n": "bdrillard/english-hindi-dictionary"
+    },
+    {
+     "d": "\"Complete English communication guide for DevOps interviews — designed for Hindi speakers",
+     "n": "SwatiSinghTech/devops-interview-english"
+    },
+    {
+     "d": "Machine translation is the task of converting one language to other. Unlike the traditional phrase-based translation system which consists of many small sub-components that are tuned separately, neural machine translation attempts to build and train a single, large neural network that reads a sentence and outputs a correct translation.",
+     "n": "shvmshukla/Machine-Translation-Hindi-to-english-"
+    },
+    {
+     "d": "Transliterating English to Hindi using Recurrent Neural Networks",
+     "n": "dashayushman/deep-trans"
+    },
+    {
+     "d": null,
+     "n": "suvaansh/Machine-Translation-English-to-Hindi-"
+    },
+    {
+     "d": "Machine translation using the seq2seq model",
+     "n": "jackfrost1411/machine-translation-english-to-hindi"
+    },
+    {
+     "d": "An android English to Hindi dictionary",
+     "n": "shahidul2k9/english-to-hindi-dictionary"
+    },
+    {
+     "d": "NLP Application Project",
+     "n": "ArushiSinghal/Neural-Machine-Translation-English-Hindi-for-domain-data"
+    },
+    {
+     "d": "Python package to convert text from English to Indian Languages",
+     "n": "siddharth17196/english-hindi-transliteration"
+    },
+    {
+     "d": "🌸 AI-powered period tracking & PCOD risk prediction platform for Indian women — Hindi + English | Next.js · Supabase · XGBoost · Gemini AI",
+     "n": "khushi897920-lang/hercycle-ai"
+    },
+    {
+     "d": "The IIT Bombay English-Hindi Parallel Corpus",
+     "n": "cfiltnlp/IITB-English-Hindi-PC"
+    },
+    {
+     "d": "Tutorial on English to Hindi Transliteration using Seq2Seq Architecture in Tensorflow",
+     "n": "bsantraigi/Tensorflow-RNN-Tutorials"
+    },
+    {
+     "d": "A Hindi-English Dataset for Text Normalization",
+     "n": "piyushmakhija5/hinglishNorm"
+    },
+    {
+     "d": "Extract the Date and Time related phrases from the sentence written in English Manner and Hindi Language (Hinglish) and tells the exact date and time correspondingly.",
+     "n": "chaira19/Hindi-DateTime-Parser"
+    },
+    {
+     "d": "Java Project ",
+     "n": "vin8bit/English-to-Hindi-Dictionary"
+    },
+    {
+     "d": "transliterate hindi, punjabi to english",
+     "n": "in-rolls/indicate"
+    },
+    {
+     "d": "Corpus and a baseline neural network system for Named Entity Recognition in Hindi-English Code-Mixed  social media text.",
+     "n": "SilentFlame/Named-Entity-Recognition"
+    },
+    {
+     "d": "Convert hindi audio to english and hindi text using vox",
+     "n": "KartikJain14/hindcribe"
+    },
+    {
+     "d": "A simple SMT system for English to Hindi",
+     "n": "sayarghoshroy/Statistical-Machine-Translation"
+    },
+    {
+     "d": "Implemented Machine Translation model using Badhanu Attention Mechanism. Both Hindi and Telugu translation models are trained. Used Google Translate API to obtain data.",
+     "n": "sunilbelde/neural-machine-translation-english-to-hindi-telugu"
+    },
+    {
+     "d": "Test to grab m3u from YouTube live Telugu/Tamil/Malayalam/Marathi/English/Hindi/Kids/Devotional/Educational",
+     "n": "vijay6672/YT2M3U"
+    },
+    {
+     "d": "Hindi <-> English Parallel Corpus generation and Neural Machine Translation",
+     "n": "rohit-gupta/Babelfish"
+    },
+    {
+     "d": "A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) and is optimized for deployment on GitHub Pages with custom domain support.",
+     "n": "xuemian168/android-locker"
+    },
+    {
+     "d": "Hindi-English Code Switching UD treebank",
+     "n": "CodeMixedUniversalDependencies/UD_Hindi_English"
+    },
+    {
+     "d": null,
+     "n": "deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text"
+    },
+    {
+     "d": "Repository for the English-Hindi Codemixed to Monolingual English Parallel Corpus",
+     "n": "mrinaldhar/en-hi-codemixed-corpus"
+    },
+    {
+     "d": null,
+     "n": "precog-iiith/hindi-english-code-mixing-lidf-ner"
+    },
+    {
+     "d": "(WACV 2025 - Oral) Vision-language conversation in 10 languages including English, Chinese, French, Spanish, Russian, Japanese, Arabic, Hindi, Bengali and Urdu.",
+     "n": "mbzuai-oryx/PALO"
+    },
+    {
+     "d": "Learn Hindi-to-Urdu or Urdu-to-Hindi yourself!",
+     "n": "GokulNC/English-HindUrdu-Parallel-Translator"
+    },
+    {
+     "d": "Translate English to Hindi and Hindi to English",
+     "n": "Rishav262004/Translator---using-python"
+    },
+    {
+     "d": "It is an application designed in Python usingBeautiful soup. It can find the meaning of an English Word from Internet directly to your Terminal",
+     "n": "aks060/English-hindi_dictionary"
+    },
+    {
+     "d": "Humor Detection in English-Hindi Code-Mixed Social Media Content",
+     "n": "Ankh2295/humor-detection-corpus"
+    },
+    {
+     "d": "Multilingual Generative Pretrained Model",
+     "n": "ai-forever/mgpt"
+    },
+    {
+     "d": "Generate subtitle files for a video in English and Hindi",
+     "n": "shreyansh26/Hindi-Medium"
+    },
+    {
+     "d": "Bible databases as XML, JSON, SQL & SQLITE3 Database format for various languages. Developers can download it freely for their development works. Freely received, freely give.",
+     "n": "godlytalias/Bible-Database"
+    },
+    {
+     "d": "An android app which will allows you to translate Hindi to English and English to Hindi with cool UI. It also supports voice input frature. It also supports real time audio translation.",
+     "n": "RahilBadshah/Language_Translator"
+    },
+    {
+     "d": null,
+     "n": "ysthehurricane/English-to-Hindi-Translator"
+    },
+    {
+     "d": "Public Repo of ASR & Diarization for Indian English and Hindi",
+     "n": "shaheenkdr/GSoC2019"
+    },
+    {
+     "d": "Tuned Hindi & English AI Voice Studio 2026 – Batch Cloning & TTS",
+     "n": "eliudmakd782/vocal-craft-studio"
+    },
+    {
+     "d": "These are the linguistic data for the Apertium English-Hindi machine translator. ",
+     "n": "unhammer/apertium-en-hi"
+    },
+    {
+     "d": "It is an automated software which will generate the Railway Station Announcement in Hindi, English and Gujarati by maintaining a database of required information in an excel sheet.",
+     "n": "Priyansh42/Indian-Railways-Automated-Announcement-Software"
+    },
+    {
+     "d": null,
+     "n": "AbhishekNair050/English-Hindi-Translator"
+    },
+    {
+     "d": null,
+     "n": "punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text"
+    },
+    {
+     "d": "Keyboard friendly Ascii Language to Hindi and Indian Romanized Transliteration - Rule Based Implementation",
+     "n": "prakhar21/Hindi-Transliteration"
+    },
+    {
+     "d": "Bert for multilingual hate speech and offensive content identification on english, german and hindi datasets",
+     "n": "suman101112/hasoc-fire-2020"
+    },
+    {
+     "d": "Neural Machine Translator for translating from english to hindi text. Used Pytorch framework with seq2seq architecture having Attention functionality ",
+     "n": "vermasrijan/Neural_Machine_Translator_seq2seq"
+    },
+    {
+     "d": "Hindi-English text to English Translition with NLP",
+     "n": "Sagargajare/HINGLISH-ANUVAAD"
+    },
+    {
+     "d": "Online Live Bangla, English, Hindi, Cartoon, Movies, Music IPTV channels playlist (m3u) collection.",
+     "n": "MONIR1560/iptv-1"
+    },
+    {
+     "d": "Efficient and easy to use transliteration for Indian languages",
+     "n": "notAI-tech/DeepTranslit"
+    }
+   ]
+  ],
+  "code-mixed": [
+   3058,
+   [
+    {
+     "d": "Code for the MADDPG algorithm from the paper \"Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments\"",
+     "n": "openai/maddpg"
+    },
+    {
+     "d": "Code for a multi-agent particle environment used in the paper \"Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments\"",
+     "n": "openai/multiagent-particle-envs"
+    },
+    {
+     "d": "This tool helps automatic generation of grammatically valid synthetic Code-mixed data by utilizing linguistic theories such as Equivalence Constant Theory and Matrix Language Theory.",
+     "n": "microsoft/CodeMixed-Text-Generator"
+    },
+    {
+     "d": "Sample code for the Mixed Reality Extension SDK (https://github.com/Microsoft/mixed-reality-extension-sdk)",
+     "n": "microsoft/mixed-reality-extension-sdk-samples"
+    },
+    {
+     "d": "Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions",
+     "n": "mrphrazer/msynth"
+    },
+    {
+     "d": "Official Code for *Mixed Transformer UNet for Medical Image Segmentation*",
+     "n": "Dootmaan/MT-UNet"
+    },
+    {
+     "d": null,
+     "n": "sumanbanerjee1/Code-Mixed-Dialog"
+    },
+    {
+     "d": "Code from the paper \"DACS: Domain Adaptation via Cross-domain Mixed Sampling\"",
+     "n": "vikolss/DACS"
+    },
+    {
+     "d": "Reference code for the paper Auto White-Balance Correction for Mixed-Illuminant Scenes.",
+     "n": "mahmoudnafifi/mixedillWB"
+    },
+    {
+     "d": "Samples code for building apps on the Windows Mixed Reality platform",
+     "n": "microsoft/AppConsult-Samples-MixedReality"
+    },
+    {
+     "d": "Source codes of MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space (AAAI 2020)",
+     "n": "THUNLP-AIPoet/MixPoet"
+    },
+    {
+     "d": "An open source drift diffusion code based in MATLAB for simulating semiconductor devices with mixed ionic-electronic conducting materials.",
+     "n": "barnesgroupICL/Driftfusion"
+    },
+    {
+     "d": "Mixed local channel attention for object detection （The codes of MLCA）",
+     "n": "wandahangFY/MLCA"
+    },
+    {
+     "d": "load mixed assemblies (.NET) C# source code",
+     "n": "CodeCrackerSND/MixedAssemblyLoader"
+    },
+    {
+     "d": null,
+     "n": "sahilswami96/SarcasmDetection_CodeMixed"
+    },
+    {
+     "d": "Nonlinear optics propagation code for mixed and cascaded nonlinearities.",
+     "n": "pychi-code/pychi"
+    },
+    {
+     "d": "Faust code for ambisonic and multi-channel mixed music",
+     "n": "alainbonardi/abclib"
+    },
+    {
+     "d": "This is a repo that holds the sample code for the Mixed Reality and Azure Digital Twins in Unity Learn Path",
+     "n": "MicrosoftDocs/mslearn-mr-adt-in-unity"
+    },
+    {
+     "d": "Language Identification and transliteration tool for Indian language code mixed data.",
+     "n": "irshadbhat/litcm"
+    },
+    {
+     "d": "Codes for the paper \"Towards Sub-Word Level Compositions for Sentiment Analysis of Hi-En Code Mixed Text \"",
+     "n": "drimpossible/Sub-word-LSTM"
+    },
+    {
+     "d": "a open source of mixed gestures dataset and partial source code",
+     "n": "Xi-Ravenclaw/CS-Net"
+    },
+    {
+     "d": "The Source code for paper \"Optimal Energy System Scheduling Combining Mixed-Integer Programming and Deep Reinforcement Learning\".   Safe reinforcement learning, energy management ",
+     "n": "EnergyQuantResearch/Optimal-Energy-System-Scheduling-Combining-Mixed-Integer-Programming-and-Deep-Reinforcement-Learning"
+    },
+    {
+     "d": "This repository is dedicated to development of code-mixed language resources.",
+     "n": "l3cube-pune/code-mixed-nlp"
+    },
+    {
+     "d": null,
+     "n": "sahilswami96/StanceDetection_CodeMixed"
+    },
+    {
+     "d": "In a task oriented domain, recognizing the intention of a speaker is important so that the conversation can proceed in the correct direction. This is possible only if there is a way to label the utterance with its proper intent. One such labeling technique is Dialog Act (DA) tagging. The main goal of this thesis is to build a Dialog Act tagger for the Telugu English Code Mixed corpus. Dialogue Act (DA) classification plays a key role in dialogue interpretation, especially in spontaneous conversation analysis. Dialogue acts are defined as the meaning of each utterance at the illocutionary force level. Code-Mixing (CM) is a very commonly observed mode of communication in a multilingual configuration. The trends of using this newly emerging language have its effect as a culling option especially in platforms like social media. This becomes particularly important in the context of technology and health, where expressing the upcoming advancements is difficult in native language. Despite the change of such language dynamics, current dialog systems cannot handle a switch between languages across sentences and mixing within a sentence. Everyday conversations are fabricated in this mixed language and analyzing dialog acts in this language is very essential in further advancements of making interaction with personal assistants more natural. Almost all standard traditional supervised machine learning approaches to classification have been applied in DA classification, from Support Vector Machines (SVM), Naïve Bayes, NLTK Classifiers, Max Entropy Classifier, Multilayer Perceptron, Conditional Random Field Classifier and Hidden Markov Model (HMM).",
+     "n": "SunilGundapu/DIALOG-ACT-TAGGING-FOR-CODE-MIXED-DATA-SET"
+    },
+    {
+     "d": "A curated list of research papers and resources on code-switching",
+     "n": "gentaiscool/code-switching-papers"
+    },
+    {
+     "d": "Automation tool mixed with code generator for easier continuous development",
+     "n": "hiqdev/hidev"
+    },
+    {
+     "d": "Example code for mixed-effects modelling paper",
+     "n": "James-Thorson/mixed-effects"
+    },
+    {
+     "d": "Sample code for VAEM: a Deep Generative Model for  Heterogeneous Mixed Type Data",
+     "n": "microsoft/VAEM"
+    },
+    {
+     "d": "This code provides word level language identification tool for identifying language for individual words in Code-Mixed text. e.g. The text that includes words from two languages such as Hindi written in roman script, mixed with English.",
+     "n": "microsoft/LID-tool"
+    },
+    {
+     "d": null,
+     "n": "matteopolleschi/Mixed-implicit-explicit-peridynamic-code"
+    },
+    {
+     "d": null,
+     "n": "deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text"
+    },
+    {
+     "d": "Corpus and a baseline neural network system for Named Entity Recognition in Hindi-English Code-Mixed  social media text.",
+     "n": "SilentFlame/Named-Entity-Recognition"
+    },
+    {
+     "d": "The official code implementation for \"DMMR: Cross-Subject Domain Generalization for EEG-Based Emotion Recognition via Denoising Mixed Mutual Reconstruction\"",
+     "n": "CodeBreathing/DMMR"
+    },
+    {
+     "d": "Code for the paper \"Bounce: Reliable High-Dimensional Bayesian Optimization for Combinatorial and Mixed Spaces\"",
+     "n": "lpapenme/bounce"
+    },
+    {
+     "d": "NanigoNet — Language detector for code-mixed input supporting 150+19 human+programming languages using deep neural networks",
+     "n": "mhagiwara/nanigonet"
+    },
+    {
+     "d": "Official code for \"CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis\", ICML 2023",
+     "n": "ChaejeongLee/CoDi"
+    },
+    {
+     "d": "Repository for code release of paper \"Robust Variational Autoencoders for Outlier Detection and Repair of Mixed-Type Data\" (AISTATS 2020)",
+     "n": "sfme/RVAE_MixedTypes"
+    },
+    {
+     "d": "Code Mixed Normalization",
+     "n": "seelenbrecher/code-mixed-normalization"
+    },
+    {
+     "d": "Code for Learning Sparse Nonlinear Dynamics via Mixed Integer Optimization",
+     "n": "wesg52/sindy_mio_paper"
+    },
+    {
+     "d": "[ACL 2021] This is the project containing source codes and pre-trained models about ACL2021 Long Paper ``LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations\".",
+     "n": "X-LANCE/text2sql-lgesql"
+    },
+    {
+     "d": "Official code for \"Amodal Completion via Progressive Mixed Context Diffusion\" [CVPR 2024 Highlight]",
+     "n": "k8xu/amodal"
+    },
+    {
+     "d": "Unsupervised Sentiment Analysis for Code-mixed Data",
+     "n": "sedflix/unsacmt"
+    },
+    {
+     "d": "TorchGRL is the source code for our paper Graph  Convolution-Based  Deep Reinforcement Learning for Multi-Agent  Decision-Making in Mixed Traffic Environments.",
+     "n": "Jacklinkk/TorchGRL"
+    },
+    {
+     "d": "IDA script to apply information stored in mixed managed/native assemblies to the native code portion",
+     "n": "shuffle2/IDA-ClrNative"
+    },
+    {
+     "d": "Matlab code for nonparametric detection of nonlinearly mixed pixels in hyperspectral images. ",
+     "n": "talesimbiriba/NP_NL_Det_EE_HI"
+    },
+    {
+     "d": "This repository contains the source code for HIT (Hierarchical Transformer).",
+     "n": "LCS2-IIITD/Code-mixed-classification"
+    },
+    {
+     "d": "Data set and source code used in \"Emotion Recognition Using Smart Watch Sensor Data: Mixed-Design Study.\"",
+     "n": "juancq/emotion-recognition-smartwatch"
+    },
+    {
+     "d": "Code for the AAAI 2015 paper \"Aligning Mixed Manifolds\"",
+     "n": "all-umass/low_rank_alignment"
+    },
+    {
+     "d": "Source code of AAAI'22 paper: A Hybrid Causal Structure Learning Algorithm for Mixed-type Data",
+     "n": "DAMO-DI-ML/AAAI2022-HCM"
+    }
+   ]
+  ],
+  "romanized hindi": [
+   157,
+   [
+    {
+     "d": "Compilation of Manually Tagged Roman Urdu Dataset (Urdu written in Latin/Roman Script), along with other helpful Roman Urdu NLP resources",
+     "n": "Smat26/Roman-Urdu-Dataset"
+    },
+    {
+     "d": "Keyboard friendly Ascii Language to Hindi and Indian Romanized Transliteration - Rule Based Implementation",
+     "n": "prakhar21/Hindi-Transliteration"
+    },
+    {
+     "d": "Text Embeddings for Hindi, English and Romanized Hindi texts",
+     "n": "akshita-sukhlecha/bhasha-embed"
+    },
+    {
+     "d": "This code provides word level language identification tool for identifying language for individual words in Code-Mixed text. e.g. The text that includes words from two languages such as Hindi written in roman script, mixed with English.",
+     "n": "microsoft/LID-tool"
+    },
+    {
+     "d": null,
+     "n": "pramanik-souvik/romanized-hindi-sarcasm"
+    },
+    {
+     "d": "⭐ Browser extension that fetches missing Spotify lyrics, restores native scripts, and romanizes & translates songs in 132 languages – live inside Spotify.",
+     "n": "haroldalan/spotify-karaoke"
+    },
+    {
+     "d": "various styles of hindi romanization",
+     "n": "doy/lingua-hi-romanize"
+    },
+    {
+     "d": "Project aimed to classify emotion within text written in hindi with roman alphabets",
+     "n": "Kshitijks-1/Code-Mix-Sentiment-Analysis-using-ML"
+    },
+    {
+     "d": "Neural Transliteration of Song Lyrics, Roman Script to Hindi Script",
+     "n": "secp8x32/NeuralCharTransliteration"
+    },
+    {
+     "d": "A lightweight Dart package for converting Arabic, Chinese, Cyrillic, Hebrew, Greek, Hindi Japanese and Korean text to Romanized form with auto-detection support.",
+     "n": "themelodyai/romanize"
+    },
+    {
+     "d": "torch-transformer-hinglish2hindi-translator is a character-level translater implemented in PyTorch, specifically designed for translating Hinglish (romanized hindi) to Hindi. The translator employs a Transformer-based architecture, leveraging the power of attention mechanisms for accurate and context-aware translation.",
+     "n": "thefcraft/torch-transformer-hinglish2hindi-translator"
+    },
+    {
+     "d": "It is a simple tool to convert roman script to indic(Devanagari) script. As most Keyboards are English and to write in Indic script is difficult. It is easy to write Hindi in roman script this gives inspiration to make a tool for Linux to write hindi text easily",
+     "n": "puneetsl/Romadeva"
+    },
+    {
+     "d": null,
+     "n": "gupt-mudit/case-study-romanized-hindi-tokenization"
+    },
+    {
+     "d": "English->Hindi and Hindi-Romanized English transliteration for NLP assignment",
+     "n": "Anirudh-C/transliterator"
+    },
+    {
+     "d": "A simple transliteration scheme to/from hindi into a keyboard friendly representation. Build parsers for (a) Converting a given text in into hindi and rendering it in the native script.  (b) Converting a unicode (UTF-8) string of the native hindi language script into an indianized roman version (ascii characters with accents, etc.)",
+     "n": "gandharvsuri/Hindi-Language-Transliterator"
+    },
+    {
+     "d": "Hindi YouTube videos → Romanized phonetic captions",
+     "n": "ajaykirtikar2/Speakify"
+    },
+    {
+     "d": "Devanagari and Romanized Hindi pre-trained models",
+     "n": "GKLMIP/HinPLMs"
+    },
+    {
+     "d": "Script to transliterate Hindi written in Roman script to Devanagari script ",
+     "n": "nalin1096/RomanToDevanagiri"
+    },
+    {
+     "d": "Autocorrect system for Romanized Hindi using phonetic WX substitution and Levenshtein ranking",
+     "n": "Anmol501/Roman-Hindi-autocorrect"
+    },
+    {
+     "d": "Python in Hindi(Roman Script)",
+     "n": "itsrealkaran/python_hindi"
+    },
+    {
+     "d": "A Fine-Tuned LLM for Romanized Hindi/Urdu Poetry",
+     "n": "hh-hassan/Poetrix"
+    },
+    {
+     "d": "The pipeline counts how many tokens the same Hindi sentences need in four forms, with open tokenizers released between 2019 and 2026. No model weights are loaded and no text is generated.",
+     "n": "Pallavrai/romanized_discount_research"
+    },
+    {
+     "d": "A modern AI-powered web app that converts English and Hinglish (Roman Hindi) text into natural, fluent Hindi written in Devanagari script.",
+     "n": "coderajay391/hinglish-to-hindi-translator"
+    },
+    {
+     "d": "Transliterating from Hindi Devanagari to Roman script",
+     "n": "deterministic-algorithms-lab/hindi-transliteration"
+    },
+    {
+     "d": "Rule based romanization of Hindi characters.",
+     "n": "SiddheshSingh/hi2en"
+    },
+    {
+     "d": "Hinglish font is a font which transliterates unicode devanagari text into Roman English like Hindi speaking people use SMS using English alphabets.",
+     "n": "fastrizwaan/Hinglish"
+    },
+    {
+     "d": "Generate Bollywood lyrics in Roman Hindi",
+     "n": "anudeeplearning/LyricsGen"
+    },
+    {
+     "d": "Character-level Hinglish-to-Hindi translator using PyTorch and Transformer-based architecture for accurate, context-aware romanized Hindi to Hindi translations",
+     "n": "SharmaKanishkaa/Hinglish-to-Hindi-Neural-Translator"
+    },
+    {
+     "d": "Fast, drop-in multilingual profanity and toxicity screener for Node.js, powered by System 1 models like TypeSafe AI Jev and Laya. Catches leetspeak, character spacing, and romanized profanity across languages including Kannada, Telugu, Tamil, Hindi, and Bengali. ~50-500ms latency.",
+     "n": "ItisShikhar/gg-friggin-ez"
+    },
+    {
+     "d": "Evaluating and improving machine translation using Devanagari vs. romanized Hindi script",
+     "n": "anncli/NLP-Project"
+    },
+    {
+     "d": "Enter Romanized text and get transliteration in Hindi, Bengali, and Tamil.",
+     "n": "KunalKurve/Multilingual-Transliteration-Project"
+    },
+    {
+     "d": "This project implements an AI-based transliteration system that converts Romanized Hindi text (e.g., \"ghar\", \"namaste\") into Devanagari script (e.g., \"घर\", \"नमस्ते\") using a Sequence-to-Sequence (Seq2Seq) architecture with LSTM (Long Short-Term Memory) networks. The application includes both model training and web deployment.",
+     "n": "RohithReddyGK/Transliteration-Romanized-to-Devanagari"
+    },
+    {
+     "d": "Transliteration from urdu into hindi and roman",
+     "n": "munzirds/translit"
+    },
+    {
+     "d": "Transliteration model for Hindi ( Roman to Devanagari )",
+     "n": "safffrron/transliteration"
+    },
+    {
+     "d": "Character-level deep learning (BiRNN, BiLSTM+Attention, BiGRU, CNN+BiLSTM) for identifying the language of Romanized text across English, Bengali, Santali, Japanese, and Hindi.",
+     "n": "s-square7/Neural-Language-Detection-for-Romanized-Multilingual-Corpora"
+    },
+    {
+     "d": "A web-based Hindi Indic Input Tool inspired by Google Input Tools. It allows users to type Hindi using English keyboard (Roman transliteration) and converts text into Devanagari script in real time.",
+     "n": "shailesh-zx/google-hindi-indic-tool"
+    },
+    {
+     "d": "Generate Hinglish (Roman Hindi) subtitles from Hindi videos automatically using Faster Whisper.",
+     "n": "CaptainAdarshh/Hinglish-Subtitle-Generator"
+    },
+    {
+     "d": "Type in roman Hindi and will be translated into Devanagari",
+     "n": "VikashKumarDhaka/Hindi-Keyboard-Tool"
+    },
+    {
+     "d": "HindiDost — learn everyday Hindi in the Roman alphabet, one 10-minute subject a day.",
+     "n": "DonPaulux/hindidost"
+    },
+    {
+     "d": "Hindi-Trained Romanization Robustness Adapter for Indic LLMs",
+     "n": "shrys1976/RomCom-Drift"
+    },
+    {
+     "d": "AI-powered Streamlit app that converts English text into English-Devanagari, Hindi-Devanagari, and Romanized Hindi using Google Generative AI.",
+     "n": "chinmay-pardeshi/Text-to-Text"
+    },
+    {
+     "d": "Baseline and Baseline++ models that transliterate Hindi from Roman Script to Devanagari Script.",
+     "n": "PanwarJayant/Transliteration-Hindi"
+    },
+    {
+     "d": "The Main goal is to train a seq2seq model which takes as input the romanized string and produces the corresponding word in native script.",
+     "n": "Mobius-strip/Transliteration-English-to-Hindi-"
+    },
+    {
+     "d": "Flutter app – business idea generator in Roman Hindi",
+     "n": "sohailsyed1436-debug/BizBuddy-"
+    },
+    {
+     "d": "🦜 Claude Code plugin that explains everything in your language, script and role: Roman-Urdu, Urdu, Hinglish, Hindi, Dutch. Plain-language approvals, failure explanations, quality checks.",
+     "n": "Mir-Zairan/shoga-speaks"
+    },
+    {
+     "d": "The goal of this project is to build a text converter that takes input in one language and outputs the translated text in Romanized form (Latin script) of another language. For example, it can convert English sentences into Hindi written in English letters (“Hinglish”), Tamil written in English letters, or any other supported language. ",
+     "n": "krishan04/Multi-Language-Romanized-Text-Converter"
+    },
+    {
+     "d": "Dataset having English sentence and their respective roman Hindi translation pairs",
+     "n": "abdulahad89/Roman-Hindi-to-English-dataset"
+    },
+    {
+     "d": "Translate Hindi sentences written in roman letters to english",
+     "n": "parthalicious/Whatsapp-translate"
+    },
+    {
+     "d": "An open-source 1.7B Hinglish conversational language model focused on natural Romanized Hindi, English-Hindi code-switching, and Indian conversational styles.",
+     "n": "AshutoshMore142k4/Hinglish-1.7b-chat"
+    },
+    {
+     "d": "Evaluating language-conditioned safety asymmetries between English and Romanized Hindi in open-weight language models.",
+     "n": "bibek-nagpal/Indic-LLM-Safety"
+    }
+   ]
+  ],
+  "transliterated hindi": [
+   200,
+   [
+    {
+     "d": "Xlit-Crowd: Hindi-English Transliteration Corpus",
+     "n": "anoopkunchukuttan/crowd-indic-transliteration-data"
+    },
+    {
+     "d": "Transliterating English to Hindi using Recurrent Neural Networks",
+     "n": "dashayushman/deep-trans"
+    },
+    {
+     "d": "Tutorial on English to Hindi Transliteration using Seq2Seq Architecture in Tensorflow",
+     "n": "bsantraigi/Tensorflow-RNN-Tutorials"
+    },
+    {
+     "d": "A pipeline for transliteration, spell correction, POS tagging and word sense disambiguation of Hinglish code mixed data to Hindi Devanagari script.",
+     "n": "praatibhsurana/Hinglish_Hindi_WSD"
+    },
+    {
+     "d": "transliterate hindi, punjabi to english",
+     "n": "in-rolls/indicate"
+    },
+    {
+     "d": "Efficient and easy to use transliteration for Indian languages",
+     "n": "notAI-tech/DeepTranslit"
+    },
+    {
+     "d": "HIndi to Urdu and Urdu to Hindi Transliterator",
+     "n": "ltrc/python-hutrans"
+    },
+    {
+     "d": "Easily type Indic languages on computer and mobile. GoVarnam is a cross-platform transliteration library. Manglish -> Malayalam, Thanglish -> Tamil, Hinglish -> Hindi plus another 10 languages. GoVarnam is a near-Go port of libvarnam",
+     "n": "varnamproject/govarnam"
+    },
+    {
+     "d": "Keyboard friendly Ascii Language to Hindi and Indian Romanized Transliteration - Rule Based Implementation",
+     "n": "prakhar21/Hindi-Transliteration"
+    },
+    {
+     "d": "English-Hindi Machine Language Transliteration in Tensorflow",
+     "n": "typecaster/Text-Transliteration"
+    },
+    {
+     "d": "English to Hindi Transliteration using Pytorch.",
+     "n": "biku1998/Neural-machine-transliteration-using-Pytorch"
+    },
+    {
+     "d": "Transliterate text from English to Hindi or Hindi to English made using google transliteration API.",
+     "n": "zaidajani/google-transliterate-api"
+    },
+    {
+     "d": "Indic-En WebExtension for transliterating webpages. Malayalam, Hindi, Kannada -> Manglish, Hinglish, Kanglish. Mirror of https://gitlab.com/subins2000/indicen",
+     "n": "subins2000/indicen"
+    },
+    {
+     "d": "A console program for lossless transliteration of Sanskrit texts from Devanagari to Latin and back using the International Alphabet of Sanskrit Transliteration (IAST).",
+     "n": "vlastavesely/sanskrit-iast"
+    },
+    {
+     "d": "Code repository with customisable Fuzzy Matching scripts in STATA and Python, especially useful when working with datasets containing Hindi text transliterated to English.",
+     "n": "IDinsight/hindi-fuzzy-merge"
+    },
+    {
+     "d": "Neural Transliteration of Song Lyrics, Roman Script to Hindi Script",
+     "n": "secp8x32/NeuralCharTransliteration"
+    },
+    {
+     "d": "hindi transliteration",
+     "n": "jpavithrajayaram-cyber/hindi"
+    },
+    {
+     "d": "A sequence to sequence model for Hindi to English transliteration, that uses attention mechanism.",
+     "n": "MahajanTarun/Hindi-to-English-Transliteration-using-Seq2Seq-encoding"
+    },
+    {
+     "d": "Hindi Transliteration Tool",
+     "n": "PSanilP/hindi"
+    },
+    {
+     "d": "HEIST - Hindi English Inword Spelling Transliterator",
+     "n": "sainivedh/HEIST"
+    },
+    {
+     "d": "Implementing neural machine transliteration from english-to-hindi in tensorlfow 2.0",
+     "n": "biku1998/Neural-Machine-Transliteration-Tensorflow2.0"
+    },
+    {
+     "d": "hindi and marathi to english transliteration+translation tool!",
+     "n": "muggloaf/indicode"
+    },
+    {
+     "d": "A indic (Sinhala, Hindi and Tamil) transliteration script.",
+     "n": "sdasun/indic-transliterator"
+    },
+    {
+     "d": "An English to Hindi Predictive Input Transliteration System",
+     "n": "nisheethjoshi/Samparivartan"
+    },
+    {
+     "d": "Multilingual sentiment analysis for Hindi, English & transliterated Hindi.",
+     "n": "rahulr92/hindi-nlp-sentiment"
+    },
+    {
+     "d": "Lekhani: a 0.87 MB Hindi transliterator (type Hindi in Latin letters, get Devanagari) that runs in the browser or Node, on your own device. By Udgam Labs.",
+     "n": "udgamlabs/lekhani"
+    },
+    {
+     "d": "Akshar Engine (Hindi to Hinglish): Real-time sub-15ms C++ ByT5 neural transliteration runtime powered by pure Vulkan GPU compute and AVX2 CPU SIMD.",
+     "n": "AnshSinglaDev/Akshar-hindi-hinglish"
+    },
+    {
+     "d": "Hindi Transliteration Model",
+     "n": "M4MURARI/Transliteration-LSTM"
+    },
+    {
+     "d": "Transliteration: Bengali, Hindi",
+     "n": "parthapakray/TranslitarationTool"
+    },
+    {
+     "d": "A web application to help practise the Hindi script by transliterating between Devanagārī and Latin scripts",
+     "n": "ToranSharma/Hindi-Practice"
+    },
+    {
+     "d": "Features Transliteration, Google Translation, Google TextToSpeech",
+     "n": "pkarthick/HindiEditor"
+    },
+    {
+     "d": "A simple transliteration scheme to/from hindi into a keyboard friendly representation. Build parsers for (a) Converting a given text in into hindi and rendering it in the native script.  (b) Converting a unicode (UTF-8) string of the native hindi language script into an indianized roman version (ascii characters with accents, etc.)",
+     "n": "gandharvsuri/Hindi-Language-Transliterator"
+    },
+    {
+     "d": "English to Hindi transliteration",
+     "n": "koshalt/Transliteration"
+    },
+    {
+     "d": "Transliteration Hindi, bengali, tamil",
+     "n": "vvs1v/transliteration_task"
+    },
+    {
+     "d": "English to Hindi Transliteration",
+     "n": "revanth-eranki/MACHINE-TRANSLITERATION"
+    },
+    {
+     "d": "Text - Transliteration Model for English to Hindi transliteration",
+     "n": "Meghana43/Text-Transliteration"
+    },
+    {
+     "d": "This contains language transliteration for  Telugu,Tamil,Hindi,Kannada,Malyalam,Arabic",
+     "n": "kranthi/language_transliterate_local"
+    },
+    {
+     "d": "Script to transliterate Hindi written in Roman script to Devanagari script ",
+     "n": "nalin1096/RomanToDevanagiri"
+    },
+    {
+     "d": "Obsidian plugin for hindi transliteration",
+     "n": "Puneet56/hindi-transliteration"
+    },
+    {
+     "d": "A Next.js 14 web app that converts English text into Hindi script in real time using a custom transliteration logic, with full CRUD functionality (Create, Read, Update, Delete) integrated using MongoDB ",
+     "n": "asifcuber08/Transliteration--English-to-Hindi"
+    },
+    {
+     "d": "English to Hindi Transliteration App",
+     "n": "abhijeet-adarsh/Transliterator"
+    },
+    {
+     "d": "RNN powered english-hindi transliteration",
+     "n": "bergstartup/transliteration"
+    },
+    {
+     "d": "Transliterate English Text to Hindi",
+     "n": "napsternxg/Transliteration"
+    },
+    {
+     "d": "Transliteration from English to Hindi",
+     "n": "himanshurajora/indic-transliteration-example"
+    },
+    {
+     "d": "transliteration from english to hindi",
+     "n": "RakeshSharma21/Machine-transliteration"
+    },
+    {
+     "d": "Hindi transliteration of English words",
+     "n": "rahulsrma26/htrans"
+    },
+    {
+     "d": "braille to hindi transliteration tool",
+     "n": "chewperman/braille-to-hindi"
+    },
+    {
+     "d": "Transliteration for english to hindi",
+     "n": "jatinsakshiB/devlipi"
+    },
+    {
+     "d": "English to Hindi Word Transliteration",
+     "n": "bhaveshjain1203/CS6910_Assignment3"
+    },
+    {
+     "d": "A Python-based transliteration tool",
+     "n": "tefnaminta/hindi-malayalam_transliteration"
+    }
+   ]
+  ],
+  "hinglish conversation": [
+   131,
+   [
+    {
+     "d": "The language Hinglish involves a hybrid mixing of Hindi and English within conversations, individual sentences and even words. An example: “nahi mei nahi aa sakta”. Translation: “no, i cannot come.” It is gaining popularity as a way of speaking that demonstrates you are modern, yet locally grounded.  ",
+     "n": "kopalsharma19/NLP-Hinglish"
+    },
+    {
+     "d": "This repository holds Python scripts for a 21M-parameter Hinglish-speaking model based on GPT-2, designed for everyday conversations, along with its development process.",
+     "n": "Abhishekcr448/Tiny-Hinglish-Chat-21M-Scripts"
+    },
+    {
+     "d": "AI skill: Hinglish for chat, English for public outputs. Works with Cursor, ChatGPT, Claude & more.",
+     "n": "Shubh-Creates/hinglish-conversation-mode"
+    },
+    {
+     "d": "Sentiment Shift Detection in Hinglish Conversations using NLP",
+     "n": "SWATI-PANDEY-github/hinglish-sentiment-shift"
+    },
+    {
+     "d": "AIKO dataset generator — 600k Hinglish conversations",
+     "n": "Code-WithFaiz/aiko-dataset"
+    },
+    {
+     "d": "A small custom GPT-style conversational AI trained for Roman Hinglish conversations.",
+     "n": "vikas-aa/NanoGPT-Hinglish"
+    },
+    {
+     "d": "A repo of Hinglish conversational AI for travel company",
+     "n": "rahul13g/Conversation_Travel_AI_HL_task"
+    },
+    {
+     "d": "Fine-tuned Qwen LLM on personal WhatsApp-style Hinglish conversations using LoRA to create a smart, context-aware chat assistant.",
+     "n": "HarshPatel2035/Hinglish-Chat-LLM"
+    },
+    {
+     "d": "An intelligent semantic search engine for Hinglish group chat conversations using FastAPI, vector embeddings, and metadata filtering.",
+     "n": "mehuljain2403/hinglish-chat-semantic-search"
+    },
+    {
+     "d": "AI-powered sentiment analysis for English/Hindi/Hinglish Conversations",
+     "n": "atulsingh7440/ai-sentiment-analyzer"
+    },
+    {
+     "d": "An evaluation of ASR systems for accurate entity extraction (Bangalore localities) in real-world Hindi/Hinglish audio.",
+     "n": "sanikajhanwar/conversational-asr-eval"
+    },
+    {
+     "d": "Using Gemini to generate a natural-sounding 2-minute conversation two people in Hinglish based on any Wikipedia article ",
+     "n": "shriya3099/ai-conversation"
+    },
+    {
+     "d": "Prompt-writing guardrails for Eigi/Claude agent prompts: speech-safe output, Hindi Devanagari, English Latin script, and natural Hinglish rules.",
+     "n": "eigi-ai/conversation-rules"
+    },
+    {
+     "d": "Agentic RAG for WhatsApp chats — conversation-aware retrieval, Hinglish support, timeline UI, and LLM-driven reasoning.",
+     "n": "riteshraja/WhatsApp-Conversational-RAG-Agent"
+    },
+    {
+     "d": "A Hinglish AI voice assistant for natural and engaging conversations.",
+     "n": "ghostempireis/Vaani-AI"
+    },
+    {
+     "d": "Hinglish LLM 🚀  A bilingual Large Language Model (LLM) fine-tuned to understand and generate text in **Hinglish** – a mix of Hindi and English, commonly used in informal conversations in India. This model is suitable for chatbot applications, text generation, and language understanding in Hinglish.",
+     "n": "Ramavadhoota/Hinglish-LLM"
+    },
+    {
+     "d": "HinglishAssistant is a conversational AI powered by the local LLaMA 3 model, designed for interactive Hinglish (Hindi + English) conversations. Built with Streamlit, it provides casual, quick responses in Hinglish, offering a fun and engaging AI assistant experience.",
+     "n": "Freakyselmon/hinglish-voice-ai"
+    },
+    {
+     "d": "NOVA — an AI-powered virtual receptionist for Beyond Tech Intelligence, built with Pipecat, FastAPI, Groq LLM, and Cartesia STT/TTS. Handles natural Hinglish conversations, answers service and pricing questions, and guides visitors through business inquiries with professional voice interaction.",
+     "n": "akashnagar97846-code/Hinglish-AI-Receptionist"
+    },
+    {
+     "d": "This dataset contains synthetically generated conversational dialogues in Hinglish (a blend of Hindi and English). The conversations revolve around typical college life, cultural festivities, daily routines, and general discussions, designed to be relatable and engaging.",
+     "n": "Prakhar-Bhartiya/Hinglish-Finetuning-Dataset"
+    },
+    {
+     "d": "Voice and text search agent for India’s used commercial-vehicle market, with grounded results, deterministic ranking, and English/Hinglish support.",
+     "n": "KayvanShah1/conversational-commercial-vehicle-search"
+    },
+    {
+     "d": "A multilingual AI chat companion supporting Hindi, English and Hinglish conversations. ❤️",
+     "n": "mydopamineai/dopamine-ai-"
+    },
+    {
+     "d": "Fine-tuning an LLM using QLoRA for Hinglish conversation with the user.",
+     "n": "bhavya-parmar/LLM-Fine-tuning-QLoRA"
+    },
+    {
+     "d": "Kuki is a friendly and emotional chatbot that speaks in Hinglish, created by Atharv Hatwar. She's designed to be your supportive friend who understands your feelings and provides emotional support while maintaining natural conversations.  Features ✨",
+     "n": "atharv01h/kuki-chat-bot"
+    },
+    {
+     "d": "NeoGPT is a multilingual AI chatbot built for India's linguistic diversity. It understands how people actually speak — Hinglish, Tanglish, Banglish, code-mixed conversations - without needing translation.",
+     "n": "Rahul-2314/neogpt"
+    },
+    {
+     "d": "💬 AI Language Tutor for learning Spanish, German, French, and Hinglish through conversation",
+     "n": "darth-dodo/habla-hermano"
+    },
+    {
+     "d": "🎙️ AI Podcast Generator - Transform text into natural podcast conversations with Hinglish dialogue",
+     "n": "lucentroots/podgen-ai-podcast-generator"
+    },
+    {
+     "d": "Semantic Hinglish group-chat search with hybrid retrieval, conversation context, and benchmark evaluation.",
+     "n": "Vanshagrawal16/IT_GEEKS_PROBLEM2"
+    },
+    {
+     "d": "Emotional AI chatbot Android app with voice and Hinglish conversation (Miss You ❤️ AI)",
+     "n": "Bhaskar1165/MissYouAI"
+    },
+    {
+     "d": "Hari AI is a smart AI chatbot that supports Hindi, Hinglish, and English conversations.",
+     "n": "hariomtard18-tech/hari-ai"
+    },
+    {
+     "d": "🌐 Native Multilingual Dialogue: Auto-translating conversations across Bengali (বাংলা), Hindi (हिन्दी), Hinglish, and English.",
+     "n": "TitanBiswas/voice-call-flow-ai"
+    },
+    {
+     "d": "Turns noisy Hinglish investor-advisor call recordings into a queryable knowledge graph — 8-step pipeline (denoise → diarize → extract facts → resolve entities → graph) with a chat UI that answers questions with speaker + timestamp evidence",
+     "n": "anantJjain/audio-knowledge-graph-conversational-ui"
+    },
+    {
+     "d": "AI-powered dual-model terminal that automatically switches between conversation and coding, learns from the web, supports Hinglish, and delivers an intelligent CLI experience for developers.",
+     "n": "mamba-official/drake-os"
+    },
+    {
+     "d": "SmartBuddy AI - A personal AI assistant built with Python, Groq, Gemini API, conversation memory and Hinglish support.",
+     "n": "drsatyaranjan01-crypto/SmartBuddy-AI"
+    },
+    {
+     "d": "AI-powered Discord bot using local LLaMA3 (Ollama) with memory and Hinglish personality for real-time conversations.",
+     "n": "articblue3452/ChaiBot-AI-Discord-Bot-LLaMA3-"
+    },
+    {
+     "d": "An AI-powered video intelligence application that transcribes YouTube videos and local uploads (supporting English/Hinglish), extracts structured summaries, decisions, and tasks, and uses a vector-based RAG chatbot to let users converse with their video content in real-time.",
+     "n": "abathla1433/AI-Video-Conversational-System-Using-RAG"
+    },
+    {
+     "d": "An AI-powered website that simulates Hinglish mentor conversations and tech debates with Hitesh Choudhary and Piyush Garg.",
+     "n": "anks-gupta/tutor-simulator"
+    },
+    {
+     "d": "SafeText AI is an AI-powered text moderation API built with Python, FastAPI, Google Gemini, and Redis. It combines rule-based filtering and LLM-powered classification to identify potentially harmful content, detect profanity, and support safer text interactions, including Hindi-English mixed (Hinglish) conversations.",
+     "n": "krishkydv77/safetext-ai_-Smarter-Text.-Safer-Conversations."
+    },
+    {
+     "d": "A fully standalone ESP32-S3 voice assistant powered by Gemini Live, featuring true full-duplex audio with acoustic echo cancellation, consent-gated camera vision, on-device music playback, OLED robot UI, and Hindi/English/Hinglish conversations.",
+     "n": "mk14ray/RIO-XIAO-ESP32-S3-Gemini-Live-Voice-Assistant"
+    },
+    {
+     "d": "ApnaAI — A standalone AI communication assistant that understands conversations, context, tone, and Hinglish to suggest natural, smart, and engaging replies.",
+     "n": "dokeejonny-lgtm/Apna-ai-"
+    },
+    {
+     "d": "JaneCoach - a real-time Hindi conversation coach. Phone listens, engine thinks, your earbud whispers one strategic line in Hindi/Hinglish.",
+     "n": "painbaba/jane-coach"
+    },
+    {
+     "d": "A translator that gets your tone: 125 languages, six tones, Hinglish, conversation, camera and document translation, on your device first.",
+     "n": "emwil23/TranslateApp"
+    },
+    {
+     "d": "Independent Python reference for Azure Voice Live BYOM: Hindi/Hinglish voice conversations, optional Telugu, diagnostics, benchmarks and safe deployment guidance.",
+     "n": "vrajakishore/azure-voicelive-byom-reference"
+    },
+    {
+     "d": "Vera — AI merchant growth assistant for magicpin's India AI Challenge. Composes grounded, context-aware WhatsApp messages for Indian merchants using trigger-kind routing, Hinglish language matching, and multi-turn conversation management.",
+     "n": "krtechie/vera-bot"
+    },
+    {
+     "d": "Production-grade mental health support platform with AI conversations, crisis detection, CBT modules, streak tracking, and multilingual support (English/Hindi/Hinglish)",
+     "n": "miluuu2912/mindmate-pro"
+    },
+    {
+     "d": "A multilingual AI chatbot using FastAPI, LangChain, and Google's Gemini AI with enhanced support for English, Hindi, and Hinglish conversations.",
+     "n": "Srinathvaida/multilingual-ai-chatbot"
+    },
+    {
+     "d": "WhatsApp-native multi-agent AI assistant for Indian SMBs — tracks payments, tasks & reminders from Hinglish conversations. LangGraph · Groq · FastAPI · ChromaDB · SQLite",
+     "n": "Prithvi-ra-j/Munshi"
+    },
+    {
+     "d": "AI-powered NCERT teacher for Class 1-12 | Hindi, Hinglish & English | Groq API + Ollama offline fallback | File upload, conversation memory, SSE streaming",
+     "n": "ajayJ01/ai-shikshak"
+    },
+    {
+     "d": "Youth-friendly mental health support web app with daily check-ins, AI conversations, streak badges, and voice support in English/Hindi/Hinglish",
+     "n": "kapasiraj84-beep/mindmitra-mental-health-app"
+    },
+    {
+     "d": "A terminal-based AI chatbot built with Python and the Google Gemini API, featuring conversation history and a warm Hinglish conversational style.",
+     "n": "Saniya-firdos/AI-chatbot"
+    },
+    {
+     "d": "Hindi/Hinglish voice conversation loop on HF speech-to-speech + Kokoro TTS, CPU-only, as a laptop stand-in for Reachy Mini",
+     "n": "ashish139/speech-to-speech-reachy-mini"
+    }
+   ]
+  ],
+  "hinglish chat": [
+   291,
+   [
+    {
+     "d": "Built a Chat application named Safechat which can predict whether the text sent in a group chat is bullying or non-bullying.",
+     "n": "karan19100/CyberBullying-Detection-in-Hinglish-Languages-Using-Machine-Learning-"
+    },
+    {
+     "d": "This repository contains the code for dataset curation and  finetuning of instruct variant of the Bilingual OpenHathi model. The resulting model is meant to follow instructions and chat in Hindi and Hinglish.",
+     "n": "pacman100/openhathi_instruct"
+    },
+    {
+     "d": "This repository holds Python scripts for a 21M-parameter Hinglish-speaking model based on GPT-2, designed for everyday conversations, along with its development process.",
+     "n": "Abhishekcr448/Tiny-Hinglish-Chat-21M-Scripts"
+    },
+    {
+     "d": "Text mining on hinglish (Combination of hindi + english) style of language commonly used in informal chat rooms of Indian netizens",
+     "n": "selfishhari/hinglish_text_mining"
+    },
+    {
+     "d": null,
+     "n": "HannyYadav/HinglishChatbot"
+    },
+    {
+     "d": "A beautiful and responsive chatbot application that provides spiritual guidance based on the Bhagavad Gita's teachings. The bot communicates primarily in Hinglish (Hindi + English) and supports English and Marathi languages.",
+     "n": "atharv01h/Sakha-Chat"
+    },
+    {
+     "d": "ChatGPT secret codes: ek keyword se kuch bhi fatak se seekho (Hinglish)",
+     "n": "deepanshu1422/chatgpt-secret-codes"
+    },
+    {
+     "d": null,
+     "n": "heetmiyani/Hinglish-Chatbot"
+    },
+    {
+     "d": null,
+     "n": "Shankar-2125/Hinglish-Chatpot"
+    },
+    {
+     "d": null,
+     "n": "Neethadhiya/HinglishChatBot-Langchain-TogetherAI"
+    },
+    {
+     "d": null,
+     "n": "AaditHire/Hinglish-Chatbot"
+    },
+    {
+     "d": null,
+     "n": "jahanvigarg238/Hinglish_Chatbot"
+    },
+    {
+     "d": "Kuki is a friendly and emotional chatbot that speaks in Hinglish, created by Atharv Hatwar. She's designed to be your supportive friend who understands your feelings and provides emotional support while maintaining natural conversations.  Features ✨",
+     "n": "atharv01h/kuki-chat-bot"
+    },
+    {
+     "d": null,
+     "n": "devaanshh/Hinglish-Chatbot"
+    },
+    {
+     "d": "🤖 Hinglish AI chatbot (NOVA) built with Vanilla JS + Google Gemini API. Talks like a desi friend — casual, funny & helpful!",
+     "n": "MADHacker912/Hinglish-Chatbot"
+    },
+    {
+     "d": null,
+     "n": "kihal98/hinglish-chatterbox"
+    },
+    {
+     "d": "Exported from Caffeine project: Hinglish AI Chat",
+     "n": "caffeinepub/hinglish-ai-chat"
+    },
+    {
+     "d": "A chatbot that is going to support multilingual translation for English and Hindi.",
+     "n": "apoorvassudani/hinglish-ecommerce-chatbot"
+    },
+    {
+     "d": null,
+     "n": "apoorvassudani/slp-hinglish-chatbot"
+    },
+    {
+     "d": null,
+     "n": "shivom-akalp/chatterbox-hinglish-frontend"
+    },
+    {
+     "d": null,
+     "n": "leakagelink/safe-hinglish-chat"
+    },
+    {
+     "d": null,
+     "n": "namanpatil-m/hinglish_chat_search"
+    },
+    {
+     "d": "A chatbot that talk like a friend in hinglish",
+     "n": "Amitkushwaha78/sarcastic_hinglish_chatbot"
+    },
+    {
+     "d": "Fine-tuned Qwen LLM on personal WhatsApp-style Hinglish conversations using LoRA to create a smart, context-aware chat assistant.",
+     "n": "HarshPatel2035/Hinglish-Chat-LLM"
+    },
+    {
+     "d": null,
+     "n": "Pranav6615/Customer-Support-Hinglish-Chatbot"
+    },
+    {
+     "d": "My Python voice chatbot project",
+     "n": "satyaprakashbaghel56-cmyk/hindi-hinglish-voice-chatbot"
+    },
+    {
+     "d": "A hybrid semantic search engine for Hinglish group chat exports using dense multilingual embeddings (SentenceTransformers) + sparse BM25 retrieval with context expansion.",
+     "n": "Mehta-prog/hinglish-chat-semantic-search"
+    },
+    {
+     "d": null,
+     "n": "vanshaj45/hinglish-chat-hybrid-search"
+    },
+    {
+     "d": null,
+     "n": "NikaYz/Hinglish_Chatbot_-_News_Summarizer"
+    },
+    {
+     "d": null,
+     "n": "JayasriKrikrishnan/Hinglish-Tanglish-NCERT-Chatbot"
+    },
+    {
+     "d": "YouTube Live Hinglish Chat Bot using Gemini API",
+     "n": "SuiSui-AI/yt-hinglish-gemini-bot"
+    },
+    {
+     "d": "This is a Hinglish semantic chat search system  that can find messages by meaning, not just keywords.  It searches through 4,200+ messages from an 8-person group chat  over 6 months.",
+     "n": "AyushSharma012/Hinglish-Semantic-Chat-Search"
+    },
+    {
+     "d": null,
+     "n": "vyshnavi299/hinglish-ncert-doubt-chatbot"
+    },
+    {
+     "d": "An intelligent semantic search engine for Hinglish group chat conversations using FastAPI, vector embeddings, and metadata filtering.",
+     "n": "mehuljain2403/hinglish-chat-semantic-search"
+    },
+    {
+     "d": "AI skill: Hinglish for chat, English for public outputs. Works with Cursor, ChatGPT, Claude & more.",
+     "n": "Shubh-Creates/hinglish-conversation-mode"
+    },
+    {
+     "d": "An open-source 1.7B Hinglish conversational language model focused on natural Romanized Hindi, English-Hindi code-switching, and Indian conversational styles.",
+     "n": "AshutoshMore142k4/Hinglish-1.7b-chat"
+    },
+    {
+     "d": "Personal AI assistant web app with Hinglish support (React frontend, PHP backend, MySQL). Local memory storage with chat-based UI.",
+     "n": "rumbleveer-spec/hinglish-ai-assistant"
+    },
+    {
+     "d": "Semantic search engine for Hinglish group chat archives",
+     "n": "ishika-164/semantic-chat-search"
+    },
+    {
+     "d": "image,voice,document",
+     "n": "aanya0207/hinglish-genzy-chatbot-with-multimodal-functionalities"
+    },
+    {
+     "d": "Hybrid semantic search for noisy Hinglish group chats",
+     "n": "itspalakk/search-group-chat"
+    },
+    {
+     "d": "Personal AI Assistant in Hinglish powered by Ollama",
+     "n": "btw-itz-sid/zoro-ai-chatbot"
+    },
+    {
+     "d": "A Retrieval-Augmented Generation (RAG) powered chatbot designed to handle queries in Hindi and Hinglish",
+     "n": "kumarsatyammishra69-create/Developed-a-RAG-powered-Hindi-Hinglish-Chatbot"
+    },
+    {
+     "d": "RECEIPTS - WhatsApp chat analysis dashboard (Hinglish-aware NLP)",
+     "n": "Kawal511/receipts"
+    },
+    {
+     "d": "CS224N final project (custom project). Two fine-tuned GPT-2 language models for next-word prediction and sentence completion:",
+     "n": "blackirron/Hinglish-sentence-completer-for-casual-whatsapp-chatting"
+    },
+    {
+     "d": "Pioneer X is an AI-powered chatbot developed for the Punjab Ghar Ghar Rozgar and Karobar Mission (PGRKAM) under a problem statement provided by the Punjab Government. Designed to assist job seekers and businesses, this chatbot is built using Dialogflow Essentials and offers multilingual support in Hindi, Punjabi, English, and Hinglish.",
+     "n": "LOSTCODE160/dialogflow_Chat-BOT"
+    },
+    {
+     "d": "A 100% free, privacy-first AI Meeting Assistant. Transcribes English & Hinglish audio/YouTube videos, extracts key decisions & action items, and lets you chat with your meetings using RAG.",
+     "n": "sahuji7618/Hinglish-meeting-assistant"
+    },
+    {
+     "d": "A streaming Hindi/Hinglish AI tech tutor powered by Gemini.",
+     "n": "arghanilmukherjee00-droid/rohit-negi-chatbot"
+    },
+    {
+     "d": "Simple NLP chatbot in Python using NLTK with English & Hinglish support.",
+     "n": "its-lnv/chatbot"
+    },
+    {
+     "d": "A friendly Hindi/Hinglish AI chatbot powered by Google Gemini API",
+     "n": "ffkingskparmanandvermaverma-boop/baby-ai-chatbot"
+    },
+    {
+     "d": "Hinglish voice coding tutor — PDF RAG, voice chat, coding tools",
+     "n": "kushals256/nirva"
+    }
+   ]
+  ],
+  "whatsapp hindi": [
+   330,
+   [
+    {
+     "d": "AI agent for gold insights and whatsapp voice alerts in Hindi 🎙️",
+     "n": "vishalsingh2972/gold-agent"
+    },
+    {
+     "d": "Chrome extension that turns WhatsApp Web voice notes into text without playing them. Hindi comes back as Hinglish. 25 writing systems, 90+ languages, ElevenLabs Scribe v2, no backend.",
+     "n": "ayazalam/whatsapp-voice-note-transcriber"
+    },
+    {
+     "d": "hey there i am using whatsapp",
+     "n": "Ayushchand11/js-hindi-whatsapp"
+    },
+    {
+     "d": "Hindi RAG WhatsApp chatbot — FastEmbed + Groq + ChromaDB. Answers questions in Hindi from a Wikipedia knowledge base.",
+     "n": "swajayresources/hindi-rag-whatsapp"
+    },
+    {
+     "d": "Automated WhatsApp bot for learning Hindi with 4 daily messages",
+     "n": "Sasmitha-S/hindi-whatsapp-bot"
+    },
+    {
+     "d": "A repo for a whatsapp account ",
+     "n": "Ayushchand11/js_hindi-whatsapp"
+    },
+    {
+     "d": "a code repo for javascript series ",
+     "n": "Ronakvarma0604/js-hindi-whatsapp"
+    },
+    {
+     "d": "A production-ready WhatsApp bot that provides AI-powered stock market analysis for Indian retail investors in both Hindi and English languages.",
+     "n": "yogeshkrishnani/whatsapp-stock-bot"
+    },
+    {
+     "d": "Agentic AI WhatsApp Status Ad Copilot - Autonomous Tier-2/3 local campaign orchestrator with Hindi NLP and Meta Graph API compliance",
+     "n": "inikhilvyas/whatsapp-status-ad-copilot"
+    },
+    {
+     "d": "Translate Hindi sentences written in roman letters to english",
+     "n": "parthalicious/Whatsapp-translate"
+    },
+    {
+     "d": "Whatsapp Message Analysis (Marathi/Hindi) analyzes WhatsApp chat data, extracting insights such as message count, common words, emoji usage, and user activity. It includes custom stopwords for Marathi and Hindi, visualizing the data with word clouds, heatmaps, and bar charts. Built using Python, Pandas, and Matplotlib.",
+     "n": "vikrant-honbute/Whatsapp_Message_Analysis-Marathi-Hindi-"
+    },
+    {
+     "d": "The WhatsApp bot frontend for the Hindi literacy app project.",
+     "n": "DavidChristopherNelson/whatsapp-bot"
+    },
+    {
+     "d": "Free SMS Hub is a web portal to share all best collection of SMS, Messages, Quotes, Wishes, Status, Images, Gajal and much more.",
+     "n": "Freesmshub/Attitude-Status-for-Whatsapp-in-Hindi"
+    },
+    {
+     "d": "WhatsApp Voice Notes → Instant Summary (Hindi + Gujarati)",
+     "n": "vishal4812/summary-react-app"
+    },
+    {
+     "d": "Hindi WhatsApp marketing assistant for local businesses",
+     "n": "amitkmrai21-max/VyaparMitra"
+    },
+    {
+     "d": "WhatsApp clone — full project from the Tech Bro Z YouTube video (Hindi)",
+     "n": "nm621532-byte/whatsapp-clone-techbroz"
+    },
+    {
+     "d": "🧠 Auto Chat Responder Bot that uses OpenAI (GPT-4o) to generate smart, human-like replies on Facebook Messenger using Python GUI automation. 🤖 Built with PyAutoGUI and Pyperclip to detect messages, generate bilingual (Hindi + English) responses, and auto-reply in real time.",
+     "n": "Vaibhav11062004/Whatsapp_Chatbot"
+    },
+    {
+     "d": "WhatsApp bot that transcribes YouTube/Instagram/Facebook videos in Hindi/English/Hinglish using Sarvam AI",
+     "n": "shivamsahugzp/whatsapp-transcriber"
+    },
+    {
+     "d": "Ek Mobile Me Do Whatsapp Kaise Chalaye In Hindi| 2 whatsapp kaise chalaye",
+     "n": "khuhsi45/Ek-Mobile-Me-Do-Whatsapp-Kaise-Chalaye-In-Hindi-2-whatsapp-kaise-chalaye"
+    },
+    {
+     "d": "A Chrome extension for translating common phrases between Hindi, Spanish, and French.",
+     "n": "saadshaikh1023/WhatsApp_Web_Text_Tranlator_Extension"
+    },
+    {
+     "d": "WhatsApp bot for tracking fridge contents across 3 fridges - cooked dishes vs ingredients, spoilage alerts, Punjabi + Hindi",
+     "n": "ripasso/whatsapp-fridge"
+    },
+    {
+     "d": "A daily hindi quote bot for family WhatsApp groups.",
+     "n": "sidntrivedi/wapp-quote"
+    },
+    {
+     "d": "AI-powered WhatsApp bot for Indian farmers in Hindi",
+     "n": "r4huldeveloper/Kisan-Mitra"
+    },
+    {
+     "d": "AI-powered WhatsApp job platform for Hindi-speaking workers.",
+     "n": "Shivani0123348/rozgar-mitra"
+    },
+    {
+     "d": "On this project, All kinds of hindi shayari are available including love shayari, romantic shayari, sad shayari, dosti shayari, ansh pandit shayari and many more. You can use these shayari to share online with friends and relatives on whatsapp, facebook or anyway online",
+     "n": "hindishayaricollection/HindiShayari2020Collection"
+    },
+    {
+     "d": " Hindi status (Love, Sad, Happy, Thanks, Miss you, Inspirational), Hindi shayari, Whatsapp status, Facebook status, Instagram captions",
+     "n": "hindi-status/hstatus.net"
+    },
+    {
+     "d": "A complete SaaS platform for businesses to automate WhatsApp customer interactions with AI, supporting Hindi, English, and Hinglish.",
+     "n": "shamimalam320/whatsapp_ai_bot"
+    },
+    {
+     "d": "AI-powered crop disease detector for Indian farmers — 96.11% accuracy, 87 disease classes, Hindi/English support, WhatsApp bot",
+     "n": "B2prakash/Agroscan"
+    },
+    {
+     "d": "Yojana Setu: Hindi/English welfare assistant for browser, Telegram and WhatsApp.",
+     "n": "GodSMC/yojana-setu"
+    },
+    {
+     "d": "Daily Hindi mandi rates + weather WhatsApp messages for Purvanchal UP farmers",
+     "n": "sanjayv1992/agromanch-daily-alert"
+    },
+    {
+     "d": "🦜 Corrects English and translates Hindi/Hinglish on Telegram, WhatsApp and Discord — text or voice. One engine, three thin adapters.",
+     "n": "Parth-KG/lang-helper-bot"
+    },
+    {
+     "d": "A WhatsApp Clone built with Flutter and Firebase for practice, featuring authentication, real-time messaging, Cloud Firestore integration, country picker, and English/Hindi language toggle.",
+     "n": "SagarKumar2023/Whatsapp_App"
+    },
+    {
+     "d": "Auto meal planning system for flatmates. Google Sheets generates weekly plans, calculates groceries, and sends Hindi voice notes to the cook on WhatsApp.",
+     "n": "eshaanpawan/meal-planning-whatsapp"
+    },
+    {
+     "d": "n8n 2.45 template: AI WhatsApp support agent (English + Hindi) with FAQ search, payment lookup, and ticket hand-off",
+     "n": "babymum7/n8n-whatsapp-support-agent"
+    },
+    {
+     "d": "A Web-app to classify HINDI whatsapp chat messages into political parties",
+     "n": "anup-a/Political-Inclination-Predictor"
+    },
+    {
+     "d": "5 themed demo websites for clinics — Next.js, WhatsApp booking, Hindi/English",
+     "n": "Varis0282/clinic-demos"
+    },
+    {
+     "d": "Self-Serve Robotic Banking Agent - Agentforce + WhatsApp + FSC - Multilingual Hindi/Hinglish/English",
+     "n": "Paritoshkumar148/agentforce-hackathon"
+    },
+    {
+     "d": "A multilingual WhatsApp chatbot that explains financial terms, provides saving tips, and sends scam alerts in English and Hindi using AI.",
+     "n": "ruchitiwari03/Financial-Literacy-WhatsApp-Chatbot"
+    },
+    {
+     "d": "Healtcare assistance that chat on hindi eng tamil over chat , whatsapp , voice ",
+     "n": "Prashant6743/SWASH_SATHI-"
+    },
+    {
+     "d": "Create stylish Urdu and Hindi text online with our free stylish text generator. Generate fancy, decorative and copy-paste text for social media, WhatsApp and more.",
+     "n": "gonanst-max/Urdu-Hindi-Stylish-Text-Generator"
+    },
+    {
+     "d": "AI-Powered WhatsApp Chat Analysis System  Technologies: Python, Flask, NLP, NLTK, spaCy, TextBlob, Matplotlib  Developed a multilingual chat analytics tool (English, Hindi, French) for WhatsApp conversation analysis.",
+     "n": "amitk55555/whatsapp-chat-anayzer"
+    },
+    {
+     "d": "ChatterBuddy, a fully automated AI chatbot for WhatsApp desktop, designed to mimic natural human conversation in both Hindi and English!",
+     "n": "saturn-16/ChatterBuddy-Your-AI-WhatsApp-Sidekick"
+    },
+    {
+     "d": "WhatsApp router Lambda that routes messages to multiple AI bots (Legal, Farm, FinBot) based on Hindi/English keyword detection. Supports /switch, /help, and AgentCore integration.",
+     "n": "Muks04/whatsapp-multi-bot-router"
+    },
+    {
+     "d": "5 themed demo websites for restaurants — Next.js, WhatsApp table booking, Hindi/English",
+     "n": "Varis0282/restaurant-demos"
+    },
+    {
+     "d": "5 themed demo websites for salons — Next.js, WhatsApp appointment booking, Hindi/English",
+     "n": "Varis0282/salon-demos"
+    },
+    {
+     "d": "5 themed demo websites for hotels — Next.js, WhatsApp room enquiry, Hindi/English",
+     "n": "Varis0282/hotel-demos"
+    },
+    {
+     "d": "AI-powered finance advisor for Bharat that scans bills, tracks spending, sends WhatsApp alerts for overspending, and offers simple Hindi investment guidance.",
+     "n": "Ritidube/NiveshSaathi"
+    },
+    {
+     "d": "Offline Android app that spots promises you make in WhatsApp (\"kal bhej dunga\", \"I'll call you at 5\") and reminds you. English, Hinglish & Hindi. On-device AI, no internet permission, your messages never leave your phone.",
+     "n": "PixxySynchronous/Promise-keeper"
+    },
+    {
+     "d": "Self-hosted Hindi voice RAG assistant over WhatsApp for government scheme discovery. Powered by Sarvam-30B, Weaviate hybrid search, and Whisper Hindi STT.",
+     "n": "mist-ic/VaakSeva"
+    },
+    {
+     "d": "AI-powered GST compliance assistant for India's 8 crore small businesses. WhatsApp-native, Hindi/Gujarati-first. Invoice OCR → ITC calculation → GSTR-3B filing → CA dashboard. LangGraph + IndicBERT + deterministic rules engine. No accounting knowledge required.",
+     "n": "24ceuog909-boop/vyapaar-bandhu"
+    }
+   ]
+  ],
+  "reminder": [
+   115418,
+   [
+    {
+     "d": "The break time reminder app",
+     "n": "hovancik/stretchly"
+    },
+    {
+     "d": "Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.",
+     "n": "DamascenoRafael/reminders-menubar"
+    },
+    {
+     "d": ".NET Core Web API for seamless event organization with configurable notification systems.",
+     "n": "m-jovanovic/event-reminder"
+    },
+    {
+     "d": "A simple CLI for interacting with macOS reminders",
+     "n": "keith/reminders-cli"
+    },
+    {
+     "d": "Reminder plugin for Obsidian",
+     "n": "uphy/obsidian-reminder"
+    },
+    {
+     "d": "Reminder is a simple material design Android application to create reminders and notes.",
+     "n": "Kampijo/Reminder"
+    },
+    {
+     "d": "A quick reminder of all SQL queries and examples on how to use them. ",
+     "n": "enochtangg/quick-SQL-cheatsheet"
+    },
+    {
+     "d": "cli for Apple Reminders app",
+     "n": "openclaw/remindctl"
+    },
+    {
+     "d": "Manages reminders in Reminders.app",
+     "n": "surrealroad/alfred-reminders"
+    },
+    {
+     "d": "Quran, hadith and names of Allah in one app and API",
+     "n": "asim/reminder"
+    },
+    {
+     "d": "PC端久坐提醒小工具（Sedentary reminder for windows.）",
+     "n": "wjbgis/Sedentary-reminder"
+    },
+    {
+     "d": "A maubot plugin to remind you about things.",
+     "n": "maubot/reminder"
+    },
+    {
+     "d": "Some CircuitPython tricks, mostly reminders to myself",
+     "n": "todbot/circuitpython-tricks"
+    },
+    {
+     "d": "A demo web app for reminders built in Python using FastAPI and HTMX",
+     "n": "AutomationPanda/bulldoggy-reminders-app"
+    },
+    {
+     "d": "An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS",
+     "n": "tiagomartinho/Reminders"
+    },
+    {
+     "d": "Here are all my practice codes related to the react library. Whenever I forget about either the syntax or structures, I just check this repository to remind me all I have forgotten. So this is somehow a react reminder. Topics like Redux and jest and other parts are categorized in branches for better usability.",
+     "n": "mdeveloper20/reactReminder"
+    },
+    {
+     "d": "A Google Keep-like Date and Time Picker for reminders",
+     "n": "SimplicityApks/ReminderDatePicker"
+    },
+    {
+     "d": "Medicine Reminder app built with flutter",
+     "n": "musabagab/MedicineReminder"
+    },
+    {
+     "d": null,
+     "n": "mendsalbert/medicine-reminder-app"
+    },
+    {
+     "d": null,
+     "n": "fazt/mern-reminders"
+    },
+    {
+     "d": "A minimal notification reminder for Android",
+     "n": "jonasbleyl/recurrence"
+    },
+    {
+     "d": "A working Appointment Reminders sample built in Django",
+     "n": "TwilioDevEd/appointment-reminders-django"
+    },
+    {
+     "d": null,
+     "n": "delaroy/AlarmReminder"
+    },
+    {
+     "d": "This is a high-performance desktop application developed using Rust and Tauri, designed to help you stay focused on your work while scientifically managing sedentary time, hydration, and eye rest through intelligent task scheduling and multi-dimensional reminders.一款基于 Rust 与 Tauri 开发的高性能桌面应用，旨在通过智能化的任务排程与多维提醒，帮助你在专注工作的同时，科学地进行久坐、补水与用眼休息。",
+     "n": "kaima2022/Health-reminder"
+    },
+    {
+     "d": "set reminders on Issues and Pull Requests",
+     "n": "probot/reminders"
+    },
+    {
+     "d": "Never forget your Age of Sigmar abilities again! Generate helpful in-game reminders tailored to your AoS army.",
+     "n": "daviseford/aos-reminders"
+    },
+    {
+     "d": "Remindly is a simple and user friendly Android application to create reminders.",
+     "n": "blanyal/Remindly"
+    },
+    {
+     "d": "A simple Apple Watch app to remind you to drink water!",
+     "n": "caiobzen/water-reminder-swiftui"
+    },
+    {
+     "d": "Reminder App - You can set your todo and set reminders as well.",
+     "n": "Sha489/todo-list"
+    },
+    {
+     "d": "A reminder of HTML elements.",
+     "n": "gendx/html-cheat-sheet"
+    },
+    {
+     "d": "RuneLite plugin that sends reminders to take occasional hydration breaks.",
+     "n": "jmakhack/hydrate-reminder"
+    },
+    {
+     "d": "A package to simplify automating future notifications and reminders in Laravel",
+     "n": "thomasjohnkane/snooze"
+    },
+    {
+     "d": "An open source reminder app",
+     "n": "remindersdevs/Reminders"
+    },
+    {
+     "d": "Simple Android reminder application",
+     "n": "ataradov/alarm-me"
+    },
+    {
+     "d": "Node implementation of Appointment Reminders",
+     "n": "TwilioDevEd/appointment-reminders-node"
+    },
+    {
+     "d": "Mycroft AI official Reminder Skill - set reminders",
+     "n": "MycroftAI/skill-reminder"
+    },
+    {
+     "d": "A medication reminder for Android",
+     "n": "jclehner/rxdroid"
+    },
+    {
+     "d": "Mac Admins’ new favorite, MDM-agnostic, “set-it-and-forget-it” end-user messaging for Apple’s Declarative Device Management-enforced macOS update deadlines",
+     "n": "dan-snelson/DDM-OS-Reminder"
+    },
+    {
+     "d": "EPIC RPG reminder / helper",
+     "n": "MirielCH/Navi"
+    },
+    {
+     "d": "An intelligent voice companion for dictation, writing, and proactive reminders",
+     "n": "freestyle-voice/freestyle"
+    },
+    {
+     "d": "Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder",
+     "n": "slgobinath/safeeyes"
+    },
+    {
+     "d": "Use Twilio to send SMS reminders to your customers about upcoming appointments",
+     "n": "TwilioDevEd/appointment-reminders-flask"
+    },
+    {
+     "d": "A simple water drinking reminder app built with Flutter",
+     "n": "RobertBrunhage/water_reminder_app_youtube"
+    },
+    {
+     "d": "🤖 Twitter bot to set reminders for tweets.",
+     "n": "shalvah/RemindMeOfThisTweet"
+    },
+    {
+     "d": "HealthTick - macOS Menu Bar Sedentary Reminder Tool",
+     "n": "lifedever/health-tick-release"
+    },
+    {
+     "d": "Water Reminder Android  app Create Using Kotlin, Xml, Android studio as part of learning curve",
+     "n": "KeyurDiwan/Water-Reminder"
+    },
+    {
+     "d": "This plugin can be used to send periodic email reminders to bug reporters, managers, and assignees.",
+     "n": "mantisbt-plugins/Reminder"
+    },
+    {
+     "d": "A lightweight non intrusive app rate reminder for Android",
+     "n": "PomepuyN/discreet-app-rate"
+    },
+    {
+     "d": "It's a simple Android Task Reminder App that is capeble to create/delete/edit and update tasks. And it has also capebalility to remind user about his scheduled tasks.",
+     "n": "hitenpratap/Task-Reminder-App"
+    },
+    {
+     "d": "Simple Console Reminder Application",
+     "n": "rexim/tore"
+    }
+   ]
+  ],
+  "temporal expression": [
+   259,
+   [
+    {
+     "d": "Ruby Temporal Expressions",
+     "n": "mlipper/runt"
+    },
+    {
+     "d": "Ruby Temporal Expressions.",
+     "n": "texel/runt"
+    },
+    {
+     "d": "Spontaneous Facial Micro Expression Recognition using 3D Spatio-Temporal Convolutional Neural Networks",
+     "n": "bogireddytejareddy/micro-expression-recognition"
+    },
+    {
+     "d": "Temporal Expression Recognition and Normalisation in Python",
+     "n": "cnorthwood/ternip"
+    },
+    {
+     "d": "Scripts to analyze spatio temporal brain expression of BrainSpan Developmental Transcriptome data",
+     "n": "perslab/temporal-brain-expression"
+    },
+    {
+     "d": "A temporal ordering system for events and time expressions in written text.",
+     "n": "nchambers/caevo"
+    },
+    {
+     "d": "A spaCy custom component that extracts and normalizes temporal expressions",
+     "n": "paulrinckens/timexy"
+    },
+    {
+     "d": "Temporal Expressions for Ruby",
+     "n": "jimweirich/texp"
+    },
+    {
+     "d": "\"We could develop some interpreter that would be able to parse and process a range of expressions that we might want to deal with. This would be quite flexible, but also pretty hard\" (Martin Fowler, http://martinfowler.com/apsupp/recurring.pdf). Temporals is a Ruby parser for just that.",
+     "n": "dcparker/temporals"
+    },
+    {
+     "d": "normalizer of numerical / temporal expression",
+     "n": "nullnull/normalizeNumexp"
+    },
+    {
+     "d": "A lexer and parser for ISO 8601, RFC 3339, and IXDTF temporal expressions, built with compiler design principles.",
+     "n": "taskade/temporal-parser"
+    },
+    {
+     "d": "Cross-domain temporal information extractors: temporal expressions, events and temporal links.",
+     "n": "filannim/ManTIME"
+    },
+    {
+     "d": "Parses iCalendar events and spits out Temporal Expressions",
+     "n": "texel/recurrence-rule-parser"
+    },
+    {
+     "d": "Generic framework for information extraction tasks, including recognition of named entities, temporal expressions, spatial expressions and events.",
+     "n": "CLARIN-PL/Liner2"
+    },
+    {
+     "d": "The original timed regular expression matcher over temporal behaviors",
+     "n": "doganulus/montre"
+    },
+    {
+     "d": "Minimum redundancy maximum relevance feature selection approach for temporal gene expression data.",
+     "n": "radovicmiloskg/TMRMR"
+    },
+    {
+     "d": "Temporal Expression and Event Extraction using Conditional Random Fields",
+     "n": "madscientistjaidev/TemporalEventExtraction"
+    },
+    {
+     "d": "Temporal expression normaliser",
+     "n": "filannim/timex-normaliser"
+    },
+    {
+     "d": "Single-cell RNA-seq analysis from \"Single cell transcriptomics reveals spatial and temporal dynamics of gene expression in the developing mouse spinal cord\" (2019)",
+     "n": "juliendelile/MouseSpinalCordAtlas"
+    },
+    {
+     "d": "C# library for handling time, includes implementation of martin fowlers temporal expressions.",
+     "n": "zacg/TemporalToolkit"
+    },
+    {
+     "d": "A tool to detect temporal expression from free text",
+     "n": "Tony-Hao/TEER"
+    },
+    {
+     "d": "Integrating temporal gene expression modalities for trajectory inference and disease prediction",
+     "n": "jranek/EVI"
+    },
+    {
+     "d": "[CVPR 2024] Official implementation of the paper \"TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression\"",
+     "n": "Dotori-HJ/TE-TAD"
+    },
+    {
+     "d": "Prediction of Evoked Expression from Videos with Temporal Position Fusion",
+     "n": "th2l/EvokedExpr-TPF"
+    },
+    {
+     "d": "Official implementation of Short and Long range relation based Spatio-Temporal Transformer for Micro-Expression Recognition (IEEE TAFFC 2022)",
+     "n": "Vision-Intelligence-and-Robots-Group/SLSTT"
+    },
+    {
+     "d": "Go libraries and tools for working with linear temporal logic (LTL) expressions",
+     "n": "ilhamster/ltl"
+    },
+    {
+     "d": "PyTorch implementation of landmark-based facial expression recognition using Spatio-Temporal BiLinear Networks (ST-BLN) ",
+     "n": "negarhdr/FER_PSTBLN_MCD"
+    },
+    {
+     "d": "Fast multilingual temporal expression identification.",
+     "n": "hmosousa/tei2go"
+    },
+    {
+     "d": "Named Entity Recognition for Events & Temporal expressions",
+     "n": "ankush91/Ner"
+    },
+    {
+     "d": "Facial Expression recognition using Spatio-temporal Gabor filters",
+     "n": "kaushik333/Facial-Expression-recognition"
+    },
+    {
+     "d": "Temporal and Geospatial expression disambiguation with Active Learning with FDMM",
+     "n": "weizh/LearnSpatioTemporal"
+    },
+    {
+     "d": "Code from the paper ‘The Dual Stream Network with embedding Temporal Convolution for Micro-expression Recognition’.",
+     "n": "HQwilbur/DSNTC-Code"
+    },
+    {
+     "d": "Design a Micro-expression Recognition System based on combining CNN and LSTM to effectively capture the spatial features and temporal dynamics of Micro-expressions.  The dataset based on CASMEⅡ.You can find the paper on https://ieeexplore.ieee.org/abstract/document/10672980",
+     "n": "Samuel-Pan/Micro-expression-Recognition"
+    },
+    {
+     "d": "A open source java library that supports the evaluation of temporal expressions ",
+     "n": "automated-ch/temporal-expression"
+    },
+    {
+     "d": "Resources related to EACL 2023 paper \"Multilingual Normalization of Temporal Expressions with Masked Language Models\"",
+     "n": "boschresearch/temporal-tagging-eacl"
+    },
+    {
+     "d": "Large-scale analysis of temporal gene expression variation in peripheral blood",
+     "n": "Systems-Immunology-IKMB/Temporal_gene_expression_variation"
+    },
+    {
+     "d": "Analysis of brain data (BrainSpan) for schizophrenia prioritized genes (DEPICT)",
+     "n": "pascaltimshel/temporal-brain-expression-scz"
+    },
+    {
+     "d": "Code repository for \"Interpretable Self-Supervised Facial Micro-Expression Learning to Predict Cognitive State and Neurological Disorders\" AAAI 2021",
+     "n": "arundasan91/self-supervised-temporal-learning"
+    },
+    {
+     "d": "Codes for our paper -- Micro-expression recognition by fusing Action Unit detection and spatio-temporal features.",
+     "n": "ini17/Micro-expression-recognition-by-fusing-Action-Unit-detection-and-spatio-temporal-features"
+    },
+    {
+     "d": "MTSN: A Multi-Temporal Stream Network for Spotting Facial Macro- and Micro-Expression with Hard and Soft Pseudo-labels",
+     "n": "genbing99/MTSN-Spot-ME-MaE"
+    },
+    {
+     "d": "Temporal Expression Detection and Resolution",
+     "n": "scaling/timexla"
+    },
+    {
+     "d": null,
+     "n": "asdc-s5/Temporal-expression-normalization-with-fill-mask"
+    },
+    {
+     "d": "RNA-Seq-based analysis of the spatio-temporal dynamics of gene expression in Maize Silks.",
+     "n": "cmcninch/maize_silk_spatio_temporal_gene_expression"
+    },
+    {
+     "d": "Predicting Gene Expression Based on Histone Modification Data",
+     "n": "bscpnu/Temporal-Convolutional-Network-For-Gene-Expression"
+    },
+    {
+     "d": "Spatio-Temporal Audio-video analysis for automatic Pain Expression detection in infant",
+     "n": "ayush-anand/Pain_detection"
+    },
+    {
+     "d": "An open shader runtime for After Effects - GLSL in an expression, multi-pass GPU effects, temporal feedback, 8/16/32-bpc",
+     "n": "JUNKDOGE-JOE/dynamicfx"
+    },
+    {
+     "d": "Official Pytorch Implementation of 'SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting' (FG2024 + TAFFC)",
+     "n": "KinopioIsAllIn/SpotFormer"
+    },
+    {
+     "d": null,
+     "n": "dgritsko/TemporalExpressions"
+    },
+    {
+     "d": "Tool for generating regular expressions of set of all satisfying computations to Mission-time Linear Temporal Logic formulas.",
+     "n": "zwang271/WEST"
+    },
+    {
+     "d": "A temporal expression library for PHP",
+     "n": "robzienert/TemporalExpression"
+    }
+   ]
+  ],
+  "intent hindi": [
+   77,
+   [
+    {
+     "d": "Android Application using (Intents, onClickListners, MediaPlayer objects etc)",
+     "n": "omairar/HindiTranslation"
+    },
+    {
+     "d": "Tri-modal intent detection from Hindi/Hinglish speech videos using SDIF-DA (ICASSP 2024) — fusing text (mBERT), video (ResNet-50), and audio (wav2vec 2.0) modalities.",
+     "n": "manvitha2301cs29/multimodal-intent-hindi"
+    },
+    {
+     "d": null,
+     "n": "piyushjain4/Intent_detection_and_slot_filling_in_hindi"
+    },
+    {
+     "d": null,
+     "n": "sindhu19171/Intent-Detection-and-Slot-Filling-For-Hindi-Datasets"
+    },
+    {
+     "d": "Conversational AI system for voice-driven accounting that converts Hindi/Hinglish speech commands into structured financial actions using an NLP intent classification and entity extraction pipeline.",
+     "n": "PK007788/Vyapaar_Sahayak"
+    },
+    {
+     "d": null,
+     "n": "Anshikay17/Suicidal-Intent-Detection-in-Hindi-English-Code-Mixed-Text-"
+    },
+    {
+     "d": "Performing Intent Detection & Slot filling on Translated Hindi Dataset where optimization is done using GA",
+     "n": "amanraj87/Intent-detection-and-Slot-Filling"
+    },
+    {
+     "d": "TO PERFROM INTENT DETECTION & SLOT FILLING ON TRANSLATED HINDI ATIS DATASET",
+     "n": "pradeepredt/CSD405-PROJECT"
+    },
+    {
+     "d": "From human intent to executable action.  IntentOS is a local, voice-native agentic execution layer. It converts natural human intent into controlled, verifiable actions over a user's applications and data. Kori provides the Hindi, Hinglish, and regional voice for the runtime.",
+     "n": "dambrok/intentOs"
+    },
+    {
+     "d": "It is an app which uses MediaPlayer to pronounce the words phrases, Names, Numbers, Family members in Hindi. In this app EventListeners ,  RecyclerView,  Fragment, Implicit Intents are used.",
+     "n": "spoojab/LearnHindi"
+    },
+    {
+     "d": "Intent classification for code-switched Hindi-English text using XLM-RoBERTa with contrastive learning.  Includes data annotation pipeline, model training, and interactive Gradio demo.",
+     "n": "oladri-renuka/code-switched-nlp-intent-classification"
+    },
+    {
+     "d": "AI-powered zero-shot multilingual NLP system that classifies customer support messages into 5 intent categories across English, Hindi, Kannada, Tamil and Telugu using XLM-RoBERTa  ",
+     "n": "Chiranthan67/multilingual-customer-support-intent-classifier"
+    },
+    {
+     "d": "A voice-first spiritual intent classifier app with multi-language support (English, Hindi, Hinglish)",
+     "n": "Ciyakj/voice-spiritual-classifier"
+    },
+    {
+     "d": "RAG-powered multi-turn astrology chatbot with intent-aware retrieval, conversation memory, and Hindi support",
+     "n": "yashs20aug/astro-agent"
+    },
+    {
+     "d": "Code-mixed Hinglish intent + slot NLU, built end to end on MASSIVE's Hindi split.",
+     "n": "vaibhav-4-ai/codemix-nlu"
+    },
+    {
+     "d": "Fine-Tuned Transformer for Code-Mixed Voice-Agent NLU. A text classification system that takes a code-mixed Hindi-English (Hinglish) utterance the kind you'd get from a transcribed customer call and predicts the caller's intent.",
+     "n": "YashasviJadav03/Hinglish-Intent-Classifier"
+    },
+    {
+     "d": "Zero-hallucination Clinical Pharmacotherapy AI with Neo4j GraphRAG, Dual-Path Intent Routing, and interactive openFDA provenance in 6 languages.",
+     "n": "slyvarun/medgraph-ai-service"
+    },
+    {
+     "d": "Research-oriented multilingual intent classification for government scheme queries in Hindi, Marathi, and Urdu. Uses zero-shot XLM-RoBERTa with hypothesis template tuning and expanded semantic labels to improve cross-lingual intent understanding and analyze language-wise accuracy.",
+     "n": "Yaaseen-Basit/yb_multilingual-intent-classification"
+    },
+    {
+     "d": "A bilingual (English/Hindi) offline voice assistant for cars, featuring vehicle status monitoring and intent recognition.",
+     "n": "Akanshu05-AI/Joey-AI-Assistant"
+    },
+    {
+     "d": "An offline Hindi voice assistant built on Raspberry Pi that performs Speech-to-Text, intent recognition, and Text-to-Speech locally. Unlike cloud assistants like Amazon Alexa, it ensures privacy, low latency, and real-time response. It supports regional language interaction for smart homes, education, and secure edge-AI applications.",
+     "n": "Tejaswini-Karikalan/offline_hindi_voice_assistent"
+    },
+    {
+     "d": "A Python CLI voice agent for Hindi-English mixed speech - listens, transcribes, extracts intent, and discusses plan documents",
+     "n": "vishwassharma/neev-voice"
+    },
+    {
+     "d": "Offline Hindi voice assistant on Raspberry Pi using Edge AI. Runs speech recognition, intent classification, and command execution fully on-device with Vosk and FastText. Ensures privacy, low latency, and no internet dependency while supporting device control, calculations, and date/time queries.",
+     "n": "RamavarshiniN/Offline-Privacy-Preserving-Hindi-Voice-Assistant-on-Raspberry-Pi"
+    },
+    {
+     "d": "A Multimodal Intent Recognition dataset and framework for Hindi/Hinglish corporate and commercial dialogues using video, audio, and text modalities.",
+     "n": "kunsh18/Capstone_2026"
+    },
+    {
+     "d": "Hybrid NLP system to understand Hinglish queries by combining language detection, normalization, embeddings, clustering, and intent classification. Improves search accuracy and user experience by correctly interpreting mixed Hindi-English queries using machine learning techniques.",
+     "n": "panwardivya670/Enhancing-Search-Intent-Understanding-for-Hinglish-Queries-using-Hybrid-NLP-Techniques"
+    },
+    {
+     "d": "Hindi voice-first inventory assistant for kirana stores — built with Sarvam AI (STT/TTS) + Claude (intent extraction). Includes latency, accuracy & eval reports.",
+     "n": "Saiswrp7/kirana-voice-agent"
+    },
+    {
+     "d": "Hindi-first, machine-aware voice assistant for CAT machine operators. Staged local intent router keeps an LLM out of the request path.",
+     "n": "krishagarwal314/sahayak-cat-operator-assistant"
+    },
+    {
+     "d": "Smart multilingual e-Governance chatbot with AI-powered intent recognition. Supports English, Hindi, Tamil & Telugu. Built with Flask, ML, and modern UI.",
+     "n": "Abhay9889/Chatbot-for-E-Governance_Abhy"
+    },
+    {
+     "d": "We intent to collect parallel dataset for HINDI - ENGLISH language corpus. The primary usage, it to investigate translation accuracy of the mentioned corpus. ",
+     "n": "kumardeepak/nmt-anuvada"
+    },
+    {
+     "d": "Call Center Compliance API - Track 3 | FastAPI + Sarvam AI STT + Groq LLaMA 3.3 70B | Tamil/Hindi SOP validation, payment intent & sentiment analysis",
+     "n": "Dharunesh02092006/call-center-audio-analysis"
+    },
+    {
+     "d": "Voice banking assistant that understands Hindi/Telugu/English code-switching with Groq LLM routing, RAG, Postgres, real eval metrics (95.8% intent accuracy)",
+     "n": "niharnandala/Banking_Voice_Agent_With_intelligent_Routing"
+    },
+    {
+     "d": "Calibrated, code-mix-robust intent routing for English/Hindi/Bengali (incl. Hinglish/Banglish) assistant requests, with an independent side-effect safety gate. PyTorch + Transformers.",
+     "n": "officialbidisha/bhasharoute"
+    },
+    {
+     "d": "Multilingual AI companion for elderly users — detects intent and responds in Telugu, Hindi, or English to support health check-ins, medicine reminders, and companionship.",
+     "n": "psakshi2606-stack/virtual-companion"
+    },
+    {
+     "d": "AI-assisted intake for 1092 helpline with Kannada/Hindi/English voice, intent classification, PII redaction, and dispatch routing. PanIIT AI for Bharat Hackathon Theme 12.",
+     "n": "sridhar7601/helpline-1092-ai"
+    },
+    {
+     "d": "Full-stack hyperlocal commerce platform with React Native Android app, web POS counter with Hindi soundbox, zero-commission UPI intent payments, and live cloud sync.",
+     "n": "Mani1454/Online_shop"
+    },
+    {
+     "d": "A safe, installable AI Agent command console (PWA) — Hindi/Hinglish/English voice + text commands, Android app launch via intents, optional bring-your-own-key AI brain.",
+     "n": "dmpkrishnachaudhari786-netizen/ai-agent-pwa"
+    },
+    {
+     "d": "Text classification is a machine learning technique for categorizing open-ended text into a collection of predetermined categories. Text classifiers can organize, arrange, and categorize almost any type of text, including documents, medical research, and files, as well as text found on the internet. New articles, for example, can be categorized by themes; support tickets can be prioritized; chat dialogues can be categorized by language; brand mentions can be categorized by sentiment; and so on. Text classification is a basic problem in natural language processing that has a wide range of applications, including sentiment analysis, topic labeling, spam detection, and intent identification.",
+     "n": "Nitin-Rayu/Hindi-Text-Classificarion-Using-LSTM-and-Tokenization-NLP-based-Project-"
+    },
+    {
+     "d": "Modular Sarvam AI + LiveKit voice agent platform for Gullynest automated outbound calls. Calls property owners in Kannada, Hindi, or English to confirm availability and tenant-sourcing intent.",
+     "n": "Devanshgoel-123/VoiceAgent"
+    },
+    {
+     "d": "Our submission to HateMirage @ ICON-2026 — Target Identification (Task A) and Intent/Implication Generation (Task B) for Faux Hate detection in English & Hindi-English code-mixed YouTube comments.",
+     "n": "SyedT1/hatemirage-icon2026"
+    },
+    {
+     "d": "An AI-powered multilingual banking chatbot built with Flask and Python, supporting English, Tamil, and Hindi with NLP-based intent classification, fraud detection, and dual customer-admin portals.",
+     "n": "Kousalyapasupathi/BankBot-360"
+    },
+    {
+     "d": "Multilingual Ticket Routing System : NLP pipeline that classifies and routes Hindi-English (Hinglish) support tickets by intent, department, and urgency — built for code-switched text that standard NLP tools fail on. No LLMs, no retrieval — pure classical + transformer-based NLP (language ID, NER, classification).",
+     "n": "GandharvaChamp/NLP_Project"
+    },
+    {
+     "d": "An AI-powered multilingual voice shopping assistant featuring real-time speech recognition (English/Hindi), hybrid vector search (ChromaDB + BM25), deterministic cart arithmetic, cross-aisle smart suggestions, and dynamic intent tracking. ",
+     "n": "harshitttiwari/Cartpilot-AI"
+    },
+    {
+     "d": "A multilingual AI Chatbot for educational institutes built with FastAPI, PyTorch (Neural Networks), and NLTK. Features a custom-trained intent classification model and a responsive, bilingual (English/Hindi) web interface.",
+     "n": "Navya-1112/Admission_Assistant_Chatbot"
+    },
+    {
+     "d": "VoiceAuthAI system that detects voice-cloning and vishing calls: spoof detector, speaker verification, call-intent analysis (English, Hindi, Gujarati) and a rule-based risk engine, served through a REST API.",
+     "n": "kevinitaliya18/VoiceAuth_model"
+    },
+    {
+     "d": "BhashaFlow — a real-time Hinglish voice AI support agent that understands Hindi-English code-switching, preserves user intent and constraints, and autonomously handles support workflows using LiveKit, Deepgram, Groq, and Rime TTS.",
+     "n": "Akhilsp1510/friday-multi-voiceagent"
+    },
+    {
+     "d": "Autonomous AI voice sales agent — outbound call in Telugu/Hindi/English, mid-call WhatsApp on hot intent, spoken-time callback scheduling, context-rich follow-up. Vapi + Sarvam + Gemini + Baileys on Node/SQLite.",
+     "n": "SanketKokate712/elevatebox-voice-agent"
+    },
+    {
+     "d": "An AI-powered multilingual chatbot that supports English, Hindi, Spanish, and French with automatic language detection, cross-lingual reasoning, context preservation, intent classification, mixed-language understanding, and an interactive Streamlit interface using open-source NLP models.",
+     "n": "Lovely174/Multilingual_ai_chatbot"
+    },
+    {
+     "d": "AI-based offline voice assistant for hindi native language based on intent recognisation using NLP from the Speech to Text and Text to Speech Models like Vosk ,Wav2Vec2 ,Coqui hindi eSpeak-ng ,festival with the proper and structured pipeline based on KleidiAI for the optimization on the ARM PI 4 environment using the python and transformers ",
+     "n": "wadhawantl/Offline-Voice-Assistant"
+    },
+    {
+     "d": "Voice Booking System A multilingual voice-activated appointment booking system that processes voice commands in English, Hindi, Bengali, and Arabic (Saudi dialect). The system transcribes speech, understands intent, extracts entities, books appointments, and provides audio confirmations.  ",
+     "n": "Nourhankarmm/Voice-Booking"
+    },
+    {
+     "d": "A configurable multilingual customer-support chatbot supporting English, Spanish, French, and Hindi. It handles mixed-language and transliterated messages, spelling errors, multiple requests, corrected information, context retention, session isolation, intent clarification, and session expiry with conversation restoration.",
+     "n": "malathikumaresan19/Multilingual-Customer-Support-Chatbot-with-Context-Aware-Session-Management"
+    },
+    {
+     "d": "VoxGenie: A large-scale, balanced multilingual FAQ dataset (English, Hindi, Marathi) covering 25 categories and 50 domains. Each entry has question, answer, category, domain, and language. Ideal for training, vector DB, and intent classification in conversational AI.",
+     "n": "kshitij-dmce/voicebot_SHILEDAR_submission"
+    }
+   ]
+  ],
+  "hinglish date time": [
+   1,
+   [
+    {
+     "d": "Extract the Date and Time related phrases from the sentence written in English Manner and Hindi Language (Hinglish) and tells the exact date and time correspondingly.",
+     "n": "chaira19/Hindi-DateTime-Parser"
+    }
+   ]
+  ],
+  "hinglish reminder": [
+   29,
+   [
+    {
+     "d": "SaySet — Voice-first reminder app (Hindi/Hinglish). Voice → auto reminder → cloud sync.",
+     "n": "rspundhir/Sayset-Android"
+    },
+    {
+     "d": "A Hinglish-first reminder app that understands natural Hindi + English phrases and turns them into actionable reminders.",
+     "n": "CoderXash9/Signal"
+    },
+    {
+     "d": "Production-ready WhatsApp AI dealership assistant with grounded RAG, Google Calendar booking, APScheduler reminders, FSM orchestration, Hinglish support and anti-hallucination guardrails.",
+     "n": "rajveer100704/carbolo-whatsapp-ai-agent"
+    },
+    {
+     "d": "This project implements an AI-powered agent designed for conducting human-like cold calls in Hinglish. The agent can:  Schedule product demos for an ERP system. Conduct candidate interviews by asking relevant questions and recording responses and can also schedule interviews. Follow up on payments/orders by checking status and sending reminders.",
+     "n": "Shreyansh100704/AI-Agent-for-Cold-Calling-in-Hinglish-"
+    },
+    {
+     "d": "This project implements an AI-powered agent designed for conducting human-like cold calls in Hinglish. The agent can: Schedule product demos for an ERP system. Conduct candidate interviews by asking relevant questions and recording responses and can also schedule interviews. Follow up on payments/orders by checking status and sending reminders.",
+     "n": "poojanpadhiyar/AI-Agent-for-Cold-Calling-in-Hinglish"
+    },
+    {
+     "d": "Voice ledger for India's kirana shops: an Alexa+ MCP server that understands Hinglish, tracks udhaar, and drafts payment reminders.",
+     "n": "yashiv439-design/kirana-khata"
+    },
+    {
+     "d": "Hinglish / Marathi-English EMI reminder voice agent with an eval harness, failure taxonomy and launch memo. Fictional lender, AI PM project.",
+     "n": "yash7536/kisht"
+    },
+    {
+     "d": "WhatsApp-native multi-agent AI assistant for Indian SMBs — tracks payments, tasks & reminders from Hinglish conversations. LangGraph · Groq · FastAPI · ChromaDB · SQLite",
+     "n": "Prithvi-ra-j/Munshi"
+    },
+    {
+     "d": "My personal JARVIS AI assistant for Android with voice commands, Hindi/Hinglish support, phone automation, WhatsApp, YouTube, web search, and reminders.",
+     "n": "vishalbishnoi0077-lab/jarvis-ai-android"
+    },
+    {
+     "d": "A browser-based task and reminder management app with AI-powered WhatsApp message drafting. Draft short reminders in English, Hinglish or Hindi and open WhatsApp with the message pre-filled.",
+     "n": "Laulsxdev/nudgeapp"
+    },
+    {
+     "d": "Hinglish AI business partner for Indian merchants: sales insights, udhaar reminders, festival-aware stock planning and customer win-back. Paytm Build for India AI Hackathon.",
+     "n": "gauravdhanaliya/BillionaireMerchant.AI"
+    },
+    {
+     "d": "Polite khata (credit ledger) reminders in Hindi, Marathi, Hinglish & English - written by an open-weight Gemma model running locally. Hacktoberfest 2026 Week 2: Side Hustle.",
+     "n": "Aakif-Kohari/khataping"
+    },
+    {
+     "d": "Personal Hinglish voice agent for Windows. Say Hey Agent to open apps, find files, control the PC, search the web, and manage notes and reminders.",
+     "n": "priyanshu705/My_Agent"
+    },
+    {
+     "d": "Voice-first AI medication companion for elderly patients and caregivers, supporting English, Hindi and Hinglish with medication reminders, double-dose protection, emergency detection, and caregiver alerts.",
+     "n": "sardana123/SanjivAI"
+    },
+    {
+     "d": "Boli: a Hindi/Hinglish AI receptionist on WhatsApp that books appointments and sends reminders for clinics, coaching centres and salons in India. Founder website by Saumya Singh.",
+     "n": "saumyasingh02/boli"
+    },
+    {
+     "d": "A voice-first AI task assistant that understands English and Hinglish, handles real-time interruptions and corrections, and safely manages reminders and everyday tasks using Rime voice AI.",
+     "n": "Adnan102005/VoiceFlow"
+    },
+    {
+     "d": "Smart supermarket ledger: Hinglish voice entries, 7-day cashflow forecasting and 1-click WhatsApp payment reminders for local kirana owners. Built for HACK IT BROS '26 (FinTech track).",
+     "n": "Vikrant2536/VyaparPuls-Kriyeta"
+    },
+    {
+     "d": "Nova AI is a Python-based desktop voice assistant supporting English, Hindi, and Hinglish, with AI-powered responses, voice commands, weather updates, reminders, email automation, and Windows system controls.",
+     "n": "Um0ngKr/Nova-AI"
+    },
+    {
+     "d": "AI-powered WhatsApp assistant for solo Indian lawyers. Never miss a court hearing — track cases, get reminders, and ask your full schedule in plain language. Hinglish supported. No app needed.",
+     "n": "ChetanPatil57/Tarikh"
+    },
+    {
+     "d": "A private, multilingual WhatsApp self-chat assistant. It turns WhatsApp's \"Message Yourself\" chat into a personal memory, reminder, and timeline manager. Speak English, Hindi, Hinglish, or mix them freely.",
+     "n": "HESleagacy/Sounce"
+    },
+    {
+     "d": "**NIDAN AI** is an AI-powered healthcare assistant offering symptom checking, health tracking, medication reminders, and nearby healthcare support in English, Hindi, and Hinglish with a secure, senior-friendly experience.",
+     "n": "prabalmalhotra-ui/NIDAN-AI"
+    },
+    {
+     "d": "Symptom Checker (English & Hinglish), Medicine Reminders via browser notifications, Emergency Info with contacts & tips, 48+ symptom responses (general, women, kids), and a clean, responsive UI – all built using HTML, CSS & JavaScript.",
+     "n": "iayush1650/MediBot-A-Virtual-Healthcare-Assistant"
+    },
+    {
+     "d": "Hisaab Saathi is a WhatsApp assistant that helps kirana owners get their udhaar back by drafting polite reminders in Hindi, Punjabi or Hinglish, with a UPI link, which the owner approves before sending",
+     "n": "aejaz1616/HisaabSathi"
+    },
+    {
+     "d": "Hisaab Saathi is a WhatsApp assistant that helps kirana owners get their udhaar back by drafting polite reminders in Hindi, Punjabi or Hinglish, with a UPI link, which the owner approves before sending",
+     "n": "aejaz1616/HisaabSaathi"
+    },
+    {
+     "d": "Hisaab Saathi is a WhatsApp assistant that helps kirana owners get their udhaar back by drafting polite reminders in Hindi, Punjabi or Hinglish, with a UPI link, which the owner approves before sending",
+     "n": "aejaz1616/hisaab-saathi"
+    },
+    {
+     "d": "Agentic AI voice assistant that plans and executes multi-step tasks: alarms, timers, calls, WhatsApp, reminders, weather, app control, and long-term memory. Hinglish/Hindi/English with a “Hey IITIAN” wake word and live web UI.",
+     "n": "iitking/IITIAN-AI-Voice-Assistant"
+    },
+    {
+     "d": "Hisab Kitab AI is a multilingual, voice-first digital ledger app built for Kirana store owners and small businesses in India. Powered by Gemini AI, it automatically converts spoken Hindi, Hinglish, or English entries into structured daily cash/credit ledgers, customer Khatas, and instant WhatsApp payment reminders.",
+     "n": "shikharchaudhary-1/Hisab-Kitab-AI"
+    },
+    {
+     "d": "Built for the Razorpay Buildathon (Track 3: AI Revenue Recovery). PaisaBack detects failed UPI mandates and subscription payments, diagnoses why they failed, and autonomously runs the right recovery play — retry, reminder, or a Hinglish nudge — for each customer, backed by ML-driven user segmentation and a full audit trail of every decision made.",
+     "n": "tar7nic/PaisaBack"
+    },
+    {
+     "d": "is a Hindi-first, Bharat-focused CRM that helps Indian MSMEs manage grahak data, leads, and follow-ups in simple Hindi and Hinglish, without complex tech. It is designed so vyapaaris can capture every enquiry, automate WhatsApp and call reminders, and keep clean records for GST, MSME schemes, and bank funding, all in their own language",
+     "n": "sheevu/NetraCRM"
+    }
+   ]
+  ],
+  "hinglish semantic parsing": [
+   5,
+   [
+    {
+     "d": "Consists of the largest (10K) human annotated code-switched semantic parsing dataset & 170K generated utterance using the CST5 augmentation technique. Queries are derived from TOPv2, a multi-domain task oriented semantic parsing dataset. Tests suggest that with CST5, up to 20x less labeled data can achieve the same semantic parsing performance.",
+     "n": "google-research-datasets/Hinglish-TOP-Dataset"
+    },
+    {
+     "d": "A Hinglish-to-SQL compiler that converts natural Hinglish queries into executable SQL commands using custom parsing and semantic analysis.",
+     "n": "ShobhitPanuily/Hinglish-Query-Language-TABL"
+    },
+    {
+     "d": "A custom compiler built in Python that translates Hinglish-style programming syntax into executable Python code through a complete compilation pipeline including lexical analysis, parsing, AST generation, semantic analysis, and code generation.",
+     "n": "PranavChamoli06/Hinglish-Compiler"
+    },
+    {
+     "d": "BhashaQL — A Hinglish SQL Compiler that translates natural Hinglish database queries into standard SQL, featuring lexical analysis, parsing, semantic analysis, optimization, code generation, SQLite execution, and an interactive web interface.",
+     "n": "sanjanak2580/BhashaSQL"
+    },
+    {
+     "d": "The evolution of social media texts such as blogs, micro-blogs (e.g., Twitter), and chats (e.g., WhatsApp and Facebook messages) has created many new opportunities for information access and language technology, but it has also posed many new challenges making it one of the current prime research areas. Although current language technologies are primarily built for English, non-native English speakers combine English and other languages when they use social media. In fact, statistics show that half of the messages on Twitter are in a language other than English. This evidence suggests that other languages, including multilinguiality and code-mixing, need to be considered by the NLP community. Code-mixing poses several unseen difficulties to NLP tasks such as word-level language identification, part-of-speech tagging, dependency parsing, machine translation and semantic processing. Conventional NLP systems heavily rely on monolingual resources to address code-mixed text, which limit them to properly handle issues like English-based phonetic typing, word-level code-mixing, and others. The next two phrases are examples of code-mixing in Spanglish and Hinglish. For the Spanglish example, in addition to the code-mixing at the sentence level, the word pushes conjugates the English word push according to the grammar rules in Spanish, which shows that code-mixing can also happen at the word level. Better to add more details on the Hinglish example In the Hinglish example only one English word enjoy has been used, but more noticeably for the Hindi words - instead of using Devanagari script, English phonetic typing is a popular practice in India. ",
+     "n": "mohtasim70/SentiMix-Sentiment-Analysis"
+    }
+   ]
+  ],
+  "code-switched task oriented parsing": [
+   1,
+   [
+    {
+     "d": "Consists of the largest (10K) human annotated code-switched semantic parsing dataset & 170K generated utterance using the CST5 augmentation technique. Queries are derived from TOPv2, a multi-domain task oriented semantic parsing dataset. Tests suggest that with CST5, up to 20x less labeled data can achieve the same semantic parsing performance.",
+     "n": "google-research-datasets/Hinglish-TOP-Dataset"
+    }
+   ]
+  ],
+  "hindi temporal expression": [
+   0,
+   []
+  ],
+  "hindi time normalization": [
+   2,
+   [
+    {
+     "d": "A deep learning pipeline for real-time Indian Sign Language (ISL) translation. Features spatial coordinate normalization, a robust BiLSTM sequence classifier, and grammar correction translating sign gestures into natural English and Hindi speech.",
+     "n": "Rishitha1806/INDIAN-SIGN-LANGUAGE-DETECTION-USING-MEDIAPIPE-AND-BILSTM"
+    },
+    {
+     "d": "This is a real-time Hindi Sign Language to speech system using MediaPipe 21-hand landmarks and a CNN classifier. Landmarks are normalized and classified into Hindi characters, with temporal buffering forming words and sentences, then converted to speech. The system is scalable, robust, and hardware-independent.",
+     "n": "Sahil-03032003/HINDI-SIGN-LANGUAGE-TO-SPEECH-CONVERSION-USING-ARTIFICIAL-NEURAL-NETWORK-AND-MEDIAPIPE"
+    }
+   ]
+  ],
+  "timex hindi": [
+   2,
+   [
+    {
+     "d": "Building a TIMEX3 Tag Identifier Model for Hindi",
+     "n": "HayWiir/Timex3-Tagger"
+    },
+    {
+     "d": null,
+     "n": "Rajan021/TIMEX3-TAG-IDENTIFIER-IN-HINDI-LANGUAGE"
+    }
+   ]
+  ],
+  "code-mixed temporal": [
+   3,
+   [
+    {
+     "d": "Calibrated zero-shot NLP pipeline for code-mixed Roman Urdu — replication package",
+     "n": "waqasbukhari11/roman-urdu-temporal-nlp"
+    },
+    {
+     "d": "Temporal Emotion Trajectory Modeling for Early Detection of Hate Speech and Radicalization in Code-Mixed Social Media Platforms",
+     "n": "Sharanya-aa/Emotion-Analysis-Model"
+    },
+    {
+     "d": "EOSIGN: Edge-Efficient One-Shot ISL Video Synthesis from Code-Mixed Speech with Signer Consistency and Temporal Stability",
+     "n": "neelam472/EOSIGN"
+    }
+   ]
+  ]
+ },
+ "literature": {
+  "hinglish": {
+   "error": "HTTP Error 429: "
+  },
+  "code mixed hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "hindi english": {
+   "error": "HTTP Error 429: "
+  },
+  "code-mixed": {
+   "error": "HTTP Error 429: "
+  },
+  "romanized hindi": [
+   {
+    "t": "Code-Mixed Romanized Hindi Hate Speech Identification: Leveraging BERT Embeddings and Particle Swarm Optimization",
+    "y": 2025,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration",
+    "y": 2025,
+    "v": "BigData Congress [Services Society]"
+   },
+   {
+    "t": "Distinguishing Romanized Hindi from Romanized Urdu",
+    "y": 2023,
+    "v": "CAWL"
+   },
+   {
+    "t": "Benchmarking Large Language Models for Sarcasm Detection in Hindi Romanized Texts",
+    "y": 2025,
+    "v": "2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)"
+   },
+   {
+    "t": "IndoNLP 2025: Shared Task on Real-Time Reverse Transliteration for Romanized Indo-Aryan languages",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Improving Informally Romanized Language Identification",
+    "y": 2025,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "NEPTUN: Normalization for Romanized Nepali Sentiment Analysis",
+    "y": 2025,
+    "v": "Journal of Himalaya College of Engineering"
+   },
+   {
+    "t": "BanglaShield: A Script-Robust Safety Classifier and Benchmark for Bangla Native, Romanized, and Code-Mixed Prompts",
+    "y": 2026,
+    "v": ""
+   },
+   {
+    "t": "Team IndiDataMiner at IndoNLP 2025: Hindi Back Transliteration - Roman to Devanagari using LLaMa",
+    "y": 2025,
+    "v": "COLING Workshops"
+   },
+   {
+    "t": "Niyamika at BHASHA Task 1: Word-Level Transliteration for English-Hindi Mixed Text in Grammar Correction Using MT5",
+    "y": 2025,
+    "v": "Bhasha"
+   },
+   {
+    "t": "MorphingMinds at SemEval-2024 Task 10: Emotion Recognition in Conversation in Hindi-English Code-Mixed Conversations",
+    "y": 2024,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "Enhancing Hindi Feature Representation through Fusion of Dual-Script Word Embeddings",
+    "y": 2024,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "IITP-MT at WAT2021: Indic-English Multilingual Neural Machine Translation using Romanized Vocabulary",
+    "y": 2021,
+    "v": "Workshop on Asian Translation"
+   },
+   {
+    "t": "The influence of romanizing a non-alphabetic L1 on L2 reading: the case of Hindi-English visual word recognition",
+    "y": 2022,
+    "v": "Reading & Writing"
+   },
+   {
+    "t": "A Transformer based Multi-Task Learning Approach Leveraging Translated and Transliterated Data to Hate Speech Detection in Hindi",
+    "y": 2022,
+    "v": "Data Science and Machine Learning"
+   },
+   {
+    "t": "English-Hindi, Hindi-English : with romanized pronunciation",
+    "y": 1995,
+    "v": ""
+   },
+   {
+    "t": "HinPLMs: Pre-trained Language Models for Hindi",
+    "y": 2021,
+    "v": "International Conference on Asian Language Processing"
+   },
+   {
+    "t": "Sentiment Analysis of Mixed Code for The Transliterated Hindi and Marathi Texts",
+    "y": 2018,
+    "v": "International Journal on Natural Language Computing"
+   },
+   {
+    "t": "I may talk in English but gaali toh Hindi mein hi denge : A study of English-Hindi code-switching and swearing pattern on social networks",
+    "y": 2017,
+    "v": "International Conference on Communication Systems and Networks"
+   },
+   {
+    "t": "A Hybrid Hindi Printed Document Classification System Using SVM and Fuzzy: An Advancement",
+    "y": 2019,
+    "v": "Journal of Information Technology Research"
+   },
+   {
+    "t": "Relating Romanized Comments to News Articles by Inferring Multi-Glyphic Topical Correspondence",
+    "y": 2015,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Revisiting Automatic Transliteration Problem for Code-Mixed Romanized Indian Social Media Text",
+    "y": 2014,
+    "v": ""
+   },
+   {
+    "t": "Addressing challenges in automatic Language Identification of Romanized Text",
+    "y": 2010,
+    "v": ""
+   },
+   {
+    "t": "Identification scheme for romanized Indian languages from their plain and ciphered bit stream",
+    "y": 2010,
+    "v": ""
+   },
+   {
+    "t": "‘Adapting Machine Learning And Deep Learning Approach Towards Language Identification And Sentiment Analysis Of Code-Mixed Urdu-English And Hindi-English Social Media Text ‘",
+    "y": null,
+    "v": ""
+   },
+   {
+    "t": "Real-Time Multilingual Speech Recognition and Language Mapping for Indian Code-Switched Speech",
+    "y": 2025,
+    "v": "Journal of Information Systems Engineering & Management"
+   },
+   {
+    "t": "A comprehensive review on detection of hate speech for multi-lingual data",
+    "y": 2024,
+    "v": "Social Network Analysis and Mining"
+   },
+   {
+    "t": "Neither Here Nor There: Cross-Lingual Representation Dynamics of Code-Mixed Text in Multilingual Encoders",
+    "y": 2026,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Leveraging XLM-RoBERTa with CNN and BiLSTM for Hinglish Toxicity Detection",
+    "y": 2025,
+    "v": "Journal of Communications Software and Systems"
+   },
+   {
+    "t": "Detecting Contextual Abusiveness in Hinglish Text using a Novel Deep Learning Framework",
+    "y": 2025,
+    "v": "2025 IEEE 4th International Conference on Technology, Engineering, Management for Societal impact using Marketing, Entrepreneurship and Talent (TEMSMET)"
+   },
+   {
+    "t": "SenTAS++: Language-Tag Graph Attention and Cross-View Contrastive Fusion for Sentiment Analysis in Code-Mixed Language",
+    "y": 2025,
+    "v": "2025 4th International Conference on Applied Artificial Intelligence and Computing (ICAAIC)"
+   },
+   {
+    "t": "Challenges in Natural Language Processing for Malayalam: A Low-Resource Language Perspective",
+    "y": 2025,
+    "v": "International Journal of Multilingualism and Languages for Specific purposes"
+   },
+   {
+    "t": "Optimizing Cross-Lingual Information Retrieval in Campus Administration using Retrieval-Augmented Generation and Semantic Chunking",
+    "y": 2026,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Code-Mix Sentiment Analysis on Hinglish Tweets",
+    "y": 2026,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models models via Romanization",
+    "y": 2024,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "RoMantra: Optimizing Neural Machine Translation for Low-Resource Languages through Romanization",
+    "y": 2024,
+    "v": "ICON"
+   },
+   {
+    "t": "Frequency based predictive input system for Hindi",
+    "y": 2010,
+    "v": "International Conference & Workshop on Emerging Trends in Technology"
+   },
+   {
+    "t": "Filtering Aggression from the Multilingual Social Media Feed",
+    "y": 2018,
+    "v": "TRAC@COLING 2018"
+   },
+   {
+    "t": "Normalization and Back-Transliteration for Code-Switched Data",
+    "y": 2021,
+    "v": "CALCS"
+   },
+   {
+    "t": "Retrieving Similar Lyrics for Music Recommendation System",
+    "y": 2017,
+    "v": "ICON"
+   },
+   {
+    "t": "Harnessing Unsupervised Word Translation to Address Resource Inequality for Peace and Health",
+    "y": 2022,
+    "v": "Social Informatics"
+   },
+   {
+    "t": "A T RANSFORMER BASED M ULTI -T ASK L EARNING A PPROACH L EVERAGING T RANSLATED AND T RANSLITERATED D ATA TO H ATE S PEECH D ETECTION IN H INDI",
+    "y": 2022,
+    "v": ""
+   },
+   {
+    "t": "Joint Approach to Deromanization of Code-mixed Texts",
+    "y": 2019,
+    "v": "Proceedings of the Sixth Workshop on"
+   },
+   {
+    "t": "Robust Deep Learning Based Sentiment Classification of Code-Mixed Text",
+    "y": 2019,
+    "v": "ICON"
+   },
+   {
+    "t": "A sentiment analysis system for social media using machine learning techniques: Social enablement",
+    "y": 2018,
+    "v": "Digital Scholarship in the Humanities"
+   },
+   {
+    "t": "Discovering Bilingual Lexicons in Polyglot Word Embeddings",
+    "y": 2020,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "An Empirical Evaluation of Text Representation Schemes on Multilingual Social Web to Filter the Textual Aggression",
+    "y": 2019,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Deromanization of Code-mixed Texts",
+    "y": 2019,
+    "v": ""
+   },
+   {
+    "t": "Relevance Feedback Mechanism for Resolving Transcription Ambiguity in SMS Based Literature Information System",
+    "y": 2018,
+    "v": "Smart Intelligent Computing and Applications"
+   },
+   {
+    "t": "Automatic Induction of Romanization Systems from Bilingual Corpora",
+    "y": 2015,
+    "v": "IEICE Trans. Inf. Syst."
+   }
+  ],
+  "transliterated hindi": [
+   {
+    "t": "Sentiment Analysis of Transliterated Hindi and Marathi Using Lexicon-Enriched Transformer Models",
+    "y": 2025,
+    "v": "International Journal of Environmental Science"
+   },
+   {
+    "t": "Sentiment Analysis for Transliterated Hindi and Marathi Language using Machine Learning Approach",
+    "y": 2025,
+    "v": "International Journal of Computational and Experimental Science and Engineering"
+   },
+   {
+    "t": "Cross-Lingual Text Classification of Transliterated Hindi and Malayalam",
+    "y": 2021,
+    "v": "2022 IEEE International Conference on Big Data (Big Data)"
+   },
+   {
+    "t": "Sentiment Analysis of Mixed Code for The Transliterated Hindi and Marathi Texts",
+    "y": 2018,
+    "v": "International Journal on Natural Language Computing"
+   },
+   {
+    "t": "Allied Chambers transliterated Hindi-Hindi-English dictionary",
+    "y": 1993,
+    "v": ""
+   },
+   {
+    "t": "Unlocking Linguistic Diversity: Intent Classification of Hindi Language with Translated and Transliterated ATIS Dataset",
+    "y": 2024,
+    "v": "2024 5th International Conference on Innovative Trends in Information Technology (ICITIIT)"
+   },
+   {
+    "t": "Hindi, transliterated Hindi, English dictionary",
+    "y": 1996,
+    "v": ""
+   },
+   {
+    "t": "H. W. Wagenaar (comp.) and S. S. Parikh (ed.): Allied Chambers transliterated Hindi-Hindi-English dictionary . xxii, 1149 pp. New Delhi: Allied Chambers (India) Ltd., 1993. £22.50.",
+    "y": 1996,
+    "v": "Bulletin of the School of Oriental and African Studies"
+   },
+   {
+    "t": "A Transformer based Multi-Task Learning Approach Leveraging Translated and Transliterated Data to Hate Speech Detection in Hindi",
+    "y": 2022,
+    "v": "Data Science and Machine Learning"
+   },
+   {
+    "t": "Language Identification for Hindi Language Transliterated Text in Roman Script Using Generative Adversarial Networks",
+    "y": 2018,
+    "v": ""
+   },
+   {
+    "t": "A Lightweight Deep Learning Based Image Captioning Model for Hindi Caption Generation",
+    "y": 2025,
+    "v": "2025 3rd International Conference on Communication, Security, and Artificial Intelligence (ICCSAI)"
+   },
+   {
+    "t": "Transliterated Search of Hindi Lyrics",
+    "y": 2015,
+    "v": ""
+   },
+   {
+    "t": "Language Detection for Transliterated Content",
+    "y": 2024,
+    "v": "2024 3rd International Conference for Innovation in Technology (INOCON)"
+   },
+   {
+    "t": "Deromanization of Hindi-English Code-Mixed Text and its Influence on Toxic Comment Classification and Sentiment Analysis",
+    "y": 2025,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "An Improved Transformer Transducer Architecture for Hindi-English Code Switched Speech Recognition",
+    "y": 2022,
+    "v": "Interspeech"
+   },
+   {
+    "t": "Training Hybrid Models on Noisy Transliterated Transcripts for Code-Switched Speech Recognition",
+    "y": 2021,
+    "v": "Interspeech"
+   },
+   {
+    "t": "Language Lexicons for Hindi-English Multilingual Text Processing",
+    "y": 2021,
+    "v": "IAES International Journal of Artificial Intelligence (IJ-AI)"
+   },
+   {
+    "t": "Query Expansion for Transliterated Text Retrieval",
+    "y": 2021,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Braille Transliteration Of Hindi Handwritten Texts Using Machine Learning For Character Recognition",
+    "y": 2019,
+    "v": ""
+   },
+   {
+    "t": "Part-of-Speech Tagging for Code-Switched, Transliterated Texts without Explicit Language Identification",
+    "y": 2018,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "A Systematic Approach for English- Hindi Parallel Database Creation for Transliteration of General Domain English Words",
+    "y": 2021,
+    "v": "2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON)"
+   },
+   {
+    "t": "The Word ‘Noor’: Tracing a Long Journey through Translation and Adaptation from Classical Arabic to Contemporary Punjabi/Hindi Pop Songs",
+    "y": 2021,
+    "v": ""
+   },
+   {
+    "t": "Hindi Roman Linguistic Framework for Retrieving Transliteration Variants using Bootstrapping",
+    "y": 2018,
+    "v": ""
+   },
+   {
+    "t": "CMIR: A Corpus for Evaluation of Code Mixed Information Retrieval of Hindi-English Tweets",
+    "y": 2016,
+    "v": "Journal of Computacion y Sistemas"
+   },
+   {
+    "t": "Rule based Approach for Word Normalization by resolving Transcription Ambiguity in Transliterated Search Queries",
+    "y": 2019,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Word Level Language Identification in Assamese-Bengali-Hindi-English Code-Mixed Social Media Text",
+    "y": 2018,
+    "v": "International Conference on Asian Language Processing"
+   },
+   {
+    "t": "ENGLISH TO HINDI TRANSLITERATION SYSTEM USING COMBINATION-BASED APPROACH",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "IIIT-H System Submission for FIRE2014 Shared Task on Transliterated Search",
+    "y": 2014,
+    "v": "Fire"
+   },
+   {
+    "t": "Overview of FIRE 2014 Track on Transliterated Search",
+    "y": 2014,
+    "v": ""
+   },
+   {
+    "t": "Overview of the FIRE 2013 Track on Transliterated Search",
+    "y": 2013,
+    "v": "Fire"
+   },
+   {
+    "t": "ISM@FIRE­2013 shared task on Transliterated Search",
+    "y": null,
+    "v": ""
+   },
+   {
+    "t": "Transliterated Search using Syllabification Approach",
+    "y": 2013,
+    "v": ""
+   },
+   {
+    "t": "Identifying Languages at the Word Level in Assamese-Bengali-Hindi-English Code-Mixed Social Media Text",
+    "y": null,
+    "v": ""
+   },
+   {
+    "t": "Language identification for transliterated forms of Indian language queries",
+    "y": 2014,
+    "v": ""
+   },
+   {
+    "t": "IIIT-H System Submission for FIRE 2014 Shared Task on Transliterated Search Conference",
+    "y": 2015,
+    "v": ""
+   },
+   {
+    "t": "Analysis of Emotion Detection from Code Mixed or Code-Switched Social Media Text using Deep Learning",
+    "y": 2025,
+    "v": "International Research Journal of Multidisciplinary Technovation"
+   },
+   {
+    "t": "GAEn/MGT: A Novel Framework for Bilingual Sentiment Analysis in Mental Health Applications",
+    "y": 2026,
+    "v": "International journal on artificial intelligence tools"
+   },
+   {
+    "t": "Improving the quality of Gujarati-Hindi Machine Translation through part-of-speech tagging and stemmer-assisted transliteration",
+    "y": 2013,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Differences in Safety Risks Across Languages in Health-Relevant Queries: Vulnerability Analysis of Large Language Model Responses",
+    "y": 2025,
+    "v": "JMIR Formative Research"
+   },
+   {
+    "t": "Mining Hindi-English Transliteration Pairs from Online Hindi Lyrics",
+    "y": 2012,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Building English ASR model with regional language support",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Multilingual Query-by-Example KWS for Indian Languages using Transliteration",
+    "y": 2025,
+    "v": "Interspeech"
+   },
+   {
+    "t": "Sanjeevani-AI: Passive Suicide Risk Detector & Helper",
+    "y": 2025,
+    "v": "2025 International Conference on NexGen Networks and Cybernetics (IC2NC)"
+   },
+   {
+    "t": "Comparative Analysis of Word Embeddings on Transformer Model for Emotion Recognition in Indic Code-Mixed Hinglish",
+    "y": 2026,
+    "v": "International Journal of Advanced Research in Science, Communication and Technology"
+   },
+   {
+    "t": "ISM@FIRE-2014: Shared Task on Transliterated Search",
+    "y": 2014,
+    "v": "Fire"
+   },
+   {
+    "t": "Jodo: A Tool for Foreigners to Build and Speak Hindi Sentences",
+    "y": 2015,
+    "v": "IndiaHCI"
+   },
+   {
+    "t": "Hindi-to-Urdu Machine Translation through Transliteration",
+    "y": 2010,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "TRANSLITERATION BY ORTHOGRAPHY OR PHONOLOGY FOR HINDI AND MARATHI TO ENGLISH : CASE STUDY",
+    "y": 2013,
+    "v": ""
+   },
+   {
+    "t": "How Transliterations Improve Crosslingual Alignment",
+    "y": 2024,
+    "v": "International Conference on Computational Linguistics"
+   },
+   {
+    "t": "KNetwork: advancing cross-lingual sentiment analysis for enhanced decision-making in linguistically diverse environments",
+    "y": 2024,
+    "v": "Knowledge and Information Systems"
+   }
+  ],
+  "hinglish conversation": [
+   {
+    "t": "Sample-Efficient Language Model for Hinglish Conversational AI",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Linguistics and Contemporary Hindi: A Study of Social Media and the Hinglish Culture of the Young Generation",
+    "y": 2025,
+    "v": "Revista Review Index Journal of Multidisciplinary"
+   },
+   {
+    "t": "UCSC NLP at SemEval-2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)",
+    "y": 2024,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "AIMA at SemEval-2024 Task 10: History-Based Emotion Recognition in Hindi-English Code-Mixed Conversations",
+    "y": 2025,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "A Hybrid Explainable Framework for Code Switched Language Identification",
+    "y": 2025,
+    "v": "2025 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)"
+   },
+   {
+    "t": "RailReserve: An LLM-Powered Multi-Agent Framework for Conversational Railway Ticket Booking and Graph-based Route Optimization",
+    "y": 2026,
+    "v": "International Conference Intelligent Data Communication Technologies and Internet Things"
+   },
+   {
+    "t": "I know you are different! Towards Persona Driven Knowledge-infused Dialogue Assistant",
+    "y": 2026,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Knowledge-Infused Hierarchy-Aware Emotion Recognition in Code-mixed Mental Health Counseling Conversations",
+    "y": 2026,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Cross-Multilingual Code-mix Analysis & Translation",
+    "y": 2026,
+    "v": "2026 1st International Conference on Emerging Trends in Advancements and Applications of Computational Intelligence Techniques (ETAACT)"
+   },
+   {
+    "t": "Innovators at SemEval-2024 Task 10: Revolutionizing Emotion Recognition and Flip Analysis in Code-Mixed Texts",
+    "y": 2024,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "Baseline BERT models for Conversational Hate Speech Detection in Code-mixed tweets utilizing Data Augmentation and Offensive Language Identification in Marathi",
+    "y": 2022,
+    "v": "Fire"
+   },
+   {
+    "t": "Lost in Translation No More: Fine-tuned transformer-based models for CodeMix to English Machine Translation",
+    "y": 2023,
+    "v": "ICON"
+   },
+   {
+    "t": "Investigation of Methods to Improve the Recognition Performance of Tamil-English Code-Switched Data in Transformer Framework",
+    "y": 2020,
+    "v": "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+   },
+   {
+    "t": "Customer Support Chat Intent Classification using Weak Supervision and Data Augmentation",
+    "y": 2022,
+    "v": "COMAD/CODS"
+   },
+   {
+    "t": "Supervised and Unsupervised Evaluation of Synthetic Code-Switching",
+    "y": 2022,
+    "v": "WNUT"
+   },
+   {
+    "t": "LLMs Get Lost In Multi-Turn Conversation",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+    "y": 2023,
+    "v": ""
+   },
+   {
+    "t": "MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs",
+    "y": 2025,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Cyberbullying Detection in Hinglish Text Using MURIL and Explainable AI",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Leveraging XLM-RoBERTa with CNN and BiLSTM for Hinglish Toxicity Detection",
+    "y": 2025,
+    "v": "Journal of Communications Software and Systems"
+   },
+   {
+    "t": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Social, economic, and demographic factors drive the emergence of Hinglish code-mixing on social media",
+    "y": 2024,
+    "v": "Humanities and Social Sciences Communications"
+   },
+   {
+    "t": "Sentiment Analysis of Code-Mixed WhatsApp Conversations (Hinglish): A Hybrid Approach",
+    "y": 2025,
+    "v": "2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)"
+   },
+   {
+    "t": "LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset",
+    "y": 2023,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Multimodal sentiment analysis of english and hinglish memes",
+    "y": 2024,
+    "v": "Multimedia tools and applications"
+   },
+   {
+    "t": "Multimodal Hinglish Tweet Dataset for Deep Pragmatic Analysis",
+    "y": 2024,
+    "v": "International Conference on Data Technologies and Applications"
+   },
+   {
+    "t": "Hinglish Sentiment Analysis: Deep Learning Models for Nuanced Sentiment Classification in Multilingual Digital Communication",
+    "y": 2024,
+    "v": "2024 2nd International Conference on Device Intelligence, Computing and Communication Technologies (DICCT)"
+   },
+   {
+    "t": "Explainable Cyberbullying Detection in Hinglish: A Generative Approach",
+    "y": 2024,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "Automated Classification of Cybercrime Complaints using Transformer-based Language Models for Hinglish Texts",
+    "y": 2024,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Sociolinguistically Informed Interpretability: A Case Study on Hinglish Emotion Classification",
+    "y": 2024,
+    "v": "SIGTYP"
+   },
+   {
+    "t": "Leveraging Weakly Annotated Data for Hate Speech Detection in Code-Mixed Hinglish: A Feasibility-Driven Transfer Learning Approach with Large Language Models",
+    "y": 2024,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Stance Detection in Hinglish Data using the BART-large-MNLI Integration Model",
+    "y": 2024,
+    "v": "Engineering, Technology &amp; Applied Science Research"
+   },
+   {
+    "t": "A Conversation on Artificial Intelligence, Chatbots, and Plagiarism in Higher Education",
+    "y": 2023,
+    "v": "Cellular and Molecular Bioengineering"
+   },
+   {
+    "t": "HINGLISH TODAY: ANALYSIS OF LINGUISTIC FEATURES OF HINGLISH LANGUAGE IN CONTEMPORARY INDIAN LITERATURE",
+    "y": 2024,
+    "v": "Shodh Sari-An International Multidisciplinary Journal"
+   },
+   {
+    "t": "Hate speech recognition in multilingual text: hinglish documents",
+    "y": 2023,
+    "v": "International journal of information technology"
+   },
+   {
+    "t": "Sentiment Recognition of Hinglish Code Mixed Data using Deep Learning Models based Approach",
+    "y": 2023,
+    "v": "Confluence"
+   },
+   {
+    "t": "On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good",
+    "y": 2024,
+    "v": "NAACL-HLT"
+   },
+   {
+    "t": "Emoji, Sentiment and Emotion Aided Cyberbullying Detection in Hinglish",
+    "y": 2023,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "TextCue: Context-Aware Next-Word Prediction for Hinglish Conversations",
+    "y": 2026,
+    "v": "2026 7th International Conference in Electronic Engineering & Information Technology (EEITE)"
+   },
+   {
+    "t": "MUTANT: A Multi-sentential Code-mixed Hinglish Dataset",
+    "y": 2023,
+    "v": "Findings"
+   },
+   {
+    "t": "The CANDOR corpus: Insights from a large multimodal dataset of naturalistic conversation",
+    "y": 2023,
+    "v": "Science Advances"
+   },
+   {
+    "t": "Towards Detection of Cyberbullying in Hinglish Code Mixed Data",
+    "y": 2023,
+    "v": "International Conference on Computing for Sustainable Global Development"
+   },
+   {
+    "t": "Multitasking of sentiment detection and emotion recognition in code-mixed Hinglish data",
+    "y": 2022,
+    "v": "Knowledge-Based Systems"
+   },
+   {
+    "t": "Retrieval Augmentation Reduces Hallucination in Conversation",
+    "y": 2021,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "PLACES: Prompting Language Models for Social Conversation Synthesis",
+    "y": 2023,
+    "v": "Findings"
+   },
+   {
+    "t": "Conversation: A Well-Informed Profile of Its Contributors",
+    "y": 2025,
+    "v": "The conversation"
+   },
+   {
+    "t": "MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation",
+    "y": 2021,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Beyond Goldfish Memory: Long-Term Open-Domain Conversation",
+    "y": 2021,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "Psychedelic Assisted Psychotherapy: A New Kind of Conversation",
+    "y": 2025,
+    "v": "The Therapeutic Conversation"
+   }
+  ],
+  "hinglish chat": {
+   "error": "HTTP Error 429: "
+  },
+  "whatsapp hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "reminder": {
+   "error": "HTTP Error 429: "
+  },
+  "temporal expression": {
+   "error": "HTTP Error 429: "
+  },
+  "intent hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "hinglish date time": {
+   "error": "HTTP Error 429: "
+  },
+  "hinglish reminder": {
+   "error": "HTTP Error 429: "
+  },
+  "hinglish semantic parsing": {
+   "error": "HTTP Error 429: "
+  },
+  "code-switched task oriented parsing": {
+   "error": "HTTP Error 429: "
+  },
+  "hindi temporal expression": {
+   "error": "HTTP Error 429: "
+  },
+  "hindi time normalization": {
+   "error": "HTTP Error 429: "
+  },
+  "timex hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "code-mixed temporal": [
+   {
+    "t": "Safeguarding the Integrity of Online Social Networks (OSN): Leveraging the Efficacy of Conv-LSTM-Based Siamese Network to Predict Hate Speech in Low Resource Hindi-English Code-Mixed Text",
+    "y": 2025,
+    "v": "IEEE Access"
+   },
+   {
+    "t": "A Deep Learning Approach to Speech Emotion Recognition in Bengali Code-Mixed Speech",
+    "y": 2025,
+    "v": "2025 IEEE 7th International Conference on Sustainable Technologies For Industry 5.0 (STI)"
+   },
+   {
+    "t": "Eosign: Edge-Efficient One-Shot ISL Video Synthesis from Code-Mixed Speech with Signer Consistency and Temporal Stability",
+    "y": 2026,
+    "v": "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+   },
+   {
+    "t": "Computational Intelligence for Temporal Expression Retrieval in Code-Mixed Text",
+    "y": 2020,
+    "v": "2020 International Conference on Power Electronics & IoT Applications in Renewable Energy and its Control (PARC)"
+   },
+   {
+    "t": "H-LSTM Framework for Temporal Information Retrieval in Code-Mixed Social Media Text",
+    "y": 2020,
+    "v": "2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)"
+   },
+   {
+    "t": "Hybrid LaBSE Semantic and Handcrafted Feature Fusion with Machine Learning for Fake Review Detection in Roman Marathi Code-Mixed Text",
+    "y": 2026,
+    "v": "International journal of computer information systems and industrial management applications"
+   },
+   {
+    "t": "LSTC-MDA: A Unified Framework for Long-Short Term Temporal Convolution and Mixed Data Augmentation in Skeleton-Based Action Recognition",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code in Rust and Mixed-Language Applications",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Multi-Perspective Agentic Program Repair via Code Property Graphs and Temporal Execution Graphs",
+    "y": 2026,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models",
+    "y": 2026,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Oscillations in an artificial neural network convert competing inputs into a temporal code",
+    "y": 2023,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "T-Code: Simple Temporal Latent Code for Efficient Dynamic View Synthesis",
+    "y": 2023,
+    "v": "International Conference on Neural Information Processing"
+   },
+   {
+    "t": "Particle-in-Cell Investigation on Temporal Evolution of High-Voltage Sheath of Mixed Deuterium-Titanium Plasmas",
+    "y": 2023,
+    "v": "IEEE Transactions on Plasma Science"
+   },
+   {
+    "t": "T-CLAP: Temporal-Enhanced Contrastive Language-Audio Pretraining",
+    "y": 2024,
+    "v": "International Workshop on Machine Learning for Signal Processing"
+   },
+   {
+    "t": "Spatio-Temporal Mechanism in Multilingual Sentiment Analysis",
+    "y": 2025,
+    "v": "Proceedings of the Workshop on Beyond English: Natural Language Processing for all Languages in an Era of Large Language Models"
+   },
+   {
+    "t": "Heterogeneous Parallel Implementation of a Multigrid Method with Full Approximation in the Noisette Code",
+    "y": 2024,
+    "v": "Mathematical Models and Computer Simulations"
+   },
+   {
+    "t": "Transformer Based Bangla-English Code-Switching Speech Recognition and Language Identification Model",
+    "y": 2024,
+    "v": "2024 IEEE International Conference on Computing, Applications and Systems (COMPAS)"
+   },
+   {
+    "t": "A shared neural code for gender across faces, bodies, and objects in the human brain",
+    "y": 2026,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "Research on Compressive Sensing Technology for Multi-Channel Mixed Vibration Signals",
+    "y": 2026,
+    "v": "2026 IEEE 9th Information Technology and Mechatronics Engineering Conference (ITOEC)"
+   },
+   {
+    "t": "Mixed-State Topological Transition and Emergent Fractionalized Supersymmetry in the Non-Abelian Kitaev Spin Liquid",
+    "y": 2026,
+    "v": ""
+   },
+   {
+    "t": "Machine Learning Pseudo-Natural Language for Temporal Logic Requirements of Embedded Systems",
+    "y": 2023,
+    "v": "International Conference on Knowledge and Systems Engineering"
+   },
+   {
+    "t": "AI-mediated Job Status Tracking in AR as a No-Code service",
+    "y": 2022,
+    "v": "2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)"
+   },
+   {
+    "t": "Improving Transformer Based End-to-End Code-Switching Speech Recognition Using Language Identification",
+    "y": 2021,
+    "v": "Applied Sciences"
+   },
+   {
+    "t": "Artificial Intelligence based Temporal Material Identification for Improving Qulaity of Service in Communication",
+    "y": 2021,
+    "v": "IOP Conference Series: Materials Science and Engineering"
+   },
+   {
+    "t": "Soil Moisture Monitoring in a Temperate Peatland Using Multi-Sensor Remote Sensing and Linear Mixed Effects",
+    "y": 2018,
+    "v": "Remote Sensing"
+   },
+   {
+    "t": "Verification of a mixed high‐order accurate DNS code for laminar turbulent transition by the method of manufactured solutions",
+    "y": 2010,
+    "v": ""
+   },
+   {
+    "t": "Validation of \"Care of the Dying Evaluation\" in Emergency Medicine (CODE-EM): pilot phase of end-of-life management protocol offered within emergency room (EMPOWER) study.",
+    "y": 2021,
+    "v": "Annals of Palliative Medicine"
+   },
+   {
+    "t": "AggressionNet: Generalised Multi-Modal Deep Temporal and Sequential Learning for Aggression Identification",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "Time Present and Time Past: Benchmarking Large Language Models on Temporally Evolving Document Understanding",
+    "y": 2026,
+    "v": ""
+   },
+   {
+    "t": "Zero-emissions vehicle adoption and satellite-measured NO2 air pollution in California, USA, from 2019 to 2023: a longitudinal observational study",
+    "y": 2026,
+    "v": "Lancet Planetary Health"
+   },
+   {
+    "t": "Short-term exposure to air pollution and risk of ischemic stroke requiring intravenous thrombolysis: a population-level analysis in Poland from the EP-PARTICLES study",
+    "y": 2025,
+    "v": "Environmental Health"
+   },
+   {
+    "t": "Scheduling for mixed-criticality hypervisor systems in the automotive domain",
+    "y": 2016,
+    "v": ""
+   },
+   {
+    "t": "Occurrence and trajectories of psychiatric disorders in adults with gambling disorder: a longitudinal register-based study of the Finnish population",
+    "y": 2026,
+    "v": "Social Psychiatry and Psychiatric Epidemiology"
+   },
+   {
+    "t": "An LLM Based Framework for Automated MILP Modeling in Dynamic Multi-Robot Task Scheduling",
+    "y": 2026,
+    "v": "IEEE Robotics and Automation Letters"
+   },
+   {
+    "t": "The Prompt Triangle: A Registered Report on Prompts as Hybrid Artifacts",
+    "y": 2026,
+    "v": ""
+   },
+   {
+    "t": "Use of Z-codes related to social determinants of health among adult inpatients in France: a nationwide study from 2014 to 2022",
+    "y": 2025,
+    "v": "BMC Public Health"
+   },
+   {
+    "t": "An Empirical Study of Dark Patterns in Indian Digital Applications",
+    "y": 2025,
+    "v": "International Conference on Computing, Communication and Automation"
+   },
+   {
+    "t": "Trilingual Topic Modeling of Sri Lankan Parliamentary Debates",
+    "y": 2026,
+    "v": "Moratuwa Engineering Research Conference"
+   },
+   {
+    "t": "Detection, classification and prevalence of self-admitted aging debt",
+    "y": 2025,
+    "v": "Empirical Software Engineering"
+   },
+   {
+    "t": "Visual and auditory brain areas share a neural code for perceived emotion",
+    "y": 2018,
+    "v": ""
+   },
+   {
+    "t": "Adaptive Speaker Embedding Self-Augmentation for Personal Voice Activity Detection with Short Enrollment Speech",
+    "y": 2026,
+    "v": "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+   },
+   {
+    "t": "A Late-Time Stable Scalar-Only Integral Equation for the Modelling of Transient Scattering by Perfect Conductors",
+    "y": 2026,
+    "v": "International Conference on Electromagnetics in Advanced Applications"
+   },
+   {
+    "t": "A survey of day-night illumination domain translation for outdoor vision: Methods, datasets, and evaluation protocols",
+    "y": 2026,
+    "v": "Machine Vision and Applications"
+   },
+   {
+    "t": "MotionMixer: MLP-based 3D Human Body Pose Forecasting",
+    "y": 2022,
+    "v": "International Joint Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Bi-Lingual Audio Detection for Sentiment Analysis",
+    "y": 2025,
+    "v": "International Conference on Database Theory"
+   },
+   {
+    "t": "Temporal decoupling with error-bounded predictive quantum control",
+    "y": 2015,
+    "v": "Forum on Specification and Design Languages"
+   },
+   {
+    "t": "Memristor-Based Binarized Spiking Neural Networks: Challenges and applications",
+    "y": 2022,
+    "v": "IEEE Nanotechnology Magazine"
+   },
+   {
+    "t": "Association of Neighborhood-Level Socioeconomic Factors With Delay to Hospital Arrival in Patients With Acute Stroke",
+    "y": 2023,
+    "v": "Neurology"
+   },
+   {
+    "t": "Numerical Tests of Rotational Mixing in Massive Stars with the new Population Synthesis Code BONNFIRES",
+    "y": 2014,
+    "v": ""
+   },
+   {
+    "t": "Accuracy and reliability of temporal gait measurement",
+    "y": 1994,
+    "v": ""
+   }
+  ]
+ }
+}
