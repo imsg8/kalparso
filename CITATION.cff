@@ -9,7 +9,7 @@ authors:
     given-names: Archana Praveen
     affiliation: "Manipal Institute of Technology, Manipal Academy of Higher Education, Manipal 576104, India"
 license: Apache-2.0
-version: "1.1.1"
+version: "1.1.2"
 doi: 10.5281/zenodo.23910743
 date-released: 2026-11-11
 repository-code: "https://github.com/imsg8/kalparso"
