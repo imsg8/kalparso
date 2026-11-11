@@ -2,7 +2,7 @@
 
 Grounding informal Hinglish planner entries to an exact date and time, on a CPU, in milliseconds.
 
-*"parso shaam saade 5 baje dentist"* written on Saturday 31 October at 14:00 means **Monday 2 November, 17:30**. *"kal"* means tomorrow or yesterday depending only on the verb's tense, and the clock words (*saade*, *paune*, *raat 2 baje*) follow conventions that general date parsers do not know. KalParso tags the time spans and the tense with a small multilingual encoder, and a 200-line deterministic grounder does the calendar arithmetic.
+*"parso shaam saade 5 baje dentist"* written on Saturday 31 October at 14:00 means **Monday 2 November, 17:30**. *"kal"* means tomorrow or yesterday depending only on the verb's tense, and the clock words (*saade*, *paune*, *raat 2 baje*) follow conventions that general date parsers do not know. KalParso tags the time spans and the tense with a small multilingual encoder, and a 250-line deterministic grounder does the calendar arithmetic.
 
 ## Results (706 held-out human entries, date and time both correct)
 
@@ -44,7 +44,8 @@ Every prediction file behind the reported results is in `results/`, so the score
 
 ```bash
 pip install -r requirements.txt
-python results/report.py              # results/REPORT.md, results/report.json
+python results/report.py              # results/REPORT.md, results/report.json (McNemar tests use seed 13)
+python results/score_synth_v3.py      # final models on the 1,999-entry v3 Synth-Test
 python tests/smoke.py                 # grounder and scorer checks
 ```
 
@@ -75,12 +76,12 @@ Grounding stays low because the lexicon has no formal Hindi number words or Deva
 | `FROZEN.md` | Hashes of the grounder and split at the point the conventions were frozen |
 | `src/` | `ground.py` (grounder), `lexicon.py`, `rules.py` (rules baseline), `generate.py` (synthetic data), `eval_human.py` (scoring, McNemar, bootstrap), `kalparso.py` (ONNX runtime) |
 | `data/v1`, `data/v2`, `data/v3` | Synthetic train / dev / held-out test sets (about 30k / 2k / 2k); v3 is the final one (29,911 / 1,988 / 1,999), v1 and v2 are archived snapshots for the ablation |
-| `data/human/` | 1,010 real entries with human answers; `split.json` puts 262 in `human_dev` (calibration) and 748 in `human_test` (706 scored) |
+| `data/human/` | 1,010 human-written entries with gold answers; `split.json` puts 262 in `human_dev` (calibration) and 748 in `human_test` (706 scored); `label_audit.md` and `label_audit_causes.md` list the 78 entries where three systems agree against the gold, with a cause for each |
 | `training/` | Encoder fine-tuning (`train_encoder.py`), Qwen3-0.6B LoRA baseline, and the Kaggle run scripts |
 | `baselines/` | Rules, dateparser, Duckling, untrained LLMs through Ollama (`llm_eval.py`) |
 | `llm_eval/kaggle_runs/` | The LLM accuracy runs (Kaggle, 2 x T4) |
 | `bench/` | CPU latency, throughput, energy (RAPL), thermal-safe LLM timing, and the NTX out-of-domain check (`eval_ntx.py`) |
-| `results/` | Predictions, timing JSON, report scripts |
+| `results/` | Predictions (human and v3 Synth-Test), timing JSON, report scripts; `dataset_search/` holds the resource-search query logs and the rerun script |
 | `scripts/` | PHINC weak labels and where to get third-party data |
 
 ## Synthetic data
@@ -108,7 +109,7 @@ Accuracy runs use two NVIDIA T4 GPUs on Kaggle (all 748 entries). CPU latency an
 
 ## Models
 
-On Hugging Face, each with ONNX files for CPU inference, fp16 safetensors and the runtime (`kalparso.py`, `ground.py`, `lexicon.py`):
+On Hugging Face, each with ONNX files for CPU inference, fp16 safetensors and the runtime (`kalparso.py`, `ground.py`, `lexicon.py`). Each is one training seed, picked by its Human-Calib score; the paper reports the five-seed mean and uses seed 13 for significance tests and the CPU table:
 
 | Model | Base | Held-out test | Use |
 |---|---|---|---|
@@ -123,7 +124,9 @@ Data: [imsg8/kalparso](https://huggingface.co/datasets/imsg8/kalparso) (configs 
 - Code: Apache-2.0 (`LICENSE`).
 - KalParso data: CC BY 4.0 (`data/LICENSE`).
 - Third-party corpora (PHINC, NTX, Kaggle Hinglish sets) are not included: `scripts/fetch_external.md`.
-- The 1,010 human entries were written and labelled by the first author for this test set and contain no personal information. Do not train on `data/human/human_test.jsonl`.
+- The 1,010 human entries were typed and labelled by the first author. About 600 were adapted from planning messages the first author had sent, with other people's names, places and other identifying details removed or changed; the rest were written for this set. The released entries contain no personal data.
+- No gold answer was changed after testing. About a dozen are debatable or uneven; they are listed in `data/human/label_audit_causes.md` and the paper's error analysis.
+- Do not train on `data/human/human_test.jsonl`.
 
 ## Citation
 
