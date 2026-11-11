@@ -9,7 +9,7 @@ Grounding informal Hinglish planner entries to an exact date and time, on a CPU,
 | System | Parameters | Accuracy | CPU latency per entry |
 |---|---|---|---|
 | **KalParso-MuRIL** (5 seeds) | 0.24B | **86.1 ± 0.3%** | 29 ms (fp32, 1 core) |
-| **KalParso-XLM-R** int8 (5 seeds) | 0.28B | **85.4 ± 0.6%** | **17 ms** (1 core) |
+| **KalParso-XLM-R** (5 seeds) | 0.28B | **85.4 ± 0.6%** | **17 ms** (int8, 1 core) |
 | KalParso-mDistilBERT (5 seeds) | 0.14B | 84.3 ± 0.9% | 9 ms (int8, 1 core) |
 | Cascade: KalParso-MuRIL, gemma4:26b on 6% of entries | 0.24B + 26B | 88.0 ± 0.1% | about 0.7 s on average |
 | Rules only (this repo's grounder with a rule tagger) | 0 | 85.7% | |
@@ -125,7 +125,7 @@ Data: [imsg8/kalparso](https://huggingface.co/datasets/imsg8/kalparso) (configs 
 - KalParso data: CC BY 4.0 (`data/LICENSE`).
 - Third-party corpora (PHINC, NTX, Kaggle Hinglish sets) are not included: `scripts/fetch_external.md`.
 - The 1,010 human entries were typed and labelled by the first author. About 600 were adapted from planning messages the first author had sent, with other people's names, places and other identifying details removed or changed; the rest were written for this set. The released entries contain no personal data.
-- No gold answer was changed after testing. About a dozen are debatable or uneven; they are listed in `data/human/label_audit_causes.md` and the paper's error analysis.
+- No gold answer was changed after testing. About two dozen are debatable or depart from the stated conventions; nine are listed in `data/human/label_audit_causes.md` and the rest are described in the paper's error analysis.
 - Do not train on `data/human/human_test.jsonl`.
 
 ## Citation
