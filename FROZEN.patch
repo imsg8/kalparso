@@ -1,0 +1,72 @@
+--- a/src/generate.py
++++ b/src/generate.py
+@@ -1,13 +1,13 @@
+ """Synthetic Hinglish planner entries with span-level labels.
+ Gold date/time come from ground.py applied to the gold spans, so labels follow spec.md by construction.
+ Frames and actions are split into train/held-out pools so test_synth shares no wording with train."""
+-import json, random, sys
++import json, os, random, sys
+ from datetime import datetime, timedelta
+ 
+ from lexicon import DAY, WEEKDAY, WD_NEXT, WD_PREV, MONTH, TAREEKH, PART, NUM, BAJE, SAADE, SAVA, PAUNE, DEDH, DHAI
+ from ground import ground_entry
+ 
+-V2 = True  # v2 phrase families (weeks, next-to-next, deadlines, night hours, weekday statements); False = v1 data
++V2 = True  # v2/v3 phrase families (weeks, next-to-next, deadlines, night hours, weekday statements, clauses); data/v1 and data/v2 are archived snapshots
+ 
+ DEVA = lambda vs: [v for v in vs if any("ऀ" <= ch <= "ॿ" for ch in v)]
+ LATIN = lambda vs: [v for v in vs if not DEVA([v])]
+@@ -191,7 +191,7 @@
+           "Simar ko birthday wish karna", "Ankit ke saath meeting", "Prags ko airport se pick karna", "groceries order karni",
+           "gas cylinder book karna", "doctor se milna", "assignment submit karna", "standup call", "interview ki taiyari",
+           "yoga class", "PG ka rent dena", "match dekhna", "movie ki tickets book karni", "AC repair wale ko bulana",
+-          "2 kg aata lana", "plants ko paani dena", "Laven ko file bhejni", "bank jaana", "train ki ticket book karni",
++          "2 kg aata lana", "plants ko paani dena", "Kunal ko file bhejni", "bank jaana", "train ki ticket book karni",
+           "dawai ka order", "presentation banana", "mail ka reply karna", "cake order karna", "Rahul ka birthday hai",
+           "Nani se baat karni", "shoes return karne", "insurance renew karna", "tax ke documents bhejne", "bike ki service"]
+ ACT_HI_TEST = ["salon ki booking", "Ankit ko 2000 bhejne", "cylinder change karna", "pharmacy se dawai lani",
+@@ -208,7 +208,7 @@
+            "Ankit ne bola deadline shift hogi", "app ka ek idea aaya tha", "client ne payment kar di thi",
+            "Simar se video call hui", "match dekha, India jeet gaya", "doctor ne bola vitamin D kam hai",
+            "Prags ke saath movie dekhi", "landlord se rent ki baat hui", "server down ho gaya tha",
+-           "naya laptop order kiya", "5 km run kiya", "Laven ke saath lunch kiya", "bike ka tyre puncture hua",
++           "naya laptop order kiya", "5 km run kiya", "Kunal ke saath lunch kiya", "bike ka tyre puncture hua",
+            "presentation achi gayi"]
+ PAST_HI_TEST = ["meeting cancel ho gayi thi", "Nani se mila", "neend achi nahi aayi", "naya phone mila"]
+ PAST_EN = ["met Rahul for coffee", "went to the dentist", "had a long call with Simar", "finished the report",
+@@ -218,7 +218,7 @@
+ NOTE = ["wifi password router ke peeche likha hai", "Prags ko sushi pasand hai", "book recommendation Atomic Habits",
+         "app idea: expense split for flatmates", "Maama ka address Sector 21 hai",
+         "car ki insurance policy number glovebox mein hai", "best biryani wali jagah Jama Masjid ke paas",
+-        "the spare key is with the guard", "idea: dark mode for the journal", "Laven prefers mornings for calls",
++        "the spare key is with the guard", "idea: dark mode for the journal", "Kunal prefers mornings for calls",
+         "AC ka filter har mahine saaf karna padta hai", "gym ka locker number 42 hai"]
+ NOTE_TEST = ["Simar ka size medium hai", "the router admin page is 192.168.1.1", "chai patti Assam wali achi lagti hai"]
+ 
+@@ -358,6 +358,7 @@
+ 
+ 
+ def main(out_dir, n_train=30000, n_dev=2000, n_test=2000, seed=13):
++    os.makedirs(out_dir, exist_ok=True)
+     rng = random.Random(seed)
+     seen = set()
+     for name, n, held in [("train", n_train, False), ("dev", n_dev, False), ("test_synth", n_test, True)]:
+--- a/src/ground.py
++++ b/src/ground.py
+@@ -34,7 +34,7 @@
+             elif t in ("am", "pm"): out.append(("AMPM", t, t))
+             else: out.append(("WORD", t, t))
+             i += 1
+-    for j in range(len(out) - 1):  # dictation writes "saat baje" as "sat baje": a weekday never takes baje
++    for j in range(len(out) - 1):  # informal spelling writes "saat baje" as "sat baje": a weekday never takes baje
+         if out[j][0] == "WD" and out[j][2] == "sat" and out[j + 1][0] == "BAJE":
+             out[j] = ("NUM", 7, "sat")
+     return out
+--- a/src/lexicon.py
++++ b/src/lexicon.py
+@@ -1,4 +1,4 @@
+-"""Shared vocabulary: canonical forms and the spelling variants dictation produces."""
++"""Shared vocabulary: canonical forms and the informal spelling variants of each."""
+ 
+ # canonical -> variants (first variant is the clean spelling)
+ DAY = {
