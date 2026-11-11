@@ -1,0 +1,1527 @@
+{
+ "date": "2026-11-11",
+ "service": "OpenAlex works search",
+ "rerun_of": "search_2026-11-10_literature_rerun2.json",
+ "queries": [
+  "hinglish",
+  "code mixed hindi",
+  "whatsapp hindi",
+  "hinglish date time",
+  "code-switched task oriented parsing",
+  "timex hindi"
+ ],
+ "literature": {
+  "hinglish": [
+   {
+    "t": "Sentiment classification of Hinglish text",
+    "y": 2016,
+    "v": "International Conference on Recent Advances in Information Technology"
+   },
+   {
+    "t": "The Dialectics of Hinglish: A Perspective",
+    "y": 2018,
+    "v": "Applied Linguistics Papers"
+   },
+   {
+    "t": "Hinglish HateBERT: Hate Speech Classification in Hinglish language",
+    "y": 2023,
+    "v": "Research Square"
+   },
+   {
+    "t": "2. The politics of Hinglish",
+    "y": 2013,
+    "v": "Studies in world language problems"
+   },
+   {
+    "t": "Hinglish Cinema",
+    "y": 2014,
+    "v": "Palgrave Macmillan UK eBooks"
+   },
+   {
+    "t": "An Agglomeration of Hinglish Datasets and Frequency Distribution of Hinglish Text",
+    "y": 2024,
+    "v": "SSRN Electronic Journal"
+   },
+   {
+    "t": "What is India speaking? Exploring the “Hinglish” invasion",
+    "y": 2016,
+    "v": "Physica A Statistical Mechanics and its Applications"
+   },
+   {
+    "t": "Prasoon grammar of hinglish",
+    "y": 2025,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "The Phenomenon of Hinglish",
+    "y": 2019,
+    "v": "Journal of English Language Teaching"
+   },
+   {
+    "t": "HINGLISH TODAY: ANALYSIS OF LINGUISTIC FEATURES OF HINGLISH LANGUAGE IN CONTEMPORARY INDIAN LITERATURE",
+    "y": 2024,
+    "v": "Shodh Sari-An International Multidisciplinary Journal"
+   },
+   {
+    "t": "Did you offend me? Classification of Offensive Tweets in Hinglish Language",
+    "y": 2018,
+    "v": "Workshop on Abusive Language Online (ALW)"
+   },
+   {
+    "t": "The Queen's Hinglish: How to Speak Pukka",
+    "y": 2008,
+    "v": "Institutional Repositories DataBase (IRDB)"
+   },
+   {
+    "t": "Hinglish 2 Hindi Converter",
+    "y": 2018,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Hinglish: code-switching in Indian English",
+    "y": 2011,
+    "v": "ELT Journal"
+   },
+   {
+    "t": "HINGLISH – ІНДІЙСЬКИЙ ДІАЛЕКТ АНГЛІЙСЬКОЇ МОВИ",
+    "y": 2023,
+    "v": "Nova fìlologìâ"
+   },
+   {
+    "t": "HINGLISH IS AN IMPORTANT ADVERTISEMENT APPEAL",
+    "y": 2014,
+    "v": null
+   },
+   {
+    "t": "Machine Translation of Bi-lingual Hindi-English (Hinglish) Text.",
+    "y": 2005,
+    "v": null
+   },
+   {
+    "t": "Hindi, Hinglish: Head to Head",
+    "y": 2012,
+    "v": "World Policy Journal"
+   },
+   {
+    "t": "English, Hinglish and Nenglish",
+    "y": 2010,
+    "v": "Journal of NELTA"
+   },
+   {
+    "t": "HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text",
+    "y": 2021,
+    "v": "Workshop on Evaluation and Comparison of NLP Systems (Eval4NLP)"
+   },
+   {
+    "t": "Current State of Hinglish Text Sentiment Analysis",
+    "y": 2020,
+    "v": "SSRN Electronic Journal"
+   },
+   {
+    "t": "Hate speech recognition in multilingual text: hinglish documents",
+    "y": 2023,
+    "v": "International Journal of Information Technology"
+   },
+   {
+    "t": "Hinglish Gender and Racial Bias Mitigation Dataset",
+    "y": 2026,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "A Novel Approach for Sentiment Analysis of Hinglish Text",
+    "y": 2021,
+    "v": "Advances in intelligent systems and computing"
+   },
+   {
+    "t": "Dictionary based Sentiment Analysis of Hinglish Text",
+    "y": 2017,
+    "v": "International Journal of Advanced Research in Computer Science"
+   },
+   {
+    "t": "Toxic Hinglish Comment Detection",
+    "y": 2026,
+    "v": "Lecture notes in networks and systems"
+   },
+   {
+    "t": "Detection of Hate Speech in Hinglish Language",
+    "y": 2020,
+    "v": "Advances in intelligent systems and computing"
+   },
+   {
+    "t": "Emoji, Sentiment and Emotion Aided Cyberbullying Detection in Hinglish",
+    "y": 2022,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "THE USE OF ELLIPSIS IN HINGLISH SHORT MOVIE",
+    "y": 2019,
+    "v": "PROJECT (Professional Journal of English Education)"
+   },
+   {
+    "t": "Multimodal sentiment analysis of english and hinglish memes",
+    "y": 2024,
+    "v": "Multimedia Tools and Applications"
+   },
+   {
+    "t": "Hinglish: A Hybrid Language of Mass Communication in India",
+    "y": 2026,
+    "v": "International Journal For Multidisciplinary Research"
+   },
+   {
+    "t": "A New Model SATV for Sentiment Analysis of Hinglish Sentences",
+    "y": 2022,
+    "v": "Lecture notes in networks and systems"
+   },
+   {
+    "t": "Language in the middle: Class and sexuality on the Hinglish continuum",
+    "y": 2021,
+    "v": "Journal of Sociolinguistics"
+   },
+   {
+    "t": "Code-Mix Sentiment Analysis on Hinglish Tweets",
+    "y": 2026,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "What is 'Hinglish' Cinema?",
+    "y": 2017,
+    "v": null
+   },
+   {
+    "t": "English to Hinglish translator using Llama 3",
+    "y": 2024,
+    "v": "International Conference on Computational Intelligence and Networks (CINE)"
+   },
+   {
+    "t": "Hinglish und Banglish",
+    "y": 2019,
+    "v": "Brill | Fink eBooks"
+   },
+   {
+    "t": "HiACC: Hinglish adult & children code-switched corpus",
+    "y": 2025,
+    "v": "Data in Brief"
+   },
+   {
+    "t": "Hinglish to English Machine Translation using Multilingual Transformers",
+    "y": 2021,
+    "v": "Student Research Workshop .../Proceedings of the Student Research Workshop ..."
+   },
+   {
+    "t": "Sample-Efficient Language Model for Hinglish Conversational AI",
+    "y": 2025,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Hinglish on a Platter: A Toast to New Global Bhasha",
+    "y": 2008,
+    "v": "SSRN Electronic Journal"
+   },
+   {
+    "t": "Ensemble Based Hinglish Hate Speech Detection",
+    "y": 2021,
+    "v": "International Conference on Intelligent Computing and Control Systems (ICICCS)"
+   },
+   {
+    "t": "Multimodal Hinglish Tweet Dataset for Deep Pragmatic Analysis",
+    "y": 2024,
+    "v": "Data"
+   },
+   {
+    "t": "Sentiment Analysis of Hinglish Text and Sarcasm Detection",
+    "y": 2021,
+    "v": "Lecture notes in networks and systems"
+   },
+   {
+    "t": "The rise of Hinglish and hybrid identities in urban India",
+    "y": 2025,
+    "v": "International Journal of Innovations in Science Engineering and Management."
+   },
+   {
+    "t": "MUTANT: A Multi-sentential Code-mixed Hinglish Dataset",
+    "y": 2023,
+    "v": "Findings of the Association for Computational Linguistics: EACL"
+   },
+   {
+    "t": "EVOLUTIONARY DEVELOPMENT OF 'HINGLISH' LANGUAGE WITHIN THE INDIAN SUB-CONTINENT",
+    "y": 2020,
+    "v": "International Journal of Research -GRANTHAALAYAH"
+   },
+   {
+    "t": "Hinglish, n.² & adj.²",
+    "y": 2023,
+    "v": "Oxford University Press eBooks"
+   },
+   {
+    "t": "Hinglish in the global scenario",
+    "y": 2013,
+    "v": "Shodhganga"
+   },
+   {
+    "t": "Hinglish as a New Linguistic Trend: A Case Study of Bollywood Movies",
+    "y": 2025,
+    "v": "Journal of Linguistics and Communication Studies"
+   }
+  ],
+  "code mixed hindi": [
+   {
+    "t": "Humor Generation and Detection in Code-Mixed Hindi-English",
+    "y": 2021,
+    "v": "Student Research Workshop .../Proceedings of the Student Research Workshop ..."
+   },
+   {
+    "t": "Humor Generation and Detection in Code-Mixed Hindi-English",
+    "y": 2021,
+    "v": null
+   },
+   {
+    "t": "Sentimental Analysis of Code-Mixed Hindi Language",
+    "y": 2022,
+    "v": "Lecture notes on data engineering and communications technologies"
+   },
+   {
+    "t": "Sarcasm and Humor Detection in Code-Mixed Hindi Data: A Survey",
+    "y": 2024,
+    "v": "Lecture notes in networks and systems"
+   },
+   {
+    "t": "Contextual Misogyny Detection in Code-Mixed Hindi-English",
+    "y": 2026,
+    "v": "IFIP advances in information and communication technology"
+   },
+   {
+    "t": "L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Detecting Entailment in Code-Mixed Hindi-English Conversations",
+    "y": 2020,
+    "v": "Workshop on Noisy User-generated Text (W-NUT)"
+   },
+   {
+    "t": "Comparative Study of Pre-Trained BERT Models for Code-Mixed Hindi-English Data",
+    "y": 2023,
+    "v": "IEEE International Conference for Convergence in Technology (I2CT)"
+   },
+   {
+    "t": "Enhancing Misogyny Classification in Code-mixed Hindi-English with Rationales",
+    "y": 2026,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "Detection of Virulent Messages Written in Code-Mixed Hindi-English Language",
+    "y": 2023,
+    "v": "International Conference on Recent Trends in Data Science and its Applications"
+   },
+   {
+    "t": "Hate Speech Detection from Code-mixed Hindi-English Tweets Using Deep Learning Models",
+    "y": 2018,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Adapting monolingual resources for code-mixed hindi-english speech recognition",
+    "y": 2017,
+    "v": "International Conference on Asian Language Processing"
+   },
+   {
+    "t": "A Novel Feature-Based Approach for Clustering Code-Mixed Hindi–English Documents",
+    "y": 2026,
+    "v": "Smart innovation, systems and technologies"
+   },
+   {
+    "t": "HinglishCap: A Code Mixed Hindi-English Image Captioning Framework",
+    "y": 2025,
+    "v": "Communications in computer and information science"
+   },
+   {
+    "t": "Detection of Suicidal Ideation in Code-Mixed Hindi-English Social Media Text",
+    "y": 2025,
+    "v": "International Conference on Computational Intelligence and Communication Networks (CICN)"
+   },
+   {
+    "t": "RACHNA: Racial hoax code mixed Hindi–English with novel language augmentation",
+    "y": 2025,
+    "v": "Natural Language Processing Journal"
+   },
+   {
+    "t": "A Framework for Online Hate Speech Detection on Code-mixed Hindi-English Text and Hindi Text in Devanagari",
+    "y": 2022,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Bi-LSTM and Ensemble based Bilingual Sentiment Analysis for a Code-mixed Hindi-English Social Media Text",
+    "y": 2020,
+    "v": "IEEE India Conference"
+   },
+   {
+    "t": "Code‐mixed Hindi‐English text correction using fuzzy graph and word embedding",
+    "y": 2023,
+    "v": "Expert Systems"
+   },
+   {
+    "t": "MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries",
+    "y": 2024,
+    "v": "Lecture notes in computer science"
+   },
+   {
+    "t": "Multimodal Code-Mixed Hindi-English Dataset For Humor Recognition in Conversations",
+    "y": 2026,
+    "v": null
+   },
+   {
+    "t": "Corpus Creation for Racial Hoax in Code-Mixed Hindi-English Low Resource Text",
+    "y": 2025,
+    "v": "Communications in computer and information science"
+   },
+   {
+    "t": "A Comparative Analysis of Machine Comprehension Using Deep Learning Models in Code-Mixed Hindi Language",
+    "y": 2019,
+    "v": "Studies in computational intelligence"
+   },
+   {
+    "t": "An Under-Explored Application for Explainable Multimodal Misogyny Detection in code-mixed Hindi-English",
+    "y": 2026,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "A Multimodal Sarcasm Detection Framework for Code-Mixed Hindi-English Content Using mBERT and Audio Cues",
+    "y": 2025,
+    "v": "International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)"
+   },
+   {
+    "t": "Annotated corpus creation for sentiment analysis in code-mixed Hindi-English (Hinglish) social network data",
+    "y": 2020,
+    "v": "Indian Journal of Science and Technology"
+   },
+   {
+    "t": "Comparative Analysis of Social Media Hate Detection over Code Mixed Hindi-English Language",
+    "y": 2022,
+    "v": "Lecture notes in networks and systems"
+   },
+   {
+    "t": "User‐Based Evaluation of Explainability Techniques for Misogyny Detection in Code‐Mixed Hindi–English",
+    "y": 2026,
+    "v": "Applied AI Letters"
+   },
+   {
+    "t": "HinEmo-9: An Emotion Dataset for Code-Mixed Hindi–English Across Two Scripts",
+    "y": 2026,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "Evaluating Performance and Accuracy of Large Language Models in Translating Code-Mixed Hindi to English: A Comparative Study",
+    "y": 2024,
+    "v": "IEEE India Conference"
+   },
+   {
+    "t": "CM-Off-Meme: Code-Mixed Hindi-English Offensive Meme Detection with Multi-Task Learning by Leveraging Contextual Knowledge",
+    "y": 2024,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "Fake News Detection In Code-Mixed Hindi–English Text Using Mbert and Mt5: Cross-lingual, Script aware approach",
+    "y": 2026,
+    "v": "International Journal of Engineering Research and Science & Technology"
+   },
+   {
+    "t": "Data Mesh-Driven Emotion Detection in Code-Mixed Hindi-English Social Media Texts via Deep Learning Models",
+    "y": 2025,
+    "v": "SSRN Electronic Journal"
+   },
+   {
+    "t": "Machine learning approach towards language identification of Code-Mixed Hindi-English and Urdu-English Social Media Text",
+    "y": 2022,
+    "v": "International Mobile and Embedded Technology Conference (MECON)"
+   },
+   {
+    "t": "Hate speech detection in code-mixed Hindi-Marathi-English dataset using selective pictographic filter and conjoint semantic comparator",
+    "y": 2026,
+    "v": "Intelligent Data Analysis"
+   },
+   {
+    "t": "A Multi-modal Approach to Mining Intent from Code-Mixed Hindi-English Calls in the Hyperlocal-Delivery Domain",
+    "y": 2022,
+    "v": "Lecture notes in computer science"
+   },
+   {
+    "t": "IIITG-ADBU at HASOC 2019: Automated Hate Speech and Offensive Content Detection in English and Code-Mixed Hindi Text.",
+    "y": 2019,
+    "v": "FIRE (Working Notes)"
+   },
+   {
+    "t": "Aggression-annotated Corpus of Hindi-English Code-mixed Data",
+    "y": 2018,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "POS Tagging of English-Hindi Code-Mixed Social Media Content",
+    "y": 2014,
+    "v": "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+   },
+   {
+    "t": "Detection of Hate Speech Text in Hindi-English Code-mixed Data",
+    "y": 2020,
+    "v": "Procedia Computer Science"
+   },
+   {
+    "t": "Q-OmniNet: Quantum-Inspired Hybrid TensorNetworks with Quantum Kernel Estimation for Polysemy-Aware Multimodal Affective Analysis of Code-Mixed Hindi–English Text",
+    "y": 2026,
+    "v": "Research Square"
+   },
+   {
+    "t": "Hindi English code switching : mixed Hindi English",
+    "y": 1986,
+    "v": null
+   },
+   {
+    "t": "A Corpus of English-Hindi Code-Mixed Tweets for Sarcasm Detection",
+    "y": 2018,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Emotion Detection in Hinglish(Hindi+English) Code-Mixed Social Media Text",
+    "y": 2020,
+    "v": "Procedia Computer Science"
+   },
+   {
+    "t": "A Twitter Corpus for Hindi-English Code Mixed POS Tagging",
+    "y": 2018,
+    "v": "International Workshop on Natural Language Processing for Social Media (SocialNLP)"
+   },
+   {
+    "t": "Towards Sub-Word Level Compositions for Sentiment Analysis of Hindi-English Code Mixed Text",
+    "y": 2016,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Named Entity Recognition for Hindi-English Code-Mixed Social Media Text",
+    "y": 2018,
+    "v": null
+   },
+   {
+    "t": "A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection",
+    "y": 2018,
+    "v": null
+   },
+   {
+    "t": "Phonetically Balanced Code-Mixed Speech Corpus for Hindi-English Automatic Speech Recognition",
+    "y": 2018,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "Stance Detection in Hindi-English Code-Mixed Data",
+    "y": 2020,
+    "v": "Joint International Conference on Data Science & Management of Data (CODS-COMAD)"
+   }
+  ],
+  "whatsapp hindi": [
+   {
+    "t": "Learning to read Hindi through WhatsApp : from deciphering to cross-languaging",
+    "y": 2020,
+    "v": null
+   },
+   {
+    "t": "Context-based Sarcasm Detection in Hindi Tweets",
+    "y": 2017,
+    "v": "International Conference on Advances in Pattern Recognition"
+   },
+   {
+    "t": "Hindi fake news detection using transformer ensembles",
+    "y": 2022,
+    "v": "Engineering Applications of Artificial Intelligence"
+   },
+   {
+    "t": "Hindi/Marathi Text Messenger for Android",
+    "y": 2014,
+    "v": "International Journal of Scientific Engineering and Technology"
+   },
+   {
+    "t": "Hindi Media and Public Awareness in the Context of the Twenty-First Century",
+    "y": 2026,
+    "v": "Bodhi International Journal of Research in Humanities Arts and Science"
+   },
+   {
+    "t": "Social Media and Hindi Language: Transformation, Challenges, and Future",
+    "y": 2026,
+    "v": "Aethel Research Digest Juncture: An International Journal"
+   },
+   {
+    "t": "Context-Based Bigram Model for POS Tagging in Hindi: A Heuristic Approach",
+    "y": 2022,
+    "v": "Annals of Data Science"
+   },
+   {
+    "t": "Hostility Detection Dataset in Hindi",
+    "y": 2020,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Character Embedding for Language Identification in Hindi-English Code-mixed Social Media Text",
+    "y": 2018,
+    "v": "Computación y Sistemas"
+   },
+   {
+    "t": "Deep Learning-Based Language Identification in English-Hindi-Bengali Code-Mixed Social Media Corpora",
+    "y": 2018,
+    "v": "Journal of Intelligent Systems"
+   },
+   {
+    "t": "Text Channels to Identify and Forestall Hostile Hindi Substances via Online Media",
+    "y": 2021,
+    "v": "YMER Digital"
+   },
+   {
+    "t": "Automatic Language Identification in Code-Switched Hindi-English Social Media Text",
+    "y": 2021,
+    "v": "Journal of Open Humanities Data"
+   },
+   {
+    "t": "The Use of WhatsApp Messaging Improves Communication in Surgery Team",
+    "y": 2019,
+    "v": "Saudi Journal of Medical and Pharmaceutical Sciences"
+   },
+   {
+    "t": "A Multilingual Text to Speech Engine Hindi-English: Hinglish",
+    "y": 2023,
+    "v": "International Conference on System Modeling & Advancement in Research Trends (SMART)"
+   },
+   {
+    "t": "\"Chhaaya Trilingual Patient-Message Dataset (Hindi, English, Hinglish)\"",
+    "y": 2026,
+    "v": "IEEE DataPort"
+   },
+   {
+    "t": "Sarcastic and Phony Contents Detection in Social Media Hindi Tweets",
+    "y": 2024,
+    "v": "Wiley eBooks"
+   },
+   {
+    "t": "Code‐mixed Hindi‐English text correction using fuzzy graph and word embedding",
+    "y": 2023,
+    "v": "Expert Systems"
+   },
+   {
+    "t": "Sarcasm Detection in Hindi Social Media Text Using HindiBERT-LSTM and XGBoost Models",
+    "y": 2025,
+    "v": "Lecture notes in electrical engineering"
+   },
+   {
+    "t": "WhatsApp tiplines and multilingual claims in the 2021 Indian assembly elections",
+    "y": 2025,
+    "v": "Online Social Networks and Media"
+   },
+   {
+    "t": "DIGITAL ACCESS DIVIDE AND HINDI SOCIAL MEDIA: MAPPING USAGE TRENDS AMONG UPSC ASPIRANTS IN DELHI-NCR",
+    "y": 2025,
+    "v": "TPM Testing, psychometrics, methodology in applied psychology"
+   },
+   {
+    "t": "AI-Based Misinformation Detection in WhatsApp Messages Using NLP and Machine Learning",
+    "y": 2026,
+    "v": "International Journal of Progressive Research in Engineering Management and Science"
+   },
+   {
+    "t": "Making the Digital Unconscious Conscious: An 18-Month Longitudinal Autoethnographic Study of WhatsApp Status Engagement",
+    "y": 2026,
+    "v": "International Journal For Multidisciplinary Research"
+   },
+   {
+    "t": "A Twitter Corpus for Hindi-English Code Mixed POS Tagging",
+    "y": 2018,
+    "v": "International Workshop on Natural Language Processing for Social Media (SocialNLP)"
+   },
+   {
+    "t": "Engagement with digital platforms and perspectives on WhatsApp based mental health self-help solution for older adults: a qualitative study from India",
+    "y": 2025,
+    "v": "Discover Mental Health"
+   },
+   {
+    "t": "Ensemble Classifier for Hindi Hostile Content Detection",
+    "y": 2023,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "WhatsApp in the World",
+    "y": 2025,
+    "v": "New York University Press eBooks"
+   },
+   {
+    "t": "SafarSaathi: A Real-Time Multilingual Public Transport Companion Delivered over WhatsApp",
+    "y": 2026,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "Hindi-English Code-Switching Speech Corpus",
+    "y": 2018,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Nominal Licensing in Urdu-Hindi Applicative Construction",
+    "y": 2025,
+    "v": "Journal of Arts and Linguistics Studies"
+   },
+   {
+    "t": "Toward quantification of the evolution of modern Hindi: A chronological analysis of Hindi usage by established digital news publishers",
+    "y": 2024,
+    "v": "HAL"
+   },
+   {
+    "t": "Truculent Post Analysis for Hindi Text",
+    "y": 2024,
+    "v": "ICST Transactions on Scalable Information Systems"
+   },
+   {
+    "t": "An Effective Bi-LSTM Word Embedding System for Analysis and Identification of Language in Code-Mixed social Media Text in English and Roman Hindi",
+    "y": 2020,
+    "v": "Computación y Sistemas"
+   },
+   {
+    "t": "Evaluation of Deep Learning Models for Hostility Detection in Hindi Text",
+    "y": 2021,
+    "v": "IEEE International Conference for Convergence in Technology (I2CT)"
+   },
+   {
+    "t": "Images and Misinformation in Political Groups: Evidence from WhatsApp in India",
+    "y": 2020,
+    "v": "Harvard Kennedy School Misinformation Review"
+   },
+   {
+    "t": "Sentiment Analysis of Mixed Code for The Transliterated Hindi and Marathi Texts",
+    "y": 2018,
+    "v": "International Journal on Natural Language Computing"
+   },
+   {
+    "t": "Named Entity Recognition for Hindi-English Code-Mixed Social Media Text",
+    "y": 2018,
+    "v": null
+   },
+   {
+    "t": "The Role of Explanatory Knowledge in Hindi Language Teaching",
+    "y": 2024,
+    "v": "HAL"
+   },
+   {
+    "t": "Cyber Bullying Detection for Hindi-English Language Using Machine Learning",
+    "y": 2022,
+    "v": "SSRN Electronic Journal"
+   },
+   {
+    "t": "A machine learning approach for sentiment analysis of Hindi tweets",
+    "y": 2025,
+    "v": "CRC Press eBooks"
+   },
+   {
+    "t": "Bollywood on the brain: gender and mental health in Hindi cinema",
+    "y": 2020,
+    "v": "The Lancet Psychiatry"
+   },
+   {
+    "t": "Divide and Conquer: An Ensemble Approach for Hostile Post Detection in Hindi",
+    "y": 2021,
+    "v": "Communications in computer and information science"
+   },
+   {
+    "t": "Whatsapp Language is Devastation of Original Languages: Exploring the Impact of Whatsapp on the English Language",
+    "y": 2019,
+    "v": "Journal of Advances and Scholarly Researches in Allied Education"
+   },
+   {
+    "t": "Walk in Wild: An Ensemble Approach for Hostility Detection in Hindi Posts",
+    "y": 2021,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "On Syntactic Architecture of Urdu-Hindi Impersonal Passives in Relativization",
+    "y": 2026,
+    "v": "Journal of Language Literature & Social Affairs"
+   },
+   {
+    "t": "WhatApp Doc? A First Look at WhatsApp Public Group Data",
+    "y": 2018,
+    "v": "Proceedings of the International AAAI Conference on Web and Social Media"
+   },
+   {
+    "t": "hinglishNorm - A Corpus of Hindi-English Code Mixed Sentences for Text Normalization",
+    "y": 2020,
+    "v": "International Conference on Computational Linguistics"
+   },
+   {
+    "t": "\"Business on WhatsApp is tough now-- but am I really a businesswoman?\" Exploring Challenges with Adapting to Changes in WhatsApp Business",
+    "y": 2025,
+    "v": "CHI Conference on Human Factors in Computing Systems"
+   },
+   {
+    "t": "FAKE NEWS DETECTION IN HINDI NEWS USING A PASSIVE CLASSIFIER",
+    "y": 2021,
+    "v": null
+   },
+   {
+    "t": "Metaphorical landscapes of happiness: A cognitive semantic analysis in Hindi and Bangla",
+    "y": 2026,
+    "v": "Russian Journal of Linguistics"
+   },
+   {
+    "t": "Named Entity Recognition for Hindi Current Landscape and Emerging Trends",
+    "y": 2025,
+    "v": "Journal of Information Technology Cybersecurity and Artificial Intelligence"
+   }
+  ],
+  "hinglish date time": [
+   {
+    "t": "Hinglish 2 Hindi Converter",
+    "y": 2018,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "The Dialectics of Hinglish: A Perspective",
+    "y": 2018,
+    "v": "Applied Linguistics Papers"
+   },
+   {
+    "t": "Multimodal Hinglish Tweet Dataset for Deep Pragmatic Analysis",
+    "y": 2024,
+    "v": "Data"
+   },
+   {
+    "t": "HiACC: Hinglish adult & children code-switched corpus",
+    "y": 2025,
+    "v": "Data in Brief"
+   },
+   {
+    "t": "Dil Maange More: Cultural Contexts of Hinglish in Contemporary India",
+    "y": 2015,
+    "v": "African Studies"
+   },
+   {
+    "t": "MUTANT: A Multi-sentential Code-mixed Hinglish Dataset",
+    "y": 2023,
+    "v": "Findings of the Association for Computational Linguistics: EACL"
+   },
+   {
+    "t": "Efficient Pre-processing for Text Classification: Unified Framework for Hinglish Short Text",
+    "y": 2025,
+    "v": "Journal of Informatics Education and Research"
+   },
+   {
+    "t": "HiPHET: A Hybrid Approach to Translate Code Mixed Language (Hinglish) to Pure Languages (Hindi and English)",
+    "y": 2020,
+    "v": "Computer Science"
+   },
+   {
+    "t": "Does the Truthfulness Signal Survive Code-Mixing? Probing Hidden States for Hallucination Detection in Hinglish",
+    "y": 2026,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Multimodal cyberbullying detection in Hinglish memes using a classroom framework based on large language models",
+    "y": 2026,
+    "v": "Discover Computing"
+   },
+   {
+    "t": "Mapping the Americanization of English in space and time",
+    "y": 2018,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "CASCAIN: Cascaded Attention Infused Networks for Named Entity Recognition in Code-Mixed Setting",
+    "y": 2025,
+    "v": "Communications in computer and information science"
+   },
+   {
+    "t": "TrustGuard: Real-Time Scam Detection System",
+    "y": 2026,
+    "v": "Journal of Integrated Engineering Sciences"
+   },
+   {
+    "t": "An Approach towards a Bilingual Keyboard Application",
+    "y": 2022,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "DanfeNER - Named Entity Recognition in Nepali Tweets",
+    "y": 2023,
+    "v": "Proceedings of the ... International Florida Artificial Intelligence Research Society Conference"
+   },
+   {
+    "t": "CALCS 2021 Shared Task: Machine Translation for Code-Switched Data",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Nenglish: An Inevitable Reality or Merely a Mirage",
+    "y": 1970,
+    "v": "Journal of NELTA"
+   },
+   {
+    "t": "Where Does Noise Robustness Live? Evidence from Ablation, Role Swaps, and Cross-Lingual Transfer in Code-Mixed Banking NLU",
+    "y": 2026,
+    "v": null
+   },
+   {
+    "t": "English in Hindi prime-time television news: a comparative study of linguistic hybridity across four Indian news channels",
+    "y": 2026,
+    "v": "Frontiers in Communication"
+   },
+   {
+    "t": "KiranaBench: Can a Language Model Run a Neighbourhood Shop?",
+    "y": 2026,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "CST5: Data Augmentation for Code-Switched Semantic Parsing",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "UCSC NLP at SemEval-2024 Task 10: Emotion Discovery and Reasoning its Flip in Conversation (EDiReF)",
+    "y": 2024,
+    "v": "International Workshop on Semantic Evaluation (SemEval)"
+   },
+   {
+    "t": "Knowledge-Infused Hierarchy-Aware Emotion Recognition in Code-mixed Mental Health Counseling Conversations",
+    "y": 2026,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "Exploratory Data Analysis on Code-mixed Misogynistic Comments",
+    "y": 2024,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "ArogyaAI: An Integrated LLM-Powered Healthcare Intelligence System",
+    "y": 2026,
+    "v": "IJARCCE"
+   },
+   {
+    "t": "COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing",
+    "y": 2025,
+    "v": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)"
+   },
+   {
+    "t": "Optimizing Cross-Lingual Information Retrieval in Campus Administration using Retrieval-Augmented Generation and Semantic Chunking",
+    "y": 2026,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Hindi translation and cross-cultural adaptation of the Liverpool University Neuroleptic Side-effect Rating Scale (LUNSERS): A cognitive debriefing study",
+    "y": 2026,
+    "v": "Indian Journal of Psychiatry"
+   },
+   {
+    "t": "An Artificial Intelligence Chatbot for Young People’s Sexual and Reproductive Health in India (SnehAI): Instrumental Case Study",
+    "y": 2022,
+    "v": "Journal of Medical Internet Research"
+   },
+   {
+    "t": "COMPARATIVE EVALUATION OF LARGE LANGUAGE MODELS IN INTERPRETING REAL-WORLD HUMAN LANGUAGE",
+    "y": 2026,
+    "v": "International Journal of Progressive Research in Engineering Management and Science"
+   },
+   {
+    "t": "From Race and Orientalism in A Midsummer Night’s Dream to Caste and Indigenous Otherness on the Indian Screen",
+    "y": 2022,
+    "v": "Multicultural Shakespeare Translation Appropriation and Performance"
+   },
+   {
+    "t": "Tackling Online Abuse: A Survey of Automated Abuse Detection Methods",
+    "y": 2019,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Breaking the Chain of the Nativist/Owner Metaphor in World Englishes",
+    "y": 2020,
+    "v": "International Journal of TESOL Studies"
+   },
+   {
+    "t": "From roots to glamor: gendered transformations of adapted folk songs in contemporary Bollywood",
+    "y": 2026,
+    "v": "Frontiers in Sociology"
+   },
+   {
+    "t": "Teaching Creative Writing in English: Students’ Performance Assessment as Learning",
+    "y": 2021,
+    "v": "Journal of English Language Teaching"
+   },
+   {
+    "t": "Large Language Model-Powered Generation of Multilingual Online Consumer Reviews for E-Commerce",
+    "y": 2025,
+    "v": "Journal of Global Information Management"
+   },
+   {
+    "t": "Online Multilingual Hate Speech Detection: Experimenting with Hindi and English Social Media",
+    "y": 2020,
+    "v": "Information"
+   },
+   {
+    "t": "Toward quantification of the evolution of modern Hindi: A chronological analysis of Hindi usage by established digital news publishers",
+    "y": 2024,
+    "v": "HAL"
+   },
+   {
+    "t": "CAREER HUB: AN AI-DRIVEN REAL- TIMEOPPORTUNITY AGGREGATORFOR JOBS,INTERNSHIPS, WEBINARS, AND HACKATHONS",
+    "y": 2026,
+    "v": "International Journal of Progressive Research in Engineering Management and Science"
+   },
+   {
+    "t": "The very concept of language contact in light of contemporary interest in translanguaging",
+    "y": 2022,
+    "v": "Cadernos de Estudos Lingüísticos"
+   },
+   {
+    "t": "\"Kya family planning after marriage hoti hai?\": Integrating Cultural Sensitivity in an LLM Chatbot for Reproductive Health",
+    "y": 2025,
+    "v": "CHI Conference on Human Factors in Computing Systems"
+   },
+   {
+    "t": "Public risk perception and emotion on Twitter during the Covid-19 pandemic",
+    "y": 2020,
+    "v": "Applied Network Science"
+   },
+   {
+    "t": "Sentiment Analysis on Indian Indigenous Languages: A Review on Multilingual Opinion Mining",
+    "y": 2019,
+    "v": "Preprints.org"
+   },
+   {
+    "t": "Code-Switching in Spoken Indian English: A Case Study of Sociopolitical Talk",
+    "y": 2021,
+    "v": "Journal of Contemporary Philology Ss Cyril and Methodius University B Koneski Faculty of Philology"
+   },
+   {
+    "t": "Indian English Evolution and Focusing Visible Through Power Laws",
+    "y": 2017,
+    "v": "Languages"
+   },
+   {
+    "t": "Deromanization of Hindi-English Code-Mixed Text and its Influence on Toxic Comment Classification and Sentiment Analysis",
+    "y": 2025,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Sentiment-Enhanced Cyberbullying Detection Models on Social Media Platforms",
+    "y": 2025,
+    "v": "ACM Transactions on the Web"
+   },
+   {
+    "t": "Generating Mixcode Popular Songs with Artificial Intelligence: Concepts, Plans, and Speculations",
+    "y": 2024,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Lingua Franca to Lingua Shrunka: Changing Perspective of Post-Modern Communication through Technology",
+    "y": 2014,
+    "v": "Linguistics and Literature Studies"
+   },
+   {
+    "t": "Attendance System using Face Clusters",
+    "y": 2025,
+    "v": "MATRIX Academic International Online Journal Of Engineering And Technology"
+   }
+  ],
+  "code-switched task oriented parsing": [
+   {
+    "t": "El Volumen Louder Por Favor: Code-switching in Task-oriented Semantic Parsing",
+    "y": 2021,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Improving Semantic Parsing for Task Oriented Dialog",
+    "y": 2019,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "CST5: Data Augmentation for Code-Switched Semantic Parsing",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "PRESTO: A Multilingual Dataset for Parsing Realistic Task-Oriented Dialogs",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+   },
+   {
+    "t": "Overview for the Second Shared Task on Language Identification in Code-Switched Data",
+    "y": 2016,
+    "v": "Workshop on Computational Approaches to Code Switching"
+   },
+   {
+    "t": "DAMP: Doubly Aligned Multilingual Parser for Task-Oriented Dialogue",
+    "y": 2023,
+    "v": "Proceedings of the conference - Association for Computational Linguistics. Meeting"
+   },
+   {
+    "t": "Retrieve-and-Fill for Scenario-based Task-Oriented Semantic Parsing",
+    "y": 2023,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue",
+    "y": 2022,
+    "v": "Proceedings of the conference - Association for Computational Linguistics. Meeting"
+   },
+   {
+    "t": "Performance-oriented dependency parsing",
+    "y": 2013,
+    "v": null
+   },
+   {
+    "t": "PIZZA: A new benchmark for complex end-to-end task-oriented parsing",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "An Empirical Analysis of Leveraging Knowledge for Low-Resource Task-Oriented Semantic Parsing",
+    "y": 2023,
+    "v": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)"
+   },
+   {
+    "t": "Overview for the Second Shared Task on Language Identification in Code-Switched Data",
+    "y": 2019,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Turn-taking cues in task-oriented dialogue",
+    "y": 2010,
+    "v": "Computer Speech & Language"
+   },
+   {
+    "t": "A Survey of Code-switched Speech and Language Processing",
+    "y": 2019,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Program Synthesis and Semantic Parsing with Learned Code Idioms",
+    "y": 2019,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "One Semantic Parser to Parse Them All: Sequence to Sequence Multi-Task Learning on Semantic Parsing Datasets",
+    "y": 2021,
+    "v": "Joint Conference on Lexical and Computational Semantics"
+   },
+   {
+    "t": "FARGO3D: A NEW GPU-ORIENTED MHD CODE",
+    "y": 2016,
+    "v": "The Astrophysical Journal Supplement Series"
+   },
+   {
+    "t": "A Survey of Current Datasets for Code-Switching Research",
+    "y": 2020,
+    "v": "International Conference on Advanced Computing and Communication Systems (ICACCS)"
+   },
+   {
+    "t": "The EVALITA Dependency Parsing Task: From 2007 to 2011",
+    "y": 2013,
+    "v": "Lecture notes in computer science"
+   },
+   {
+    "t": "Collocation extraction based on syntactic parsing",
+    "y": 2008,
+    "v": "Archive ouverte UNIGE (University of Geneva)"
+   },
+   {
+    "t": "On the Use of Parsing for Named Entity Recognition",
+    "y": 2021,
+    "v": "Applied Sciences"
+   },
+   {
+    "t": "The Effectiveness of Intermediate-Task Training for Code-Switched Natural Language Understanding",
+    "y": 2021,
+    "v": "Workshop on Multilingual Representation Learning (MRL)"
+   },
+   {
+    "t": "Parsing K definitions",
+    "y": 2014,
+    "v": "Electronic Notes in Theoretical Computer Science"
+   },
+   {
+    "t": "Recent advances and challenges in task-oriented dialog systems",
+    "y": 2020,
+    "v": "Science China Technological Sciences"
+   },
+   {
+    "t": "Parsing Inside-Out",
+    "y": 1998,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Paraphrase Augmented Task-Oriented Dialog Generation",
+    "y": 2020,
+    "v": "Proceedings of the conference - Association for Computational Linguistics. Meeting"
+   },
+   {
+    "t": "Parsing impoverished syntax",
+    "y": 2006,
+    "v": null
+   },
+   {
+    "t": "A survey of syntactic-semantic parsing based on constituent and dependency structures",
+    "y": 2020,
+    "v": "Science China Technological Sciences"
+   },
+   {
+    "t": "The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges",
+    "y": 2023,
+    "v": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)"
+   },
+   {
+    "t": "AssistGUI: Task-Oriented PC Graphical User Interface Automation",
+    "y": 2024,
+    "v": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings"
+   },
+   {
+    "t": "Parsing surrounding space into regions",
+    "y": 1995,
+    "v": "Memory & Cognition"
+   },
+   {
+    "t": "Parsing the Flanker task to reveal behavioral and oscillatory correlates of unattended conflict interference",
+    "y": 2019,
+    "v": "Scientific Reports"
+   },
+   {
+    "t": "TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models",
+    "y": 2026,
+    "v": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)"
+   },
+   {
+    "t": "Translate, then Parse! A Strong Baseline for Cross-Lingual AMR Parsing",
+    "y": 2021,
+    "v": "International Workshop/Conference on Parsing Technologies"
+   },
+   {
+    "t": "Proceedings of the Second Workshop on Computational Approaches to Code Switching",
+    "y": 2016,
+    "v": null
+   },
+   {
+    "t": "Multi-Modal Repairs of Conversational Breakdowns in Task-Oriented Dialogs",
+    "y": 2020,
+    "v": "ACM Symposium on User Interface Software and Technology (UIST)"
+   },
+   {
+    "t": "Task-oriented situation recognition",
+    "y": 2010,
+    "v": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE"
+   },
+   {
+    "t": "Strategy and Policy Learning for Non-Task-Oriented Conversational Systems",
+    "y": 2016,
+    "v": "Annual Meeting of the Special Interest Group on Discourse and Dialogue"
+   },
+   {
+    "t": "Parse Earley, Parse Often",
+    "y": 2016,
+    "v": "XML London Conference"
+   },
+   {
+    "t": "Recovery Strategies for Parsing Extragrammatical Language",
+    "y": 2018,
+    "v": "Figshare"
+   },
+   {
+    "t": "Don’t Parse, Insert: Multilingual Semantic Parsing with Insertion Based Decoding",
+    "y": 2020,
+    "v": "Conference on Computational Natural Language Learning"
+   },
+   {
+    "t": "SParC: Cross-Domain Semantic Parsing in Context",
+    "y": 2019,
+    "v": "Proceedings of the conference - Association for Computational Linguistics. Meeting"
+   },
+   {
+    "t": "Proceedings of the Third Workshop on Computational Approaches to Linguistic Code-Switching",
+    "y": 2018,
+    "v": null
+   },
+   {
+    "t": "Task-Oriented Dialogue with In-Context Learning",
+    "y": 2024,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Harnessing Code Switching to Transcend the Linguistic Barrier",
+    "y": 2020,
+    "v": "International Joint Conference on Artificial Intelligence"
+   },
+   {
+    "t": "The formalization and implementation of Adaptable Parsing Expression Grammars",
+    "y": 2014,
+    "v": "Science of Computer Programming"
+   },
+   {
+    "t": "The Compiler Frontend: Parsing and Type Checking",
+    "y": 2022,
+    "v": "Cambridge University Press eBooks"
+   },
+   {
+    "t": "Style Variation as a Vantage Point for Code-Switching",
+    "y": 2020,
+    "v": "Interspeech (USB)"
+   },
+   {
+    "t": "CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP",
+    "y": 2020,
+    "v": "International Joint Conference on Artificial Intelligence"
+   },
+   {
+    "t": "A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions",
+    "y": 2022,
+    "v": "arXiv (Cornell University)"
+   }
+  ],
+  "timex hindi": [
+   {
+    "t": "HiNER: A large Hindi Named Entity Recognition Dataset",
+    "y": 2022,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi",
+    "y": 2025,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Entity-Extraction Using Hybrid Deep-Learning Approach for Hindi text",
+    "y": 2021,
+    "v": "International Journal of Cognitive Informatics and Natural Intelligence"
+   },
+   {
+    "t": "Advancing Hindi Text Summarization: Named Entity Recognition and Content Augmentation Strategies",
+    "y": 2025,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "ACRF: Aggregated Conditional Random Field for Out of Vocab (OOV) Token Representation for Hindi NER",
+    "y": 2024,
+    "v": "IEEE Access"
+   },
+   {
+    "t": "ENHANCING NAMED ENTITY RECOGNITION ON HINER DATASET USING ADVANCED NLP TECHNIQUES",
+    "y": 2025,
+    "v": "CLEI electronic journal"
+   },
+   {
+    "t": "Knowledge Driven Event Extraction from Low Resource Language Content Using Strategic Few-Shot Learning",
+    "y": 2026,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Development of a Dataset and a Deep Learning Baseline Named Entity Recognizer for Three Low Resource Languages: Bhojpuri, Maithili, and Magahi",
+    "y": 2022,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Collaborative Speech Data Acquisition for Under Resourced Languages through Crowdsourcing",
+    "y": 2016,
+    "v": "Procedia Computer Science"
+   },
+   {
+    "t": "Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning",
+    "y": 2024,
+    "v": "VBN Forskningsportal (Aalborg Universitet)"
+   },
+   {
+    "t": "DocTime: A Document-level Temporal Dependency Graph Parser",
+    "y": 2022,
+    "v": "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)"
+   },
+   {
+    "t": "Product Placements: Carrying The “sultan” Way",
+    "y": 2018,
+    "v": "Faculty of Management Studies Journal of Management and Research (GFJMR)"
+   },
+   {
+    "t": "Named Entity Recognition for Kannada using Gazetteers list with Conditional Random Fields",
+    "y": 2018,
+    "v": "Journal of Computer Science"
+   },
+   {
+    "t": "TimeInfo: a Semantic Annotation Framework for Temporal Information in Scientific Papers",
+    "y": 2022,
+    "v": "HAL"
+   },
+   {
+    "t": "A Survey of Named Entity Recognition in Assamese and other Indian Languages",
+    "y": 2014,
+    "v": "International Journal on Natural Language Computing"
+   },
+   {
+    "t": "Named Entity Recognition Datasets: A Classification Framework",
+    "y": 2024,
+    "v": "International Journal of Computational Intelligence Systems"
+   },
+   {
+    "t": "Maximum Entropy Approach based Named Entity Recognition in Punjabi Language",
+    "y": 2013,
+    "v": "International Journal of Computer Applications"
+   },
+   {
+    "t": "Extracting synchronous grammar rules from word-level alignments in linear time",
+    "y": 2008,
+    "v": "International Conference on Computational Linguistics"
+   },
+   {
+    "t": "A Recurrent Neural Model for Temporal Information Extraction",
+    "y": 2022,
+    "v": "Computer Science & Engineering An International Journal"
+   },
+   {
+    "t": "Study of Named Entity Recognition for Indian Languages",
+    "y": 2016,
+    "v": "International Journal of Information Sciences and Techniques"
+   },
+   {
+    "t": "Clinical Text Mining",
+    "y": 2018,
+    "v": "Springer eBooks"
+   },
+   {
+    "t": "HMM-Based Dari Named Entity Recognition for Information Extraction",
+    "y": 2019,
+    "v": null
+   },
+   {
+    "t": "She called that thing a mido, but should you call it a mido too? Linguistic experience influences infants’ expectations of conventionality",
+    "y": 2015,
+    "v": "Frontiers in Psychology"
+   },
+   {
+    "t": "Indonesian Named-entity Recognition for 15 Classes Using Ensemble Supervised Learning",
+    "y": 2016,
+    "v": "Procedia Computer Science"
+   },
+   {
+    "t": "Dataset and Baseline System for Multi-lingual Extraction and Normalization of Temporal and Numerical Expressions",
+    "y": 2023,
+    "v": "arXiv (Cornell University)"
+   },
+   {
+    "t": "Establishment of reliability and norms for a mathematics achievement test for secondary school II students in Ebonyi State, Nigeria",
+    "y": 2026,
+    "v": "Nature Journal of Emerging Sciences Technologies and Innovations"
+   },
+   {
+    "t": "Semi-Supervised Bootstrapping Approach for Named Entity Recognition",
+    "y": 2015,
+    "v": "International Journal on Natural Language Computing"
+   },
+   {
+    "t": "Enhancing the Performance of Telugu Named Entity Recognition Using Gazetteer Features",
+    "y": 2020,
+    "v": "Information"
+   },
+   {
+    "t": "A Synergistic Bidirectional LSTM and N-gram Multi-channel CNN Approach Based on BERT and FastText for Arabic Event Identification",
+    "y": 2023,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Impact of Text Preprocessing on Named Entity Recognition Based on Conditional Random Field in Indonesian Text",
+    "y": 2022,
+    "v": "Jurnal Mantik"
+   },
+   {
+    "t": "Innovation and Technology Based Entrepreneurship",
+    "y": 2019,
+    "v": "Zenodo (CERN European Organization for Nuclear Research)"
+   },
+   {
+    "t": "Reconhecimento Automático Multilingue de Entidades Mencionadas em Diversos Domínios, para Efeitos de Anonimização de Tradução Automática",
+    "y": 2022,
+    "v": "Revista da Associação Portuguesa de Linguística"
+   },
+   {
+    "t": "DocScript: Document-level Script Event Prediction",
+    "y": 2024,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "VERTa: a Linguistically-motivated Metric at the WMT15 Metrics Task",
+    "y": 2015,
+    "v": "Conference on Machine Translation (WMT)"
+   },
+   {
+    "t": "Aalamaram: A Large-Scale Linguistically Annotated Treebank for the Tamil Language",
+    "y": 2024,
+    "v": "Language Resources and Evaluation Conference (LREC)"
+   },
+   {
+    "t": "Named Entity Recognition in Assamese",
+    "y": 2016,
+    "v": "International Journal of Computer Applications"
+   },
+   {
+    "t": "Influence Factor Analysis and Prediction Model of End-Point Carbon Content Based on Artificial Neural Network in Electric Arc Furnace Steelmaking Process",
+    "y": 2022,
+    "v": "Coatings"
+   },
+   {
+    "t": "Influence Of Celebrity Endorsement – An Effective Tag-Line",
+    "y": 2024,
+    "v": null
+   },
+   {
+    "t": "Cross-Platform Text Mining and Natural Language Processing Interoperability - Proceedings of the LREC2016 conference",
+    "y": 2016,
+    "v": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)"
+   },
+   {
+    "t": "A DEEP LEARNING DRIVEN TEXT CLASSIFICATION APPROACH WITH NAMED ENTITY RECOGNITION",
+    "y": 2026,
+    "v": "Computer Science"
+   },
+   {
+    "t": "Visual Instruction Bottleneck Tuning",
+    "y": 2025,
+    "v": "neural information processing systems"
+   },
+   {
+    "t": "WHAT FALLS BETWEEN",
+    "y": 2006,
+    "v": "University Libraries (University of Maryland)"
+   },
+   {
+    "t": "Proceedings of the Demonstrations at the 14th Conference of the European Chapter of the Association for Computational Linguistics",
+    "y": 2014,
+    "v": null
+   },
+   {
+    "t": "Terminologie(s) et territorialité : la description des bières artisanales en français et en italien",
+    "y": 2023,
+    "v": "UnissResearch (Università degli Studi di Sassari)"
+   },
+   {
+    "t": "A Survey of Arabic Named Entity Recognition and Classification",
+    "y": 2013,
+    "v": "Computational Linguistics"
+   },
+   {
+    "t": "French language DRS parsing",
+    "y": 2020,
+    "v": "theses.fr (ABES)"
+   },
+   {
+    "t": "Automatic Machine Translation Evaluation: A Qualitative Approach",
+    "y": 2015,
+    "v": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)"
+   },
+   {
+    "t": "War propaganda and the liberal public sphere",
+    "y": 2004,
+    "v": "Routledge eBooks"
+   },
+   {
+    "t": "Arabic named entity recognition.",
+    "y": 2009,
+    "v": "RiuNet (Universitat Politècnica de València)"
+   },
+   {
+    "t": "Von unstrukturiert zu strukturiert: Kontextbasierte Gewinnung benannter Entitäten von Text",
+    "y": 2017,
+    "v": "publish.UP (University of Potsdam)"
+   }
+  ]
+ }
+}

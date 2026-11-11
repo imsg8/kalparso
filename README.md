@@ -83,7 +83,7 @@ Grounding stays low because the lexicon has no formal Hindi number words or Deva
 | `baselines/` | Rules, dateparser, Duckling, untrained LLMs through Ollama (`llm_eval.py`) |
 | `llm_eval/kaggle_runs/` | The LLM accuracy runs (Kaggle, 2 x T4) |
 | `bench/` | CPU latency, throughput, energy (RAPL), thermal-safe LLM timing, and the NTX out-of-domain check (`eval_ntx.py`) |
-| `results/` | Predictions (human and v3 Synth-Test), timing JSON, report scripts; `dataset_search/` holds the resource-search query logs and the rerun script. The v1 systems on Synth-Test are in `kaggle_a/` (encoders, learned and rule tense, 3 seeds), `kaggle_b/` (Qwen3-0.6B + LoRA), `llm/llm_q35_*.jsonl`, `dateparser.test_synth.jsonl` and `rules.test_synth.jsonl`; `int8/` has the seed-13 int8 predictions on Human-Test; `stress/llmcpu_*.preds.jsonl` has every LLM answer timed on the CPU with its token counts; `tense_real_phinc.json` has the tense labels on 120 PHINC tweets (texts not included) |
+| `results/` | Predictions (human and v3 Synth-Test), timing JSON, report scripts; `dataset_search/` holds the resource-search query logs and the two rerun scripts (Semantic Scholar, and OpenAlex for the six queries it kept refusing). The v1 systems on Synth-Test are in `kaggle_a/` (encoders, learned and rule tense, 3 seeds), `kaggle_b/` (Qwen3-0.6B + LoRA), `llm/llm_q35_*.jsonl`, `dateparser.test_synth.jsonl` and `rules.test_synth.jsonl`; `int8/` has the seed-13 int8 predictions on Human-Test; `stress/llmcpu_*.preds.jsonl` has every LLM answer timed on the CPU with its token counts; `tense_real_phinc.json` has the tense labels on 120 PHINC tweets (texts not included) |
 | `scripts/` | PHINC weak labels and where to get third-party data |
 
 ## Synthetic data
