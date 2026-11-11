@@ -46,6 +46,8 @@ Every prediction file behind the reported results is in `results/`, so the score
 pip install -r requirements.txt
 python results/report.py              # results/REPORT.md, results/report.json (McNemar tests use seed 13)
 python results/score_synth_v3.py      # final models on the 1,999-entry v3 Synth-Test
+python results/make_table.py test_synth test_synth_300   # v1 systems on Synth-Test-300
+python results/check_extra.py         # v1 tense figure, seed-13 int8 accuracy, CPU against GPU answers, token counts
 python tests/smoke.py                 # grounder and scorer checks
 ```
 
@@ -81,7 +83,7 @@ Grounding stays low because the lexicon has no formal Hindi number words or Deva
 | `baselines/` | Rules, dateparser, Duckling, untrained LLMs through Ollama (`llm_eval.py`) |
 | `llm_eval/kaggle_runs/` | The LLM accuracy runs (Kaggle, 2 x T4) |
 | `bench/` | CPU latency, throughput, energy (RAPL), thermal-safe LLM timing, and the NTX out-of-domain check (`eval_ntx.py`) |
-| `results/` | Predictions (human and v3 Synth-Test), timing JSON, report scripts; `dataset_search/` holds the resource-search query logs and the rerun script |
+| `results/` | Predictions (human and v3 Synth-Test), timing JSON, report scripts; `dataset_search/` holds the resource-search query logs and the rerun script. The v1 systems on Synth-Test are in `kaggle_a/` (encoders, learned and rule tense, 3 seeds), `kaggle_b/` (Qwen3-0.6B + LoRA), `llm/llm_q35_*.jsonl`, `dateparser.test_synth.jsonl` and `rules.test_synth.jsonl`; `int8/` has the seed-13 int8 predictions on Human-Test; `stress/llmcpu_*.preds.jsonl` has every LLM answer timed on the CPU with its token counts; `tense_real_phinc.json` has the tense labels on 120 PHINC tweets (texts not included) |
 | `scripts/` | PHINC weak labels and where to get third-party data |
 
 ## Synthetic data

@@ -1,0 +1,748 @@
+{"id": "human-0001", "type": "reminder", "date": "2026-10-31", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0003", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0004", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0005", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0007", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0011", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0012", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0021", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0022", "type": "reminder", "date": "2026-10-31", "time": "02:50", "direction": "future", "spans": [["DUR", "15 minute"]]}
+{"id": "human-0023", "type": "reminder", "date": "2026-10-31", "time": "10:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0024", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "November"]]}
+{"id": "human-0025", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0026", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0027", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0028", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0030", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0032", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0034", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0036", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0037", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0039", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0040", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0041", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0042", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0043", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0044", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0045", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0046", "type": "reminder", "date": "2026-10-31", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0047", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0048", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0049", "type": "reminder", "date": "2026-10-31", "time": "02:55", "direction": "future", "spans": [["DUR", "20 minute"]]}
+{"id": "human-0051", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0052", "type": "reminder", "date": "2026-11-02", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0054", "type": "note", "date": "2026-11-02", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0055", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0058", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0060", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0061", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0062", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0065", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0066", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0067", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0068", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0070", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0075", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0076", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0077", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0078", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0079", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0080", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0081", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0083", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0085", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0087", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0088", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0089", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0090", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0091", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0093", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0095", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0096", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0097", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0098", "type": "reminder", "date": "2026-11-02", "time": "12:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0100", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0101", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0103", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0104", "type": "reminder", "date": "2026-11-03", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0107", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0109", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0110", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0112", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0113", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0114", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0115", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0116", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0118", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0119", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0120", "type": "note", "date": "2026-11-03", "time": "18:00", "direction": "future", "spans": [["TIME", "6:"]]}
+{"id": "human-0121", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0122", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0123", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0124", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0125", "type": "reminder", "date": "2026-11-04", "time": "00:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0126", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0127", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0128", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0130", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0131", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0132", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0133", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0134", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0135", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0138", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0139", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0141", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0142", "type": "reminder", "date": "2026-11-03", "time": "23:00", "direction": "future", "spans": [["TIME", "11:"]]}
+{"id": "human-0144", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0146", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0147", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0148", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0150", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0152", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0153", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0154", "type": "reminder", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0155", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0156", "type": "reminder", "date": "2026-11-05", "time": "00:00", "direction": "future", "spans": [["DUR", "15 minute"]]}
+{"id": "human-0157", "type": "note", "date": "2026-11-05", "time": "00:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0159", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0160", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0162", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0163", "type": "note", "date": "2026-11-05", "time": "08:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0164", "type": "note", "date": "2026-11-05", "time": "10:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0165", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0167", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0169", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0170", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0171", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0172", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0173", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0175", "type": "reminder", "date": "2026-11-05", "time": "07:30", "direction": "future", "spans": [["TIME", "7:30"]]}
+{"id": "human-0177", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0178", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0179", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0180", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0181", "type": "note", "date": "2026-11-05", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0182", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0183", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0184", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0185", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0186", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0190", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0191", "type": "reminder", "date": "2026-11-05", "time": "09:30", "direction": "future", "spans": [["TIME", "9"], ["TIME", "9:"], ["TIME", "9:30"]]}
+{"id": "human-0193", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0196", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0197", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0199", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0200", "type": "note", "date": "2026-11-04", "time": "23:46", "direction": "future", "spans": [["DUR", "minute"]]}
+{"id": "human-0201", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0203", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0204", "type": "reminder", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0206", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0208", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0209", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0210", "type": "note", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0211", "type": "note", "date": "2026-11-05", "time": "08:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0213", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0214", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0216", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0217", "type": "note", "date": "2026-11-05", "time": "08:15", "direction": "future", "spans": [["TIME", "8:15"]]}
+{"id": "human-0218", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0219", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0222", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0224", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0226", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "20"]]}
+{"id": "human-0227", "type": "note", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0229", "type": "reminder", "date": "2026-11-05", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0230", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0231", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0232", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0234", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0235", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0236", "type": "note", "date": "2026-11-05", "time": "14:30", "direction": "future", "spans": [["TIME", "2:30"]]}
+{"id": "human-0237", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0239", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0240", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0241", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0243", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0244", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0247", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0248", "type": "reminder", "date": "2026-11-05", "time": "08:00", "direction": "future", "spans": [["TIME", "8:"]]}
+{"id": "human-0250", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0252", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0254", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0256", "type": "note", "date": "2026-11-06", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0257", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0258", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0259", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0260", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0261", "type": "note", "date": "2026-11-06", "time": "21:30", "direction": "future", "spans": [["TIME", "9:30"]]}
+{"id": "human-0262", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0263", "type": "note", "date": "2026-11-06", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0264", "type": "note", "date": "2026-11-06", "time": "19:45", "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0265", "type": "note", "date": "2026-11-06", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0267", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0268", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0269", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0270", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0273", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0274", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0275", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0278", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0279", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0281", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0282", "type": "reminder", "date": "2026-11-06", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0283", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0284", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0286", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0287", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0288", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0289", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0290", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0291", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0292", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0294", "type": "reminder", "date": "2026-11-06", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0295", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0296", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0297", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0298", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0299", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0300", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0301", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0302", "type": "note", "date": "2026-11-06", "time": "19:20", "direction": "future", "spans": [["DUR", "5 minute"]]}
+{"id": "human-0303", "type": "reminder", "date": "2026-11-07", "time": "09:00", "direction": "future", "spans": [["PART", "सुबह"]]}
+{"id": "human-0304", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0305", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0306", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0307", "type": "reminder", "date": "2026-11-08", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0308", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0309", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0311", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0312", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0314", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0315", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0316", "type": "note", "date": "2026-11-08", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0318", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0319", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0321", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0322", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0323", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0325", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0326", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0327", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0328", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0329", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0330", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0331", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0332", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0333", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0334", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0335", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0336", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0337", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0338", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0339", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0340", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0344", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0345", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0346", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0347", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0348", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0350", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0351", "type": "reminder", "date": "2026-11-08", "time": "22:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0352", "type": "note", "date": "2026-11-08", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0353", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0354", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0355", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0356", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0359", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0361", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0363", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0365", "type": "reminder", "date": "2026-11-30", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0366", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0369", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0372", "type": "note", "date": "2026-12-01", "time": "07:00", "direction": "future", "spans": [["TIME", "7"]]}
+{"id": "human-0375", "type": "note", "date": "2026-12-01", "time": "16:00", "direction": "future", "spans": [["TIME", "4"]]}
+{"id": "human-0378", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0379", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0381", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0382", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0384", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0385", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0386", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0387", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0388", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0389", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0390", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0392", "type": "reminder", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0393", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0394", "type": "note", "date": "2026-12-01", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0395", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0396", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0397", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0398", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0399", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0400", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0401", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0402", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0404", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0406", "type": "reminder", "date": "2026-12-01", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0407", "type": "note", "date": "2026-12-01", "time": "08:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0408", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0409", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0410", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0411", "type": "note", "date": "2026-12-01", "time": "00:20", "direction": "future", "spans": [["DUR", "10 minute"]]}
+{"id": "human-0412", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0413", "type": "note", "date": "2026-12-01", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0414", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0415", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0416", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0418", "type": "note", "date": "2026-12-01", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0419", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0420", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0421", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0422", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0423", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0424", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0425", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0426", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0427", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0429", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0430", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0431", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0432", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0433", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0434", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0435", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0436", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0437", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0438", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0439", "type": "note", "date": "2026-12-01", "time": "09:30", "direction": "future", "spans": [["TIME", "9:30"]]}
+{"id": "human-0441", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0442", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0443", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0444", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0445", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0447", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0448", "type": "note", "date": "2026-12-01", "time": "06:30", "direction": "future", "spans": [["TIME", "6:30"]]}
+{"id": "human-0449", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0450", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0451", "type": "note", "date": "2026-12-01", "time": "12:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0452", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0454", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0457", "type": "note", "date": "2026-12-11", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0458", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0460", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0461", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0462", "type": "reminder", "date": "2026-12-11", "time": "18:00", "direction": "future", "spans": [["DUR", "10 minute"]]}
+{"id": "human-0463", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0464", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0465", "type": "note", "date": "2026-12-11", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0466", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0467", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0468", "type": "note", "date": "2026-12-11", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0469", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0470", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0471", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0472", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0474", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0475", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0476", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0480", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0481", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0483", "type": "reminder", "date": "2026-12-12", "time": "15:00", "direction": "future", "spans": [["TIME", "3:"]]}
+{"id": "human-0485", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0486", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0489", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0490", "type": "reminder", "date": "2026-12-11", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0491", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0492", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0493", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0494", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0495", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0496", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0497", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0498", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0499", "type": "reminder", "date": "2026-12-11", "time": "22:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0500", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0501", "type": "reminder", "date": "2026-12-12", "time": "00:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0502", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0503", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0504", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0505", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0506", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0507", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0508", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0509", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0510", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0511", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0512", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0514", "type": "note", "date": "2026-12-20", "time": "16:00", "direction": "future", "spans": [["TIME", "4"]]}
+{"id": "human-0515", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0516", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0517", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0518", "type": "reminder", "date": "2026-12-21", "time": "00:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0519", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0521", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0522", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0523", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0525", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0526", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0528", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0530", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0531", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0533", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0534", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0535", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0537", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0538", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0539", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0540", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0541", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0542", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0543", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0544", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0545", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0546", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0548", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0549", "type": "note", "date": "2026-12-20", "time": "11:00", "direction": "past", "spans": [["TIME", "11"]]}
+{"id": "human-0550", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0551", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0552", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0553", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0554", "type": "reminder", "date": "2026-12-20", "time": "15:25", "direction": "future", "spans": [["DUR", "10 minute"]]}
+{"id": "human-0555", "type": "note", "date": "2026-12-20", "time": "17:00", "direction": "future", "spans": [["TIME", "5:"]]}
+{"id": "human-0556", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0557", "type": "note", "date": "2027-01-01", "time": "00:00", "direction": "future", "spans": [["TIME", "12"]]}
+{"id": "human-0558", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0559", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0560", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0561", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0563", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0564", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0565", "type": "note", "date": "2026-12-31", "time": "23:00", "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0567", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0569", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0570", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0571", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0572", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0573", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0574", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0576", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0577", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0578", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0581", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0582", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0583", "type": "note", "date": "2027-01-01", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0585", "type": "reminder", "date": "2027-01-01", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0586", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0587", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0589", "type": "reminder", "date": "2026-12-31", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0590", "type": "reminder", "date": "2027-01-01", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0591", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0592", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0594", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0596", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0597", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0598", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0599", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0600", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0601", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0602", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0603", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0604", "type": "reminder", "date": "2026-12-31", "time": "22:50", "direction": "future", "spans": [["DUR", "20 minute"]]}
+{"id": "human-0605", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0607", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0608", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0609", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0610", "type": "note", "date": "2027-01-01", "time": "16:00", "direction": "future", "spans": [["TIME", "4"]]}
+{"id": "human-0612", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0614", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0615", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0616", "type": "note", "date": "2027-01-01", "time": "17:00", "direction": "future", "spans": [["TIME", "5"]]}
+{"id": "human-0618", "type": "reminder", "date": "2027-01-01", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0619", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0620", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0621", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0623", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0625", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0626", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0628", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0629", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0630", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0632", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0633", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0634", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0635", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0636", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0637", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0639", "type": "reminder", "date": "2027-01-01", "time": "19:00", "direction": "future", "spans": [["TIME", "7"]]}
+{"id": "human-0640", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0641", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0642", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0643", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0644", "type": "note", "date": "2027-01-01", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0645", "type": "note", "date": "2027-01-01", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0646", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0647", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0648", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0650", "type": "reminder", "date": "2027-01-01", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0651", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0654", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "10"]]}
+{"id": "human-0655", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0657", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0659", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0660", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0661", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0662", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0663", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0665", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0666", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0667", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0668", "type": "note", "date": "2027-01-13", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0669", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0670", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0671", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0672", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0674", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0675", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0678", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0679", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0681", "type": "note", "date": "2027-01-13", "time": "16:15", "direction": "future", "spans": [["DUR", "10 minute"]]}
+{"id": "human-0684", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0687", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0688", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0690", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0692", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0693", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0694", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0695", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0696", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0699", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0700", "type": "note", "date": "2027-01-20", "time": null, "direction": "future", "spans": [["DATE", "20"]]}
+{"id": "human-0702", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0703", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0704", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0705", "type": "reminder", "date": "2027-01-14", "time": "15:30", "direction": "future", "spans": [["TIME", "3:30"]]}
+{"id": "human-0706", "type": "note", "date": "2027-01-13", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0708", "type": "reminder", "date": "2027-01-13", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0709", "type": "note", "date": "2027-01-30", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0710", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0711", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0713", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0714", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0715", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0716", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0718", "type": "note", "date": "2027-01-30", "time": "16:00", "direction": "future", "spans": [["TIME", "4"]]}
+{"id": "human-0722", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0723", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0724", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0725", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0726", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0727", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0728", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0729", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0731", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0732", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0733", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0735", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0736", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0738", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0740", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "20"]]}
+{"id": "human-0741", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0742", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0744", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0745", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0746", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0747", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0748", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0749", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0751", "type": "reminder", "date": "2027-01-30", "time": "20:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0753", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0755", "type": "reminder", "date": "2027-01-30", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0757", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0758", "type": "note", "date": "2027-01-30", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0759", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0760", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0761", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0762", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0763", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0766", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0767", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0768", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0769", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0770", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0771", "type": "reminder", "date": "2027-02-28", "time": "23:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0772", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0774", "type": "note", "date": "2027-03-01", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0775", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0779", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0780", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0781", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0782", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0783", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0785", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0786", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0788", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0791", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0792", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DUR", "minute"]]}
+{"id": "human-0793", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0794", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0795", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0796", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0798", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0799", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0800", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0801", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0803", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0804", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0805", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0807", "type": "note", "date": "2027-03-01", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0809", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0810", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0811", "type": "note", "date": "2027-03-15", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0813", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0815", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0816", "type": "note", "date": "2027-03-15", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0817", "type": "note", "date": "2027-03-15", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0818", "type": "note", "date": "2027-03-15", "time": "11:00", "direction": "future", "spans": [["TIME", "11"]]}
+{"id": "human-0820", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0821", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0823", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0824", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0825", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0826", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0827", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0828", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0829", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0831", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0832", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0834", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0835", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0840", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0843", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0845", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0847", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0848", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0849", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0850", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0851", "type": "note", "date": "2027-03-15", "time": "09:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0852", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0853", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0855", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0856", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0857", "type": "goal", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0858", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0859", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0860", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0863", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0864", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0865", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0866", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0867", "type": "note", "date": "2027-05-12", "time": "17:00", "direction": "future", "spans": [["TIME", "5"]]}
+{"id": "human-0868", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0870", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0871", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0873", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0874", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0875", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0877", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0880", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0881", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0883", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0884", "type": "note", "date": "2027-05-12", "time": "15:00", "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0885", "type": "note", "date": "2027-05-12", "time": "14:40", "direction": "future", "spans": [["DUR", "10 minute"]]}
+{"id": "human-0886", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0887", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0888", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0889", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0890", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0891", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0892", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0893", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0894", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0895", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0897", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0899", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0901", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0902", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0903", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0904", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0905", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0907", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0908", "type": "note", "date": "2027-05-12", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0909", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0910", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0911", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0912", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0913", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0914", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0915", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0918", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0919", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0920", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0921", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0922", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0923", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0924", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0925", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0926", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0929", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0931", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0933", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0934", "type": "note", "date": "2027-07-30", "time": "12:30", "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0935", "type": "note", "date": null, "time": null, "direction": "future", "spans": [["DUR", "10"]]}
+{"id": "human-0936", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0937", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0938", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0939", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0940", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0942", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0944", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0945", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0946", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0947", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0948", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0949", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0950", "type": "note", "date": "2027-07-30", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0951", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0952", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0953", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0956", "type": "note", "date": "2027-07-30", "time": "18:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-0958", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0959", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0960", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0961", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0962", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0964", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0965", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0966", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0967", "type": "reminder", "date": "2027-09-05", "time": "19:00", "direction": "future", "spans": [["DUR", "5 minute"]]}
+{"id": "human-0968", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0969", "type": "reminder", "date": "2027-09-05", "time": "21:00", "direction": "future", "spans": [["TIME", "9"]]}
+{"id": "human-0970", "type": "note", "date": "2027-09-05", "time": "22:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0972", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0973", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0975", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0976", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0977", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0979", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0980", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0982", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0985", "type": "note", "date": "2027-09-05", "time": "19:25", "direction": "future", "spans": [["DUR", "30 minute"]]}
+{"id": "human-0986", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0987", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0988", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0990", "type": "note", "date": "2027-09-05", "time": "20:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0994", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0995", "type": "note", "date": "2027-09-05", "time": "22:00", "direction": "future", "spans": [["TIME", "10"]]}
+{"id": "human-0996", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0998", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0999", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-1001", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-1002", "type": "note", "date": "2027-09-06", "time": "06:00", "direction": "future", "spans": [["TIME", "6"]]}
+{"id": "human-1005", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-1006", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-1007", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-1009", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-1010", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}

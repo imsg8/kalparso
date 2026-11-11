@@ -1,0 +1,748 @@
+{"id": "human-0001", "type": "reminder", "date": "2026-11-01", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0003", "type": "reminder", "date": "2026-10-31", "time": "18:30", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0004", "type": "reminder", "date": "2026-11-01", "time": "10:45", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Sunday"], ["TIME", "paune 11 baje"]]}
+{"id": "human-0005", "type": "note", "date": "2026-10-30", "time": "21:00", "direction": "past", "spans": [["DAY", "Kal"], ["PART", "raat"]]}
+{"id": "human-0007", "type": "reminder", "date": "2026-10-31", "time": "10:00", "direction": "future", "spans": [["PART", "subah"], ["TIME", "das baje"]]}
+{"id": "human-0011", "type": "note", "date": "2026-10-29", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0012", "type": "reminder", "date": "2026-11-02", "time": "10:00", "direction": "future", "spans": [["WD", "Monday"], ["TIME", "10 baje"]]}
+{"id": "human-0021", "type": "note", "date": "2026-10-29", "time": null, "direction": "past", "spans": [["WD", "Thursday"]]}
+{"id": "human-0022", "type": "reminder", "date": "2026-10-31", "time": "02:50", "direction": "future", "spans": [["DUR", "15 minute baad"]]}
+{"id": "human-0023", "type": "reminder", "date": "2026-11-07", "time": "10:15", "direction": "future", "spans": [["TIME", "sava 10 baje"], ["PART", "subah"], ["WD", "Saturday"]]}
+{"id": "human-0024", "type": "note", "date": "2025-11-03", "time": null, "direction": "past", "spans": [["DAY", "kal"], ["DAY", "last date"], ["DATE", "3 November"]]}
+{"id": "human-0025", "type": "reminder", "date": "2026-10-31", "time": "15:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "dopahar"], ["TIME", "3 baje"]]}
+{"id": "human-0026", "type": "note", "date": "2026-10-25", "time": null, "direction": "past", "spans": [["WD", "pichle Sunday"], ["PART", "bir"], ["PART", "shaadi"]]}
+{"id": "human-0027", "type": "reminder", "date": "2026-11-03", "time": "20:00", "direction": "future", "spans": [["WD", "Tuesday"], ["PART", "raat"], ["TIME", "8 baje"]]}
+{"id": "human-0028", "type": "reminder", "date": "2026-10-31", "time": "06:15", "direction": "future", "spans": [["PART", "subah"], ["TIME", "6 baje"], ["TIME", "6 nahi sava 6"]]}
+{"id": "human-0030", "type": "reminder", "date": "2026-11-01", "time": null, "direction": "future", "spans": [["DATE", "1 tareekh"]]}
+{"id": "human-0032", "type": "reminder", "date": "2026-10-31", "time": "11:00", "direction": "future", "spans": [["DAY", "aaj"], ["WD", "Saturday"], ["TIME", "11 baje"]]}
+{"id": "human-0034", "type": "reminder", "date": "2026-11-01", "time": "05:45", "direction": "future", "spans": [["TIME", "5:45 am"], ["WD", "Sunday"]]}
+{"id": "human-0036", "type": "note", "date": "2026-10-23", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Friday"], ["TIME", "adi"]]}
+{"id": "human-0037", "type": "note", "date": "2026-10-31", "time": "01:00", "direction": "past", "spans": [["PART", "raat"], ["TIME", "1 baje"], ["PART", "subah"]]}
+{"id": "human-0039", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "is weekend"]]}
+{"id": "human-0040", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0041", "type": "reminder", "date": "2026-11-10", "time": null, "direction": "future", "spans": [["DUR", "10 din baad"]]}
+{"id": "human-0042", "type": "reminder", "date": "2026-11-14", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DUR", "se 2 hafte baad"]]}
+{"id": "human-0043", "type": "reminder", "date": "2026-11-02", "time": "07:00", "direction": "future", "spans": [["DAY", "parson"], ["PART", "subah"], ["TIME", "7 baje"]]}
+{"id": "human-0044", "type": "note", "date": "2026-10-30", "time": null, "direction": "past", "spans": [["DAY", "maine"], ["DAY", "kal"]]}
+{"id": "human-0045", "type": "reminder", "date": "2026-10-31", "time": "08:45", "direction": "future", "spans": [["TIME", "pone 9 baje"], ["PART", "subah"]]}
+{"id": "human-0046", "type": "reminder", "date": "2026-10-31", "time": "23:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "11 baje"]]}
+{"id": "human-0047", "type": "reminder", "date": "2026-10-31", "time": "21:00", "direction": "future", "spans": [["TIME", "9 pm"], ["DAY", "tonight"]]}
+{"id": "human-0048", "type": "reminder", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["DATE", "next month 5 tareekh"]]}
+{"id": "human-0049", "type": "reminder", "date": "2026-10-31", "time": "02:55", "direction": "future", "spans": [["DUR", "20 minute baad"]]}
+{"id": "human-0051", "type": "reminder", "date": "2026-10-31", "time": "09:00", "direction": "future", "spans": [["PART", "subah"], ["TIME", "naashte"]]}
+{"id": "human-0052", "type": "reminder", "date": "2026-11-02", "time": "11:00", "direction": "future", "spans": [["DAY", "aaj"], ["TIME", "11 baje"]]}
+{"id": "human-0054", "type": "reminder", "date": "2026-11-04", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0055", "type": "note", "date": "2026-11-01", "time": null, "direction": "past", "spans": [["DAY", "kal"], ["WD", "Sunday"]]}
+{"id": "human-0058", "type": "reminder", "date": "2026-11-02", "time": "10:10", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0060", "type": "reminder", "date": "2026-11-02", "time": "13:30", "direction": "future", "spans": [["TIME", "dedh baje"]]}
+{"id": "human-0061", "type": "reminder", "date": "2026-11-02", "time": "19:00", "direction": "future", "spans": [["TIME", "7 baje"]]}
+{"id": "human-0062", "type": "reminder", "date": "2026-11-07", "time": null, "direction": "future", "spans": [["WD", "is Saturday"]]}
+{"id": "human-0065", "type": "reminder", "date": "2026-11-05", "time": "17:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "shaam"], ["TIME", "5 baje"]]}
+{"id": "human-0066", "type": "reminder", "date": "2026-11-02", "time": "22:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "10 baje"]]}
+{"id": "human-0067", "type": "reminder", "date": "2026-11-03", "time": "07:45", "direction": "future", "spans": [["TIME", "paune 8 baje"], ["DAY", "kal"], ["PART", "subah"]]}
+{"id": "human-0068", "type": "reminder", "date": "2026-11-02", "time": "10:15", "direction": "future", "spans": [["TIME", "sava 10 baje"], ["DAY", "aaj"]]}
+{"id": "human-0070", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0075", "type": "reminder", "date": "2026-11-10", "time": null, "direction": "future", "spans": [["WD", "next week Tuesday"], ["PART", "bartan"]]}
+{"id": "human-0076", "type": "note", "date": "2026-11-02", "time": "22:30", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "2 baje"], ["DAY", "aaj"], ["TIME", "10:30"]]}
+{"id": "human-0077", "type": "reminder", "date": "2026-11-02", "time": "19:00", "direction": "future", "spans": [["TIME", "sat baje"], ["TIME", "sat baje"], ["DAY", "aaj"], ["PART", "shaam"], ["TIME", "saade sat"]]}
+{"id": "human-0078", "type": "reminder", "date": "2026-11-04", "time": "06:00", "direction": "future", "spans": [["DAY", "parso"], ["PART", "morning"], ["TIME", "6 baje"]]}
+{"id": "human-0079", "type": "reminder", "date": "2026-11-30", "time": null, "direction": "future", "spans": [["DATE", "end of month"]]}
+{"id": "human-0080", "type": "reminder", "date": "2026-10-31", "time": null, "direction": "future", "spans": [["DUR", "2 din pehle"], ["WD", "Friday"]]}
+{"id": "human-0081", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0083", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0085", "type": "reminder", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0087", "type": "reminder", "date": "2026-11-09", "time": "09:00", "direction": "future", "spans": [["WD", "har Monday"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0088", "type": "reminder", "date": "2026-11-03", "time": "15:00", "direction": "future", "spans": [["DAY", "kal"], ["DAY", "kal"], ["TIME", "3 baje"]]}
+{"id": "human-0089", "type": "reminder", "date": "2026-11-02", "time": "18:00", "direction": "future", "spans": [["DAY", "Aaj"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0090", "type": "reminder", "date": "2026-11-20", "time": null, "direction": "future", "spans": [["DATE", "20 tareekh"], ["PART", "sha"]]}
+{"id": "human-0091", "type": "reminder", "date": "2026-11-13", "time": null, "direction": "future", "spans": [["WD", "next Friday"]]}
+{"id": "human-0093", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0095", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "weekend"]]}
+{"id": "human-0096", "type": "reminder", "date": "2026-11-04", "time": null, "direction": "future", "spans": [["WD", "Wednesday"]]}
+{"id": "human-0097", "type": "note", "date": "2026-11-01", "time": "16:00", "direction": "past", "spans": [["DAY", "kal"], ["WD", "Sunday"], ["DAY", "aaj"], ["TIME", "4 baje"]]}
+{"id": "human-0098", "type": "reminder", "date": "2026-11-02", "time": "12:00", "direction": "future", "spans": [["PART", "dopahar"], ["TIME", "12 baje"]]}
+{"id": "human-0100", "type": "reminder", "date": "2026-11-09", "time": "19:00", "direction": "future", "spans": [["DUR", "1 hafte baad"], ["PART", "shaam"], ["TIME", "7 baje"]]}
+{"id": "human-0101", "type": "reminder", "date": "2026-11-03", "time": "16:00", "direction": "future", "spans": [["WD", "Tuesday"], ["TIME", "3 PM"], ["TIME", "4 baje"]]}
+{"id": "human-0103", "type": "reminder", "date": "2026-11-03", "time": "17:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "5 baje"]]}
+{"id": "human-0104", "type": "reminder", "date": "2026-11-04", "time": "09:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "saade 9 baje"]]}
+{"id": "human-0107", "type": "note", "date": "2026-11-01", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["WD", "Sunday"], ["TIME", "pura din"]]}
+{"id": "human-0109", "type": "note", "date": "2026-11-02", "time": "15:45", "direction": "past", "spans": [["TIME", "paune 4 baje"]]}
+{"id": "human-0110", "type": "reminder", "date": "2026-11-03", "time": "16:00", "direction": "future", "spans": [["TIME", "4 baje"]]}
+{"id": "human-0112", "type": "reminder", "date": "2026-11-07", "time": "06:00", "direction": "future", "spans": [["WD", "is Saturday"], ["PART", "subah"], ["TIME", "6 baje"]]}
+{"id": "human-0113", "type": "reminder", "date": "2026-11-03", "time": "15:20", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0114", "type": "reminder", "date": "2026-11-03", "time": "14:05", "direction": "future", "spans": [["DUR", "45 min baad"]]}
+{"id": "human-0115", "type": "note", "date": "2026-11-02", "time": null, "direction": "past", "spans": [["DAY", "kal"], ["WD", "Monday"]]}
+{"id": "human-0116", "type": "reminder", "date": "2026-11-17", "time": null, "direction": "future", "spans": [["WD", "pichle hafte Thursday"], ["DUR", "2 hafte mein"]]}
+{"id": "human-0118", "type": "reminder", "date": "2026-11-25", "time": null, "direction": "future", "spans": [["DATE", "25 tareekh"]]}
+{"id": "human-0119", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DATE", "1 tareekh"]]}
+{"id": "human-0120", "type": "reminder", "date": "2026-11-04", "time": "18:30", "direction": "future", "spans": [["WD", "Wednesday"], ["PART", "evening"], ["TIME", "6:30"]]}
+{"id": "human-0121", "type": "reminder", "date": "2026-11-04", "time": "11:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "11 am"]]}
+{"id": "human-0122", "type": "reminder", "date": "2026-11-03", "time": "21:00", "direction": "future", "spans": [["DAY", "tonight"], ["TIME", "9"]]}
+{"id": "human-0123", "type": "reminder", "date": "2026-11-04", "time": "05:00", "direction": "future", "spans": [["TIME", "5"], ["DAY", "tomorrow"]]}
+{"id": "human-0124", "type": "reminder", "date": "2026-11-03", "time": "15:15", "direction": "future", "spans": [["TIME", "sava 3 baje"]]}
+{"id": "human-0125", "type": "reminder", "date": "2026-11-04", "time": "12:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "12 baje"], ["DAY", "last date"], ["DAY", "kal"]]}
+{"id": "human-0126", "type": "reminder", "date": "2026-11-03", "time": "14:50", "direction": "future", "spans": [["DUR", "dedh ghante baad"]]}
+{"id": "human-0127", "type": "reminder", "date": "2026-11-03", "time": "20:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "8 baje"]]}
+{"id": "human-0128", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0130", "type": "reminder", "date": "2026-11-04", "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0131", "type": "goal", "date": "2026-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal ke end"]]}
+{"id": "human-0132", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "agle saal"]]}
+{"id": "human-0133", "type": "note", "date": "2026-11-02", "time": null, "direction": "past", "spans": [["WD", "monday"]]}
+{"id": "human-0134", "type": "reminder", "date": "2026-11-06", "time": null, "direction": "future", "spans": [["DUR", "3 din baad"]]}
+{"id": "human-0135", "type": "reminder", "date": "2026-11-05", "time": "19:00", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "7 baje"]]}
+{"id": "human-0138", "type": "reminder", "date": "2026-11-13", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DUR", "se 10 din baad"]]}
+{"id": "human-0139", "type": "note", "date": "2026-10-20", "time": null, "direction": "past", "spans": [["DATE", "pichle mahine 20 tareekh"]]}
+{"id": "human-0141", "type": "reminder", "date": "2026-11-03", "time": "19:15", "direction": "future", "spans": [["PART", "shaam"], ["TIME", "7:15"]]}
+{"id": "human-0142", "type": "reminder", "date": "2026-11-03", "time": "23:30", "direction": "future", "spans": [["PART", "Raat"], ["TIME", "11:30"]]}
+{"id": "human-0144", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "November ke last week mein"]]}
+{"id": "human-0146", "type": "reminder", "date": "2026-11-04", "time": "13:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "1"]]}
+{"id": "human-0147", "type": "reminder", "date": "2026-11-04", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "sat baje"]]}
+{"id": "human-0148", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "pichhle saal"], ["DATE", "next"], ["DUR", "month"]]}
+{"id": "human-0150", "type": "note", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["WD", "Thursday"]]}
+{"id": "human-0152", "type": "reminder", "date": "2026-11-03", "time": "18:00", "direction": "future", "spans": [["WD", "मंगलवार"], ["DAY", "आज"], ["PART", "शाम"], ["TIME", "6 बजे"]]}
+{"id": "human-0153", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "parsoo"], ["DATE", "wale din"]]}
+{"id": "human-0154", "type": "reminder", "date": "2026-11-05", "time": "09:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "7 baje"], ["TIME", "9:30"]]}
+{"id": "human-0155", "type": "reminder", "date": "2026-11-05", "time": "20:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "8 baje"]]}
+{"id": "human-0156", "type": "reminder", "date": "2026-11-05", "time": "00:00", "direction": "future", "spans": [["DAY", "abhi"], ["DUR", "15 minute mein"]]}
+{"id": "human-0157", "type": "reminder", "date": "2026-11-05", "time": "00:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "12 baje"]]}
+{"id": "human-0159", "type": "reminder", "date": "2026-11-06", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Friday"]]}
+{"id": "human-0160", "type": "reminder", "date": "2026-11-04", "time": "18:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["WD", "agle hafte"]]}
+{"id": "human-0162", "type": "note", "date": "2026-11-02", "time": "21:00", "direction": "past", "spans": [["DAY", "parso"], ["PART", "raat"]]}
+{"id": "human-0163", "type": "reminder", "date": "2026-11-05", "time": "08:15", "direction": "future", "spans": [["PART", "subah"], ["TIME", "sava 8 baje"]]}
+{"id": "human-0164", "type": "reminder", "date": "2026-11-05", "time": "09:45", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "paune 10 baje"]]}
+{"id": "human-0165", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "weekend"]]}
+{"id": "human-0167", "type": "reminder", "date": "2026-11-05", "time": "02:45", "direction": "future", "spans": [["DUR", "3 ghante baad"]]}
+{"id": "human-0169", "type": "reminder", "date": "2026-11-05", "time": "17:00", "direction": "future", "spans": [["DAY", "kal"], ["WD", "Thursday"], ["DAY", "kal"], ["TIME", "5 baje"]]}
+{"id": "human-0170", "type": "note", "date": "2026-11-02", "time": "21:00", "direction": "past", "spans": [["WD", "monday"], ["PART", "raat"]]}
+{"id": "human-0171", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DAY", "sab"]]}
+{"id": "human-0172", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0173", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DATE", "ek"]]}
+{"id": "human-0175", "type": "reminder", "date": "2026-11-05", "time": "07:30", "direction": "future", "spans": [["TIME", "7:30"], ["DAY", "tomorrow"], ["PART", "morning"]]}
+{"id": "human-0177", "type": "reminder", "date": "2026-11-05", "time": "13:30", "direction": "future", "spans": [["TIME", "dedh baje"], ["DAY", "kal"]]}
+{"id": "human-0178", "type": "reminder", "date": "2026-11-05", "time": "01:00", "direction": "future", "spans": [["TIME", "1 baje"], ["PART", "raat"]]}
+{"id": "human-0179", "type": "reminder", "date": "2026-11-05", "time": "18:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0180", "type": "reminder", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "OD"]]}
+{"id": "human-0181", "type": "reminder", "date": "2026-11-05", "time": "11:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "11 baje"]]}
+{"id": "human-0182", "type": "note", "date": "2026-10-31", "time": null, "direction": "past", "spans": [["WD", "pichle Saturday"], ["WD", "is Saturday"]]}
+{"id": "human-0183", "type": "reminder", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["PART", "subah"], ["PART", "na"], ["TIME", "ashte"]]}
+{"id": "human-0184", "type": "reminder", "date": "2026-11-06", "time": null, "direction": "future", "spans": [["DUR", "2 din baad"]]}
+{"id": "human-0185", "type": "reminder", "date": "2026-11-10", "time": null, "direction": "future", "spans": [["DATE", "10 November"]]}
+{"id": "human-0186", "type": "reminder", "date": "2026-12-03", "time": null, "direction": "future", "spans": [["DATE", "agle mahine ki 3 tareekh"]]}
+{"id": "human-0190", "type": "reminder", "date": "2026-11-05", "time": "03:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "3 baje"], ["DAY", "aaj"]]}
+{"id": "human-0191", "type": "reminder", "date": "2026-11-05", "time": "09:30", "direction": "future", "spans": [["TIME", "9 baje"], ["DAY", "kal"], ["TIME", "9:30"], ["TIME", "9:30 baje"]]}
+{"id": "human-0193", "type": "reminder", "date": "2026-11-08", "time": null, "direction": "future", "spans": [["WD", "sunday"]]}
+{"id": "human-0196", "type": "reminder", "date": "2026-11-05", "time": "01:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "1 baje"]]}
+{"id": "human-0197", "type": "reminder", "date": "2026-11-05", "time": "18:00", "direction": "future", "spans": [["WD", "next week"], ["DAY", "daily"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0199", "type": "reminder", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DAY", "kal"]]}
+{"id": "human-0200", "type": "reminder", "date": "2026-11-04", "time": "23:50", "direction": "future", "spans": [["DUR", "5 minute baad"]]}
+{"id": "human-0201", "type": "note", "date": "2026-10-21", "time": null, "direction": "past", "spans": [["DUR", "2 hafte pehle"]]}
+{"id": "human-0203", "type": "note", "date": "2026-11-04", "time": "08:00", "direction": "past", "spans": [["DAY", "abhi"], ["DAY", "abhi"], ["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0204", "type": "reminder", "date": "2026-11-05", "time": "09:00", "direction": "future", "spans": [["DAY", "aaj"], ["TIME", "9 baje"]]}
+{"id": "human-0206", "type": "reminder", "date": "2026-11-06", "time": "17:00", "direction": "future", "spans": [["DAY", "kal"], ["WD", "Friday"], ["DAY", "kal"], ["PART", "shaam"], ["TIME", "5 baje"]]}
+{"id": "human-0208", "type": "note", "date": "2026-11-04", "time": "21:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"]]}
+{"id": "human-0209", "type": "reminder", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["DAY", "aaj"]]}
+{"id": "human-0210", "type": "reminder", "date": "2026-11-05", "time": "08:45", "direction": "future", "spans": [["TIME", "paune 9 baje"]]}
+{"id": "human-0211", "type": "reminder", "date": "2026-11-05", "time": "08:30", "direction": "future", "spans": [["TIME", "saade 8 baje"]]}
+{"id": "human-0213", "type": "reminder", "date": "2026-11-05", "time": "18:30", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0214", "type": "reminder", "date": "2026-11-05", "time": "08:30", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0216", "type": "note", "date": "2026-11-02", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0217", "type": "reminder", "date": "2026-11-06", "time": "08:15", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "8:15"]]}
+{"id": "human-0218", "type": "reminder", "date": "2026-11-12", "time": "10:00", "direction": "future", "spans": [["WD", "next Thursday"], ["TIME", "10 baje"]]}
+{"id": "human-0219", "type": "reminder", "date": "2026-11-12", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0222", "type": "reminder", "date": "2026-11-06", "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0224", "type": "note", "date": "2026-11-03", "time": null, "direction": "past", "spans": [["WD", "Tuesday"]]}
+{"id": "human-0226", "type": "reminder", "date": "2026-11-05", "time": "06:50", "direction": "future", "spans": [["DUR", "20 minute mein"]]}
+{"id": "human-0227", "type": "reminder", "date": "2026-11-05", "time": "21:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0229", "type": "reminder", "date": "2026-11-06", "time": "11:15", "direction": "future", "spans": [["TIME", "sava 11 baje"], ["DAY", "aaj"], ["DAY", "kal"], ["DAY", "kal"], ["WD", "Friday"]]}
+{"id": "human-0230", "type": "reminder", "date": "2026-11-05", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DUR", "ek mahine baad"]]}
+{"id": "human-0231", "type": "reminder", "date": "2026-11-26", "time": null, "direction": "future", "spans": [["DUR", "3 hafte baad"]]}
+{"id": "human-0232", "type": "reminder", "date": "2026-11-07", "time": "07:00", "direction": "future", "spans": [["WD", "Saturday"], ["PART", "subah"], ["TIME", "7 baje"]]}
+{"id": "human-0234", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0235", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0236", "type": "reminder", "date": "2026-11-05", "time": "14:30", "direction": "future", "spans": [["TIME", "2:30 baje"]]}
+{"id": "human-0237", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "end of next week"]]}
+{"id": "human-0239", "type": "reminder", "date": "2026-11-25", "time": null, "direction": "future", "spans": [["DATE", "25 tareekh"]]}
+{"id": "human-0240", "type": "reminder", "date": "2026-12-10", "time": null, "direction": "future", "spans": [["DATE", "next month ki 10 tareekh"]]}
+{"id": "human-0241", "type": "note", "date": "2026-11-03", "time": "21:00", "direction": "past", "spans": [["DAY", "parso"], ["PART", "raat"]]}
+{"id": "human-0243", "type": "reminder", "date": "2026-11-05", "time": "06:40", "direction": "future", "spans": [["DAY", "abhi"], ["DUR", "10 minute mein"]]}
+{"id": "human-0244", "type": "reminder", "date": "2026-11-06", "time": "17:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "shaam"], ["TIME", "saade paanch baje"]]}
+{"id": "human-0247", "type": "reminder", "date": "2026-11-07", "time": "12:00", "direction": "future", "spans": [["WD", "saturday"], ["TIME", "noon"]]}
+{"id": "human-0248", "type": "reminder", "date": "2026-11-05", "time": "08:45", "direction": "future", "spans": [["TIME", "8:45"]]}
+{"id": "human-0250", "type": "note", "date": "2026-12-31", "time": null, "direction": "past", "spans": [["DATE", "is saal"], ["DUR", "ek December mein"]]}
+{"id": "human-0252", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next to next week"]]}
+{"id": "human-0254", "type": "reminder", "date": "2026-11-05", "time": "19:00", "direction": "future", "spans": [["WD", "गुरुवार"], ["DAY", "ना"], ["DAY", "आज"], ["PART", "शाम"], ["TIME", "7 बजे"]]}
+{"id": "human-0256", "type": "reminder", "date": "2026-11-07", "time": "21:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0257", "type": "reminder", "date": "2026-11-08", "time": "13:00", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Sunday"], ["TIME", "1 baje"]]}
+{"id": "human-0258", "type": "note", "date": "2026-11-06", "time": "09:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"]]}
+{"id": "human-0259", "type": "note", "date": "2026-11-05", "time": null, "direction": "past", "spans": [["DAY", "kal"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0260", "type": "note", "date": "2026-11-04", "time": "21:00", "direction": "past", "spans": [["DAY", "parso"], ["PART", "raat"]]}
+{"id": "human-0261", "type": "reminder", "date": "2026-11-09", "time": "09:30", "direction": "future", "spans": [["WD", "Monday"], ["TIME", "9:30 baje"]]}
+{"id": "human-0262", "type": "reminder", "date": "2026-11-06", "time": "21:15", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0263", "type": "reminder", "date": "2026-11-06", "time": "23:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "11 baje"]]}
+{"id": "human-0264", "type": "reminder", "date": "2026-11-06", "time": "19:45", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0265", "type": "reminder", "date": "2026-11-06", "time": "20:45", "direction": "future", "spans": [["TIME", "paune 9 baje"]]}
+{"id": "human-0267", "type": "reminder", "date": "2026-11-07", "time": "14:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "dopahar"], ["TIME", "dhai baje"]]}
+{"id": "human-0268", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "weekend"]]}
+{"id": "human-0269", "type": "reminder", "date": "2026-11-14", "time": null, "direction": "future", "spans": [["WD", "next Saturday"]]}
+{"id": "human-0270", "type": "reminder", "date": "2026-11-13", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0273", "type": "note", "date": "2026-11-04", "time": null, "direction": "past", "spans": [["WD", "Wednesday"]]}
+{"id": "human-0274", "type": "note", "date": "2026-11-02", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"], ["DAY", "kal"]]}
+{"id": "human-0275", "type": "note", "date": "2026-11-20", "time": null, "direction": "past", "spans": [["WD", "pichle Sunday"], ["DUR", "agli baar 2 hafte baad"]]}
+{"id": "human-0278", "type": "reminder", "date": "2026-11-30", "time": null, "direction": "future", "spans": [["DATE", "end of the month"]]}
+{"id": "human-0279", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0281", "type": "reminder", "date": "2026-11-08", "time": "18:00", "direction": "future", "spans": [["WD", "sunday"], ["PART", "evening"]]}
+{"id": "human-0282", "type": "reminder", "date": "2026-11-07", "time": "09:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["PART", "morning"], ["TIME", "9"]]}
+{"id": "human-0283", "type": "reminder", "date": "2026-11-07", "time": null, "direction": "future", "spans": [["DATE", "8 November"], ["DATE", "7"], ["TIME", "safai"]]}
+{"id": "human-0284", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0286", "type": "reminder", "date": "2026-11-07", "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0287", "type": "goal", "date": "2026-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal ke end"]]}
+{"id": "human-0288", "type": "note", "date": "2026-11-06", "time": "09:00", "direction": "past", "spans": [["DUR", "abhi"], ["DUR", "kuch der pehle"], ["TIME", "9 baje"]]}
+{"id": "human-0289", "type": "note", "date": "2026-11-06", "time": "16:00", "direction": "past", "spans": [["TIME", "4 baje"]]}
+{"id": "human-0290", "type": "reminder", "date": "2026-11-07", "time": "06:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "6 baje"], ["TIME", "6:30"]]}
+{"id": "human-0291", "type": "reminder", "date": "2026-11-07", "time": "00:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "12 baje"]]}
+{"id": "human-0292", "type": "reminder", "date": "2026-11-08", "time": "17:45", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "paune 6 baje"]]}
+{"id": "human-0294", "type": "reminder", "date": "2026-11-09", "time": "09:00", "direction": "future", "spans": [["WD", "next Monday"], ["TIME", "9 baje"]]}
+{"id": "human-0295", "type": "note", "date": "2026-11-02", "time": null, "direction": "past", "spans": [["DAY", "aaj"], ["WD", "Monday"]]}
+{"id": "human-0296", "type": "note", "date": "2026-11-05", "time": null, "direction": "past", "spans": [["WD", "Thursday"]]}
+{"id": "human-0297", "type": "reminder", "date": "2026-11-07", "time": null, "direction": "future", "spans": [["DAY", "kal"]]}
+{"id": "human-0298", "type": "reminder", "date": "2026-11-07", "time": "10:00", "direction": "future", "spans": [["TIME", "10 baje"], ["DAY", "kal"]]}
+{"id": "human-0299", "type": "reminder", "date": "2026-11-20", "time": null, "direction": "future", "spans": [["DATE", "20 tareekh"], ["PART", "sha"]]}
+{"id": "human-0300", "type": "reminder", "date": "2026-11-11", "time": null, "direction": "future", "spans": [["DATE", "11 tareekh"]]}
+{"id": "human-0301", "type": "reminder", "date": "2026-11-07", "time": "08:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "8 baje"]]}
+{"id": "human-0302", "type": "reminder", "date": "2026-11-06", "time": "19:20", "direction": "future", "spans": [["DUR", "5 minute mein"]]}
+{"id": "human-0303", "type": "reminder", "date": "2026-11-07", "time": "10:00", "direction": "future", "spans": [["WD", "शनिवार"], ["PART", "सुबह"], ["TIME", "10 बजे"]]}
+{"id": "human-0304", "type": "note", "date": "2026-11-05", "time": "07:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "7 baje"], ["DAY", "kal"]]}
+{"id": "human-0305", "type": "reminder", "date": "2026-11-08", "time": "18:30", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0306", "type": "reminder", "date": "2026-11-08", "time": "20:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "8 baje"]]}
+{"id": "human-0307", "type": "reminder", "date": "2026-11-09", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0308", "type": "note", "date": "2026-11-07", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0309", "type": "note", "date": "2026-11-06", "time": null, "direction": "past", "spans": [["DAY", "parso"]]}
+{"id": "human-0311", "type": "reminder", "date": "2026-11-08", "time": "12:00", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0312", "type": "reminder", "date": "2026-11-08", "time": "13:00", "direction": "future", "spans": [["PART", "dopahar"], ["TIME", "1 baje"]]}
+{"id": "human-0314", "type": "reminder", "date": "2026-11-08", "time": "17:15", "direction": "future", "spans": [["TIME", "sava 5 baje"]]}
+{"id": "human-0315", "type": "reminder", "date": "2026-11-08", "time": "18:45", "direction": "future", "spans": [["TIME", "paune 7 baje"]]}
+{"id": "human-0316", "type": "reminder", "date": "2026-11-08", "time": "11:00", "direction": "future", "spans": [["TIME", "11 baje"]]}
+{"id": "human-0318", "type": "reminder", "date": "2026-11-14", "time": null, "direction": "future", "spans": [["WD", "next Saturday"]]}
+{"id": "human-0319", "type": "note", "date": "2026-11-08", "time": "02:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "2 baje"]]}
+{"id": "human-0321", "type": "reminder", "date": "2026-11-08", "time": "16:00", "direction": "future", "spans": [["TIME", "4 pm"]]}
+{"id": "human-0322", "type": "reminder", "date": "2026-11-09", "time": "11:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "11"]]}
+{"id": "human-0323", "type": "reminder", "date": "2026-11-12", "time": "15:00", "direction": "future", "spans": [["WD", "next week Thursday"], ["TIME", "3 baje"]]}
+{"id": "human-0325", "type": "reminder", "date": "2026-11-13", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0326", "type": "reminder", "date": "2026-11-09", "time": null, "direction": "future", "spans": [["DUR", "ek din Varanasi"]]}
+{"id": "human-0327", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0328", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0329", "type": "reminder", "date": "2026-11-08", "time": "10:20", "direction": "future", "spans": [["DUR", "20 minute mein"]]}
+{"id": "human-0330", "type": "reminder", "date": "2026-11-08", "time": "17:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "5 baje"]]}
+{"id": "human-0331", "type": "reminder", "date": "2026-11-11", "time": null, "direction": "future", "spans": [["DUR", "3 din baad"], ["DAY", "kal"]]}
+{"id": "human-0332", "type": "reminder", "date": "2026-11-11", "time": "06:00", "direction": "future", "spans": [["WD", "Wednesday"], ["TIME", "6 baje"], ["PART", "subah"]]}
+{"id": "human-0333", "type": "reminder", "date": "2026-11-09", "time": "19:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "shaam"], ["TIME", "saade 7 baje"]]}
+{"id": "human-0334", "type": "note", "date": "2026-11-05", "time": null, "direction": "past", "spans": [["DUR", "teen din pehle"]]}
+{"id": "human-0335", "type": "note", "date": "2026-10-28", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Wednesday"]]}
+{"id": "human-0336", "type": "reminder", "date": "2026-11-09", "time": "01:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "1 baje"]]}
+{"id": "human-0337", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "next month"]]}
+{"id": "human-0338", "type": "reminder", "date": "2026-11-18", "time": null, "direction": "future", "spans": [["DUR", "10 din baad"]]}
+{"id": "human-0339", "type": "reminder", "date": "2026-12-31", "time": null, "direction": "future", "spans": [["DATE", "end of the year"]]}
+{"id": "human-0340", "type": "reminder", "date": "2026-11-09", "time": "08:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["PART", "morning"], ["TIME", "8"]]}
+{"id": "human-0344", "type": "note", "date": "2026-11-01", "time": null, "direction": "past", "spans": [["WD", "pichle Sunday"]]}
+{"id": "human-0345", "type": "reminder", "date": "2026-11-10", "time": "16:00", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Tuesday"], ["TIME", "4 baje"]]}
+{"id": "human-0346", "type": "reminder", "date": "2026-11-09", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DAY", "aaj"], ["WD", "Monday"]]}
+{"id": "human-0347", "type": "reminder", "date": "2026-11-08", "time": "13:00", "direction": "future", "spans": [["DUR", "3 ghante baad"]]}
+{"id": "human-0348", "type": "note", "date": "2026-11-07", "time": "18:00", "direction": "past", "spans": [["PART", "subah"], ["TIME", "6 baje"], ["PART", "shaam"]]}
+{"id": "human-0350", "type": "reminder", "date": "2026-11-08", "time": "19:30", "direction": "future", "spans": [["TIME", "7:30 pm"]]}
+{"id": "human-0351", "type": "reminder", "date": "2026-11-09", "time": "10:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "10 baje"]]}
+{"id": "human-0352", "type": "reminder", "date": "2026-11-08", "time": "21:30", "direction": "future", "spans": [["TIME", "sade 9 baje"], ["PART", "raat"]]}
+{"id": "human-0353", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "is baar"], ["DATE", "agle saal"]]}
+{"id": "human-0354", "type": "note", "date": "2026-11-08", "time": "12:00", "direction": "past", "spans": [["DAY", "कल"], ["PART", "रात"], ["TIME", "12 बजे"], ["DAY", "आज"], ["PART", "दोपहर"]]}
+{"id": "human-0355", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DATE", "1 tareekh"]]}
+{"id": "human-0356", "type": "reminder", "date": "2026-12-01", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0359", "type": "note", "date": "2026-11-28", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["WD", "Saturday"]]}
+{"id": "human-0361", "type": "reminder", "date": "2026-12-15", "time": null, "direction": "future", "spans": [["DATE", "agle mahine 15 tareekh"]]}
+{"id": "human-0363", "type": "reminder", "date": "2026-11-30", "time": "23:40", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0365", "type": "reminder", "date": "2026-11-30", "time": "23:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "11 baje"]]}
+{"id": "human-0366", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "next month"]]}
+{"id": "human-0369", "type": "note", "date": "2026-11-30", "time": null, "direction": "past", "spans": [["DATE", "is mahine ke end"], ["DAY", "aaj"]]}
+{"id": "human-0372", "type": "reminder", "date": "2026-12-01", "time": "07:15", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "sava 7 baje"]]}
+{"id": "human-0375", "type": "reminder", "date": "2026-12-02", "time": "16:30", "direction": "future", "spans": [["TIME", "saade 4 baje"], ["DAY", "parso"]]}
+{"id": "human-0378", "type": "note", "date": "2026-11-26", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Thursday"]]}
+{"id": "human-0379", "type": "note", "date": "2026-11-23", "time": null, "direction": "past", "spans": [["WD", "pichle Monday"], ["DUR", "5000"], ["DUR", "baad"], ["PART", "dobara"]]}
+{"id": "human-0381", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0382", "type": "note", "date": "2026-12-31", "time": null, "direction": "past", "spans": [["DATE", "is saal"], ["DAY", "ab"], ["DUR", "1 mah"]]}
+{"id": "human-0384", "type": "reminder", "date": "2026-12-05", "time": null, "direction": "future", "spans": [["DATE", "5 tareekh"]]}
+{"id": "human-0385", "type": "reminder", "date": "2026-12-01", "time": "10:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "10"]]}
+{"id": "human-0386", "type": "reminder", "date": "2026-12-02", "time": "15:00", "direction": "future", "spans": [["WD", "Wednesday"], ["TIME", "3"]]}
+{"id": "human-0387", "type": "reminder", "date": "2026-12-11", "time": "09:00", "direction": "future", "spans": [["WD", "next friday"], ["PART", "morning"]]}
+{"id": "human-0388", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DATE", "1 December"]]}
+{"id": "human-0389", "type": "reminder", "date": "2026-11-30", "time": "22:10", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0390", "type": "reminder", "date": "2026-12-01", "time": "00:50", "direction": "future", "spans": [["PART", "raat"], ["TIME", "1 baje"], ["TIME", "12:50"]]}
+{"id": "human-0392", "type": "note", "date": "2026-11-29", "time": "09:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "subah"]]}
+{"id": "human-0393", "type": "note", "date": "2026-11-26", "time": "18:00", "direction": "past", "spans": [["PART", "shaam"], ["WD", "Thursday"]]}
+{"id": "human-0394", "type": "reminder", "date": "2026-12-02", "time": "18:00", "direction": "future", "spans": [["WD", "Wednesday"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0395", "type": "reminder", "date": "2026-12-14", "time": null, "direction": "future", "spans": [["WD", "next to next Monday"]]}
+{"id": "human-0396", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0397", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0398", "type": "reminder", "date": "2026-12-04", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["WD", "wali Friday"]]}
+{"id": "human-0399", "type": "reminder", "date": "2026-12-07", "time": null, "direction": "future", "spans": [["DUR", "7 din baad"]]}
+{"id": "human-0400", "type": "reminder", "date": "2026-12-13", "time": null, "direction": "future", "spans": [["WD", "agle hafte Sunday"]]}
+{"id": "human-0401", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DATE", "har mahine 1 tareekh"], ["DAY", "kal"]]}
+{"id": "human-0402", "type": "reminder", "date": "2026-12-01", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "sat baje"]]}
+{"id": "human-0404", "type": "reminder", "date": "2026-12-11", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0406", "type": "reminder", "date": "2026-12-02", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0407", "type": "reminder", "date": "2026-12-01", "time": "08:00", "direction": "future", "spans": [["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0408", "type": "reminder", "date": "2026-12-01", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DATE", "1 tareekh"]]}
+{"id": "human-0409", "type": "note", "date": "2026-11-30", "time": "21:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"]]}
+{"id": "human-0410", "type": "note", "date": "2026-12-01", "time": "18:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "shaam"]]}
+{"id": "human-0411", "type": "note", "date": "2026-12-01", "time": "00:00", "direction": "past", "spans": [["DAY", "a"], ["DUR", "bhi"], ["DUR", "10 minute pehle"], ["PART", "subah"]]}
+{"id": "human-0412", "type": "reminder", "date": "2026-12-03", "time": "14:30", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Thursday"], ["TIME", "dhai baje"]]}
+{"id": "human-0413", "type": "reminder", "date": "2026-12-03", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0414", "type": "reminder", "date": "2026-12-01", "time": "02:10", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0415", "type": "reminder", "date": "2026-12-01", "time": "00:55", "direction": "future", "spans": [["DUR", "45 minute baad"]]}
+{"id": "human-0416", "type": "reminder", "date": "2026-12-01", "time": "13:00", "direction": "future", "spans": [["TIME", "1 baje"]]}
+{"id": "human-0418", "type": "reminder", "date": "2026-12-01", "time": "08:45", "direction": "future", "spans": [["TIME", "paune 9 baje"]]}
+{"id": "human-0419", "type": "reminder", "date": "2026-12-01", "time": "10:15", "direction": "future", "spans": [["TIME", "sava 10 baje"]]}
+{"id": "human-0420", "type": "reminder", "date": "2026-12-01", "time": "13:30", "direction": "future", "spans": [["TIME", "dedh baje"]]}
+{"id": "human-0421", "type": "reminder", "date": "2026-12-31", "time": null, "direction": "future", "spans": [["DATE", "31 December"]]}
+{"id": "human-0422", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0423", "type": "reminder", "date": "2026-12-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0424", "type": "reminder", "date": "2026-12-11", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0425", "type": "reminder", "date": "2026-12-02", "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0426", "type": "note", "date": "2026-12-31", "time": null, "direction": "past", "spans": [["DATE", "is saal"], ["DATE", "agle saal"]]}
+{"id": "human-0427", "type": "note", "date": "2026-11-27", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Friday"]]}
+{"id": "human-0429", "type": "note", "date": "2026-11-30", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0430", "type": "note", "date": "2026-11-29", "time": null, "direction": "past", "spans": [["WD", "Sunday"]]}
+{"id": "human-0431", "type": "reminder", "date": "2026-12-02", "time": null, "direction": "future", "spans": [["DAY", "kal"]]}
+{"id": "human-0432", "type": "reminder", "date": "2026-12-13", "time": "07:00", "direction": "future", "spans": [["WD", "next Sunday"], ["PART", "morning"], ["TIME", "7 baje"]]}
+{"id": "human-0433", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0434", "type": "reminder", "date": "2026-12-01", "time": "19:00", "direction": "future", "spans": [["DAY", "aaj"], ["TIME", "7 baje"]]}
+{"id": "human-0435", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0436", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0437", "type": "reminder", "date": "2026-12-02", "time": "12:00", "direction": "future", "spans": [["TIME", "noon"], ["DAY", "tomorrow"]]}
+{"id": "human-0438", "type": "reminder", "date": "2026-12-02", "time": "10:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["PART", "morning"], ["TIME", "10"]]}
+{"id": "human-0439", "type": "reminder", "date": "2026-12-01", "time": "09:30", "direction": "future", "spans": [["TIME", "9:30"], ["DAY", "today"]]}
+{"id": "human-0441", "type": "reminder", "date": "2026-12-01", "time": "10:00", "direction": "future", "spans": [["DAY", "aaj"], ["DAY", "aaj"], ["TIME", "10 baje"]]}
+{"id": "human-0442", "type": "reminder", "date": "2026-12-20", "time": null, "direction": "future", "spans": [["DATE", "20 tareekh"]]}
+{"id": "human-0443", "type": "note", "date": "2026-11-29", "time": "21:00", "direction": "past", "spans": [["DAY", "parso"], ["PART", "raat"]]}
+{"id": "human-0444", "type": "reminder", "date": "2027-01-05", "time": null, "direction": "future", "spans": [["DATE", "agle mahine 5 tareekh"]]}
+{"id": "human-0445", "type": "reminder", "date": "2026-12-05", "time": null, "direction": "future", "spans": [["DUR", "4 din baad"]]}
+{"id": "human-0447", "type": "reminder", "date": "2026-12-15", "time": null, "direction": "future", "spans": [["DUR", "2 hafte baad"]]}
+{"id": "human-0448", "type": "reminder", "date": "2026-12-01", "time": "06:30", "direction": "future", "spans": [["PART", "subah"], ["TIME", "6:30 baje"]]}
+{"id": "human-0449", "type": "reminder", "date": "2026-12-01", "time": "08:00", "direction": "future", "spans": [["TIME", "sat baje"], ["TIME", "8 baje"]]}
+{"id": "human-0450", "type": "reminder", "date": "2026-12-02", "time": "19:00", "direction": "future", "spans": [["WD", "Wednesday"], ["PART", "shaam"], ["TIME", "7 baje"]]}
+{"id": "human-0451", "type": "reminder", "date": "2026-12-01", "time": "12:00", "direction": "future", "spans": [["TIME", "12 baje"]]}
+{"id": "human-0452", "type": "reminder", "date": "2026-12-01", "time": "09:00", "direction": "future", "spans": [["DAY", "aaj"], ["DAY", "din"], ["TIME", "9 se 7"]]}
+{"id": "human-0454", "type": "reminder", "date": "2026-12-03", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0457", "type": "reminder", "date": "2026-12-12", "time": "21:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0458", "type": "reminder", "date": "2026-12-13", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Sunday"]]}
+{"id": "human-0460", "type": "note", "date": "2026-12-09", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0461", "type": "note", "date": "2026-12-11", "time": "09:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"]]}
+{"id": "human-0462", "type": "reminder", "date": "2026-12-11", "time": "18:00", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0463", "type": "reminder", "date": "2026-12-11", "time": "19:50", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0464", "type": "reminder", "date": "2026-12-11", "time": "19:30", "direction": "future", "spans": [["TIME", "saade 7 baje"]]}
+{"id": "human-0465", "type": "reminder", "date": "2026-12-11", "time": "20:45", "direction": "future", "spans": [["TIME", "paune 9 baje"]]}
+{"id": "human-0466", "type": "reminder", "date": "2026-12-11", "time": "18:15", "direction": "future", "spans": [["TIME", "sava 6 baje"]]}
+{"id": "human-0467", "type": "reminder", "date": "2026-12-11", "time": "19:20", "direction": "future", "spans": [["DUR", "dedh ghante mein"]]}
+{"id": "human-0468", "type": "reminder", "date": "2026-12-14", "time": "09:00", "direction": "future", "spans": [["WD", "Monday"], ["TIME", "9 baje"]]}
+{"id": "human-0469", "type": "reminder", "date": "2026-12-18", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0470", "type": "reminder", "date": "2026-12-18", "time": "19:00", "direction": "future", "spans": [["WD", "next Friday"], ["TIME", "7 pm"]]}
+{"id": "human-0471", "type": "reminder", "date": "2026-12-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0472", "type": "reminder", "date": "2026-12-25", "time": null, "direction": "future", "spans": [["DATE", "25 December"]]}
+{"id": "human-0474", "type": "reminder", "date": "2027-01-02", "time": null, "direction": "future", "spans": [["DATE", "2 January"]]}
+{"id": "human-0475", "type": "note", "date": "2026-12-08", "time": null, "direction": "past", "spans": [["WD", "Tuesday"], ["DUR", "agla"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0476", "type": "note", "date": "2026-12-05", "time": null, "direction": "past", "spans": [["WD", "pichle Saturday"]]}
+{"id": "human-0480", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0481", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0483", "type": "reminder", "date": "2026-12-13", "time": "03:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "3:30"]]}
+{"id": "human-0485", "type": "reminder", "date": "2026-12-17", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0486", "type": "note", "date": "2026-12-08", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0489", "type": "reminder", "date": "2026-12-20", "time": null, "direction": "future", "spans": [["WD", "next to next Sunday"]]}
+{"id": "human-0490", "type": "reminder", "date": "2026-12-11", "time": "23:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "11 baje"]]}
+{"id": "human-0491", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "weekend"]]}
+{"id": "human-0492", "type": "reminder", "date": "2026-12-20", "time": null, "direction": "future", "spans": [["DATE", "20 tareekh"]]}
+{"id": "human-0493", "type": "reminder", "date": "2026-12-19", "time": "21:00", "direction": "future", "spans": [["DATE", "19"], ["PART", "raat"]]}
+{"id": "human-0494", "type": "reminder", "date": "2026-12-18", "time": null, "direction": "future", "spans": [["DUR", "1 hafte baad"]]}
+{"id": "human-0495", "type": "reminder", "date": "2026-12-13", "time": "16:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "sham"], ["TIME", "4 baje"], ["DAY", "parso"]]}
+{"id": "human-0496", "type": "note", "date": "2026-12-11", "time": "16:00", "direction": "past", "spans": [["TIME", "4 baje"]]}
+{"id": "human-0497", "type": "reminder", "date": "2026-12-12", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "sat baje"]]}
+{"id": "human-0498", "type": "reminder", "date": "2026-12-16", "time": null, "direction": "future", "spans": [["WD", "Monday"], ["WD", "Wednesday"]]}
+{"id": "human-0499", "type": "reminder", "date": "2026-12-16", "time": "22:00", "direction": "future", "spans": [["WD", "Wednesday"], ["PART", "raat"], ["TIME", "10 baje"]]}
+{"id": "human-0500", "type": "reminder", "date": "2026-12-17", "time": null, "direction": "future", "spans": [["WD", "Thursday"], ["DATE", "17"]]}
+{"id": "human-0501", "type": "reminder", "date": "2026-12-12", "time": "00:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "12 baje"]]}
+{"id": "human-0502", "type": "note", "date": "2026-11-28", "time": null, "direction": "past", "spans": [["DATE", "pichle mahine 28"]]}
+{"id": "human-0503", "type": "note", "date": "2026-12-11", "time": "17:00", "direction": "past", "spans": [["TIME", "5 baje"]]}
+{"id": "human-0504", "type": "reminder", "date": "2026-12-12", "time": "17:00", "direction": "future", "spans": [["WD", "Saturday"], ["PART", "shaam"], ["TIME", "5 baje"]]}
+{"id": "human-0505", "type": "reminder", "date": "2026-12-18", "time": "20:00", "direction": "future", "spans": [["WD", "शुक्रवार"], ["PART", "शाम"], ["TIME", "8 बजे"]]}
+{"id": "human-0506", "type": "reminder", "date": "2026-12-21", "time": "06:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "6 baje"]]}
+{"id": "human-0507", "type": "reminder", "date": "2026-12-20", "time": "22:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "10 baje"]]}
+{"id": "human-0508", "type": "reminder", "date": "2026-12-22", "time": "08:00", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Tuesday"], ["TIME", "8 baje"]]}
+{"id": "human-0509", "type": "note", "date": "2026-12-19", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0510", "type": "note", "date": "2026-12-18", "time": null, "direction": "past", "spans": [["DAY", "parso"]]}
+{"id": "human-0511", "type": "note", "date": "2026-12-19", "time": "21:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["DUR", "bar mein"]]}
+{"id": "human-0512", "type": "reminder", "date": "2026-12-20", "time": "17:15", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0514", "type": "note", "date": "2026-12-19", "time": "16:30", "direction": "past", "spans": [["TIME", "saade 4 baje"]]}
+{"id": "human-0515", "type": "note", "date": "2026-12-19", "time": "17:45", "direction": "past", "spans": [["TIME", "paune 6 baje"]]}
+{"id": "human-0516", "type": "reminder", "date": "2026-12-20", "time": "20:15", "direction": "future", "spans": [["TIME", "sava 8 baje"], ["PART", "raat"]]}
+{"id": "human-0517", "type": "reminder", "date": "2026-12-21", "time": "13:30", "direction": "future", "spans": [["TIME", "dedh baje"], ["DAY", "kal"]]}
+{"id": "human-0518", "type": "reminder", "date": "2026-12-21", "time": "00:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "12 baje midnight"]]}
+{"id": "human-0519", "type": "reminder", "date": "2026-12-31", "time": "21:00", "direction": "future", "spans": [["DATE", "31"], ["PART", "raat"]]}
+{"id": "human-0521", "type": "reminder", "date": "2027-01-04", "time": null, "direction": "future", "spans": [["DATE", "4 January"]]}
+{"id": "human-0522", "type": "reminder", "date": "2026-12-27", "time": null, "direction": "future", "spans": [["WD", "next Sunday"]]}
+{"id": "human-0523", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["WD", "agle Friday"], ["DATE", "1 January"]]}
+{"id": "human-0525", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["DATE", "1 tareekh"]]}
+{"id": "human-0526", "type": "note", "date": "2026-12-17", "time": null, "direction": "past", "spans": [["WD", "Thursday"], ["PART", "gaadi"]]}
+{"id": "human-0528", "type": "note", "date": "2026-12-17", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0530", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "agle saal"]]}
+{"id": "human-0531", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DATE", "agle saal"]]}
+{"id": "human-0533", "type": "note", "date": null, "time": null, "direction": "past", "spans": []}
+{"id": "human-0534", "type": "reminder", "date": "2026-12-20", "time": "21:00", "direction": "future", "spans": [["TIME", "9 pm"], ["DAY", "tonight"]]}
+{"id": "human-0535", "type": "reminder", "date": "2026-12-20", "time": "20:00", "direction": "future", "spans": [["DAY", "tonight"], ["TIME", "8"]]}
+{"id": "human-0537", "type": "reminder", "date": "2026-12-24", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0538", "type": "reminder", "date": "2026-12-25", "time": null, "direction": "future", "spans": [["DUR", "5 din baad"]]}
+{"id": "human-0539", "type": "note", "date": "2026-12-31", "time": null, "direction": "past", "spans": [["DUR", "11 din baad"]]}
+{"id": "human-0540", "type": "reminder", "date": "2026-12-21", "time": null, "direction": "future", "spans": [["WD", "Monday"], ["DAY", "kal"], ["WD", "Monday"]]}
+{"id": "human-0541", "type": "reminder", "date": "2026-12-21", "time": "04:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "4 baje"]]}
+{"id": "human-0542", "type": "reminder", "date": "2026-12-20", "time": "19:00", "direction": "future", "spans": [["TIME", "sat baje"]]}
+{"id": "human-0543", "type": "reminder", "date": "2026-12-23", "time": "09:00", "direction": "future", "spans": [["WD", "Wednesday"], ["TIME", "9 baje"]]}
+{"id": "human-0544", "type": "reminder", "date": "2026-12-24", "time": "21:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "raat"]]}
+{"id": "human-0545", "type": "reminder", "date": "2026-12-26", "time": null, "direction": "future", "spans": [["WD", "Saturday"]]}
+{"id": "human-0546", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["WD", "next to next Friday"], ["DAY", "sab"]]}
+{"id": "human-0548", "type": "note", "date": "2026-12-20", "time": "07:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "7 baje"]]}
+{"id": "human-0549", "type": "note", "date": "2026-12-20", "time": "11:00", "direction": "past", "spans": [["PART", "subah"], ["TIME", "11 baje"]]}
+{"id": "human-0550", "type": "note", "date": "2026-12-19", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0551", "type": "note", "date": "2026-12-19", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0552", "type": "reminder", "date": "2026-12-26", "time": null, "direction": "future", "spans": [["DATE", "26 tareekh"]]}
+{"id": "human-0553", "type": "reminder", "date": "2026-12-27", "time": "08:00", "direction": "future", "spans": [["DATE", "27"], ["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0554", "type": "reminder", "date": "2026-12-20", "time": "15:25", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0555", "type": "reminder", "date": "2026-12-22", "time": "17:30", "direction": "future", "spans": [["WD", "aur"], ["WD", "Tuesday"], ["PART", "sham"], ["TIME", "5"], ["TIME", "5:30"], ["PART", "sunset"]]}
+{"id": "human-0556", "type": "reminder", "date": "2026-12-20", "time": "19:00", "direction": "future", "spans": [["WD", "रविवार"], ["DAY", "आज"], ["PART", "शाम"], ["TIME", "7 बजे"]]}
+{"id": "human-0557", "type": "reminder", "date": "2027-01-01", "time": "00:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "12 baje"]]}
+{"id": "human-0558", "type": "reminder", "date": "2027-01-01", "time": "10:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "10 baje"]]}
+{"id": "human-0559", "type": "reminder", "date": "2027-01-01", "time": "13:00", "direction": "future", "spans": [["DAY", "kal"], ["DATE", "1 January"], ["TIME", "1 baje"]]}
+{"id": "human-0560", "type": "reminder", "date": "2027-01-02", "time": "14:40", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Saturday"], ["TIME", "2:40"], ["PART", "dopahar"]]}
+{"id": "human-0561", "type": "note", "date": "2026-12-30", "time": "21:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"]]}
+{"id": "human-0563", "type": "note", "date": "2026-12-31", "time": "09:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"]]}
+{"id": "human-0564", "type": "reminder", "date": "2027-01-01", "time": "00:00", "direction": "future", "spans": [["DUR", "dedh ghante mein"]]}
+{"id": "human-0565", "type": "reminder", "date": "2026-12-31", "time": "23:00", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0567", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "next year"]]}
+{"id": "human-0569", "type": "reminder", "date": "2027-01-04", "time": "06:00", "direction": "future", "spans": [["DATE", "naye saal"], ["DATE", "4 January"], ["TIME", "6 baje"], ["PART", "subah"]]}
+{"id": "human-0570", "type": "reminder", "date": "2027-01-04", "time": null, "direction": "future", "spans": [["DATE", "4 January"]]}
+{"id": "human-0571", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "15 January"], ["PART", "shaadi"]]}
+{"id": "human-0572", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0573", "type": "reminder", "date": "2027-01-08", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0574", "type": "reminder", "date": "2027-02-14", "time": null, "direction": "future", "spans": [["DATE", "Feb mein 14"]]}
+{"id": "human-0576", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "January ke end"]]}
+{"id": "human-0577", "type": "note", "date": "2026-12-28", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0578", "type": "note", "date": "2026-12-31", "time": "00:00", "direction": "past", "spans": [["WD", "pichle hafte"], ["TIME", "midnight"]]}
+{"id": "human-0581", "type": "reminder", "date": "2027-01-01", "time": "01:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "1 baje"]]}
+{"id": "human-0582", "type": "reminder", "date": "2027-01-01", "time": "13:30", "direction": "future", "spans": [["DAY", "kal"], ["PART", "dopahar"], ["TIME", "dedh baje"]]}
+{"id": "human-0583", "type": "reminder", "date": "2027-01-01", "time": "08:45", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "paune 9 baje"]]}
+{"id": "human-0585", "type": "reminder", "date": "2027-01-02", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0586", "type": "reminder", "date": "2027-01-03", "time": null, "direction": "future", "spans": [["WD", "Sunday"]]}
+{"id": "human-0587", "type": "reminder", "date": "2027-01-03", "time": null, "direction": "future", "spans": [["DATE", "3 January"]]}
+{"id": "human-0589", "type": "reminder", "date": "2026-12-31", "time": "23:55", "direction": "future", "spans": [["TIME", "11:55 pm"]]}
+{"id": "human-0590", "type": "reminder", "date": "2027-01-01", "time": "09:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["PART", "morning"], ["TIME", "9"]]}
+{"id": "human-0591", "type": "reminder", "date": "2027-01-01", "time": "10:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "10 baje"]]}
+{"id": "human-0592", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0594", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DATE", "ek"]]}
+{"id": "human-0596", "type": "reminder", "date": "2027-01-01", "time": "09:00", "direction": "future", "spans": [["DATE", "iss saal"], ["DAY", "kal"], ["PART", "subah"]]}
+{"id": "human-0597", "type": "note", "date": "2026-12-31", "time": "03:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "3 baje"]]}
+{"id": "human-0598", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "2027 ke March"]]}
+{"id": "human-0599", "type": "note", "date": "2026-12-26", "time": null, "direction": "past", "spans": [["DATE", "26"]]}
+{"id": "human-0600", "type": "reminder", "date": "2027-01-07", "time": null, "direction": "future", "spans": [["DATE", "7 January"]]}
+{"id": "human-0601", "type": "reminder", "date": "2027-01-20", "time": null, "direction": "future", "spans": [["DATE", "agle mahine 20 tareekh"]]}
+{"id": "human-0602", "type": "reminder", "date": "2027-01-05", "time": null, "direction": "future", "spans": [["WD", "next week Tuesday"]]}
+{"id": "human-0603", "type": "reminder", "date": "2027-01-01", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "sat baje"]]}
+{"id": "human-0604", "type": "reminder", "date": "2026-12-31", "time": "22:50", "direction": "future", "spans": [["DUR", "20 minute baad"]]}
+{"id": "human-0605", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DAY", "kal"], ["TIME", "saare"]]}
+{"id": "human-0607", "type": "reminder", "date": "2027-01-01", "time": "18:00", "direction": "future", "spans": [["DATE", "नए साल"], ["DAY", "कल"], ["PART", "शाम"], ["TIME", "6 बजे"]]}
+{"id": "human-0608", "type": "reminder", "date": "2027-01-01", "time": "13:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "dopahar"], ["TIME", "1 baje"]]}
+{"id": "human-0609", "type": "reminder", "date": "2027-01-02", "time": "14:40", "direction": "future", "spans": [["DAY", "kal"], ["WD", "Saturday"], ["TIME", "2:40"]]}
+{"id": "human-0610", "type": "note", "date": "2027-01-01", "time": "04:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "4 baje"]]}
+{"id": "human-0612", "type": "reminder", "date": "2027-01-03", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Sunday"]]}
+{"id": "human-0614", "type": "reminder", "date": "2027-01-01", "time": "12:45", "direction": "future", "spans": [["TIME", "paune 1 baje"]]}
+{"id": "human-0615", "type": "note", "date": "2026-12-31", "time": "15:30", "direction": "past", "spans": [["TIME", "saade 3 baje"]]}
+{"id": "human-0616", "type": "reminder", "date": "2027-01-01", "time": "17:15", "direction": "future", "spans": [["TIME", "sava 5 baje"]]}
+{"id": "human-0618", "type": "reminder", "date": "2027-01-04", "time": "09:30", "direction": "future", "spans": [["WD", "Monday"], ["DATE", "4 January"], ["TIME", "9:30"]]}
+{"id": "human-0619", "type": "reminder", "date": "2027-01-08", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0620", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0621", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "15 January"], ["PART", "shaadi"]]}
+{"id": "human-0623", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "last year"]]}
+{"id": "human-0625", "type": "note", "date": "2026-12-21", "time": null, "direction": "past", "spans": [["WD", "pichle Monday"], ["PART", "gaadi"]]}
+{"id": "human-0626", "type": "note", "date": "2026-12-20", "time": null, "direction": "past", "spans": [["DATE", "pichle mahine 20"]]}
+{"id": "human-0628", "type": "goal", "date": "2027-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal"]]}
+{"id": "human-0629", "type": "goal", "date": "2027-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal"]]}
+{"id": "human-0630", "type": "goal", "date": null, "time": null, "direction": "future", "spans": [["DUR", "ek din"]]}
+{"id": "human-0632", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0633", "type": "reminder", "date": "2027-01-02", "time": "12:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "noon"]]}
+{"id": "human-0634", "type": "reminder", "date": "2027-01-01", "time": "15:00", "direction": "future", "spans": [["TIME", "3"]]}
+{"id": "human-0635", "type": "reminder", "date": "2027-01-07", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0636", "type": "reminder", "date": "2027-01-04", "time": null, "direction": "future", "spans": [["DUR", "3 din baad"]]}
+{"id": "human-0637", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DUR", "2 hafte baad"]]}
+{"id": "human-0639", "type": "reminder", "date": "2027-01-07", "time": "19:00", "direction": "future", "spans": [["WD", "next week Thursday"], ["TIME", "7 baje"]]}
+{"id": "human-0640", "type": "reminder", "date": "2027-02-14", "time": null, "direction": "future", "spans": [["DATE", "next month 14"]]}
+{"id": "human-0641", "type": "reminder", "date": "2027-01-31", "time": null, "direction": "future", "spans": [["DATE", "end of month"]]}
+{"id": "human-0642", "type": "reminder", "date": "2027-01-26", "time": null, "direction": "future", "spans": [["DATE", "26 January"]]}
+{"id": "human-0643", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "March mein"]]}
+{"id": "human-0644", "type": "reminder", "date": "2027-01-03", "time": "21:00", "direction": "future", "spans": [["WD", "Sunday"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0645", "type": "note", "date": "2027-01-01", "time": "09:00", "direction": "past", "spans": [["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0646", "type": "reminder", "date": "2027-01-01", "time": "18:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["DAY", "aaj"], ["PART", "shaam"]]}
+{"id": "human-0647", "type": "note", "date": "2026-12-31", "time": "21:00", "direction": "past", "spans": [["DATE", "31"], ["PART", "raat"]]}
+{"id": "human-0648", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["DAY", "aaj"]]}
+{"id": "human-0650", "type": "reminder", "date": "2027-01-02", "time": "18:00", "direction": "future", "spans": [["WD", "Saturday"], ["TIME", "6 baje"]]}
+{"id": "human-0651", "type": "reminder", "date": "2027-01-01", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DATE", "1 tareekh"]]}
+{"id": "human-0654", "type": "reminder", "date": "2027-01-01", "time": "11:10", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0655", "type": "reminder", "date": "2027-01-01", "time": "16:00", "direction": "future", "spans": [["TIME", "4 baje"]]}
+{"id": "human-0657", "type": "reminder", "date": "2027-01-01", "time": "19:00", "direction": "future", "spans": [["DATE", "नए साल"], ["DATE", "पहला दिन"], ["PART", "शाम"], ["TIME", "7 बजे"]]}
+{"id": "human-0659", "type": "reminder", "date": "2027-01-13", "time": "19:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "7 baje"]]}
+{"id": "human-0660", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Friday"], ["PART", "shaadi"]]}
+{"id": "human-0661", "type": "note", "date": "2027-01-12", "time": null, "direction": "past", "spans": [["DAY", "kal"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0662", "type": "note", "date": "2027-01-11", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["WD", "Monday"]]}
+{"id": "human-0663", "type": "reminder", "date": "2027-01-13", "time": "18:05", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0665", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"], ["PART", "shaadi"]]}
+{"id": "human-0666", "type": "reminder", "date": "2027-01-13", "time": "17:45", "direction": "future", "spans": [["TIME", "paune 6 baje"]]}
+{"id": "human-0667", "type": "note", "date": "2027-01-12", "time": "19:30", "direction": "past", "spans": [["DAY", "kal"], ["PART", "shaam"], ["TIME", "saade 7 baje"]]}
+{"id": "human-0668", "type": "reminder", "date": "2027-01-14", "time": "21:15", "direction": "future", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "sava 9 baje"]]}
+{"id": "human-0669", "type": "reminder", "date": "2027-01-15", "time": "13:30", "direction": "future", "spans": [["WD", "Friday"], ["TIME", "dedh baje"], ["PART", "shaadi"]]}
+{"id": "human-0670", "type": "reminder", "date": "2027-01-22", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0671", "type": "reminder", "date": "2027-01-18", "time": "11:00", "direction": "future", "spans": [["WD", "next Monday"], ["TIME", "11 baje"]]}
+{"id": "human-0672", "type": "reminder", "date": "2027-01-26", "time": null, "direction": "future", "spans": [["DATE", "26 January"]]}
+{"id": "human-0674", "type": "note", "date": "2027-01-11", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0675", "type": "note", "date": "2027-01-07", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Thursday"]]}
+{"id": "human-0678", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "April mein"]]}
+{"id": "human-0679", "type": "reminder", "date": "2027-01-15", "time": null, "direction": "future", "spans": [["DATE", "March mein"], ["WD", "Friday"]]}
+{"id": "human-0681", "type": "reminder", "date": "2027-01-13", "time": "16:15", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0684", "type": "reminder", "date": "2027-01-31", "time": null, "direction": "future", "spans": [["DATE", "31 tareekh"], ["DATE", "month end"]]}
+{"id": "human-0687", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0688", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["PART", "shaadi"]]}
+{"id": "human-0690", "type": "reminder", "date": "2027-01-14", "time": "11:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "11"]]}
+{"id": "human-0692", "type": "reminder", "date": "2027-01-14", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0693", "type": "reminder", "date": "2027-01-14", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "sat baje"]]}
+{"id": "human-0694", "type": "reminder", "date": "2027-01-14", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["PART", "shaadi"], ["DUR", "mein"]]}
+{"id": "human-0695", "type": "note", "date": "2027-01-13", "time": "08:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0696", "type": "note", "date": "2027-01-12", "time": "17:00", "direction": "past", "spans": [["TIME", "2 baje"], ["TIME", "5 baje"]]}
+{"id": "human-0699", "type": "reminder", "date": "2027-01-18", "time": null, "direction": "future", "spans": [["WD", "Monday"]]}
+{"id": "human-0700", "type": "reminder", "date": "2027-01-20", "time": null, "direction": "future", "spans": [["DATE", "20 January"]]}
+{"id": "human-0702", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "agle mahine ke last week mein"]]}
+{"id": "human-0703", "type": "reminder", "date": "2027-01-15", "time": "06:00", "direction": "future", "spans": [["DAY", "parso"], ["PART", "subah"], ["TIME", "6 baje"]]}
+{"id": "human-0704", "type": "reminder", "date": "2027-01-14", "time": "18:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0705", "type": "reminder", "date": "2027-01-14", "time": "15:30", "direction": "future", "spans": [["TIME", "3:30 baje"]]}
+{"id": "human-0706", "type": "reminder", "date": "2027-01-13", "time": "23:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "11 baje"], ["PART", "sha"]]}
+{"id": "human-0708", "type": "reminder", "date": "2027-01-20", "time": "18:00", "direction": "future", "spans": [["WD", "बुधवार"], ["PART", "शाम"], ["TIME", "6 बजे"]]}
+{"id": "human-0709", "type": "reminder", "date": "2027-01-30", "time": "11:00", "direction": "future", "spans": [["DAY", "aaj"], ["TIME", "11 baje"]]}
+{"id": "human-0710", "type": "reminder", "date": "2027-01-31", "time": "13:00", "direction": "future", "spans": [["DAY", "kal"], ["WD", "Sunday"], ["TIME", "1 baje"]]}
+{"id": "human-0711", "type": "reminder", "date": "2027-02-01", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Monday"], ["DATE", "1 February"]]}
+{"id": "human-0713", "type": "note", "date": "2027-01-28", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0714", "type": "reminder", "date": "2027-01-30", "time": "11:20", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0715", "type": "reminder", "date": "2027-02-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0716", "type": "reminder", "date": "2027-02-05", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0718", "type": "reminder", "date": "2027-01-30", "time": "16:30", "direction": "future", "spans": [["TIME", "saade 4 baje"]]}
+{"id": "human-0722", "type": "goal", "date": "2027-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal"]]}
+{"id": "human-0723", "type": "note", "date": "2027-01-25", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0724", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "pichle weekend"]]}
+{"id": "human-0725", "type": "reminder", "date": "2027-02-26", "time": null, "direction": "future", "spans": [["DATE", "26"]]}
+{"id": "human-0726", "type": "note", "date": "2027-01-26", "time": null, "direction": "past", "spans": [["DUR", "4 din pehle"]]}
+{"id": "human-0727", "type": "reminder", "date": "2027-02-06", "time": "06:00", "direction": "future", "spans": [["WD", "next Saturday"], ["TIME", "6 baje"], ["PART", "subah"]]}
+{"id": "human-0728", "type": "reminder", "date": "2027-02-14", "time": "08:00", "direction": "future", "spans": [["DATE", "14 February"], ["TIME", "8 baje"]]}
+{"id": "human-0729", "type": "reminder", "date": "2027-01-31", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DATE", "31"], ["DAY", "kal"]]}
+{"id": "human-0731", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "February ke end"]]}
+{"id": "human-0732", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "March mein"]]}
+{"id": "human-0733", "type": "reminder", "date": "2027-01-30", "time": "18:00", "direction": "future", "spans": [["TIME", "6 pm"]]}
+{"id": "human-0735", "type": "reminder", "date": "2027-02-04", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0736", "type": "reminder", "date": "2027-01-31", "time": "07:00", "direction": "future", "spans": [["WD", "sunday"], ["TIME", "7 am"]]}
+{"id": "human-0738", "type": "reminder", "date": "2027-02-01", "time": null, "direction": "future", "spans": [["WD", "Monday"]]}
+{"id": "human-0740", "type": "reminder", "date": "2027-01-30", "time": "09:40", "direction": "future", "spans": [["DUR", "20 minute mein"]]}
+{"id": "human-0741", "type": "reminder", "date": "2027-01-30", "time": "18:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0742", "type": "reminder", "date": "2027-01-31", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "sat baje"]]}
+{"id": "human-0744", "type": "reminder", "date": "2027-02-02", "time": null, "direction": "future", "spans": [["DUR", "3 din baad"]]}
+{"id": "human-0745", "type": "reminder", "date": "2027-02-01", "time": null, "direction": "future", "spans": [["WD", "Tuesday"], ["WD", "Monday"]]}
+{"id": "human-0746", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next to next week"]]}
+{"id": "human-0747", "type": "note", "date": "2027-01-23", "time": null, "direction": "past", "spans": [["WD", "pichle Saturday"]]}
+{"id": "human-0748", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["WD", "pichle mahine"]]}
+{"id": "human-0749", "type": "reminder", "date": "2027-02-09", "time": null, "direction": "future", "spans": [["DUR", "10 din baad"]]}
+{"id": "human-0751", "type": "reminder", "date": "2027-02-06", "time": "08:00", "direction": "future", "spans": [["WD", "har"], ["WD", "Saturday"], ["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0753", "type": "note", "date": "2027-01-30", "time": "01:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "1 baje"]]}
+{"id": "human-0755", "type": "reminder", "date": "2027-02-12", "time": "11:00", "direction": "future", "spans": [["TIME", "11 baje"], ["DATE", "12"]]}
+{"id": "human-0757", "type": "reminder", "date": "2027-01-31", "time": "05:00", "direction": "future", "spans": [["DATE", "naye mahine"], ["TIME", "roz"], ["TIME", "5 baje"]]}
+{"id": "human-0758", "type": "reminder", "date": "2027-02-01", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0759", "type": "reminder", "date": "2027-01-30", "time": "14:00", "direction": "future", "spans": [["WD", "शनिवार"], ["PART", "दोपहर"], ["TIME", "2 बजे"]]}
+{"id": "human-0760", "type": "reminder", "date": "2027-03-01", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["DATE", "1 March"]]}
+{"id": "human-0761", "type": "reminder", "date": "2027-03-01", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0762", "type": "reminder", "date": "2027-03-02", "time": "15:00", "direction": "future", "spans": [["DAY", "parso"], ["WD", "Tuesday"], ["TIME", "3 baje"]]}
+{"id": "human-0763", "type": "note", "date": "2027-02-27", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0766", "type": "reminder", "date": "2027-03-29", "time": null, "direction": "future", "spans": [["DATE", "29 tareekh"]]}
+{"id": "human-0767", "type": "reminder", "date": "2027-03-30", "time": null, "direction": "future", "spans": [["DATE", "30 tareekh"]]}
+{"id": "human-0768", "type": "reminder", "date": "2027-03-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0769", "type": "reminder", "date": "2027-03-05", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0770", "type": "reminder", "date": "2027-02-28", "time": "22:45", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0771", "type": "reminder", "date": "2027-02-28", "time": "23:00", "direction": "future", "spans": [["PART", "raat"], ["TIME", "11 baje"]]}
+{"id": "human-0772", "type": "reminder", "date": "2027-03-01", "time": "00:00", "direction": "future", "spans": [["TIME", "12 baje"]]}
+{"id": "human-0774", "type": "reminder", "date": "2027-03-01", "time": "18:30", "direction": "future", "spans": [["TIME", "saade 6 baje"], ["DAY", "kal"], ["PART", "shaam"]]}
+{"id": "human-0775", "type": "reminder", "date": "2027-03-01", "time": "08:15", "direction": "future", "spans": [["TIME", "sava 8 baje"], ["DAY", "kal"]]}
+{"id": "human-0779", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "next month end"]]}
+{"id": "human-0780", "type": "reminder", "date": "2027-03-31", "time": null, "direction": "future", "spans": [["DATE", "31 March"], ["PART", "sab"]]}
+{"id": "human-0781", "type": "note", "date": "2027-02-22", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0782", "type": "note", "date": "2027-02-17", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Wednesday"]]}
+{"id": "human-0783", "type": "note", "date": "2027-02-25", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0785", "type": "reminder", "date": "2027-03-14", "time": null, "direction": "future", "spans": [["DATE", "is saal"], ["DATE", "14 March"]]}
+{"id": "human-0786", "type": "reminder", "date": "2027-03-01", "time": "19:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "7"]]}
+{"id": "human-0788", "type": "reminder", "date": "2027-03-04", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0791", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0792", "type": "reminder", "date": "2027-02-28", "time": "21:15", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0793", "type": "reminder", "date": "2027-03-01", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "sat baje"]]}
+{"id": "human-0794", "type": "reminder", "date": "2027-03-01", "time": null, "direction": "future", "spans": [["DAY", "kal"]]}
+{"id": "human-0795", "type": "reminder", "date": "2027-03-14", "time": "06:00", "direction": "future", "spans": [["WD", "next to next Sunday"], ["TIME", "6 baje"], ["PART", "subah"]]}
+{"id": "human-0796", "type": "reminder", "date": "2027-03-07", "time": null, "direction": "future", "spans": [["DUR", "1 hafte baad"]]}
+{"id": "human-0798", "type": "note", "date": "2027-02-27", "time": null, "direction": "past", "spans": [["WD", "Saturday"]]}
+{"id": "human-0799", "type": "note", "date": "2027-02-26", "time": null, "direction": "past", "spans": [["DUR", "2 din pehle"]]}
+{"id": "human-0800", "type": "note", "date": "2027-02-28", "time": "06:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "6 baje"]]}
+{"id": "human-0801", "type": "reminder", "date": "2027-03-02", "time": null, "direction": "future", "spans": [["DAY", "a"], ["DUR", "bhi"], ["DUR", "kuch der pehle"], ["WD", "Tuesday"]]}
+{"id": "human-0803", "type": "reminder", "date": "2027-03-01", "time": "11:00", "direction": "future", "spans": [["DUR", "mahine ke pehle"], ["WD", "Monday"], ["TIME", "11 baje"]]}
+{"id": "human-0804", "type": "reminder", "date": "2027-03-01", "time": "10:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "10 baje"]]}
+{"id": "human-0805", "type": "reminder", "date": "2027-03-07", "time": null, "direction": "future", "spans": [["DATE", "7 March"]]}
+{"id": "human-0807", "type": "reminder", "date": "2027-03-02", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0809", "type": "reminder", "date": "2027-03-01", "time": "07:00", "direction": "future", "spans": [["WD", "रविवार"], ["PART", "रात"], ["DAY", "कल"], ["PART", "सुबह"], ["TIME", "7 बजे"]]}
+{"id": "human-0810", "type": "reminder", "date": "2027-03-15", "time": null, "direction": "future", "spans": [["DAY", "aaj"], ["DATE", "15 tareekh"]]}
+{"id": "human-0811", "type": "reminder", "date": "2027-03-16", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0813", "type": "note", "date": "2027-03-15", "time": "07:58", "direction": "past", "spans": [["DAY", "kal"], ["DUR", "58 minute mein"]]}
+{"id": "human-0815", "type": "reminder", "date": "2027-03-15", "time": "09:00", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0816", "type": "reminder", "date": "2027-03-15", "time": "08:45", "direction": "future", "spans": [["TIME", "paune 9 baje"]]}
+{"id": "human-0817", "type": "reminder", "date": "2027-03-15", "time": "09:30", "direction": "future", "spans": [["TIME", "saade 9 baje"]]}
+{"id": "human-0818", "type": "reminder", "date": "2027-03-15", "time": "11:15", "direction": "future", "spans": [["TIME", "sava 11 baje"]]}
+{"id": "human-0820", "type": "reminder", "date": "2027-03-15", "time": "18:30", "direction": "future", "spans": [["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0821", "type": "reminder", "date": "2027-03-26", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0823", "type": "reminder", "date": "2027-03-20", "time": null, "direction": "future", "spans": [["DATE", "Holi"], ["DATE", "22"], ["DATE", "20"]]}
+{"id": "human-0824", "type": "reminder", "date": "2027-03-20", "time": "06:00", "direction": "future", "spans": [["WD", "Saturday"], ["PART", "subah"], ["TIME", "6 baje"]]}
+{"id": "human-0825", "type": "reminder", "date": "2027-03-31", "time": null, "direction": "future", "spans": [["DATE", "31 March"]]}
+{"id": "human-0826", "type": "note", "date": "2026-04-01", "time": null, "direction": "past", "spans": [["DATE", "1 April"]]}
+{"id": "human-0827", "type": "note", "date": "2027-03-15", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0828", "type": "note", "date": "2027-03-11", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Thursday"]]}
+{"id": "human-0829", "type": "note", "date": "2027-03-12", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0831", "type": "goal", "date": "2027-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal October"]]}
+{"id": "human-0832", "type": "reminder", "date": "2027-03-15", "time": "08:00", "direction": "future", "spans": [["TIME", "8"]]}
+{"id": "human-0834", "type": "reminder", "date": "2027-03-18", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0835", "type": "reminder", "date": "2027-03-20", "time": "05:30", "direction": "future", "spans": [["WD", "saturday"], ["TIME", "5"], ["TIME", "5:30 am"]]}
+{"id": "human-0840", "type": "note", "date": "2027-03-15", "time": "05:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "5 baje"]]}
+{"id": "human-0843", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next weekend"]]}
+{"id": "human-0845", "type": "reminder", "date": "2027-03-25", "time": null, "direction": "future", "spans": [["DUR", "10 din baad"]]}
+{"id": "human-0847", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "har saal"], ["DATE", "is"]]}
+{"id": "human-0848", "type": "reminder", "date": "2027-03-16", "time": "19:00", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "sat baje"]]}
+{"id": "human-0849", "type": "reminder", "date": "2027-03-17", "time": "19:00", "direction": "future", "spans": [["WD", "Wednesday"], ["PART", "shaam"], ["TIME", "7 baje"]]}
+{"id": "human-0850", "type": "reminder", "date": "2027-03-19", "time": null, "direction": "future", "spans": [["WD", "Friday"]]}
+{"id": "human-0851", "type": "reminder", "date": "2027-03-21", "time": "21:00", "direction": "future", "spans": [["WD", "Sunday"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0852", "type": "reminder", "date": "2027-03-15", "time": "16:30", "direction": "future", "spans": [["TIME", "4 baje"], ["DAY", "aaj"], ["TIME", "4:30"]]}
+{"id": "human-0853", "type": "reminder", "date": "2027-03-21", "time": null, "direction": "future", "spans": [["DATE", "end of this week"]]}
+{"id": "human-0855", "type": "reminder", "date": "2027-04-02", "time": null, "direction": "future", "spans": [["DATE", "2 April"]]}
+{"id": "human-0856", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "pichle saal"]]}
+{"id": "human-0857", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0858", "type": "note", "date": "2027-03-14", "time": "09:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "subah"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0859", "type": "reminder", "date": "2027-03-15", "time": "10:00", "direction": "future", "spans": [["WD", "सोमवार"], ["PART", "सुबह"], ["TIME", "10 बजे"]]}
+{"id": "human-0860", "type": "reminder", "date": "2027-05-12", "time": "18:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0863", "type": "note", "date": "2027-05-11", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0864", "type": "note", "date": "2027-05-10", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["WD", "Monday"]]}
+{"id": "human-0865", "type": "reminder", "date": "2027-05-12", "time": "16:30", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0866", "type": "reminder", "date": "2027-05-12", "time": "15:45", "direction": "future", "spans": [["TIME", "paune 4 baje"]]}
+{"id": "human-0867", "type": "note", "date": "2027-05-11", "time": "17:30", "direction": "past", "spans": [["TIME", "saade 5 baje"]]}
+{"id": "human-0868", "type": "reminder", "date": "2027-05-12", "time": "19:15", "direction": "future", "spans": [["TIME", "sava 7 baje"]]}
+{"id": "human-0870", "type": "reminder", "date": "2027-05-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0871", "type": "reminder", "date": "2027-05-21", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0873", "type": "note", "date": "2027-05-10", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0874", "type": "reminder", "date": "2027-05-06", "time": null, "direction": "future", "spans": [["WD", "pichle hafte Thursday"]]}
+{"id": "human-0875", "type": "note", "date": "2027-05-09", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0877", "type": "note", "date": "2027-12-31", "time": null, "direction": "past", "spans": [["DATE", "is saal"], ["DUR", "October mein"]]}
+{"id": "human-0880", "type": "reminder", "date": "2027-05-13", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0881", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0883", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0884", "type": "reminder", "date": "2027-05-12", "time": "15:00", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0885", "type": "reminder", "date": "2027-05-12", "time": "14:40", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0886", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0887", "type": "reminder", "date": "2027-05-14", "time": "05:00", "direction": "future", "spans": [["WD", "Friday"], ["PART", "subah"], ["TIME", "5 baje"]]}
+{"id": "human-0888", "type": "reminder", "date": "2027-05-16", "time": "21:00", "direction": "future", "spans": [["WD", "Sunday"], ["PART", "raat"]]}
+{"id": "human-0889", "type": "reminder", "date": "2027-05-18", "time": null, "direction": "future", "spans": [["WD", "next week Tuesday"]]}
+{"id": "human-0890", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next to next week"]]}
+{"id": "human-0891", "type": "reminder", "date": "2027-05-31", "time": null, "direction": "future", "spans": [["DATE", "end of month"]]}
+{"id": "human-0892", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DUR", "June mein"]]}
+{"id": "human-0893", "type": "reminder", "date": "2027-06-20", "time": null, "direction": "future", "spans": [["DATE", "20 June"]]}
+{"id": "human-0894", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "July"], ["DUR", "mein"]]}
+{"id": "human-0895", "type": "reminder", "date": "2027-05-22", "time": null, "direction": "future", "spans": [["DUR", "10 din baad"]]}
+{"id": "human-0897", "type": "note", "date": "2027-05-12", "time": "08:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "8 baje"]]}
+{"id": "human-0899", "type": "reminder", "date": "2027-05-13", "time": "16:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "sham"], ["TIME", "4 baje"]]}
+{"id": "human-0901", "type": "reminder", "date": "2027-05-19", "time": "15:00", "direction": "future", "spans": [["WD", "har Wednesday"], ["TIME", "3 baje"]]}
+{"id": "human-0902", "type": "reminder", "date": "2027-05-12", "time": "15:00", "direction": "future", "spans": [["DAY", "aaj"], ["WD", "Wednesday"], ["TIME", "3 baje"], ["DUR", "aadhe ghante baad"]]}
+{"id": "human-0903", "type": "note", "date": "2027-04-25", "time": null, "direction": "past", "spans": [["DATE", "pichle mahine 25"]]}
+{"id": "human-0904", "type": "reminder", "date": "2027-06-02", "time": null, "direction": "future", "spans": [["DUR", "3 hafte baad"]]}
+{"id": "human-0905", "type": "reminder", "date": "2027-05-25", "time": null, "direction": "future", "spans": [["DATE", "25 May"]]}
+{"id": "human-0907", "type": "reminder", "date": "2027-06-01", "time": null, "direction": "future", "spans": [["DATE", "1 June"]]}
+{"id": "human-0908", "type": "reminder", "date": "2027-05-14", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0909", "type": "reminder", "date": "2027-05-12", "time": "17:00", "direction": "future", "spans": [["WD", "बुधवार"], ["PART", "दोपहर"], ["PART", "शाम"], ["TIME", "5 बजे"]]}
+{"id": "human-0910", "type": "reminder", "date": "2027-07-30", "time": "18:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "shaam"], ["TIME", "6 baje"]]}
+{"id": "human-0911", "type": "reminder", "date": "2027-07-31", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["WD", "Saturday"], ["PART", "subah"], ["TIME", "7 baje"]]}
+{"id": "human-0912", "type": "reminder", "date": "2027-08-01", "time": null, "direction": "future", "spans": [["DAY", "parso"], ["WD", "Sunday"], ["DATE", "1 August"]]}
+{"id": "human-0913", "type": "note", "date": "2027-07-29", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0914", "type": "note", "date": "2027-07-28", "time": null, "direction": "past", "spans": [["DAY", "parso"]]}
+{"id": "human-0915", "type": "reminder", "date": "2027-07-30", "time": "14:00", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0918", "type": "reminder", "date": "2027-07-30", "time": "17:15", "direction": "future", "spans": [["TIME", "sava 5 baje"]]}
+{"id": "human-0919", "type": "reminder", "date": "2027-07-30", "time": "13:30", "direction": "future", "spans": [["TIME", "dedh baje"]]}
+{"id": "human-0920", "type": "reminder", "date": "2027-08-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0921", "type": "reminder", "date": "2027-08-15", "time": null, "direction": "future", "spans": [["DATE", "15 August"]]}
+{"id": "human-0922", "type": "reminder", "date": "2027-08-06", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0923", "type": "reminder", "date": "2027-07-31", "time": null, "direction": "future", "spans": [["DATE", "31 tareekh"], ["DATE", "month end"]]}
+{"id": "human-0924", "type": "note", "date": "2027-07-26", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0925", "type": "note", "date": "2027-07-20", "time": null, "direction": "past", "spans": [["WD", "pichle hafte Tuesday"]]}
+{"id": "human-0926", "type": "note", "date": "2027-07-27", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0929", "type": "reminder", "date": "2027-07-30", "time": "16:00", "direction": "future", "spans": [["TIME", "4"]]}
+{"id": "human-0931", "type": "reminder", "date": "2027-08-05", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0933", "type": "note", "date": null, "time": null, "direction": "future", "spans": []}
+{"id": "human-0934", "type": "reminder", "date": "2027-07-30", "time": "12:30", "direction": "future", "spans": [["DUR", "30 minute mein"]]}
+{"id": "human-0935", "type": "reminder", "date": "2027-07-30", "time": "12:10", "direction": "future", "spans": [["DUR", "10 minute baad"]]}
+{"id": "human-0936", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next weekend"]]}
+{"id": "human-0937", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "August"]]}
+{"id": "human-0938", "type": "reminder", "date": "2027-07-31", "time": null, "direction": "future", "spans": [["DAY", "kal"], ["WD", "last"], ["DATE", "date"]]}
+{"id": "human-0939", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "next"], ["WD", "month"]]}
+{"id": "human-0940", "type": "reminder", "date": "2027-08-06", "time": null, "direction": "future", "spans": [["DUR", "1 hafte baad"]]}
+{"id": "human-0942", "type": "reminder", "date": "2027-08-13", "time": null, "direction": "future", "spans": [["DUR", "2 hafte baad"], ["DATE", "15 August"]]}
+{"id": "human-0944", "type": "note", "date": "2027-07-30", "time": "09:00", "direction": "past", "spans": [["DAY", "aaj"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0945", "type": "note", "date": "2027-07-30", "time": "01:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "1 baje"]]}
+{"id": "human-0946", "type": "note", "date": "2027-06-20", "time": null, "direction": "past", "spans": [["DATE", "pichle mahine 20 June"]]}
+{"id": "human-0947", "type": "reminder", "date": "2027-08-13", "time": null, "direction": "future", "spans": [["WD", "next to next Friday"]]}
+{"id": "human-0948", "type": "reminder", "date": "2027-07-23", "time": null, "direction": "future", "spans": [["DATE", "mahine"], ["WD", "last Friday"], ["DAY", "aaj"]]}
+{"id": "human-0949", "type": "reminder", "date": "2027-07-31", "time": "07:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subha"], ["TIME", "sat baje"]]}
+{"id": "human-0950", "type": "reminder", "date": "2027-07-31", "time": "21:00", "direction": "future", "spans": [["WD", "Saturday"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0951", "type": "reminder", "date": "2027-08-01", "time": "15:00", "direction": "future", "spans": [["WD", "Sunday"], ["PART", "dopahar"], ["TIME", "3 baje"]]}
+{"id": "human-0952", "type": "reminder", "date": "2027-08-02", "time": null, "direction": "future", "spans": [["WD", "monday"]]}
+{"id": "human-0953", "type": "reminder", "date": "2027-07-30", "time": "15:30", "direction": "future", "spans": [["TIME", "3 baje"], ["TIME", "3:30 baje"]]}
+{"id": "human-0956", "type": "reminder", "date": "2027-08-01", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-0958", "type": "note", "date": "2027-07-29", "time": "21:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"]]}
+{"id": "human-0959", "type": "reminder", "date": "2027-07-30", "time": "16:00", "direction": "future", "spans": [["WD", "शुक्रवार"], ["PART", "दोपहर"], ["TIME", "4 बजे"]]}
+{"id": "human-0960", "type": "reminder", "date": "2027-07-31", "time": "09:00", "direction": "future", "spans": [["PART", "subah"], ["TIME", "naashte"]]}
+{"id": "human-0961", "type": "reminder", "date": "2027-09-05", "time": "21:00", "direction": "future", "spans": [["DAY", "aaj"], ["PART", "raat"], ["TIME", "9 baje"]]}
+{"id": "human-0962", "type": "reminder", "date": "2027-09-06", "time": "09:00", "direction": "future", "spans": [["DAY", "kal"], ["PART", "subah"], ["TIME", "9 baje"]]}
+{"id": "human-0964", "type": "note", "date": "2027-09-04", "time": null, "direction": "past", "spans": [["DAY", "kal"]]}
+{"id": "human-0965", "type": "note", "date": "2027-09-03", "time": null, "direction": "past", "spans": [["DAY", "parso"], ["DUR", "6 mahine baad"]]}
+{"id": "human-0966", "type": "reminder", "date": "2027-09-05", "time": "20:55", "direction": "future", "spans": [["DUR", "2 ghante baad"]]}
+{"id": "human-0967", "type": "reminder", "date": "2027-09-05", "time": "19:00", "direction": "future", "spans": [["DUR", "5 minute mein"], ["TIME", "7 baje"]]}
+{"id": "human-0968", "type": "reminder", "date": "2027-09-05", "time": "19:45", "direction": "future", "spans": [["TIME", "paune 8 baje"]]}
+{"id": "human-0969", "type": "reminder", "date": "2027-09-05", "time": "21:30", "direction": "future", "spans": [["TIME", "saade 9 baje"]]}
+{"id": "human-0970", "type": "reminder", "date": "2027-09-06", "time": "10:15", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "sava 10 baje"]]}
+{"id": "human-0972", "type": "reminder", "date": "2027-09-15", "time": null, "direction": "future", "spans": [["DATE", "15 tareekh"]]}
+{"id": "human-0973", "type": "reminder", "date": "2027-09-10", "time": null, "direction": "future", "spans": [["WD", "agle Friday"]]}
+{"id": "human-0975", "type": "note", "date": "2027-08-30", "time": null, "direction": "past", "spans": [["WD", "Monday"], ["TIME", "gaadi"]]}
+{"id": "human-0976", "type": "reminder", "date": "2027-08-25", "time": null, "direction": "future", "spans": [["WD", "pichle hafte Wednesday"]]}
+{"id": "human-0977", "type": "note", "date": "2027-09-02", "time": null, "direction": "past", "spans": [["DUR", "3 din pehle"]]}
+{"id": "human-0979", "type": "reminder", "date": "2027-09-17", "time": null, "direction": "future", "spans": [["DATE", "October"], ["DATE", "17 tareekh"]]}
+{"id": "human-0980", "type": "reminder", "date": "2027-09-06", "time": "08:00", "direction": "future", "spans": [["DAY", "tomorrow"], ["TIME", "8"]]}
+{"id": "human-0982", "type": "reminder", "date": "2027-09-09", "time": "09:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "morning"]]}
+{"id": "human-0985", "type": "reminder", "date": "2027-09-05", "time": "19:25", "direction": "future", "spans": [["DUR", "30 minute baad"]]}
+{"id": "human-0986", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next weekend"]]}
+{"id": "human-0987", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["DATE", "September ke end"]]}
+{"id": "human-0988", "type": "reminder", "date": "2027-09-19", "time": null, "direction": "future", "spans": [["DUR", "2 hafte baad"]]}
+{"id": "human-0990", "type": "reminder", "date": "2027-09-12", "time": "20:00", "direction": "future", "spans": [["WD", "har Sunday"], ["PART", "raat"], ["TIME", "8 baje"]]}
+{"id": "human-0994", "type": "reminder", "date": null, "time": null, "direction": "future", "spans": [["WD", "next to next week"]]}
+{"id": "human-0995", "type": "reminder", "date": "2027-09-09", "time": "22:00", "direction": "future", "spans": [["WD", "Thursday"], ["PART", "raat"], ["TIME", "10 baje"]]}
+{"id": "human-0996", "type": "reminder", "date": "2027-09-06", "time": "16:30", "direction": "future", "spans": [["DAY", "kal"], ["TIME", "4 baje"], ["TIME", "4:30"]]}
+{"id": "human-0998", "type": "reminder", "date": "2027-09-11", "time": null, "direction": "future", "spans": [["WD", "Saturday"], ["DATE", "11 tareekh"]]}
+{"id": "human-0999", "type": "reminder", "date": "2027-09-30", "time": null, "direction": "future", "spans": [["DATE", "end of month"]]}
+{"id": "human-1001", "type": "note", "date": null, "time": null, "direction": "past", "spans": [["DATE", "pichle saal"]]}
+{"id": "human-1002", "type": "reminder", "date": "2027-09-07", "time": "18:30", "direction": "future", "spans": [["DAY", "parso"], ["PART", "shaam"], ["TIME", "saade 6 baje"]]}
+{"id": "human-1005", "type": "goal", "date": "2027-12-31", "time": null, "direction": "future", "spans": [["DATE", "is saal"]]}
+{"id": "human-1006", "type": "note", "date": "2027-09-05", "time": "03:00", "direction": "past", "spans": [["DAY", "kal"], ["PART", "raat"], ["TIME", "3 baje"]]}
+{"id": "human-1007", "type": "reminder", "date": "2027-09-06", "time": null, "direction": "future", "spans": [["WD", "next Friday"], ["DUR", "day"]]}
+{"id": "human-1009", "type": "reminder", "date": "2027-09-05", "time": "19:55", "direction": "future", "spans": [["DUR", "1 ghante baad"]]}
+{"id": "human-1010", "type": "reminder", "date": "2027-09-11", "time": "23:00", "direction": "future", "spans": [["WD", "रविवार"], ["PART", "शाम"], ["WD", "अगले शनिवार"], ["TIME", "11 बजे"]]}

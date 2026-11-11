@@ -1,5 +1,6 @@
-"""Main results table (markdown) for a split. Seeds are averaged (mean ± sd).
-Usage: python make_table.py test_synth [gold_split, e.g. test_synth_300 to score on the LLM sample]"""
+"""Synthetic results table (markdown) for a split. Seeds are averaged (mean ± sd).
+The paper's Synth-Test-300 table (v1 systems): python results/make_table.py test_synth test_synth_300
+Median latencies for that table are in results/latency/."""
 import glob, json, os, re, statistics, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, f"{ROOT}/src")
@@ -26,18 +27,20 @@ def timed(p, rows):
 
 T = [r for r in gold.values() if r["date"]]
 TA = [r for r in T if r["flags"]["ambiguous"]]
+TP = [r for r in T if r["direction"] == "past"]
 fmt = lambda xs: f"{statistics.mean(xs):.1f}" + (f" ± {statistics.stdev(xs):.1f}" if len(xs) > 1 else "")
-print(f"| System | n | Full match | Type | Date+time (timed, n={len(T)}) | Date+time, kal/parso/weekday (n={len(TA)}) | Past | Median ms (CPU) |")
-print("|---|---|---|---|---|---|---|---|")
+print(f"| System | n | Full match | Type | Date+time (timed, n={len(T)}) | Date+time, kal/parso/weekday (n={len(TA)}) | Date+time, past (n={len(TP)}) | Past, full match | Median ms (CPU) |")
+print("|---|---|---|---|---|---|---|---|---|")
 for name, files in systems.items():
-    ss, tt, ta, ms = [], [], [], []
+    ss, tt, ta, tp, ms = [], [], [], [], []
     for f in files:
         p = {k: v for k, v in load(f).items() if k in gold}
         g = {k: v for k, v in gold.items() if k in p}
         s = score(g, p); ss.append(s)
         tt.append(timed(p, [r for r in T if r["id"] in p])); ta.append(timed(p, [r for r in TA if r["id"] in p]))
+        tp.append(timed(p, [r for r in TP if r["id"] in p]))
         if "latency_ms" in s: ms.append(s["latency_ms"]["median"])
     n = len(ss[0]) and len([1 for _ in g])
     lat = f"{statistics.mean(ms):,.0f}" if ms and statistics.mean(ms) > 50 else "see sweep"
-    print(f"| {name} | {n} | {fmt([s['all']['full'] for s in ss])} | {fmt([s['all']['type'] for s in ss])} | {fmt(tt)} | {fmt(ta)} "
+    print(f"| {name} | {n} | {fmt([s['all']['full'] for s in ss])} | {fmt([s['all']['type'] for s in ss])} | {fmt(tt)} | {fmt(ta)} | {fmt(tp)} "
           f"| {fmt([s['past']['full'] for s in ss])} | {lat} |")
