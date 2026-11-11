@@ -3047,9 +3047,258 @@
   "code mixed hindi": {
    "error": "HTTP Error 429: "
   },
-  "hindi english": {
-   "error": "HTTP Error 429: "
-  },
+  "hindi english": [
+   {
+    "t": "COMI-LINGUA: Expert Annotated Large-Scale Dataset for Multitask NLP in Hindi-English Code-Mixing",
+    "y": 2025,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "THAR- Targeted Hate Speech Against Religion: A high-quality Hindi-English code-mixed Dataset with the Application of Deep Learning Models for Automatic Detection",
+    "y": 2024,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "MedSumm: A Multimodal Approach to Summarizing Code-Mixed Hindi-English Clinical Queries",
+    "y": 2024,
+    "v": "European Conference on Information Retrieval"
+   },
+   {
+    "t": "MIMIC: Misogyny Identification in Multimodal Internet Content in Hindi-English Code-Mixed Language",
+    "y": 2024,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "Memotion 3: Dataset on sentiment and emotion analysis of codemixed Hindi-English Memes",
+    "y": 2023,
+    "v": "DE-FACTIFY@AAAI"
+   },
+   {
+    "t": "CM-Off-Meme: Code-Mixed Hindi-English Offensive Meme Detection with Multi-Task Learning by Leveraging Contextual Knowledge",
+    "y": 2024,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Comparative Study of Pre-Trained BERT Models for Code-Mixed Hindi-English Data",
+    "y": 2023,
+    "v": "2023 IEEE 8th International Conference for Convergence in Technology (I2CT)"
+   },
+   {
+    "t": "L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models",
+    "y": 2022,
+    "v": "WILDRE"
+   },
+   {
+    "t": "Ceasing hate withMoH: Hate Speech Detection in Hindi-English Code-Switched Language",
+    "y": 2021,
+    "v": "Information Processing & Management"
+   },
+   {
+    "t": "Benchmarking Hindi-to-English direct speech-to-speech translation with synthetic data",
+    "y": 2025,
+    "v": "Language Resources and Evaluation"
+   },
+   {
+    "t": "A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection",
+    "y": 2018,
+    "v": "PEOPLES@NAACL-HTL"
+   },
+   {
+    "t": "Overview of the HASOC Track at FIRE 2020: Hate Speech and Offensive Language Identification in Tamil, Malayalam, Hindi, English and German",
+    "y": 2020,
+    "v": "Fire"
+   },
+   {
+    "t": "Aggression-annotated Corpus of Hindi-English Code-mixed Data",
+    "y": 2018,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Towards Emotion Recognition in Hindi-English Code-Mixed Data: A Transformer Based Approach",
+    "y": 2021,
+    "v": "Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis"
+   },
+   {
+    "t": "CMHE-AN: Code mixed hybrid embedding based attention network for aggression identification in hindi english code-mixed text",
+    "y": 2022,
+    "v": "Multimedia tools and applications"
+   },
+   {
+    "t": "Hostility Detection in Online Hindi-English Code-Mixed Conversations",
+    "y": 2022,
+    "v": "Web Science Conference"
+   },
+   {
+    "t": "RETRACTED ARTICLE: An ensemble deep learning classifier for sentiment analysis on code-mix Hindi–English data",
+    "y": 2022,
+    "v": "Soft Computing - A Fusion of Foundations, Methodologies and Applications"
+   },
+   {
+    "t": "Detecting Offensive Tweets in Hindi-English Code-Switched Language",
+    "y": 2018,
+    "v": "SocialNLP@ACL"
+   },
+   {
+    "t": "Evaluating Gender Bias in Hindi-English Machine Translation",
+    "y": 2021,
+    "v": "GEBNLP"
+   },
+   {
+    "t": "[Retracted] Linguistic Analysis of Hindi‐English Mixed Tweets for Depression Detection",
+    "y": 2022,
+    "v": "Journal of mathematics"
+   },
+   {
+    "t": "Hindi-English Hate Speech Detection: Author Profiling, Debiasing, and Practical Perspectives",
+    "y": 2020,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Understanding the role of cross-language transfer of phonological awareness in emergent Hindi–English biliteracy acquisition",
+    "y": 2022,
+    "v": "Reading & Writing"
+   },
+   {
+    "t": "Exploring Web-Based Translation Resources Applied to Hindi-English Cross-Lingual Information Retrieval",
+    "y": 2022,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Language Identification of Hindi-English tweets using code-mixed BERT",
+    "y": 2021,
+    "v": "IEEE International Conference on Cognitive Informatics and Cognitive Computing"
+   },
+   {
+    "t": "A Comparative Study of Different State-of-the-Art Hate Speech Detection Methods in Hindi-English Code-Mixed Data",
+    "y": 2020,
+    "v": "Workshop on Trolling, Aggression and Cyberbullying"
+   },
+   {
+    "t": "The effects of second language literacy instruction on first language literacy: a comparison between Hindi–English and Urdu–English Canadian bilinguals",
+    "y": 2022,
+    "v": "Journal of Cultural Cognitive Science"
+   },
+   {
+    "t": "The influence of romanizing a non-alphabetic L1 on L2 reading: the case of Hindi-English visual word recognition",
+    "y": 2022,
+    "v": "Reading & Writing"
+   },
+   {
+    "t": "Identifying Emotions in Code Mixed Hindi-English Tweets",
+    "y": 2022,
+    "v": "WILDRE"
+   },
+   {
+    "t": "Automatic Language Identification in Code-Switched Hindi-English Social Media Text",
+    "y": 2021,
+    "v": "Journal of Open Humanities Data"
+   },
+   {
+    "t": "Detection of Hate Speech Text in Hindi-English Code-mixed Data",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "A Framework for Online Hate Speech Detection on Code-mixed Hindi-English Text and Hindi Text in Devanagari",
+    "y": 2022,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Inter-individual differences in Hindi–English code-switching: A quantitative approach",
+    "y": 2022,
+    "v": "International Journal of Bilingualism"
+   },
+   {
+    "t": "Emotion Detection in Hinglish(Hindi+English) Code-Mixed Social Media Text",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "Low Resource Chat Translation: A Benchmark for Hindi–English Language Pair",
+    "y": 2022,
+    "v": "Conference of the Association for Machine Translation in the Americas"
+   },
+   {
+    "t": "Sarcasm Detection in English-Hindi Code-Mixed Text Data",
+    "y": 2024,
+    "v": "2024 2nd International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)"
+   },
+   {
+    "t": "Hindi-English Code Mixed Hate Speech Detection using Character Level Embeddings",
+    "y": 2021,
+    "v": "International Conference Computing Methodologies and Communication"
+   },
+   {
+    "t": "Universal Dependency Parsing for Hindi-English Code-Switching",
+    "y": 2018,
+    "v": "North American Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Hate Speech Detection in Hindi-English Code-Mixed Social Media Text",
+    "y": 2019,
+    "v": "COMAD/CODS"
+   },
+   {
+    "t": "“Did you really mean what you said?” : Sarcasm Detection in Hindi-English Code-Mixed Data using Bilingual Word Embeddings",
+    "y": 2020,
+    "v": "WNUT"
+   },
+   {
+    "t": "Language Lexicons for Hindi-English Multilingual Text Processing",
+    "y": 2021,
+    "v": "IAES International Journal of Artificial Intelligence (IJ-AI)"
+   },
+   {
+    "t": "A quantitative analysis of age-related differences in Hindi–English code-switching",
+    "y": 2021,
+    "v": "International Journal of Bilingualism"
+   },
+   {
+    "t": "Humor Generation and Detection in Code-Mixed Hindi-English",
+    "y": 2021,
+    "v": "Recent Advances in Natural Language Processing"
+   },
+   {
+    "t": "SENTIMIX (HINDI- ENGLISH)",
+    "y": 2021,
+    "v": "International Journal of Engineering Applied Sciences and Technology"
+   },
+   {
+    "t": "Offensive Language Identification Using Hindi-English Code-Mixed Tweets and Code-Mixed Data Augmentation",
+    "y": 2021,
+    "v": "Fire"
+   },
+   {
+    "t": "Bi-LSTM and Ensemble based Bilingual Sentiment Analysis for a Code-mixed Hindi-English Social Media Text",
+    "y": 2020,
+    "v": "IEEE India Conference"
+   },
+   {
+    "t": "Evaluating Input Representation for Language Identification in Hindi-English Code Mixed Text",
+    "y": 2020,
+    "v": "Lecture Notes in Electrical Engineering"
+   },
+   {
+    "t": "Hate Speech Detection from Code-mixed Hindi-English Tweets Using Deep Learning Models",
+    "y": 2018,
+    "v": "ICON"
+   },
+   {
+    "t": "Understanding Script-Mixing: A Case Study of Hindi-English Bilingual Twitter Users",
+    "y": 2020,
+    "v": "CALCS"
+   },
+   {
+    "t": "Named Entity Recognition for Hindi-English Code-Mixed Social Media Text",
+    "y": 2018,
+    "v": "NEWS@ACL"
+   },
+   {
+    "t": "Corpus Creation and Emotion Prediction for Hindi-English Code-Mixed Social Media Text",
+    "y": 2018,
+    "v": "North American Chapter of the Association for Computational Linguistics"
+   }
+  ],
   "code-mixed": {
    "error": "HTTP Error 429: "
   },
@@ -3809,15 +4058,513 @@
     "v": "The Therapeutic Conversation"
    }
   ],
-  "hinglish chat": {
-   "error": "HTTP Error 429: "
-  },
+  "hinglish chat": [
+   {
+    "t": "Sentiment Analysis of Code-Mixed WhatsApp Conversations (Hinglish): A Hybrid Approach",
+    "y": 2025,
+    "v": "2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)"
+   },
+   {
+    "t": "ConvoLink – A Voice & Text Chat Assistant to Make Banking Simpler",
+    "y": 2026,
+    "v": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+   },
+   {
+    "t": "Customer Support Chat Intent Classification using Weak Supervision and Data Augmentation",
+    "y": 2022,
+    "v": "COMAD/CODS"
+   },
+   {
+    "t": "Cross-Multilingual Code-mix Analysis & Translation",
+    "y": 2026,
+    "v": "2026 1st International Conference on Emerging Trends in Advancements and Applications of Computational Intelligence Techniques (ETAACT)"
+   },
+   {
+    "t": "AI HEALTH ASSISTANT USING MACHINE LEARNING AND DATA SCIENCE",
+    "y": 2026,
+    "v": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+   },
+   {
+    "t": "Comparison of Interactive Knowledge Base Spelling Correction Models for Low-Resource Languages",
+    "y": 2020,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Hidden Markov Model Based Identification of Transliterated Regional Language Words in Text Documents",
+    "y": 2007,
+    "v": ""
+   },
+   {
+    "t": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+    "y": 2024,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Overcoming Sparsity Artifacts in Crosscoders to Interpret Chat-Tuning",
+    "y": 2025,
+    "v": "Neural Information Processing Systems"
+   },
+   {
+    "t": "Fun-Audio-Chat Technical Report",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Enhancing Chat Language Models by Scaling High-quality Instructional Conversations",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "VideoChat: chat-centric video understanding",
+    "y": 2023,
+    "v": "Science China Information Sciences"
+   },
+   {
+    "t": "ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Search+Chat: Integrating Search and GenAI to Support Users with Learning-oriented Search Tasks",
+    "y": 2025,
+    "v": "Conference on Human Information Interaction and Retrieval"
+   },
+   {
+    "t": "LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset",
+    "y": 2023,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher",
+    "y": 2023,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding",
+    "y": 2023,
+    "v": "Computer Vision and Pattern Recognition"
+   },
+   {
+    "t": "Social, economic, and demographic factors drive the emergence of Hinglish code-mixing on social media",
+    "y": 2024,
+    "v": "Humanities and Social Sciences Communications"
+   },
+   {
+    "t": "Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat",
+    "y": 2024,
+    "v": "International Conference on Human Factors in Computing Systems"
+   },
+   {
+    "t": "BIG5-CHAT: Shaping LLM Personalities Through Training on Human-Grounded Data",
+    "y": 2024,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "FuseChat: Knowledge Fusion of Chat Models",
+    "y": 2024,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis",
+    "y": 2024,
+    "v": "IEEE International Conference on Multimedia and Expo"
+   },
+   {
+    "t": "Multimodal Hinglish Tweet Dataset for Deep Pragmatic Analysis",
+    "y": 2024,
+    "v": "International Conference on Data Technologies and Applications"
+   },
+   {
+    "t": "Multimodal sentiment analysis of english and hinglish memes",
+    "y": 2024,
+    "v": "Multimedia tools and applications"
+   },
+   {
+    "t": "Use Chat GPT to Solve Programming Bugs",
+    "y": 2023,
+    "v": "International journal of information technology and computer engineering"
+   },
+   {
+    "t": "Reflection on whether Chat GPT should be banned by academia from the perspective of education and teaching",
+    "y": 2023,
+    "v": "Frontiers in Psychology"
+   },
+   {
+    "t": "Exploring the opportunities and challenges of NLP models in higher education: is Chat GPT a blessing or a curse?",
+    "y": 2023,
+    "v": "Frontiers in Education"
+   },
+   {
+    "t": "War of the chatbots: Bard, Bing Chat, ChatGPT, Ernie and beyond. The new AI gold rush and its impact on higher education",
+    "y": 2023,
+    "v": "1"
+   },
+   {
+    "t": "Hinglish Sentiment Analysis: Deep Learning Models for Nuanced Sentiment Classification in Multilingual Digital Communication",
+    "y": 2024,
+    "v": "2024 2nd International Conference on Device Intelligence, Computing and Communication Technologies (DICCT)"
+   },
+   {
+    "t": "Explainable Cyberbullying Detection in Hinglish: A Generative Approach",
+    "y": 2024,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Hinglish Should be Grouped Under the Scheduled Languages in India: A Survey",
+    "y": 2024,
+    "v": "International Journal For Multidisciplinary Research"
+   },
+   {
+    "t": "Hate speech recognition in multilingual text: hinglish documents",
+    "y": 2023,
+    "v": "International journal of information technology"
+   },
+   {
+    "t": "Assessing the Accuracy and Reliability of AI-Generated Medical Responses: An Evaluation of the Chat-GPT Model",
+    "y": 2023,
+    "v": "Research Square"
+   },
+   {
+    "t": "XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters",
+    "y": 2023,
+    "v": "International Conference on Information and Knowledge Management"
+   },
+   {
+    "t": "Atlas-Chat: Adapting Large Language Models for Low-Resource Moroccan Arabic Dialect",
+    "y": 2024,
+    "v": "COLING Workshops"
+   },
+   {
+    "t": "Chip-Chat: Challenges and Opportunities in Conversational Hardware Design",
+    "y": 2023,
+    "v": "Workshop on Machine Learning for CAD"
+   },
+   {
+    "t": "ChatGPT-3.5 and Bing Chat in ophthalmology: an updated evaluation of performance, readability, and informative sources",
+    "y": 2024,
+    "v": "Eye"
+   },
+   {
+    "t": "Exploring Backdoor Vulnerabilities of Chat Models",
+    "y": 2024,
+    "v": "International Conference on Computational Linguistics"
+   },
+   {
+    "t": "Sentiment Recognition of Hinglish Code Mixed Data using Deep Learning Models based Approach",
+    "y": 2023,
+    "v": "Confluence"
+   },
+   {
+    "t": "Emoji, Sentiment and Emotion Aided Cyberbullying Detection in Hinglish",
+    "y": 2023,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "A Chat(GPT) about the future of scientific publishing.",
+    "y": 2023,
+    "v": "Brain, behavior, and immunity"
+   },
+   {
+    "t": "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale",
+    "y": 2023,
+    "v": "Proceedings of the National Academy of Sciences of the United States of America"
+   },
+   {
+    "t": "SADWC: sentiment analysis approach to detect depression using WhatsApp chat data",
+    "y": 2025,
+    "v": "International Journal of System Assurance Engineering and Management"
+   },
+   {
+    "t": "Chat-3D: Data-efficiently Tuning Large Language Model for Universal Dialogue of 3D Scenes",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Student Attitudes towards Chat GPT: A Technology Acceptance Model Survey",
+    "y": 2023,
+    "v": "International Educational Review"
+   },
+   {
+    "t": "LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Cholinergic regulation of vascular endothelial function by human ChAT+ T cells",
+    "y": 2023,
+    "v": "Proceedings of the National Academy of Sciences of the United States of America"
+   }
+  ],
   "whatsapp hindi": {
    "error": "HTTP Error 429: "
   },
-  "reminder": {
-   "error": "HTTP Error 429: "
-  },
+  "reminder": [
+   {
+    "t": "IOT Based Pill Reminder and Monitoring System",
+    "y": 2024,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Systematic review and meta-analysis comparing educational and reminder digital interventions for promoting HPV vaccination uptake",
+    "y": 2023,
+    "v": "npj Digit. Medicine"
+   },
+   {
+    "t": "Reminder of the First Paper on Transfer Learning in Neural Networks, 1976",
+    "y": 2020,
+    "v": "Informatica"
+   },
+   {
+    "t": "Patient reminder and recall interventions to improve immunization rates.",
+    "y": 2018,
+    "v": "Cochrane Database of Systematic Reviews"
+   },
+   {
+    "t": "Covid-19 - A Reminder to Reason.",
+    "y": 2020,
+    "v": "New England Journal of Medicine"
+   },
+   {
+    "t": "A meaningful reminder on sustainability: When explicit and implicit packaging cues meet",
+    "y": 2021,
+    "v": "Journal of Environmental Psychology"
+   },
+   {
+    "t": "Patient reminder and recall interventions to improve immunization rates: A Cochrane review summary.",
+    "y": 2019,
+    "v": "International Journal of Nursing Studies"
+   },
+   {
+    "t": "The impact of translated reminder letters and phone calls on mammography screening booking rates: Two randomised controlled trials",
+    "y": 2020,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "MindMate: A single case experimental design study of a reminder system for people with dementia",
+    "y": 2021,
+    "v": "Neuropsychological Rehabilitation"
+   },
+   {
+    "t": "Effect of Reminder Devices on Medication Adherence: The REMIND Randomized Clinical Trial",
+    "y": 2017,
+    "v": "JAMA Internal Medicine"
+   },
+   {
+    "t": "Visuospatial computer game play after memory reminder delivered three days after a traumatic film reduces the number of intrusive memories of the experimental trauma.",
+    "y": 2020,
+    "v": "Journal of Behavior Therapy and Experimental Psychiatry"
+   },
+   {
+    "t": "Reminder: RMSSD and SD1 are identical heart rate variability metrics",
+    "y": 2017,
+    "v": "Muscle and Nerve"
+   },
+   {
+    "t": "Inattention or reluctance? Parental responses to vaccination reminder letters.",
+    "y": 2021,
+    "v": "Journal of Health Economics"
+   },
+   {
+    "t": "Medication reminder applications to improve adherence in coronary heart disease: a randomised clinical trial",
+    "y": 2018,
+    "v": "Heart"
+   },
+   {
+    "t": "Improving web survey efficiency: the impact of an extra reminder and reminder content on web survey response",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "The effect of metacognitive training on confidence and strategic reminder setting",
+    "y": 2020,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "Which EEG feedback works better for creativity performance in immersive virtual reality: The reminder or encouraging feedback?",
+    "y": 2019,
+    "v": "Computers in Human Behavior"
+   },
+   {
+    "t": "Pre-notification and reminder SMS text messages with behaviourally informed invitation letters to improve uptake of NHS Health Checks: a factorial randomised controlled trial",
+    "y": 2019,
+    "v": "BMC Public Health"
+   },
+   {
+    "t": "Reactivation during sleep with incomplete reminder cues rather than complete ones stabilizes long-term memory in humans",
+    "y": 2020,
+    "v": "Communications Biology"
+   },
+   {
+    "t": "Clinical reminder alert fatigue in healthcare: a systematic literature review protocol using qualitative evidence",
+    "y": 2017,
+    "v": "Systematic Reviews"
+   },
+   {
+    "t": "Incentive and Reminder Strategies to Improve Response Rate for Internet-Based Physician Surveys: A Randomized Experiment",
+    "y": 2016,
+    "v": "Journal of Medical Internet Research"
+   },
+   {
+    "t": "Simple and Elaborated Clinician Reminder Prompts for Human Papillomavirus Vaccination: A Randomized Clinical Trial.",
+    "y": 2018,
+    "v": "Academic pediatrics"
+   },
+   {
+    "t": "Influence of reminder therapy for controlling bacterial plaque in patients undergoing orthodontic treatment: A systematic review and meta-analysis.",
+    "y": 2018,
+    "v": "Angle Orthodontist"
+   },
+   {
+    "t": "MEDication reminder APPs to improve medication adherence in Coronary Heart Disease (MedApp-CHD) Study: a randomised controlled trial protocol",
+    "y": 2017,
+    "v": "BMJ Open"
+   },
+   {
+    "t": "Implementation Intention and Reminder Effects on Behavior Change in a Mobile Health System: A Predictive Cognitive Model",
+    "y": 2017,
+    "v": "Journal of Medical Internet Research"
+   },
+   {
+    "t": "Use of an electronic medical record reminder improves HIV screening",
+    "y": 2018,
+    "v": "BMC Health Services Research"
+   },
+   {
+    "t": "Reminder duration determines threat memory modification in humans",
+    "y": 2018,
+    "v": "Scientific Reports"
+   },
+   {
+    "t": "Improving software design reasoning-A reminder card approach",
+    "y": 2018,
+    "v": "Journal of Systems and Software"
+   },
+   {
+    "t": "RCT of Centralized Vaccine Reminder/Recall for Adults.",
+    "y": 2018,
+    "v": "American Journal of Preventive Medicine"
+   },
+   {
+    "t": "A reminder before extinction strengthens episodic memory via reconsolidation but fails to disrupt generalized threat responses",
+    "y": 2017,
+    "v": "Scientific Reports"
+   },
+   {
+    "t": "Advertising as a Reminder: Evidence from the Dutch State Lottery",
+    "y": 2018,
+    "v": "Marketing science (Providence, R.I.)"
+   },
+   {
+    "t": "Impact of a Daily SMS Medication Reminder System on Tuberculosis Treatment Outcomes: A Randomized Controlled Trial",
+    "y": 2016,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "SMS-reminder for vaccination in Africa: research from published, unpublished and grey literature",
+    "y": 2017,
+    "v": "The Pan African Medical Journal"
+   },
+   {
+    "t": "Improving web survey efficiency: the impact of an extra reminder and reminder content on web survey response",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "ForgetMeNot: Active Reminder Entry Support for Adults with Acquired Brain Injury",
+    "y": 2017,
+    "v": "International Conference on Human Factors in Computing Systems"
+   },
+   {
+    "t": "The impacts of email reminder/recall on adolescent influenza vaccination.",
+    "y": 2017,
+    "v": "Vaccine"
+   },
+   {
+    "t": "Medicine Reminder and Monitoring System for Secure Health Using IOT",
+    "y": 2016,
+    "v": ""
+   },
+   {
+    "t": "Efficacy and safety of a medication dose reminder feature in a digital health offering with the use of sensor-enabled medicines.",
+    "y": 2017,
+    "v": "Journal of the American Pharmacists Association"
+   },
+   {
+    "t": "Smart Medicine Reminder Box",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "The effect of an electronic monitoring device with audiovisual reminder function on adherence to inhaled corticosteroids and school attendance in children with asthma: a randomised controlled trial.",
+    "y": 2015,
+    "v": "The Lancet Respiratory Medicine"
+   },
+   {
+    "t": "Getting patients in the door: medical appointment reminder preferences",
+    "y": 2016,
+    "v": "Patient Preference and Adherence"
+   },
+   {
+    "t": "Resting-state functional connectivity between amygdala and the ventromedial prefrontal cortex following fear reminder predicts fear extinction.",
+    "y": 2016,
+    "v": "Social Cognitive and Affective Neuroscience"
+   },
+   {
+    "t": "Community Reminder: Participatory contextual reminder environments for local communities",
+    "y": 2017,
+    "v": "Int. J. Hum. Comput. Stud."
+   },
+   {
+    "t": "To cheat or not to cheat? The effect of a moral reminder on cheating",
+    "y": 2016,
+    "v": ""
+   },
+   {
+    "t": "Medication adherence by using a hybrid automatic reminder machine",
+    "y": 2016,
+    "v": "IEEE International Conference on Consumer Electronics"
+   },
+   {
+    "t": "Effectiveness of short message services reminder on childhood immunization programme in Kadoma, Zimbabwe - a randomized controlled trial, 2013",
+    "y": 2015,
+    "v": "BMC Public Health"
+   },
+   {
+    "t": "Appointment reminder systems are effective but not optimal: results of a systematic review and evidence synthesis employing realist principles",
+    "y": 2015,
+    "v": "Patient Preference and Adherence"
+   },
+   {
+    "t": "Improved surveillance for hepatocellular carcinoma with a primary care-oriented clinical reminder.",
+    "y": 2015,
+    "v": "Clinical Gastroenterology and Hepatology"
+   },
+   {
+    "t": "Parental reminder, recall and educational interventions to improve early childhood immunisation uptake: A systematic review and meta-analysis.",
+    "y": 2015,
+    "v": "Vaccine"
+   },
+   {
+    "t": "Factors Underlying Quality Problems with Alcohol Screening Prompted by a Clinical Reminder in Primary Care: A Multi-site Qualitative Study",
+    "y": 2015,
+    "v": "Journal of general internal medicine"
+   }
+  ],
   "temporal expression": {
    "error": "HTTP Error 429: "
   },
@@ -3830,18 +4577,516 @@
   "hinglish reminder": {
    "error": "HTTP Error 429: "
   },
-  "hinglish semantic parsing": {
-   "error": "HTTP Error 429: "
-  },
+  "hinglish semantic parsing": [
+   {
+    "t": "CST5: Data Augmentation for Code-Switched Semantic Parsing",
+    "y": 2022,
+    "v": "Tsinghua Interdisciplinary Workshop on Logic, Language and Meaning"
+   },
+   {
+    "t": "TECHSSN1 at SemEval-2024 Task 10: Emotion Classification in Hindi-English Code-Mixed Dialogue using Transformer-based Models",
+    "y": 2024,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "DAMP: Doubly Aligned Multilingual Parser for Task-Oriented Dialogue",
+    "y": 2022,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Disambiguate First Parse Later: Generating Interpretations for Ambiguity Resolution in Semantic Parsing",
+    "y": 2025,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+    "y": 2018,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "Visual-Semantic Alignment Temporal Parsing for Action Quality Assessment",
+    "y": 2025,
+    "v": "IEEE transactions on circuits and systems for video technology (Print)"
+   },
+   {
+    "t": "GaitParsing: Human Semantic Parsing for Gait Recognition",
+    "y": 2024,
+    "v": "IEEE transactions on multimedia"
+   },
+   {
+    "t": "SPAGHETTI: Open-Domain Question Answering from Heterogeneous Data Sources with Retrieval and Semantic Parsing",
+    "y": 2024,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "A Survey of Semantic Parsing Techniques",
+    "y": 2024,
+    "v": "Symmetry"
+   },
+   {
+    "t": "3D Semantic Parsing of Large-Scale Indoor Spaces",
+    "y": 2016,
+    "v": "Computer Vision and Pattern Recognition"
+   },
+   {
+    "t": "Gaining More Insight into Neural Semantic Parsing with Challenging Benchmarks",
+    "y": 2024,
+    "v": "DMR"
+   },
+   {
+    "t": "Neural Semantic Parsing with Extremely Rich Symbolic Meaning Representations",
+    "y": 2024,
+    "v": "Computational Linguistics"
+   },
+   {
+    "t": "Semantic Parsing on Freebase from Question-Answer Pairs",
+    "y": 2013,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex",
+    "y": 2023,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Improving Generalization in Language Model-based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-based Techniques",
+    "y": 2023,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Multimodal Class-aware Semantic Enhancement Network for Audio-Visual Video Parsing",
+    "y": 2024,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "SLOG: A Structural Generalization Benchmark for Semantic Parsing",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing",
+    "y": 2023,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Error Detection for Text-to-SQL Semantic Parsing",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "Semantic Parsing for Conversational Question Answering over Knowledge Graphs",
+    "y": 2023,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Cogito Ergo Summ: Abstractive Summarization of Biomedical Papers via Semantic Parsing Graphs and Consistency Rewards",
+    "y": 2023,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Leveraging Code to Improve In-Context Learning for Semantic Parsing",
+    "y": 2023,
+    "v": "North American Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "XSemPLR: Cross-Lingual Semantic Parsing in Multiple Natural Languages and Meaning Representations",
+    "y": 2023,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "One SPRING to Rule Them Both: Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline",
+    "y": 2021,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "A Study on the Integration of Pipeline and E2E SLU Systems for Spoken Semantic Parsing Toward Stop Quality Challenge",
+    "y": 2023,
+    "v": "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+   },
+   {
+    "t": "Bridging the Gap between Synthetic and Natural Questions via Sentence Decomposition for Semantic Parsing",
+    "y": 2023,
+    "v": "Transactions of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Compositional Semantic Parsing with Large Language Models",
+    "y": 2022,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Semantic Parsing for Knowledge Graph Question Answering with Large Language Models",
+    "y": 2023,
+    "v": "Extended Semantic Web Conference"
+   },
+   {
+    "t": "Modern Baselines for SPARQL Semantic Parsing",
+    "y": 2022,
+    "v": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+   },
+   {
+    "t": "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing",
+    "y": 2022,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "XRICL: Cross-lingual Retrieval-Augmented In-Context Learning for Cross-lingual Text-to-SQL Semantic Parsing",
+    "y": 2022,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models",
+    "y": 2022,
+    "v": "NAACL-HLT"
+   },
+   {
+    "t": "Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty",
+    "y": 2022,
+    "v": "Findings"
+   },
+   {
+    "t": "Stop: A Dataset for Spoken Task Oriented Semantic Parsing",
+    "y": 2022,
+    "v": "Spoken Language Technology Workshop"
+   },
+   {
+    "t": "MultiSpider: Towards Benchmarking Multilingual Text-to-SQL Semantic Parsing",
+    "y": 2022,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher",
+    "y": 2022,
+    "v": "International Conference on Information and Knowledge Management"
+   },
+   {
+    "t": "Calibrated Interpretation: Confidence Estimation in Semantic Parsing",
+    "y": 2022,
+    "v": "Transactions of the Association for Computational Linguistics"
+   },
+   {
+    "t": "GraphQ IR: Unifying the Semantic Parsing of Graph Query Languages with One Intermediate Representation",
+    "y": 2022,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "MTOP: A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark",
+    "y": 2020,
+    "v": "Conference of the European Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Measuring human perceptions of streetscapes to better inform urban renewal: A perspective of scene semantic parsing",
+    "y": 2021,
+    "v": ""
+   },
+   {
+    "t": "Knowledge Base Question Answering: A Semantic Parsing Perspective",
+    "y": 2022,
+    "v": "Conference on Automated Knowledge Base Construction"
+   },
+   {
+    "t": "Few-Shot Semantic Parsing with Language Models Trained on Code",
+    "y": 2021,
+    "v": "North American Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Identity-Guided Human Semantic Parsing for Person Re-Identification",
+    "y": 2020,
+    "v": "European Conference on Computer Vision"
+   },
+   {
+    "t": "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing",
+    "y": 2020,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "UniSAr: a unified structure-aware autoregressive language model for text-to-SQL semantic parsing",
+    "y": 2022,
+    "v": "International Journal of Machine Learning and Cybernetics"
+   },
+   {
+    "t": "Learning to Synthesize Data for Semantic Parsing",
+    "y": 2021,
+    "v": "North American Chapter of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Compositional Semantic Parsing on Semi-Structured Tables",
+    "y": 2015,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing",
+    "y": 2022,
+    "v": "AACL"
+   },
+   {
+    "t": "Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing",
+    "y": 2020,
+    "v": "Findings"
+   },
+   {
+    "t": "Hierarchical Human Semantic Parsing With Comprehensive Part-Relation Modeling",
+    "y": 2021,
+    "v": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+   }
+  ],
   "code-switched task oriented parsing": {
    "error": "HTTP Error 429: "
   },
   "hindi temporal expression": {
    "error": "HTTP Error 429: "
   },
-  "hindi time normalization": {
-   "error": "HTTP Error 429: "
-  },
+  "hindi time normalization": [
+   {
+    "t": "An Isolated Word Recognition System for Hindi Digits Using Linear Time Normalization",
+    "y": 1983,
+    "v": ""
+   },
+   {
+    "t": "Sentiment Analysis System for Hindi–English Text using Machine Learning",
+    "y": 2026,
+    "v": "International Scientific Journal of Engineering and Management"
+   },
+   {
+    "t": "GestureTalk: Real-Time Sign Language Recognition Using Deep Learning",
+    "y": 2026,
+    "v": "International Journal of Latest Technology in Engineering Management &amp; Applied Science"
+   },
+   {
+    "t": "Wavelet-Based Power Normalized Spectrum for Hindi Phoneme Classification",
+    "y": 2019,
+    "v": "Circuits, systems, and signal processing"
+   },
+   {
+    "t": "Hindi vowel classification using QCN-MFCC features",
+    "y": 2016,
+    "v": ""
+   },
+   {
+    "t": "Detection and normalisation of Temporal Expressions in Hindi language",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "Detection and Normalisation of the Temporal Expression in Hindi Text",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "Intelligent Audio-to-Text Framework: Natural Language Processing Based AI-Powered Transcription and Subtitle Creation System",
+    "y": 2025,
+    "v": "2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)"
+   },
+   {
+    "t": "Transcripto Fine-Tuning Multilingual ASR for Indian Grievance Feedback Calls",
+    "y": 2025,
+    "v": "Journal of Information Systems Engineering & Management"
+   },
+   {
+    "t": "Indian Sign Language Recognition and Translation into Regional Language for Hearing and Speech Impaired Bedridden People",
+    "y": 2026,
+    "v": "2026 International Conference on Emerging Trends and Innovations in ICT (ICEI)"
+   },
+   {
+    "t": "A Comparative Analysis of Multilingual Speech Recognition Using Vosk and Whisper Models",
+    "y": 2026,
+    "v": "International Conference on Computing Communication Control and automation"
+   },
+   {
+    "t": "Multilingual Deepfake Audio Detection Using a Hybrid CNN-Bi LSTM with Multi-Head Attention Architecture",
+    "y": 2026,
+    "v": "International Conference on Computing Communication Control and automation"
+   },
+   {
+    "t": "Automated Multilingual Translation Using Neural Machine Translation and Transformer Architecture",
+    "y": 2026,
+    "v": "International journal of technology and applied science"
+   },
+   {
+    "t": "QGAN: Low Footprint Quaternion Neural Vocoder for Speech Synthesis",
+    "y": 2024,
+    "v": "Interspeech"
+   },
+   {
+    "t": "Compliance of diagnosis and early management of congenital hypothyroidism",
+    "y": 2021,
+    "v": ""
+   },
+   {
+    "t": "The effect of time normalization and biomechanical signal processing techniques of ground reaction force curves on deep-learning model performance.",
+    "y": 2024,
+    "v": "Journal of Biomechanics"
+   },
+   {
+    "t": "Un-Mixing Test-Time Normalization Statistics: Combatting Label Temporal Correlation",
+    "y": 2024,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization",
+    "y": 2017,
+    "v": "IEEE International Conference on Computer Vision"
+   },
+   {
+    "t": "ChitraVivran: Real-Time Attention-Based Hindi Image Captioning with Boosted Contextual Descriptors",
+    "y": 2025,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift",
+    "y": 2022,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Frequency Adaptive Normalization For Non-stationary Time Series Forecasting",
+    "y": 2024,
+    "v": "Neural Information Processing Systems"
+   },
+   {
+    "t": "DDN: Dual-domain Dynamic Normalization for Non-stationary Time Series Forecasting",
+    "y": 2024,
+    "v": "Neural Information Processing Systems"
+   },
+   {
+    "t": "TFormer: A time-frequency Transformer with batch normalization for driver fatigue recognition",
+    "y": 2024,
+    "v": "Advanced Engineering Informatics"
+   },
+   {
+    "t": "Superposed epoch analysis using time-normalization: A Python tool for statistical event analysis",
+    "y": 2022,
+    "v": "Frontiers in Astronomy and Space Sciences"
+   },
+   {
+    "t": "Real-Time Indian Sign Language Recognition Using Hand Landmarks and ANN with Hindi Speech Output",
+    "y": 2026,
+    "v": "2026 IEEE 6th International Conference on Computing, Power, and Communication Technologies (IC2PCT)"
+   },
+   {
+    "t": "Stair ascent comparison of lower limb kinematics with differing time normalization techniques.",
+    "y": 2021,
+    "v": "Journal of Biomechanics"
+   },
+   {
+    "t": "Kinetic Treatments for Catalyst Activation and Deactivation Processes based on Variable Time Normalization Analysis",
+    "y": 2019,
+    "v": "Angewandte Chemie"
+   },
+   {
+    "t": "TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation",
+    "y": 2023,
+    "v": "International Conference on Learning Representations"
+   },
+   {
+    "t": "Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective",
+    "y": 2023,
+    "v": "Neural Information Processing Systems"
+   },
+   {
+    "t": "Pre-trained Contextualized Character Embeddings Lead to Major Improvements in Time Normalization: a Detailed Analysis",
+    "y": 2019,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "Real-time normalization and nonlinearity evaluation methods of the PGC-arctan demodulation in an EOM-based sinusoidal phase modulating interferometer.",
+    "y": 2018,
+    "v": "Optics Express"
+   },
+   {
+    "t": "Towards Real-World Test-Time Adaptation: Tri-Net Self-Training with Balanced Normalization",
+    "y": 2023,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization",
+    "y": 2023,
+    "v": "AAAI Conference on Artificial Intelligence"
+   },
+   {
+    "t": "A Large Comparison of Normalization Methods on Time Series",
+    "y": 2023,
+    "v": "Big Data Research"
+   },
+   {
+    "t": "DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization",
+    "y": 2024,
+    "v": "Computer Vision and Pattern Recognition"
+   },
+   {
+    "t": "An unsupervised lexical normalization for Roman Hindi and Urdu sentiment analysis",
+    "y": 2020,
+    "v": "Information Processing & Management"
+   },
+   {
+    "t": "Variable Time Normalization Analysis: General Graphical Elucidation of Reaction Orders from Concentration Profiles.",
+    "y": 2016,
+    "v": "Angewandte Chemie"
+   },
+   {
+    "t": "Real Time Normalization of Fast Photochemical Oxidation of Proteins Experiments by Inline Adenine Radical Dosimetry",
+    "y": 2018,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting",
+    "y": 2021,
+    "v": "Knowledge Discovery and Data Mining"
+   },
+   {
+    "t": "Field- and time-normalization of data with many zeros: an empirical analysis using citation and Twitter data",
+    "y": 2017,
+    "v": "Scientometrics"
+   },
+   {
+    "t": "Evaluation of normalization strategies for mass spectrometry-based multi-omics datasets",
+    "y": 2025,
+    "v": "Metabolomics"
+   },
+   {
+    "t": "Lightweight real-time lane detection algorithm based on ghost convolution and self batch normalization",
+    "y": 2023,
+    "v": "Journal of Real-Time Image Processing"
+   },
+   {
+    "t": "hinglishNorm - A Corpus of Hindi-English Code Mixed Sentences for Text Normalization",
+    "y": 2020,
+    "v": "International Conference on Computational Linguistics"
+   },
+   {
+    "t": "Does normalization of SARS-CoV-2 concentrations by Pepper Mild Mottle Virus improve correlations and lead time between wastewater surveillance and clinical data in Alberta (Canada): comparing twelve SARS-CoV-2 normalization approaches",
+    "y": 2022,
+    "v": "Science of the Total Environment"
+   },
+   {
+    "t": "A Semantically Compositional Annotation Scheme for Time Normalization",
+    "y": 2016,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Sliding-Window Normalization to Improve the Performance of Machine-Learning Models for Real-Time Motion Prediction Using Electromyography",
+    "y": 2022,
+    "v": "Italian National Conference on Sensors"
+   },
+   {
+    "t": "Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes",
+    "y": 2002,
+    "v": "Genome Biology"
+   },
+   {
+    "t": "Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift",
+    "y": 2020,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Hindi speech recognition using time delay neural network acoustic modeling with i-vector adaptation",
+    "y": 2020,
+    "v": "International Journal of Speech Technology"
+   },
+   {
+    "t": "Test-time Batch Normalization",
+    "y": 2022,
+    "v": "arXiv.org"
+   }
+  ],
   "timex hindi": {
    "error": "HTTP Error 429: "
   },

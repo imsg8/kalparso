@@ -1,0 +1,1297 @@
+{
+ "date": "2026-11-10",
+ "rerun_of": "search_2026-11-01.json",
+ "queries": [
+  "hinglish",
+  "code mixed hindi",
+  "code-mixed",
+  "whatsapp hindi",
+  "temporal expression",
+  "intent hindi",
+  "hinglish date time",
+  "hinglish reminder",
+  "code-switched task oriented parsing",
+  "hindi temporal expression",
+  "timex hindi"
+ ],
+ "literature": {
+  "hinglish": {
+   "error": "HTTP Error 429: "
+  },
+  "code mixed hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "code-mixed": [
+   {
+    "t": "Leveraging Multilingual Transformer for Multiclass Sentiment Analysis in Code-Mixed Data of Low-Resource Languages",
+    "y": 2025,
+    "v": "IEEE Access"
+   },
+   {
+    "t": "Pre-trained language model for code-mixed text in Indonesian, Javanese, and English using transformer",
+    "y": 2025,
+    "v": "Social Network Analysis and Mining"
+   },
+   {
+    "t": "Emotion Recognition in Code-Mixed Social Media Data Using an Optimized Transformer Architecture",
+    "y": 2025,
+    "v": "2025 2nd International Conference on Intelligent Algorithms for Computational Intelligence Systems (IACIS)"
+   },
+   {
+    "t": "Detecting hate in diversity: a survey of multilingual code-mixed image and video analysis",
+    "y": 2025,
+    "v": "Journal of Big Data"
+   },
+   {
+    "t": "Enhancing Multilingual Sentiment Analysis with Explainability for Sinhala, English, and Code-Mixed Content",
+    "y": 2025,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Augmenting sentiment prediction capabilities for code-mixed tweets with multilingual transformers",
+    "y": 2024,
+    "v": "Social Network Analysis and Mining"
+   },
+   {
+    "t": "BnSentMix: A Diverse Bengali-English Code-Mixed Dataset for Sentiment Analysis",
+    "y": 2024,
+    "v": "COLING Workshops"
+   },
+   {
+    "t": "THAR- Targeted Hate Speech Against Religion: A high-quality Hindi-English code-mixed Dataset with the Application of Deep Learning Models for Automatic Detection",
+    "y": 2024,
+    "v": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+   },
+   {
+    "t": "ToxVidLM: A Multimodal Framework for Toxicity Detection in Code-Mixed Videos",
+    "y": 2024,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Sentiment Analysis of Code-Mixed Language",
+    "y": 2025,
+    "v": "2025 International Conference on Future Technologies (ICFT)"
+   },
+   {
+    "t": "Sentiment analysis of code-mixed Dravidian languages leveraging pretrained model and word-level language tag",
+    "y": 2024,
+    "v": "Natural Language Processing"
+   },
+   {
+    "t": "Sarcasm Detection in English-Hindi Code-Mixed Text Data",
+    "y": 2024,
+    "v": "2024 2nd International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)"
+   },
+   {
+    "t": "Predicting multi-label emojis, emotions, and sentiments in code-mixed texts using an emojifying sentiments framework",
+    "y": 2024,
+    "v": "Scientific Reports"
+   },
+   {
+    "t": "Sentiment Analysis of Code-Mixed Text: A Comprehensive Review",
+    "y": 2024,
+    "v": "Journal of universal computer science (Online)"
+   },
+   {
+    "t": "Transformer Based Sentiment Analysis on Code Mixed Data",
+    "y": 2024,
+    "v": "Procedia Computer Science"
+   },
+   {
+    "t": "Overview of Second Shared Task on Sentiment Analysis in Code-mixed Tamil and Tulu",
+    "y": 2024,
+    "v": "DRAVIDIANLANGTECH"
+   },
+   {
+    "t": "EmoMix-3L: A Code-Mixed Dataset for Bangla-English-Hindi for Emotion Detection",
+    "y": 2024,
+    "v": "WILDRE"
+   },
+   {
+    "t": "From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences",
+    "y": 2024,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation",
+    "y": 2024,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Improving Code-Mixed Hate Detection by Native Sample Mixing: A Case Study for Hindi-English Code-Mixed Scenario",
+    "y": 2024,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Overview of CoLI-Dravidian: Word-level Code-Mixed Language Identification in Dravidian Languages",
+    "y": 2024,
+    "v": "Fire"
+   },
+   {
+    "t": "Sinhala-English Code-Mixed Language Dataset with Sentiment Annotation",
+    "y": 2024,
+    "v": "2024 4th International Conference on Advanced Research in Computing (ICARC)"
+   },
+   {
+    "t": "Data-Augmentation for Bangla-English Code-Mixed Sentiment Analysis: Enhancing Cross Linguistic Contextual Understanding",
+    "y": 2023,
+    "v": "IEEE Access"
+   },
+   {
+    "t": "Findings of the Shared Task on Sentiment Analysis in Tamil and Tulu Code-Mixed Text",
+    "y": 2023,
+    "v": "DRAVIDIANLANGTECH"
+   },
+   {
+    "t": "Transformer based multilingual joint learning framework for code-mixed and english sentiment analysis",
+    "y": 2023,
+    "v": "Journal of Intelligence and Information Systems"
+   },
+   {
+    "t": "A Multitask Framework for Sentiment, Emotion and Sarcasm aware Cyberbullying Detection from Multi-modal Code-Mixed Memes",
+    "y": 2022,
+    "v": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+   },
+   {
+    "t": "A Sentiment Analysis Dataset for Code-Mixed Malayalam-English",
+    "y": 2020,
+    "v": "Workshop on Spoken Language Technologies for Under-resourced Languages"
+   },
+   {
+    "t": "The Effect of Stopword Removal on Information Retrieval for Code-Mixed Data Obtained Via Social Media",
+    "y": 2023,
+    "v": "SN Computer Science"
+   },
+   {
+    "t": "Comparative Study of Pre-Trained BERT Models for Code-Mixed Hindi-English Data",
+    "y": 2023,
+    "v": "2023 IEEE 8th International Conference for Convergence in Technology (I2CT)"
+   },
+   {
+    "t": "Prompting Multilingual Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages",
+    "y": 2023,
+    "v": "CALCS"
+   },
+   {
+    "t": "From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues",
+    "y": 2023,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "SentMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Sentiment Analysis",
+    "y": 2023,
+    "v": "SEALP"
+   },
+   {
+    "t": "OffMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Offensive Language Identification",
+    "y": 2023,
+    "v": "International Workshop on Natural Language Processing for Social Media"
+   },
+   {
+    "t": "L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models",
+    "y": 2022,
+    "v": "WILDRE"
+   },
+   {
+    "t": "Corpus creation and language identification for code-mixed Indonesian-Javanese-English Tweets",
+    "y": 2023,
+    "v": "PeerJ Computer Science"
+   },
+   {
+    "t": "Findings of Shared task on Sarcasm Identification in Code-Mixed Dravidian Languages",
+    "y": 2023,
+    "v": "Fire"
+   },
+   {
+    "t": "Code-Mixed Sentiment Analysis using Transformer for Twitter Social Media Data",
+    "y": 2023,
+    "v": "International Journal of Advanced Computer Science and Applications"
+   },
+   {
+    "t": "BERT-LSTM model for sarcasm detection in code-mixed social media post",
+    "y": 2022,
+    "v": "Journal of Intelligence and Information Systems"
+   },
+   {
+    "t": "My Boli: Code-mixed Marathi-English Corpora, Pretrained Language Models and Evaluation Benchmarks",
+    "y": 2023,
+    "v": "International Joint Conference on Natural Language Processing"
+   },
+   {
+    "t": "CoLI@FIRE2023: Findings of Word-level Language Identification in Code-mixed Tulu Text",
+    "y": 2023,
+    "v": "Fire"
+   },
+   {
+    "t": "Deep learning based sentiment analysis and offensive language identification on multilingual code-mixed data",
+    "y": 2022,
+    "v": "Scientific Reports"
+   },
+   {
+    "t": "Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text",
+    "y": 2020,
+    "v": "Workshop on Spoken Language Technologies for Under-resourced Languages"
+   },
+   {
+    "t": "Dual-interactive fusion for code-mixed deep representation learning in tag recommendation",
+    "y": 2023,
+    "v": "Information Fusion"
+   },
+   {
+    "t": "Multi-Modal Sarcasm Detection and Humor Classification in Code-Mixed Conversations",
+    "y": 2021,
+    "v": "IEEE Transactions on Affective Computing"
+   },
+   {
+    "t": "Hatred and trolling detection transliteration framework using hierarchical LSTM in code-mixed social media text",
+    "y": 2021,
+    "v": "Complex & Intelligent Systems"
+   },
+   {
+    "t": "IndoRobusta: Towards Robustness Against Diverse Code-Mixed Indonesian Local Languages",
+    "y": 2023,
+    "v": "SUMEVAL"
+   },
+   {
+    "t": "Offensive Language Identification in Transliterated and Code-Mixed Bangla",
+    "y": 2023,
+    "v": "BANGLALP"
+   },
+   {
+    "t": "SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets",
+    "y": 2020,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "Mixed-Distil-BERT: Code-mixed Language Modeling for Bangla, English, and Hindi",
+    "y": 2023,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "ASR for Low Resource and Multilingual Noisy Code-Mixed Speech",
+    "y": 2023,
+    "v": "Interspeech"
+   }
+  ],
+  "whatsapp hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "temporal expression": [
+   {
+    "t": "Temporal expression classes and functions of vaccinia virus and mpox (monkeypox) virus genes",
+    "y": 2025,
+    "v": "mBio"
+   },
+   {
+    "t": "Conservation of the sequence and temporal expression of let-7 heterochronic regulatory RNA",
+    "y": 2000,
+    "v": "Nature"
+   },
+   {
+    "t": "SynGAP splice variants display heterogeneous spatio‐temporal expression and subcellular distribution in the developing mammalian brain",
+    "y": 2019,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "Temporal Expression of Apelin/Apelin Receptor in Ischemic Stroke and its Therapeutic Potential",
+    "y": 2017,
+    "v": "Frontiers in Molecular Neuroscience"
+   },
+   {
+    "t": "Temporal expression and functional analysis of long non‐coding RNAs in colorectal cancer initiation",
+    "y": 2019,
+    "v": "Journal of Cellular and Molecular Medicine"
+   },
+   {
+    "t": "Spatio-temporal expression profile of sirtuins during aging of the annual fish Nothobranchius furzeri.",
+    "y": 2019,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Utilization of a Wheat55K SNP Array for Mapping of Major QTL for Temporal Expression of the Tiller Number",
+    "y": 2018,
+    "v": "Frontiers in Plant Science"
+   },
+   {
+    "t": "Spatio-temporal expression of miRNA159 family members and their GAMYB target gene during the modulation of gibberellin-induced grapevine parthenocarpy",
+    "y": 2018,
+    "v": "Journal of Experimental Botany"
+   },
+   {
+    "t": "Temporal Expression Profiling of Plasma Proteins Reveals Oxidative Stress in Early Stages of Type 1 Diabetes Progression",
+    "y": 2017,
+    "v": "Journal of Proteomics"
+   },
+   {
+    "t": "A pattern learning-based method for temporal expression extraction and normalization from multi-lingual heterogeneous clinical texts",
+    "y": 2018,
+    "v": "BMC Medical Informatics and Decision Making"
+   },
+   {
+    "t": "The temporal expression patterns of brain transcriptome during chicken development and ageing",
+    "y": 2018,
+    "v": "BMC Genomics"
+   },
+   {
+    "t": "Heart morphogenesis gene regulatory networks revealed by temporal expression analysis",
+    "y": 2017,
+    "v": "Development"
+   },
+   {
+    "t": "Spatio-temporal expression of Sox genes in murine palatogenesis.",
+    "y": 2016,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Temporal Expression of Growth Factors Triggered by Epiregulin Regulates Inflammation Development",
+    "y": 2015,
+    "v": "Journal of Immunology"
+   },
+   {
+    "t": "Differential spatio-temporal expression of carotenoid cleavage dioxygenases regulates apocarotenoid fluxes during AM symbiosis.",
+    "y": 2015,
+    "v": "Plant Science"
+   },
+   {
+    "t": "The Homeobox Genes of Caenorhabditis elegans and Insights into Their Spatio-Temporal Expression Dynamics during Embryogenesis",
+    "y": 2015,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "Temporal expression of the staphylococcal enterotoxin D gene under NaCl stress conditions.",
+    "y": 2015,
+    "v": "FEMS Microbiology Letters"
+   },
+   {
+    "t": "Pseudo-temporal ordering of individual cells reveals dynamics and regulators of cell fate decisions",
+    "y": 2014,
+    "v": "Nature Biotechnology"
+   },
+   {
+    "t": "Laminar and Temporal Expression Dynamics of Coding and Noncoding RNAs in the Mouse Neocortex",
+    "y": 2014,
+    "v": "Cell Reports"
+   },
+   {
+    "t": "Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition",
+    "y": 2021,
+    "v": "IEEE Transactions on Affective Computing"
+   },
+   {
+    "t": "Spatial and temporal expression patterns of chitinase genes in developing zebrafish embryos.",
+    "y": 2014,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Temporal expression of wound healing-related genes in skin burn injury.",
+    "y": 2014,
+    "v": "Legal Medicine"
+   },
+   {
+    "t": "Micro-Expression Recognition Enhanced by Macro-Expression from Spatial-Temporal Domain",
+    "y": 2021,
+    "v": "International Joint Conference on Artificial Intelligence"
+   },
+   {
+    "t": "Cellular and temporal expression of NADPH oxidase (NOX) isotypes after brain injury",
+    "y": 2013,
+    "v": "Journal of Neuroinflammation"
+   },
+   {
+    "t": "Multi-Objective Based Spatio-Temporal Feature Representation Learning Robust to Expression Intensity Variations for Facial Expression Recognition",
+    "y": 2019,
+    "v": "IEEE Transactions on Affective Computing"
+   },
+   {
+    "t": "ManTIME: Temporal expression identification and normalization in the TempEval-3 challenge",
+    "y": 2013,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "Temporal Expression Program of Quorum Sensing-Based Transcription Regulation in Sinorhizobium meliloti",
+    "y": 2013,
+    "v": "Journal of Bacteriology"
+   },
+   {
+    "t": "Single cell transcriptomics reveals spatial and temporal dynamics of gene expression in the developing mouse spinal cord",
+    "y": 2018,
+    "v": "Development"
+   },
+   {
+    "t": "Spatial and temporal diversity of glycome expression in mammalian brain",
+    "y": 2020,
+    "v": "Proceedings of the National Academy of Sciences of the United States of America"
+   },
+   {
+    "t": "Spatio-temporal expression patterns of anterior Hox genes during Nile tilapia (Oreochromis niloticus) embryonic development.",
+    "y": 2013,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Genes and mechanisms related to RNA interference regulate expression of the small temporal RNAs that control C. elegans developmental timing.",
+    "y": 2001,
+    "v": "Cell"
+   },
+   {
+    "t": "GaitPart: Temporal Part-Based Model for Gait Recognition",
+    "y": 2020,
+    "v": "Computer Vision and Pattern Recognition"
+   },
+   {
+    "t": "Facial Expression Recognition Based on Deep Evolutional Spatial-Temporal Networks",
+    "y": 2017,
+    "v": "IEEE Transactions on Image Processing"
+   },
+   {
+    "t": "Minimum redundancy maximum relevance feature selection approach for temporal gene expression data",
+    "y": 2017,
+    "v": "BMC Bioinformatics"
+   },
+   {
+    "t": "A map of Toll-like receptor expression in the intestinal epithelium reveals distinct spatial, cell type-specific, and temporal patterns",
+    "y": 2018,
+    "v": "Immunity"
+   },
+   {
+    "t": "Gradual Increase of miR156 Regulates Temporal Expression Changes of Numerous Genes during Leaf Development in Rice1[C][W][OA]",
+    "y": 2012,
+    "v": "Plant Physiology"
+   },
+   {
+    "t": "Temporal expression of microRNA cluster miR-17-92 regulates effector and memory CD8+ T-cell differentiation",
+    "y": 2012,
+    "v": "Proceedings of the National Academy of Sciences of the United States of America"
+   },
+   {
+    "t": "Temporal Expression Recognition in Hindi",
+    "y": 2013,
+    "v": "International Conference on Mining Intelligence and Knowledge Exploration"
+   },
+   {
+    "t": "TIMEN: An Open Temporal Expression Normalisation Resource",
+    "y": 2012,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Gradual Increase of miR 156 Regulates Temporal Expression Changes of Numerous Genes during Leaf Development in Rice 1 [ C ] [ W ] [ OA ]",
+    "y": 2012,
+    "v": ""
+   },
+   {
+    "t": "New Insights into Roles of Cell Wall Invertase in Early Seed Development Revealed by Comprehensive Spatial and Temporal Expression Patterns of GhCWIN1 in Cotton1[W][OA]",
+    "y": 2012,
+    "v": "Plant Physiology"
+   },
+   {
+    "t": "Temporal Expression-based Analysis of Metabolism",
+    "y": 2012,
+    "v": "PLoS Comput. Biol."
+   },
+   {
+    "t": "Temporal expression of the PGE2 synthetic system in the kidney is associated with the time frame of renal developmental vulnerability to cyclooxygenase-2 inhibition.",
+    "y": 2012,
+    "v": "AJP - Renal Physiology"
+   },
+   {
+    "t": "Spatio Temporal Expression Pattern of an Insecticidal Gene (cry2A) in Transgenic Cotton Lines",
+    "y": 2012,
+    "v": ""
+   },
+   {
+    "t": "The Temporal Dynamics of Arc Expression Regulate Cognitive Flexibility",
+    "y": 2018,
+    "v": "Neuron"
+   },
+   {
+    "t": "Differential Temporal Expression of Members of the Transforming Growth Factor β Superfamily During Murine Fracture Healing",
+    "y": 2002,
+    "v": "Journal of Bone and Mineral Research"
+   },
+   {
+    "t": "Dual Temporal Scale Convolutional Neural Network for Micro-Expression Recognition",
+    "y": 2017,
+    "v": "Frontiers in Psychology"
+   },
+   {
+    "t": "Spatio-temporal convolutional features with nested LSTM for facial expression recognition",
+    "y": 2018,
+    "v": "Neurocomputing"
+   },
+   {
+    "t": "Aging hallmarks exhibit organ-specific temporal signatures",
+    "y": 2020,
+    "v": "Nature"
+   },
+   {
+    "t": "Steroid hormone induction of temporal gene expression in Drosophila brain neuroblasts generates neuronal and glial diversity",
+    "y": 2017,
+    "v": "bioRxiv"
+   }
+  ],
+  "intent hindi": [
+   {
+    "t": "Unlocking Linguistic Diversity: Intent Classification of Hindi Language with Translated and Transliterated ATIS Dataset",
+    "y": 2024,
+    "v": "2024 5th International Conference on Innovative Trends in Information Technology (ICITIIT)"
+   },
+   {
+    "t": "Automated Identification of Negative Intent In Hindi Social Media Posts Using NLP Techniques",
+    "y": 2026,
+    "v": "Journal of Intelligent Decision Making and Information Science"
+   },
+   {
+    "t": "Identification of Negative Intent in Hindi Social Media Posts Using NLP Techniques",
+    "y": 2026,
+    "v": "2026 International Conference on Networks Computers and Communications (ICNCCom)"
+   },
+   {
+    "t": "End-to-End Speech to Intent Prediction to improve E-commerce Customer Support Voicebot in Hindi and English",
+    "y": 2022,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "A Multi-modal Approach to Mining Intent from Code-Mixed Hindi-English Calls in the Hyperlocal-Delivery Domain",
+    "y": 2022,
+    "v": "International Conference on Speech and Computer"
+   },
+   {
+    "t": "Comparative Analysis of Embedding Models for Hindi-English Code-Mixed University related queries",
+    "y": 2025,
+    "v": "The Voice of Creative Research"
+   },
+   {
+    "t": "Understanding User Intent in Code-Mixed Sexual and Reproductive Health Queries in Urban India: Hierarchical Classification Approach Using Large Language Models",
+    "y": 2025,
+    "v": "Journal of Medical Internet Research"
+   },
+   {
+    "t": "FILMS AND YOUTH: A STUDY TO UNDERSTAND THE IMPACT OF CONTEMPORARY MYTHOLOGICAL HINDI FILMS",
+    "y": 2024,
+    "v": "ShodhKosh Journal of Visual and Performing Arts"
+   },
+   {
+    "t": "Intent Identification and Entity Extraction for Healthcare Queries in Indic Languages",
+    "y": 2023,
+    "v": "Findings"
+   },
+   {
+    "t": "Detection of Misogyny in Hindi Code-Mixed Texts by BiGRU with Bahdanau Attention using ByT5 Embeddings",
+    "y": 2026,
+    "v": "Journal of Communications Software and Systems"
+   },
+   {
+    "t": "Navigating Linguistic Landscapes: Semantic Components and Diverse Forms of Address and Reference in Bua Fiji Hindi",
+    "y": 2026,
+    "v": "SAGE Open"
+   },
+   {
+    "t": "Validation of Hindi and English ironic sentences for bilingual comprehension research",
+    "y": 2026,
+    "v": "Journal of Psycholinguistic Research"
+   },
+   {
+    "t": "Multilingual Healthcare Intent Classification for Indian Languages",
+    "y": 2026,
+    "v": "2026 International Conference on Advancements in Smart, Secure and Intelligent Computing (ASSIC)"
+   },
+   {
+    "t": "Intent Recognition on Low-Resource Language Messages in a Health Marketplace Chatbot",
+    "y": 2023,
+    "v": "IEEE International Conference on Healthcare Informatics"
+   },
+   {
+    "t": "Multiclass Context Analysis of Hindi Statements Using Natural Language Processing",
+    "y": 2023,
+    "v": "2023 International Conference on Ambient Intelligence, Knowledge Informatics and Industrial Electronics (AIKIIE)"
+   },
+   {
+    "t": "Trilingual conversational intent decoding for response retrieval",
+    "y": 2023,
+    "v": "Knowledge and Information Systems"
+   },
+   {
+    "t": "Customer Support Chat Intent Classification using Weak Supervision and Data Augmentation",
+    "y": 2022,
+    "v": "COMAD/CODS"
+   },
+   {
+    "t": "Intent Detection and Slot Filling with Capsule Net Architectures for a Romanian Home Assistant",
+    "y": 2021,
+    "v": "Italian National Conference on Sensors"
+   },
+   {
+    "t": "Sentiment Analysis for Twitter Data in the Hindi Language",
+    "y": 2021,
+    "v": "Confluence"
+   },
+   {
+    "t": "Intent Classification from Code Mixed Input for Virtual Assistants",
+    "y": 2021,
+    "v": "International Computer Science Conference"
+   },
+   {
+    "t": "Political Communication and Mobilisation: The Hindi Media in India.",
+    "y": 2020,
+    "v": "Pacific Affairs"
+   },
+   {
+    "t": "Lifetime suicide intent, executive function and insight in schizophrenia and schizoaffective disorders",
+    "y": 2016,
+    "v": "Schizophrenia Research"
+   },
+   {
+    "t": "Multi-Lingual Attention based Multi-Intent Detection in Dialogue System",
+    "y": 2019,
+    "v": "Australian Journal of Intelligent Information Processing Systems"
+   },
+   {
+    "t": "Voice stress analysis for Punjabi and Hindi database: Detection of deception",
+    "y": 2018,
+    "v": ""
+   },
+   {
+    "t": "Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models",
+    "y": 2026,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Attributional Safety Failures in Large Language Models under Code-Mixed Perturbations",
+    "y": 2025,
+    "v": "Trans. Mach. Learn. Res."
+   },
+   {
+    "t": "Enhancing Customer Experience in E-Commerce with NLP-Driven Chatbots and Virtual Assistants",
+    "y": 2025,
+    "v": "2025 5th International Conference on Soft Computing for Security Applications (ICSCSA)"
+   },
+   {
+    "t": "Indian Grammatical Tradition-Inspired Universal Semantic Representation Bank (USR Bank 1.0)",
+    "y": 2025,
+    "v": "Bhasha"
+   },
+   {
+    "t": "Lost in Translation? A Comparative Study on the Cross-Lingual Transfer of Composite Harms",
+    "y": 2026,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Advanced Multilingual Chatbot for Indian Language Support",
+    "y": 2026,
+    "v": "Indian Journal of Computer Science and Technology"
+   },
+   {
+    "t": "Enhancement of Non-English Dialogue Systems via Artificial Data Synthesis",
+    "y": 2026,
+    "v": "2026 5th International Conference on Sentiment Analysis and Deep Learning (ICSADL)"
+   },
+   {
+    "t": "An Emergency Communication Framework for Indian Sign Language Machine Translation",
+    "y": 2026,
+    "v": "International Journal of Scientific Research in Computer Science Engineering and Information Technology"
+   },
+   {
+    "t": "Enhancing Non-English Conversational Agents Using Synthetic Data Generation",
+    "y": 2025,
+    "v": "IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies"
+   },
+   {
+    "t": "Towards a Unified AI Companion: Integrating Speech Recognition, NLP, and Automation for Personalized Health and Productivity",
+    "y": 2025,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Illegal Migration: the film Dunki through Dependency Theory",
+    "y": 2025,
+    "v": "විදුදය Vidudaya – Journal of Language, Literary, Cultural and Media Studies"
+   },
+   {
+    "t": "Cognitive Fusion of Dharma and Data: Designing a Conversational AI Inspired by the Bhagavad Gita and Ancient Indian Thought",
+    "y": 2025,
+    "v": "2025 IEEE 3rd Global Conference on Wireless Computing and Networking (GCWCN)"
+   },
+   {
+    "t": "An Intelligent Voice-Enabled AI Chatbot for Symptom Detection and Early Health Assessment",
+    "y": 2025,
+    "v": "2025 3rd DMIHER International Conference on Artificial Intelligence in Healthcare, Education and Industry (IDICAIHEI)"
+   },
+   {
+    "t": "Normalization-Centric Modelling for Semantic Understanding of Hinglish Queries Using Hybrid ML",
+    "y": 2026,
+    "v": "2026 International Conference on Computational Intelligence Systems and Devices (ICCISD)"
+   },
+   {
+    "t": "Speak Beyond English: Multilingual Prompts Improve Query Classification in Small Language Models",
+    "y": 2026,
+    "v": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval"
+   },
+   {
+    "t": "Multilingual Legal Assistant",
+    "y": 2026,
+    "v": "International Research Journal on Advanced Engineering Hub (IRJAEH)"
+   },
+   {
+    "t": "BargainBot: AI-Driven Price Negotiation Chatbot for E-Commerce",
+    "y": 2026,
+    "v": "International Journal of Innovative Science and Research Technology"
+   },
+   {
+    "t": "VoiceSetu: A Multilingual AI Voice Assistant for Accessing Maharashtra Government Welfare Schemes",
+    "y": 2026,
+    "v": "International Workshop on Artificial Intelligence and Cognition"
+   },
+   {
+    "t": "Automation in Healthcare: AI-Powered Multilingual Calling Support System Using Large Language Models and Retrieval Augmented Generation",
+    "y": 2026,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "AI-Driven Multilingual NLP-Based Public Health Chatbot for Disease Awareness and Preventive Healthcare in Rural India",
+    "y": 2026,
+    "v": "International Conference Intelligent Data Communication Technologies and Internet Things"
+   },
+   {
+    "t": "Token-Free Modeling for Hinglish NLP: A Noise-Robust Benchmark using Byte and Character-Level Models",
+    "y": 2026,
+    "v": "2026 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)"
+   },
+   {
+    "t": "AI Based Voice Command Assistant Using Python",
+    "y": 2026,
+    "v": "International Journal of Advanced Research in Science, Communication and Technology"
+   },
+   {
+    "t": "Negotiating Margins",
+    "y": 2026,
+    "v": "The International Journal of Communication and Linguistic Studies"
+   },
+   {
+    "t": "Computational Approaches for Emotion, Depression, and Suicidal Detection in Hinglish Text",
+    "y": 2026,
+    "v": "Impact"
+   },
+   {
+    "t": "Multi-Signal Ranking for Unified Framework for Cross-Platform Product Recommendation",
+    "y": 2026,
+    "v": "2026 6th International Conference on Circuits, Control, Communication and Computing (I4C)"
+   },
+   {
+    "t": "PhishGuardAI: Advanced Multilingual Phishing Email Detection Using Deep Learning and NLP",
+    "y": 2026,
+    "v": "2026 1st International Conference on Innovation & Growth in Next-Gen Intelligent Technology & Engineering (IGNITE)"
+   }
+  ],
+  "hinglish date time": {
+   "error": "HTTP Error 429: "
+  },
+  "hinglish reminder": [
+   {
+    "t": "Social, economic, and demographic factors drive the emergence of Hinglish code-mixing on social media",
+    "y": 2024,
+    "v": "Humanities and Social Sciences Communications"
+   },
+   {
+    "t": "Multimodal Hinglish Tweet Dataset for Deep Pragmatic Analysis",
+    "y": 2024,
+    "v": "International Conference on Data Technologies and Applications"
+   },
+   {
+    "t": "Multimodal sentiment analysis of english and hinglish memes",
+    "y": 2024,
+    "v": "Multimedia tools and applications"
+   },
+   {
+    "t": "Hate speech recognition in multilingual text: hinglish documents",
+    "y": 2023,
+    "v": "International journal of information technology"
+   },
+   {
+    "t": "IOT Based Pill Reminder and Monitoring System",
+    "y": 2024,
+    "v": "International Journal for Research in Applied Science and Engineering Technology"
+   },
+   {
+    "t": "Overview of the CLEF 2026 JOKER Task 1: Humor-Aware Information Retrieval in English and Hinglish",
+    "y": 2026,
+    "v": "Conference and Labs of the Evaluation Forum"
+   },
+   {
+    "t": "Emoji, Sentiment and Emotion Aided Cyberbullying Detection in Hinglish",
+    "y": 2023,
+    "v": "IEEE Transactions on Computational Social Systems"
+   },
+   {
+    "t": "MUTANT: A Multi-sentential Code-mixed Hinglish Dataset",
+    "y": 2023,
+    "v": "Findings"
+   },
+   {
+    "t": "Systematic review and meta-analysis comparing educational and reminder digital interventions for promoting HPV vaccination uptake",
+    "y": 2023,
+    "v": "npj Digit. Medicine"
+   },
+   {
+    "t": "Multitasking of sentiment detection and emotion recognition in code-mixed Hinglish data",
+    "y": 2022,
+    "v": "Knowledge-Based Systems"
+   },
+   {
+    "t": "HinGE: A Dataset for Generation and Evaluation of Code-Mixed Hinglish Text",
+    "y": 2021,
+    "v": "EVAL4NLP"
+   },
+   {
+    "t": "Fighting hate speech from bilingual hinglish speaker’s perspective, a transformer- and translation-based approach.",
+    "y": 2022,
+    "v": "Social Network Analysis and Mining"
+   },
+   {
+    "t": "Code-Mixed Hinglish to English Language Translation Framework",
+    "y": 2022,
+    "v": "2022 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)"
+   },
+   {
+    "t": "A self-attention hybrid emoji prediction model for code-mixed language: (Hinglish)",
+    "y": 2022,
+    "v": "Social Network Analysis and Mining"
+   },
+   {
+    "t": "Exploring Text-to-Text Transformers for English to Hinglish Machine Translation with Synthetic Code-Mixing",
+    "y": 2021,
+    "v": "CALCS"
+   },
+   {
+    "t": "Gui at MixMT 2022 : English-Hinglish : An MT Approach for Translation of Code Mixed Data",
+    "y": 2022,
+    "v": "Conference on Machine Translation"
+   },
+   {
+    "t": "Emotion Detection in Hinglish(Hindi+English) Code-Mixed Social Media Text",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation",
+    "y": 2020,
+    "v": "WNUT"
+   },
+   {
+    "t": "IITP-MT at CALCS2021: English to Hinglish Neural Machine Translation using Unsupervised Synthetic Code-Mixed Parallel Corpus",
+    "y": 2021,
+    "v": "CALCS"
+   },
+   {
+    "t": "Sentiment Analysis of Code-Mixed Social Media Text (Hinglish)",
+    "y": 2021,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Quality Evaluation of the Low-Resource Synthetically Generated Code-Mixed Hinglish Text",
+    "y": 2021,
+    "v": "International Conference on Natural Language Generation"
+   },
+   {
+    "t": "Did you offend me? Classification of Offensive Tweets in Hinglish Language",
+    "y": 2018,
+    "v": "Workshop on Abusive Language Online"
+   },
+   {
+    "t": "Hate or Non-hate: Translation based hate speech identification in Code-Mixed Hinglish data set",
+    "y": 2021,
+    "v": "2021 IEEE International Conference on Big Data (Big Data)"
+   },
+   {
+    "t": "Does aggression lead to hate? Detecting and reasoning offensive traits in hinglish code-mixed texts",
+    "y": 2021,
+    "v": "Neurocomputing"
+   },
+   {
+    "t": "Role of Artificial Intelligence in Detection of Hateful Speech for Hinglish Data on Social Media",
+    "y": 2021,
+    "v": "Lecture Notes in Electrical Engineering"
+   },
+   {
+    "t": "Sentiment Analysis for Hinglish Code-mixed Tweets by means of Cross-lingual Word Embeddings",
+    "y": 2020,
+    "v": "CALCS"
+   },
+   {
+    "t": "Ensemble Based Hinglish Hate Speech Detection",
+    "y": 2021,
+    "v": "International Conference Intelligent Computing and Control Systems"
+   },
+   {
+    "t": "Hinglish to English Machine Translation using Multilingual Transformers",
+    "y": 2021,
+    "v": "Recent Advances in Natural Language Processing"
+   },
+   {
+    "t": "Cooking Well, With Love, Is an Art: Transformers on Youtube Hinglish Data",
+    "y": 2021,
+    "v": "2021 International Conference on Computational Performance Evaluation (ComPE)"
+   },
+   {
+    "t": "Patient reminder and recall interventions to improve immunization rates.",
+    "y": 2018,
+    "v": "Cochrane Database of Systematic Reviews"
+   },
+   {
+    "t": "Cooking Is Creating Emotion: A Study on Hinglish Sentiments of Youtube Cookery Channels Using Semi-Supervised Approach",
+    "y": 2019,
+    "v": "Big Data and Cognitive Computing"
+   },
+   {
+    "t": "NITS-Hinglish-SentiMix at SemEval-2020 Task 9: Sentiment Analysis for Code-Mixed Social Media Text Using an Ensemble Model",
+    "y": 2020,
+    "v": "International Workshop on Semantic Evaluation"
+   },
+   {
+    "t": "A meaningful reminder on sustainability: When explicit and implicit packaging cues meet",
+    "y": 2021,
+    "v": "Journal of Environmental Psychology"
+   },
+   {
+    "t": "Covid-19 - A Reminder to Reason.",
+    "y": 2020,
+    "v": "New England Journal of Medicine"
+   },
+   {
+    "t": "IITG-HingCoS corpus: A Hinglish code-switching database for automatic speech recognition",
+    "y": 2019,
+    "v": "Speech Communication"
+   },
+   {
+    "t": "Effect of a Smart Pill Bottle Reminder Intervention on Medication Adherence, Self-efficacy, and Depression in Breast Cancer Survivors",
+    "y": 2021,
+    "v": "Cancer Nursing"
+   },
+   {
+    "t": "Effect of a phone reminder system on patient-centered tuberculosis treatment adherence among adults in Northwest Ethiopia: a randomised controlled trial",
+    "y": 2021,
+    "v": "BMJ Health & Care Informatics"
+   },
+   {
+    "t": "The impact of translated reminder letters and phone calls on mammography screening booking rates: Two randomised controlled trials",
+    "y": 2020,
+    "v": "PLoS ONE"
+   },
+   {
+    "t": "MindMate: A single case experimental design study of a reminder system for people with dementia",
+    "y": 2021,
+    "v": "Neuropsychological Rehabilitation"
+   },
+   {
+    "t": "Remind Me To Remember: A pilot study of a novel smartphone reminder application for older adults with dementia and mild cognitive impairment",
+    "y": 2020,
+    "v": "Neuropsychological Rehabilitation"
+   },
+   {
+    "t": "The Contribution of Reminder-Recall to Vaccine Delivery Efforts: A Narrative Review.",
+    "y": 2021,
+    "v": "Academic pediatrics"
+   },
+   {
+    "t": "EVOLUTIONARY DEVELOPMENT OF 'HINGLISH' LANGUAGE WITHIN THE INDIAN SUB-CONTINENT",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "Detection of Hate Speech in Hinglish Language",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "Patient reminder and recall interventions to improve immunization rates: A Cochrane review summary.",
+    "y": 2019,
+    "v": "International Journal of Nursing Studies"
+   },
+   {
+    "t": "Visuospatial computer game play after memory reminder delivered three days after a traumatic film reduces the number of intrusive memories of the experimental trauma.",
+    "y": 2020,
+    "v": "Journal of Behavior Therapy and Experimental Psychiatry"
+   },
+   {
+    "t": "Annotated corpus creation for sentiment analysis in code-mixed Hindi-English (Hinglish) social network data",
+    "y": 2020,
+    "v": ""
+   },
+   {
+    "t": "Language Identification and Named Entity Recognition in Hinglish Code Mixed Tweets",
+    "y": 2018,
+    "v": "Annual Meeting of the Association for Computational Linguistics"
+   },
+   {
+    "t": "Age differences in strategic reminder setting and the compensatory role of metacognition.",
+    "y": 2020,
+    "v": "Psychology and Aging"
+   },
+   {
+    "t": "Effect of Reminder Devices on Medication Adherence: The REMIND Randomized Clinical Trial",
+    "y": 2017,
+    "v": "JAMA Internal Medicine"
+   },
+   {
+    "t": "Improving medication adherence with adjuvant aromatase inhibitor in women with breast cancer: A randomised controlled trial to evaluate the effect of short message service (SMS) reminder",
+    "y": 2020,
+    "v": "Breast"
+   }
+  ],
+  "code-switched task oriented parsing": {
+   "error": "HTTP Error 429: "
+  },
+  "hindi temporal expression": [
+   {
+    "t": "Detection and Normalisation of the Temporal Expression in Hindi Text",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "Approaches to Temporal Expression Recognition in Hindi",
+    "y": 2015,
+    "v": "ACM Trans. Asian Low Resour. Lang. Inf. Process."
+   },
+   {
+    "t": "Temporal Expression Recognition in Hindi",
+    "y": 2013,
+    "v": "International Conference on Mining Intelligence and Knowledge Exploration"
+   },
+   {
+    "t": "Detection and normalisation of Temporal Expressions in Hindi language",
+    "y": 2017,
+    "v": ""
+   },
+   {
+    "t": "Hindi Popular Cinema – Reading of the Representative Register of India’s Pre-liberalization Social History and Its Prevalent Discourse Since Post-independence Period",
+    "y": 2024,
+    "v": "International Journal For Multidisciplinary Research"
+   },
+   {
+    "t": "Anubhav: recognizing emotions through facial expression",
+    "y": 2016,
+    "v": "The Visual Computer"
+   },
+   {
+    "t": "Hindi Popular Cinema: Reading of the Representative Register of India’s Pre-Liberalization Social History and its Prevalent Discourse since Post-Independence Period",
+    "y": null,
+    "v": ""
+   },
+   {
+    "t": "Semantics and Experience: Universal Metaphors of Time in English, Mandarin, Hindi, and Sesotho",
+    "y": 1997,
+    "v": ""
+   },
+   {
+    "t": "Bhakti versus rīti? The Sants’ perspective",
+    "y": 2021,
+    "v": "Bulletin of the School of Oriental and African Studies"
+   },
+   {
+    "t": "Temporal expression classes and functions of vaccinia virus and mpox (monkeypox) virus genes",
+    "y": 2025,
+    "v": "mBio"
+   },
+   {
+    "t": "Spatial and temporal expression analysis of BMP signal modifiers, Smoc1 and Smoc2, from postnatal to adult developmental stages in the mouse testis.",
+    "y": 2024,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal Expression Extraction",
+    "y": 2022,
+    "v": "NAACL-HLT"
+   },
+   {
+    "t": "Thermophilic archaeon orchestrates temporal expression of GDGT ring synthases in response to temperature and acidity stress.",
+    "y": 2022,
+    "v": "Environmental Microbiology"
+   },
+   {
+    "t": "Full Title: miR-302 family, miR-145 and miR-296 temporal expression profile along the cell cycle of human pluripotent stem cells.",
+    "y": 2021,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Connexinplexity: the spatial and temporal expression of connexin genes during vertebrate organogenesis",
+    "y": 2021,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "Spatio-temporal expression profile of NGF and the two-receptor system, TrkA and p75NTR, in experimental autoimmune encephalomyelitis",
+    "y": 2020,
+    "v": "Journal of Neuroinflammation"
+   },
+   {
+    "t": "Conservation of the sequence and temporal expression of let-7 heterochronic regulatory RNA",
+    "y": 2000,
+    "v": "Nature"
+   },
+   {
+    "t": "SynGAP splice variants display heterogeneous spatio‐temporal expression and subcellular distribution in the developing mammalian brain",
+    "y": 2019,
+    "v": "bioRxiv"
+   },
+   {
+    "t": "VvmiR160s/VvARFs interaction and their spatio-temporal expression/cleavage products during GA-induced grape parthenocarpy",
+    "y": 2019,
+    "v": "BMC Plant Biology"
+   },
+   {
+    "t": "Temporal expression patterns of distinct cytokines and M1/M2 macrophage polarization regulate rheumatoid arthritis progression",
+    "y": 2020,
+    "v": "Molecular Biology Reports"
+   },
+   {
+    "t": "Temporal Expression Classification and Normalization From Chinese Narrative Clinical Texts: Pattern Learning Approach",
+    "y": 2020,
+    "v": "JMIR Medical Informatics"
+   },
+   {
+    "t": "Temporal Expression of Apelin/Apelin Receptor in Ischemic Stroke and its Therapeutic Potential",
+    "y": 2017,
+    "v": "Frontiers in Molecular Neuroscience"
+   },
+   {
+    "t": "Temporal expression and functional analysis of long non‐coding RNAs in colorectal cancer initiation",
+    "y": 2019,
+    "v": "Journal of Cellular and Molecular Medicine"
+   },
+   {
+    "t": "Spatio-temporal expression profile of sirtuins during aging of the annual fish Nothobranchius furzeri.",
+    "y": 2019,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Utilization of a Wheat55K SNP Array for Mapping of Major QTL for Temporal Expression of the Tiller Number",
+    "y": 2018,
+    "v": "Frontiers in Plant Science"
+   },
+   {
+    "t": "Spatio-temporal expression of miRNA159 family members and their GAMYB target gene during the modulation of gibberellin-induced grapevine parthenocarpy",
+    "y": 2018,
+    "v": "Journal of Experimental Botany"
+   },
+   {
+    "t": "Temporal Expression Profiling of Plasma Proteins Reveals Oxidative Stress in Early Stages of Type 1 Diabetes Progression",
+    "y": 2017,
+    "v": "Journal of Proteomics"
+   },
+   {
+    "t": "Temporal Expression Dynamics of Plant Biomass-Degrading Enzymes by a Synthetic Bacterial Consortium Growing on Sugarcane Bagasse",
+    "y": 2018,
+    "v": "Frontiers in Microbiology"
+   },
+   {
+    "t": "A pattern learning-based method for temporal expression extraction and normalization from multi-lingual heterogeneous clinical texts",
+    "y": 2018,
+    "v": "BMC Medical Informatics and Decision Making"
+   },
+   {
+    "t": "The temporal expression patterns of brain transcriptome during chicken development and ageing",
+    "y": 2018,
+    "v": "BMC Genomics"
+   },
+   {
+    "t": "Transcriptomic insights into temporal expression pattern of autophagy genes during monocytic and granulocytic differentiation",
+    "y": 2018,
+    "v": "Autophagy"
+   },
+   {
+    "t": "Spatio-temporal expression profile of matrix metalloproteinase (Mmp) modulators Reck and Sparc during the rat ovarian dynamics",
+    "y": 2018,
+    "v": "Reproductive Biology and Endocrinology"
+   },
+   {
+    "t": "Heart morphogenesis gene regulatory networks revealed by temporal expression analysis",
+    "y": 2017,
+    "v": "Development"
+   },
+   {
+    "t": "Spatio-temporal expression patterns of Wnt signaling pathway during the development of temporomandibular condylar cartilage.",
+    "y": 2017,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Arabic Temporal Expression Tagging and Normalization",
+    "y": 2018,
+    "v": "International Conference on Big Data Cloud and Applications"
+   },
+   {
+    "t": "Identification and temporal expression of putative circadian clock transcripts in the amphipod crustacean Talitrus saltator",
+    "y": 2016,
+    "v": "PeerJ"
+   },
+   {
+    "t": "Spatio-temporal expression of Sox genes in murine palatogenesis.",
+    "y": 2016,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Understanding Sarcastic Metaphorical Expression in Hindi through Conceptual Integration Theory",
+    "y": 2019,
+    "v": "Acta Linguistica Asiatica"
+   },
+   {
+    "t": "Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?",
+    "y": 2016,
+    "v": "Conference on Empirical Methods in Natural Language Processing"
+   },
+   {
+    "t": "Breaking the Silence Detecting and Mitigating Gendered Abuse in Hindi, Tamil, and Indian English Online Spaces",
+    "y": 2024,
+    "v": "arXiv.org"
+   },
+   {
+    "t": "Temporal Expression of Growth Factors Triggered by Epiregulin Regulates Inflammation Development",
+    "y": 2015,
+    "v": "Journal of Immunology"
+   },
+   {
+    "t": "Differential spatio-temporal expression of carotenoid cleavage dioxygenases regulates apocarotenoid fluxes during AM symbiosis.",
+    "y": 2015,
+    "v": "Plant Science"
+   },
+   {
+    "t": "Temporal expression of the staphylococcal enterotoxin D gene under NaCl stress conditions.",
+    "y": 2015,
+    "v": "FEMS Microbiology Letters"
+   },
+   {
+    "t": "Building Tempo-HindiWordNet: A resource for effective temporal information access in Hindi",
+    "y": 2016,
+    "v": "International Conference on Language Resources and Evaluation"
+   },
+   {
+    "t": "Temporal expression extraction with extensive feature type selection and a posteriori label adjustment",
+    "y": 2015,
+    "v": "Data & Knowledge Engineering"
+   },
+   {
+    "t": "Spatial and temporal expression of zebrafish glutathione peroxidase 4 a and b genes during early embryo development.",
+    "y": 2015,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Laminar and Temporal Expression Dynamics of Coding and Noncoding RNAs in the Mouse Neocortex",
+    "y": 2014,
+    "v": "Cell Reports"
+   },
+   {
+    "t": "Spatial and temporal expression patterns of chitinase genes in developing zebrafish embryos.",
+    "y": 2014,
+    "v": "Gene Expression Patterns"
+   },
+   {
+    "t": "Reproductive Biology and Endocrinology Spatio-temporal Expression of Mmp-2, Mmp-9 and Tissue Kallikrein in Uteroplacental Units of the Pregnant Guinea-pig (cavia Porcellus)",
+    "y": null,
+    "v": ""
+   },
+   {
+    "t": "Temporal expression of wound healing-related genes in skin burn injury.",
+    "y": 2014,
+    "v": "Legal Medicine"
+   }
+  ],
+  "timex hindi": {
+   "error": "HTTP Error 429: "
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "date": "2026-11-10",
+ "rerun_of": "search_2026-11-01.json",
+ "queries": [
+  "hinglish",
+  "code mixed hindi",
+  "whatsapp hindi",
+  "hinglish date time",
+  "code-switched task oriented parsing",
+  "timex hindi"
+ ],
+ "literature": {
+  "hinglish": {
+   "error": "HTTP Error 429: "
+  },
+  "code mixed hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "whatsapp hindi": {
+   "error": "HTTP Error 429: "
+  },
+  "hinglish date time": {
+   "error": "HTTP Error 429: "
+  },
+  "code-switched task oriented parsing": {
+   "error": "HTTP Error 429: "
+  },
+  "timex hindi": {
+   "error": "HTTP Error 429: "
+  }
+ }
+}

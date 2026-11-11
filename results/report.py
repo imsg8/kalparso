@@ -36,7 +36,8 @@ def regrounded(path):
     return out
 
 
-systems = {}  # name -> list of pred dicts (one per seed)
+systems = {}  # name -> list of pred dicts (one per seed, seed 13 first)
+seed13_first = lambda paths: sorted(paths, key=lambda p: ("_s13." not in p, p))
 meta = {}
 add = lambda name, preds, **m: (systems.setdefault(name, []).append(preds), meta.setdefault(name, m))
 
@@ -47,7 +48,7 @@ for m in ENC:
     for suf, label in [("_fp32", "v1 data, v1 grounder"), ("_fp32_g2", "v1 data, v2 grounder")]:
         p = f"{R}/human/A_{m}{suf}.jsonl"
         if os.path.exists(p): add(f"{m} ({label})", load(p), kind="ours_v1", params=ENC[m])
-    for p in sorted(glob.glob(f"{R}/kaggle_train_v3/A2_{m}_v3_phinc_s*.test_human.jsonl")):
+    for p in seed13_first(glob.glob(f"{R}/kaggle_train_v3/A2_{m}_v3_phinc_s*.test_human.jsonl")):
         add(f"KalParso-{m}", load(p), kind="ours", params=ENC[m])
         rd = {k: {**v, **v["rulesdir"]} for k, v in load(p).items() if "rulesdir" in v}
         add(f"KalParso-{m} (rule tense)", rd, kind="ours_ablate", params=ENC[m])
@@ -56,9 +57,9 @@ for m in ENC:
             add(f"{m} ({label})", load(p), kind="ours_ablate", params=ENC[m])
 if os.path.exists(f"{R}/kaggle_routeb_v3/routeB3_qwen06_ir.test_human.jsonl"):
     add("Qwen3-0.6B + LoRA, writes spans (v3)", load(f"{R}/kaggle_routeb_v3/routeB3_qwen06_ir.test_human.jsonl"), kind="routeB", params=0.6)
-for p in sorted(glob.glob(f"{R}/v2/cascade_muril_gemma4_s*.test_human.jsonl")):
+for p in seed13_first(glob.glob(f"{R}/v2/cascade_muril_gemma4_s*.test_human.jsonl")):
     add("Cascade: KalParso-muril, gemma4:26b on rules disagreement", load(p), kind="cascade", params=0.237)
-for p in sorted(glob.glob(f"{R}/v2/cascade_muril_gemma4few2_s*.test_human.jsonl")):
+for p in seed13_first(glob.glob(f"{R}/v2/cascade_muril_gemma4few2_s*.test_human.jsonl")):
     add("Cascade: KalParso-muril, gemma4:26b (few2) on rules disagreement", load(p), kind="cascade", params=0.237)
 for p in sorted(glob.glob(f"{R}/llm/*.test_human.jsonl")):
     base = os.path.basename(p)[:-len(".test_human.jsonl")]
